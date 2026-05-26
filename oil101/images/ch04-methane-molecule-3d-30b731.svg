@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 10.0, SVG Export Plug-In . SVG Version: 3.0.0 Build 76)  -->
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.0//EN'  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd' [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" height="1100" width="1009" enable-background="new 0 0 1009 1100" overflow="visible" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1009 1100">
+	<switch>
+		<foreignObject y="0" x="0" height="1" width="1" requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
+		</foreignObject>
+		<g>
+			<g id="Layer_1">
+					<radialGradient id="XMLID_1_" gradientUnits="userSpaceOnUse" cy="379.98" cx="584.97" r="424.33">
+					<stop stop-color="#fff" offset="0"/>
+					<stop stop-color="#F4F4F4" offset=".25"/>
+					<stop stop-color="#B6B6B6" offset=".5"/>
+					<stop stop-color="#8F8F8F" offset=".7"/>
+					<stop stop-color="#797979" offset=".8"/>
+					<stop stop-color="#636363" offset=".9"/>
+					<stop stop-color="#505050" offset="1"/>
+				</radialGradient>
+				<path fill="url(#XMLID_1_)" d="m958.34 581.37c0-142.21-115.29-257.5-257.5-257.5s-257.5 115.29-257.5 257.5c0 142.21 115.29 257.5 257.5 257.5s257.5-115.29 257.5-257.5z"/>
+					<radialGradient id="XMLID_2_" gradientUnits="userSpaceOnUse" cy="466.98" cx="136.49" r="365.48">
+					<stop stop-color="#fff" offset="0"/>
+					<stop stop-color="#F4F4F4" offset=".25"/>
+					<stop stop-color="#B6B6B6" offset=".5"/>
+					<stop stop-color="#8F8F8F" offset=".7"/>
+					<stop stop-color="#797979" offset=".8"/>
+					<stop stop-color="#636363" offset=".9"/>
+					<stop stop-color="#505050" offset="1"/>
+				</radialGradient>
+				<path fill="url(#XMLID_2_)" d="m566.34 623.37c0-142.21-115.29-257.5-257.5-257.5s-257.5 115.29-257.5 257.5c0 142.21 115.29 257.5 257.5 257.5s257.5-115.29 257.5-257.5z"/>
+				<path fill="none" d="m1009 1100h-1009v-1100h1009v1100z"/>
+					<radialGradient id="XMLID_3_" gradientUnits="userSpaceOnUse" cy="541.75" cx="755.95" gradientTransform="matrix(1.0269 -.7887 -.7696 -1.042 17.142 1594.7)" r="355.27">
+					<stop stop-color="#454545" offset="0"/>
+					<stop stop-color="#2D2D2D" offset=".25"/>
+					<stop stop-color="#232323" offset=".5"/>
+					<stop stop-color="#1B1B1B" offset=".7"/>
+					<stop stop-color="#151515" offset=".85"/>
+					<stop stop-color="#0F0F0F" offset="1"/>
+				</radialGradient>
+				<path fill="url(#XMLID_3_)" d="m829.98 354.98c123.91 169.37 92.371 405.69-70.434 527.83-162.81 122.15-395.23 83.861-519.14-85.508s-92.371-405.69 70.435-527.83c162.81-122.15 395.24-83.86 519.14 85.51z"/>
+					<radialGradient id="XMLID_4_" gradientUnits="userSpaceOnUse" cy="607.97" cx="422.98" r="403.83">
+					<stop stop-color="#fff" offset="0"/>
+					<stop stop-color="#F4F4F4" offset=".25"/>
+					<stop stop-color="#B6B6B6" offset=".5"/>
+					<stop stop-color="#8F8F8F" offset=".7"/>
+					<stop stop-color="#797979" offset=".8"/>
+					<stop stop-color="#636363" offset=".9"/>
+					<stop stop-color="#505050" offset="1"/>
+				</radialGradient>
+				<path fill="url(#XMLID_4_)" d="m319.23 834.39c-5.158-21.33-4.842-43.14 1.108-65.021 15.5-57 49.439-88.117 81.973-117.03 41.027-36.466 116.53-74.466 206.53-85.966 42.236-5.397 201.53-9.481 244.34 91.732 14.271 33.738 22.161 70.831 22.161 109.77 0 155.74-126.26 282-282 282-132.83 0-244.21-91.86-274.11-215.51z"/>
+					<radialGradient id="XMLID_5_" gradientUnits="userSpaceOnUse" cy="147.49" cx="352.48" r="386.52">
+					<stop stop-color="#fff" offset="0"/>
+					<stop stop-color="#F4F4F4" offset=".25"/>
+					<stop stop-color="#B6B6B6" offset=".5"/>
+					<stop stop-color="#8F8F8F" offset=".7"/>
+					<stop stop-color="#797979" offset=".8"/>
+					<stop stop-color="#636363" offset=".9"/>
+					<stop stop-color="#505050" offset="1"/>
+				</radialGradient>
+				<path fill="url(#XMLID_5_)" d="m734.73 397c26.578-11.227 65.61-38.798 66.261-54.181 0.229-5.433 0.975-10.378 0.967-15.837-0.25-151.59-123.9-274.48-275.49-274.48-151.6 0-274.49 122.89-274.49 274.49 0 6.971 1.064 17.199 1.515 23.328 2.174 29.559 81.128 60.676 94.925 64.509 51.061 14.186 94.645 20.399 179.92 20.05 81.33-0.34 157.07-17.04 206.39-37.88z"/>
+			</g>
+		</g>
+	</switch>
+</svg>

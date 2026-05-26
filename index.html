@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chanma Invest - Energy & Markets Reading Portal</title>
+  <meta name="description" content="A curated portal of investment-related reading materials, core books, and papers for Energy, Oil, and Natural Gas markets. Machine-readable and offline-friendly.">
+  
+  <!-- Premium Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@500;700;800&display=swap" rel="stylesheet">
+  
+  <style>
+    /* Modern Premium CSS Reset & Variable Design System */
+    :root {
+      --bg: #090d16;
+      --fg: #f3f4f6;
+      --muted: #9ca3af;
+      --accent-cyan: #06b6d4;
+      --accent-blue: #3b82f6;
+      --accent-gold: #f59e0b;
+      --card-bg: rgba(17, 24, 39, 0.6);
+      --card-border: rgba(255, 255, 255, 0.08);
+      --glow-cyan: rgba(6, 182, 212, 0.15);
+      --glow-blue: rgba(59, 130, 246, 0.15);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: var(--bg);
+      background-image: 
+        radial-gradient(circle at 10% 20%, rgba(59, 130, 246, 0.08) 0%, transparent 40%),
+        radial-gradient(circle at 90% 80%, rgba(6, 182, 212, 0.08) 0%, transparent 40%);
+      background-attachment: fixed;
+      color: var(--fg);
+      line-height: 1.6;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Core Layout */
+    .container {
+      max-width: 1040px;
+      margin: 0 auto;
+      padding: 4rem 1.5rem;
+      width: 100%;
+      flex-grow: 1;
+    }
+
+    /* Header Aesthetics */
+    header {
+      text-align: center;
+      margin-bottom: 4rem;
+    }
+
+    .brand-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.4rem 1rem;
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 9999px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      color: var(--accent-cyan);
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    .brand-dot {
+      width: 6px;
+      height: 6px;
+      background: var(--accent-cyan);
+      border-radius: 50%;
+      box-shadow: 0 0 8px var(--accent-cyan);
+    }
+
+    h1 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 3rem;
+      font-weight: 800;
+      line-height: 1.15;
+      letter-spacing: -0.03em;
+      margin-bottom: 1rem;
+      background: linear-gradient(135deg, #ffffff 30%, #a5f3fc 70%, #60a5fa 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .subtitle {
+      font-size: 1.15rem;
+      color: var(--muted);
+      max-width: 600px;
+      margin: 0 auto;
+      font-weight: 400;
+    }
+
+    /* Grid layout for Cards */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+      gap: 2rem;
+      margin-bottom: 5rem;
+    }
+
+    /* Premium Glassmorphic Cards */
+    .card {
+      background: var(--card-bg);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid var(--card-border);
+      border-radius: 1.25rem;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+      position: relative;
+    }
+
+    .card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 2px;
+      background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.15), transparent);
+      opacity: 0;
+      transition: opacity 0.4s;
+    }
+
+    .card:hover {
+      transform: translateY(-6px);
+      border-color: rgba(255, 255, 255, 0.15);
+      box-shadow: 
+        0 12px 24px -10px rgba(0, 0, 0, 0.5),
+        0 0 20px var(--glow-effect);
+    }
+
+    .card:hover::before {
+      opacity: 1;
+    }
+
+    /* Oil Card Custom Glow color */
+    .card.oil-card {
+      --glow-effect: var(--glow-blue);
+      --btn-hover-color: var(--accent-blue);
+    }
+
+    /* NatGas Card Custom Glow color */
+    .card.gas-card {
+      --glow-effect: var(--glow-cyan);
+      --btn-hover-color: var(--accent-cyan);
+    }
+
+    /* Card Top Graphical Cover */
+    .card-graphic {
+      height: 180px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .oil-card .card-graphic {
+      background: linear-gradient(135deg, #101626 0%, #1e1b4b 100%);
+    }
+
+    .gas-card .card-graphic {
+      background: linear-gradient(135deg, #081a24 0%, #062f3f 100%);
+    }
+
+    .card-graphic svg {
+      opacity: 0.75;
+      transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.4s;
+    }
+
+    .card:hover .card-graphic svg {
+      transform: scale(1.08);
+      opacity: 0.95;
+    }
+
+    /* Card Body Content */
+    .card-body {
+      padding: 2.25rem;
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
+    }
+
+    .card-meta {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+
+    .oil-card .card-meta { color: #818cf8; }
+    .gas-card .card-meta { color: #22d3ee; }
+
+    .card h2 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.75rem;
+      font-weight: 700;
+      color: #ffffff;
+      margin-bottom: 0.75rem;
+      letter-spacing: -0.01em;
+    }
+
+    .card p {
+      color: var(--muted);
+      font-size: 0.95rem;
+      line-height: 1.6;
+      margin-bottom: 2rem;
+      flex-grow: 1;
+    }
+
+    /* Card Interactive Action Button */
+    .card-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      padding: 0.8rem 1.5rem;
+      border-radius: 0.75rem;
+      font-size: 0.95rem;
+      font-weight: 600;
+      text-decoration: none;
+      color: #ffffff;
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      transition: all 0.3s;
+      cursor: pointer;
+    }
+
+    .card:hover .card-btn {
+      background: var(--btn-hover-color);
+      border-color: var(--btn-hover-color);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+
+    .card-btn svg {
+      transition: transform 0.3s;
+    }
+
+    .card-btn:hover svg {
+      transform: translateX(3px);
+    }
+
+    /* Metadata / Document Links Footer */
+    .docs-nav {
+      max-width: 600px;
+      margin: 0 auto;
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      border-radius: 1rem;
+      padding: 1.25rem 2rem;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+    }
+
+    .docs-link {
+      font-size: 0.85rem;
+      font-weight: 500;
+      color: var(--muted);
+      text-decoration: none;
+      transition: color 0.2s;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    .docs-link:hover {
+      color: #ffffff;
+    }
+
+    .docs-divider {
+      width: 4px;
+      height: 4px;
+      background: rgba(255, 255, 255, 0.15);
+      border-radius: 50%;
+    }
+
+    /* Page Footer */
+    footer {
+      text-align: center;
+      padding: 3rem 0;
+      font-size: 0.8rem;
+      color: rgba(255, 255, 255, 0.2);
+      border-top: 1px solid rgba(255, 255, 255, 0.03);
+      width: 100%;
+    }
+
+    /* Responsive scaling */
+    @media (max-width: 768px) {
+      .container {
+        padding: 2.5rem 1rem;
+      }
+      h1 {
+        font-size: 2.25rem;
+      }
+      .grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+      }
+      .docs-nav {
+        flex-direction: column;
+        gap: 0.75rem;
+        padding: 1.5rem;
+      }
+      .docs-divider {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <header>
+      <div class="brand-pill">
+        <span class="brand-dot"></span>
+        Chanma Invest Portal
+      </div>
+      <h1>Energy & Commodity Markets</h1>
+      <p class="subtitle">A curated, offline-ready repository of core reading materials, books, and resources structured for human and machine ingestion.</p>
+    </header>
+
+    <main>
+      <div class="grid">
+        
+        <!-- Book 1: Oil 101 -->
+        <div class="card oil-card" id="card-oil101">
+          <div class="card-graphic">
+            <!-- Custom Vector Graphic for Oil 101 -->
+            <svg width="120" height="120" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <rect x="15" y="40" width="70" height="50" rx="6" stroke="#4f46e5" stroke-width="2.5" stroke-dasharray="3 3"/>
+              <path d="M50 15 L50 85 M20 55 L80 55 M25 70 L75 70" stroke="#818cf8" stroke-width="2"/>
+              <path d="M50 12 L43 25 H57 Z" fill="#818cf8"/>
+              <path d="M50 35 C58 35 64 45 64 55 C64 65 58 71 50 71 C42 71 36 65 36 55 C36 45 42 35 50 35 Z" fill="#1e1b4b" stroke="#3b82f6" stroke-width="3"/>
+              <circle cx="50" cy="55" r="8" fill="#3b82f6" fill-opacity="0.3"/>
+            </svg>
+          </div>
+          <div class="card-body">
+            <div class="card-meta">Morgan Downey</div>
+            <h2>Oil 101</h2>
+            <p>The definitive guide to the global oil industry. Explores exploration, production, assay parameters, refining processes, petrochemical outputs, transport logistics, and futures hedging mechanics.</p>
+            <a href="./oil101/index.html" class="card-btn" id="btn-oil101">
+              Read Book
+              <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M6 12L10 8L6 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        <!-- Book 2: NatGas 101 -->
+        <div class="card gas-card" id="card-natgas101">
+          <div class="card-graphic">
+            <!-- Custom Vector Graphic for NatGas 101 -->
+            <svg width="120" height="120" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <circle cx="50" cy="50" r="32" stroke="#0891b2" stroke-width="2.5" stroke-dasharray="4 4"/>
+              <circle cx="50" cy="50" r="22" stroke="#22d3ee" stroke-width="1.5" stroke-opacity="0.5"/>
+              <path d="M50 20 C42 32 40 45 40 54 C40 64 44 68 50 68 C56 68 60 64 60 54 C60 45 58 32 50 20 Z" fill="#083344" stroke="#06b6d4" stroke-width="3"/>
+              <path d="M50 35 C46 42 45 50 45 55 C45 61 47 63 50 63 C53 63 55 61 55 55 C55 50 54 42 50 35 Z" fill="#22d3ee" fill-opacity="0.3"/>
+              <line x1="20" y1="50" x2="80" y2="50" stroke="#06b6d4" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+          </div>
+          <div class="card-body">
+            <div class="card-meta">Morgan Downey</div>
+            <h2>NatGas 101</h2>
+            <p>The comprehensive guide to North American natural gas markets. Covers physical infrastructure, pipelines, storage mechanics, LNG export terminals, pricing hubs, and power generation dynamics.</p>
+            <a href="./natgas101/index.html" class="card-btn" id="btn-natgas101">
+              Read Book
+              <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M6 12L10 8L6 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Documentation Portal Navigation -->
+      <nav class="docs-nav">
+        <a href="./README.md" class="docs-link" id="link-readme">
+          <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2H4C2.9 2 2 2.9 2 4V12C2 13.1 2.9 14 4 14H12C13.1 14 14 13.1 14 12V4C14 2.9 13.1 2 12 2Z"/><path d="M6 6H10M6 10H10"/></svg>
+          README.md
+        </a>
+        <span class="docs-divider"></span>
+        <a href="./CONTRIBUTING.md" class="docs-link" id="link-contributing">
+          <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2H3C1.9 2 1 2.9 1 4V12C1 13.1 1.9 14 3 14H13C14.1 14 15 13.1 15 12V4C15 2.9 14.1 2 13 2Z"/><path d="M8 8V12M5 10H11"/></svg>
+          CONTRIBUTING.md
+        </a>
+        <span class="docs-divider"></span>
+        <a href="./AGENTS.md" class="docs-link" id="link-agents">
+          <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="10" height="4" rx="1"/><rect x="3" y="1" width="10" height="4" rx="1"/><path d="M8 5V11"/></svg>
+          AGENTS.md
+        </a>
+      </nav>
+    </main>
+  </div>
+
+  <footer>
+    &copy; 2026 Chanma Invest. Automated agent curation portal. All rights reserved.
+  </footer>
+
+</body>
+</html>
