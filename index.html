@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Chanma Invest - Energy & Markets Reading Portal</title>
-  <meta name="description" content="A curated portal of investment-related reading materials, core books, and papers for Energy, Oil, and Natural Gas markets. Machine-readable and offline-friendly.">
+  <title>Chanma Invest - Reading Library Pipeline</title>
+  <meta name="description" content="The Chanma Invest reading_library pipeline: curated, offline-ready investment books, market history, energy references, and source materials. Machine-readable and agent-friendly.">
   
   <!-- Premium Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -94,6 +94,7 @@
       letter-spacing: -0.03em;
       margin-bottom: 1rem;
       background: linear-gradient(135deg, #ffffff 30%, #a5f3fc 70%, #60a5fa 100%);
+      background-clip: text;
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }
@@ -111,7 +112,21 @@
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
       gap: 2rem;
-      margin-bottom: 5rem;
+      margin-bottom: 4rem;
+    }
+
+    .section-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.65rem;
+      color: #ffffff;
+      margin: 0 0 0.75rem;
+      letter-spacing: -0.01em;
+    }
+
+    .section-copy {
+      color: var(--muted);
+      max-width: 760px;
+      margin: 0 0 1.5rem;
     }
 
     /* Premium Glassmorphic Cards */
@@ -260,6 +275,82 @@
       transform: translateX(3px);
     }
 
+    .scope-panel {
+      margin-bottom: 4rem;
+      padding: 2rem;
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 1.25rem;
+    }
+
+    .scope-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 0.85rem;
+    }
+
+    .book-chip {
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+      padding: 0.85rem 1rem;
+      min-height: 92px;
+      background: rgba(255, 255, 255, 0.035);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 0.75rem;
+    }
+
+    a.book-chip {
+      color: inherit;
+      text-decoration: none;
+      transition: transform 0.2s, border-color 0.2s, background 0.2s;
+    }
+
+    a.book-chip:hover {
+      transform: translateY(-2px);
+      background: rgba(255, 255, 255, 0.06);
+      border-color: rgba(34, 211, 238, 0.28);
+    }
+
+    .book-chip.available {
+      border-color: rgba(34, 211, 238, 0.18);
+    }
+
+    .book-chip strong {
+      color: #ffffff;
+      font-size: 0.92rem;
+      line-height: 1.25;
+    }
+
+    .chip-status {
+      width: fit-content;
+      padding: 0.2rem 0.5rem;
+      border-radius: 999px;
+      font-size: 0.67rem;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      color: var(--muted);
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .chip-status.found {
+      color: #22d3ee;
+      border-color: rgba(34, 211, 238, 0.22);
+    }
+
+    .chip-status.available {
+      color: #7dd3fc;
+      border-color: rgba(125, 211, 252, 0.24);
+      background: rgba(14, 165, 233, 0.08);
+    }
+
+    .rights-note {
+      margin: 1.5rem 0 0;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
     /* Metadata / Document Links Footer */
     .docs-nav {
       max-width: 600px;
@@ -319,6 +410,9 @@
         grid-template-columns: 1fr;
         gap: 1.5rem;
       }
+      .scope-panel {
+        padding: 1.25rem;
+      }
       .docs-nav {
         flex-direction: column;
         gap: 0.75rem;
@@ -336,10 +430,10 @@
     <header>
       <div class="brand-pill">
         <span class="brand-dot"></span>
-        Chanma Invest Portal
+        Chanma Invest Pipeline
       </div>
-      <h1>Energy & Commodity Markets</h1>
-      <p class="subtitle">A curated, offline-ready repository of core reading materials, books, and resources structured for human and machine ingestion.</p>
+      <h1>Reading Library</h1>
+      <p class="subtitle">A curated, offline-ready source-material pipeline for energy markets, financial history, investing, trading, and AI-agent ingestion.</p>
     </header>
 
     <main>
@@ -362,7 +456,7 @@
             <div class="card-meta">Morgan Downey &middot; 2nd Edition</div>
             <h2>Oil 101: Antigravity</h2>
             <p>The updated 2026 edition. Fully expanded with new chapters on the <strong>Hormuz Crisis</strong>, US LNG exports, and the energy transition. Features programmatically compiled <strong>premium SVG charts</strong> for offline analysis.</p>
-            <a href="./oil101/index.html" class="card-btn" id="btn-oil101">
+            <a href="./books/oil101/index.html" class="card-btn" id="btn-oil101">
               Read 2nd Edition
               <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M6 12L10 8L6 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -387,7 +481,7 @@
             <div class="card-meta">Morgan Downey</div>
             <h2>NatGas 101</h2>
             <p>The comprehensive guide to North American natural gas markets. Covers physical infrastructure, pipelines, storage mechanics, LNG export terminals, pricing hubs, and power generation dynamics.</p>
-            <a href="./natgas101/index.html" class="card-btn" id="btn-natgas101">
+            <a href="./books/natgas101/index.html" class="card-btn" id="btn-natgas101">
               Read Book
               <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M6 12L10 8L6 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -397,6 +491,55 @@
         </div>
 
       </div>
+
+      <section class="scope-panel" aria-labelledby="catalog-title">
+        <h2 class="section-title" id="catalog-title">Finance &amp; Markets Catalog</h2>
+        <p class="section-copy">The library scope now includes market history, investing craft, banking, monetary systems, trading, risk, commodities, and behavioral finance. Local EPUBs with explicit rights are published as the same offline-ready single-page HTML format as the web mirrors.</p>
+        <div class="scope-grid">
+          <div class="book-chip"><strong>The Price of Time</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>Antifragile</strong><span class="chip-status">cataloged</span></div>
+          <a class="book-chip available" href="./books/the-ascent-of-money/index.html"><strong>The Ascent of Money</strong><span class="chip-status available">read html</span></a>
+          <div class="book-chip"><strong>Beating the Street</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>Market Wizards</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>The Intelligent Investor</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>The Psychology of Money</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>The Big Short</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>The Bond King</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>The Case for Gold</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>Central Banking 101</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>Common Stocks and Uncommon Profits</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>Debt</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>The Deficit Myth</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>The End of Indexing</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>The Euro</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>Flash Boys</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>Going Infinite</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>The Gray Rhino</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>Hoodwinked</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>How to Listen When Markets Speak</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>How to Make Money in Stocks</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>The Intelligent Option Investor</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>The Intelligent REIT Investor Guide</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>Liar's Poker</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>The Little Book That Beats the Market</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>The Little Book of Common Sense Investing</strong><span class="chip-status">cataloged</span></div>
+          <a class="book-chip available" href="./books/lords-of-finance/index.html"><strong>Lords of Finance</strong><span class="chip-status available">read html</span></a>
+          <div class="book-chip"><strong>Lying for Money</strong><span class="chip-status">cataloged</span></div>
+          <a class="book-chip available" href="./books/material-world/index.html"><strong>Material World</strong><span class="chip-status available">read html</span></a>
+          <div class="book-chip"><strong>The Money Culture</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>The Next Millionaire Next Door</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>The Next Perfect Trade</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>One Up on Wall Street</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>Poor Charlie's Almanack</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>Quantitative Momentum</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>Reminiscences of a Stock Operator</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>A Random Walk Down Wall Street</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>Stock Market Wizards</strong><span class="chip-status">cataloged</span></div>
+          <div class="book-chip"><strong>Trading Like a Stock Market Wizard</strong><span class="chip-status">cataloged</span></div>
+          <a class="book-chip available" href="./books/the-world-for-sale/index.html"><strong>The World for Sale</strong><span class="chip-status available">read html</span></a>
+        </div>
+        <p class="rights-note">EPUB conversions are generated with <code>py scripts/convert_epub.py "path\\to\\book.epub" --slug book-slug</code> and publish to <code>books/&lt;slug&gt;/index.html</code>.</p>
+      </section>
 
       <!-- Documentation Portal Navigation -->
       <nav class="docs-nav">

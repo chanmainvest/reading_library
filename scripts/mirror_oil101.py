@@ -377,7 +377,7 @@ def process_site(out_dir: Path):
 
 def main():
     root = Path(__file__).resolve().parent.parent
-    process_site(root / "oil101")
+    process_site(root / "books" / "oil101")
 
 
 if __name__ == "__main__":
