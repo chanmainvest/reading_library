@@ -108,19 +108,63 @@ def strip_chrome(node):
     """Remove nav, header, footer, script, style, and link/cta widgets."""
     for tag in node.find_all(["nav", "header", "footer", "script", "style", "noscript", "form"]):
         tag.decompose()
+    for audio in list(node.find_all("audio")):
+        parent = audio.parent
+        if parent and getattr(parent, "attrs", None) is not None and len(parent.get_text(" ", strip=True)) < 120:
+            parent.decompose()
+        else:
+            audio.decompose()
     # Remove obvious nav/cta classes
     for cls in ["nav", "navbar", "header", "footer", "cta", "newsletter", "subscribe", "site-header", "site-footer", "breadcrumb"]:
         for tag in node.select(f'[class*="{cls}"]'):
             tag.decompose()
+    # Remove per-chapter app chrome captured from the source site. The mirror is
+    # one single page, so chapter/search/feedback and previous/next widgets are
+    # dead navigation rather than useful content.
+    for tag in list(node.find_all(["div", "section", "aside"])):
+        if getattr(tag, "attrs", None) is None:
+            continue
+        classes = set(tag.get("class", []))
+        class_text = " ".join(classes)
+        text = re.sub(r"\s+", " ", tag.get_text(" ", strip=True)).lower()
+        hrefs = " ".join(a.get("href", "") for a in tag.find_all("a", href=True)).lower()
+        if "sticky" in classes and ("/chapters" in hrefs or "/search" in hrefs or "feedback" in text):
+            tag.decompose()
+            continue
+        if "mt-16" in classes and "border-t" in classes and ("next" in text or "previous" in text):
+            tag.decompose()
+            continue
+        if "grid" in classes and ("next" in text or "previous" in text) and "#chapter-" in hrefs:
+            tag.decompose()
+            continue
     # Remove "Next chapter / Previous chapter" link blocks
     for a in node.find_all("a"):
         text = (a.get_text() or "").strip().lower()
-        if text in {"next chapter", "previous chapter", "next", "previous", "back to chapters", "← back"}:
+        href = (a.get("href") or "").lower()
+        normalized = re.sub(r"\s+", " ", text).strip()
+        is_chrome_link = (
+            normalized in {"next chapter", "previous chapter", "next", "previous", "back to chapters", "← back", "← chapters", "search"}
+            or href in {"/chapters", "/search"}
+            or normalized.startswith("next →")
+            or normalized.startswith("← previous")
+        )
+        if is_chrome_link:
             parent = a.parent
-            if parent and len(parent.get_text(strip=True)) < 60:
+            if parent and len(parent.get_text(strip=True)) < 120:
                 parent.decompose()
             else:
                 a.decompose()
+
+    # The generated mirror wraps each chapter with its own chapter number/title.
+    # Remove the source site's repeated section label and h1 from the captured body.
+    first_article = node.find("article")
+    if first_article:
+        first_div = first_article.find("div", recursive=False)
+        if first_div and "chapter" in first_div.get_text(" ", strip=True).lower() and len(first_div.get_text(" ", strip=True)) < 140:
+            first_div.decompose()
+        first_heading = first_article.find("h1", recursive=False)
+        if first_heading:
+            first_heading.decompose()
 
 
 def generate_duck_curve_svg() -> str:
@@ -498,7 +542,7 @@ def process_site(out_dir: Path):
 
 def main():
     root = Path(__file__).resolve().parent.parent
-    process_site(root / "natgas101")
+    process_site(root / "books" / "natgas101")
 
 
 if __name__ == "__main__":

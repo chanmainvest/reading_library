@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for contributing to **chanmainvest/reading**! 
+Thank you for contributing to **chanmainvest/reading_library**! 
 
 To maintain the integrity, consistency, and machine-readability of this repository, we enforce strict automated and agent-driven workflows.
 
@@ -9,8 +9,8 @@ To maintain the integrity, consistency, and machine-readability of this reposito
 ## 🚫 The Golden Rule: Humans are Banned from Direct Editing
 
 > [!CAUTION]
-> **No Direct Edits to Mirrored Materials:**
-> Humans are **strictly prohibited** from manually editing, modifying, or creating HTML files or images inside the book directories (such as `/oil101` or `/natgas101`). 
+> **No Direct Edits to Generated Materials:**
+> Humans are **strictly prohibited** from manually editing, modifying, or creating HTML files or images inside the generated book directories (such as `/books/oil101`, `/books/natgas101`, or EPUB-converted folders). 
 
 ### Why this rule exists:
 1. **Automation Drift:** Manual edits will be completely overwritten the next time a mirroring script is executed.
@@ -22,10 +22,13 @@ To maintain the integrity, consistency, and machine-readability of this reposito
 ## 🛠️ Permitted Contributions
 
 You are welcome to contribute by proposing changes to:
-1. **Mirroring Code:** Modifying or improving the scraping, cleaning, asset-downloading, or SVG-rendering logic in `scripts/mirror_natgas101.py` or `scripts/mirror_oil101.py`.
-2. **Repository Architecture:** Adding new mirroring scripts in the `scripts/` directory for other books, articles, or research papers.
+1. **Mirroring Code:** Modifying or improving the scraping, cleaning, asset-downloading, EPUB conversion, or SVG-rendering logic in `scripts/`.
+2. **Repository Architecture:** Adding new mirroring or conversion scripts in the `scripts/` directory for other books, articles, or research papers.
 3. **Portal Design:** Improving the style, aesthetics, or accessibility of the root `index.html` portal.
-4. **Documentation:** Refining `README.md`, `AGENTS.md`, or `CONTRIBUTING.md`.
+4. **Catalog Metadata:** Updating `books/catalog.json` with source/status metadata.
+5. **Documentation:** Refining `README.md`, `AGENTS.md`, or `CONTRIBUTING.md`.
+
+Full-text commercial EPUB conversions require explicit rights. Once rights are confirmed, use `scripts/convert_epub.py` to generate `books/<slug>/index.html` and update `books/catalog.json`.
 
 ---
 
@@ -51,6 +54,7 @@ Before submitting a PR, always run the appropriate mirror script locally to rege
 ```bash
 py scripts/mirror_natgas101.py
 py scripts/mirror_oil101.py
+py scripts/convert_epub.py "E:\ebook\Books\path\book.epub" --slug book-slug
 ```
 
 ### 3. Review and Verification
@@ -59,4 +63,4 @@ py scripts/mirror_oil101.py
 - Verify that all local image references remain functional and do not point to absolute external URLs.
 
 ### 4. Create Pull Request
-Submit your changes as a pull request to `github.com/chanmainvest/reading`. Direct commits to `main` are disabled. All PRs will be automatically reviewed for compliance.
+Submit your changes as a pull request to `github.com/chanmainvest/reading_library`. Direct commits to `main` are disabled. All PRs will be automatically reviewed for compliance.

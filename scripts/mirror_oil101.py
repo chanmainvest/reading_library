@@ -43,6 +43,10 @@ SITE_CFG = {
         "energy-transition",
         "iran-strait",
     ],
+    "appendices": [
+        "forward-markets-mechanics",
+        "conversion-factors",
+    ]
 }
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
@@ -127,6 +131,89 @@ def strip_chrome(node):
                 a.decompose()
 
 
+def generate_wti_negative_svg() -> str:
+    """Compile a beautiful, premium, offline-friendly SVG for the WTI Negative Price event."""
+    data = [
+        {"day": "Apr 13", "val": 22.41},
+        {"day": "Apr 14", "val": 20.11},
+        {"day": "Apr 15", "val": 19.87},
+        {"day": "Apr 16", "val": 19.87},
+        {"day": "Apr 17", "val": 18.27},
+        {"day": "Apr 20", "val": -37.63, "is_neg": True},
+        {"day": "Apr 21", "val": 10.01},
+        {"day": "Apr 22", "val": 13.78},
+    ]
+
+    width = 800
+    height = 360
+    padding_left = 60
+    padding_right = 40
+    padding_top = 40
+    padding_bottom = 40
+
+    chart_width = width - padding_left - padding_right
+    chart_height = height - padding_top - padding_bottom
+
+    def x_scale(i):
+        return padding_left + i * (chart_width / (len(data) - 1))
+
+    y_min = -50.0
+    y_max = 30.0
+    y_range = y_max - y_min
+
+    def y_scale(v):
+        return padding_top + (y_max - v) * (chart_height / y_range)
+
+    # 1. Zero line
+    zero_y = y_scale(0)
+    zero_line = f'<line class="zero-line" x1="{padding_left}" y1="{zero_y}" x2="{width - padding_right}" y2="{zero_y}" />'
+
+    # 2. Main Price Line
+    pts = [f"{x_scale(i)},{y_scale(d['val'])}" for i, d in enumerate(data)]
+    path_d = "M " + " L ".join(pts)
+
+    # 3. Gridlines
+    grid_lines = []
+    for val in range(-40, 31, 20):
+        y = y_scale(val)
+        grid_lines.append(f'<line class="grid-line" x1="{padding_left}" y1="{y}" x2="{width - padding_right}" y2="{y}" />')
+        grid_lines.append(f'<text class="axis-text" x="{padding_left - 12}" y="{y + 4}" text-anchor="end">${val}</text>')
+
+    # 4. Data points and labels
+    dots = []
+    for i, d in enumerate(data):
+        x = x_scale(i)
+        y = y_scale(d["val"])
+        fill = "#ef4444" if d.get("is_neg") else "#6366f1"
+        dots.append(f'<circle cx="{x}" cy="{y}" r="4" fill="{fill}" />')
+        if d.get("is_neg"):
+            dots.append(f'<text class="callout-text" x="{x}" y="{y + 20}" text-anchor="middle" fill="#ef4444" font-weight="bold">-${abs(d["val"])}</text>')
+
+        # X labels
+        dots.append(f'<text class="axis-text" x="{x}" y="{height - padding_bottom + 20}" text-anchor="middle">{d["day"]}</text>')
+
+    svg = f"""<svg viewBox="0 0 {width} {height}" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" class="wti-negative-svg">
+  <style>
+    .wti-negative-svg {{ background: transparent; font-family: Inter, sans-serif; }}
+    .grid-line {{ stroke: var(--rule, #e5e5e5); stroke-width: 1; stroke-opacity: 0.5; }}
+    .zero-line {{ stroke: #64748b; stroke-width: 1.5; stroke-dasharray: 4 4; }}
+    .axis-text {{ fill: var(--muted, #888888); font-size: 11px; }}
+    .price-line {{ stroke: #6366f1; stroke-width: 3; fill: none; stroke-linejoin: round; stroke-linecap: round; }}
+    .callout-text {{ font-size: 12px; }}
+    @media (prefers-color-scheme: dark) {{
+      .grid-line {{ stroke: #333333; }}
+      .axis-text {{ fill: #9ca3af; }}
+      .price-line {{ stroke: #818cf8; }}
+    }}
+  </style>
+  {"".join(grid_lines)}
+  {zero_line}
+  <path class="price-line" d="{path_d}" />
+  {"".join(dots)}
+</svg>"""
+    return svg
+
+
 def process_site(out_dir: Path):
     cfg = SITE_CFG
     base = cfg["base"]
@@ -153,9 +240,12 @@ def process_site(out_dir: Path):
     chapter_blocks = []
     toc_entries = []
 
-    for i, slug in enumerate(cfg["chapters"], 1):
-        url = f"{base}/chapters/{slug}"
-        print(f"[{i}/{len(cfg['chapters'])}] {url}")
+    # Combine chapters and appendices
+    all_pages = [(slug, f"{base}/chapters/{slug}") for slug in cfg["chapters"]]
+    all_pages += [(slug, f"{base}/appendices/{slug}") for slug in cfg["appendices"]]
+
+    for i, (slug, url) in enumerate(all_pages, 1):
+        print(f"[{i}/{len(all_pages)}] {url}")
         try:
             html = fetch(url).decode("utf-8", errors="replace")
         except Exception as e:
@@ -185,29 +275,38 @@ def process_site(out_dir: Path):
                 if img.has_attr(attr):
                     del img[attr]
 
-        # also handle <source srcset> inside <picture>
         for source in main.find_all("source"):
             source.decompose()
 
-        # Convert internal chapter links to in-page anchors
+        # Internal links
         for a in main.find_all("a", href=True):
             href = a["href"]
-            if href.startswith("/chapters/"):
-                target_slug = href.split("/")[-1].split("#")[0]
-                a["href"] = f"#chapter-{target_slug}"
-            elif href.startswith(base + "/chapters/"):
-                target_slug = href[len(base + "/chapters/"):].split("#")[0]
-                a["href"] = f"#chapter-{target_slug}"
+            for s in cfg["chapters"] + cfg["appendices"]:
+                if f"/chapters/{s}" in href or f"/appendices/{s}" in href:
+                    a["href"] = f"#chapter-{s}"
 
         chapter_id = f"chapter-{slug}"
         toc_entries.append((i, title, chapter_id))
 
+        body_content = main.decode_contents()
+
+        # SVG Chart Injection
+        if slug == "negative-prices":
+            target_regex = r'<div class="recharts-responsive-container"[^>]*></div>'
+            if re.search(target_regex, body_content):
+                svg_chart = generate_wti_negative_svg()
+                injected_html = f"""<div class="offline-chart-container" style="width:100%; border: 1px solid var(--rule); border-radius: 8px; padding: 1.5rem 1rem 1rem 0.5rem; margin: 2rem 0; background: rgba(0,0,0,0.02);">
+{svg_chart}
+</div>"""
+                body_content = re.sub(target_regex, injected_html, body_content, count=1)
+                print("  -> Injected WTI Negative Price SVG chart.")
+
         # Wrap chapter content
         chapter_html = (
             f'<section class="chapter" id="{chapter_id}">'
-            f'<div class="chapter-number">Chapter {i}</div>'
+            f'<div class="chapter-number">{"Appendix" if slug in cfg["appendices"] else "Chapter"} {i}</div>'
             f'<h1 class="chapter-title">{title}</h1>'
-            f'<div class="chapter-body">{main.decode_contents()}</div>'
+            f'<div class="chapter-body">{body_content}</div>'
             f'</section>'
         )
         chapter_blocks.append(chapter_html)
@@ -247,10 +346,12 @@ def process_site(out_dir: Path):
     .chapter-body blockquote { border-left: 3px solid var(--accent); padding-left: 1rem; color: var(--muted); margin: 1.5rem 0; }
     .chapter-body code { background: #f4f4f4; padding: 0.1rem 0.3rem; border-radius: 3px; font-size: 0.9em; }
     .chapter-body a { color: var(--accent); }
+    .offline-chart-container { background: rgba(0,0,0,0.01) !important; }
     @media (prefers-color-scheme: dark) {
       :root { --bg:#111; --fg:#eee; --muted:#888; --rule:#333; --accent:#7ec0d8; }
       .chapter-body th { background: #1c1c1c; }
       .chapter-body code { background: #1c1c1c; }
+      .offline-chart-container { background: rgba(255,255,255,0.01) !important; }
     }
     """
 
@@ -274,10 +375,9 @@ def process_site(out_dir: Path):
     (out_dir / "index.html").write_text(page, encoding="utf-8")
     print(f"\nWrote {out_dir / 'index.html'} ({len(chapter_blocks)} chapters, {len(image_cache)} images)")
 
-
 def main():
     root = Path(__file__).resolve().parent.parent
-    process_site(root / "oil101")
+    process_site(root / "books" / "oil101")
 
 
 if __name__ == "__main__":

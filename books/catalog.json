@@ -1,0 +1,87 @@
+{
+  "publicBooks": [
+    {
+      "title": "Oil 101: Antigravity",
+      "slug": "oil101",
+      "href": "books/oil101/index.html",
+      "status": "public_mirror"
+    },
+    {
+      "title": "NatGas 101",
+      "slug": "natgas101",
+      "href": "books/natgas101/index.html",
+      "status": "public_mirror"
+    },
+    {
+      "title": "The Ascent of Money",
+      "slug": "the-ascent-of-money",
+      "href": "books/the-ascent-of-money/index.html",
+      "status": "epub_conversion",
+      "author": "Niall Ferguson"
+    },
+    {
+      "title": "Lords of Finance",
+      "slug": "lords-of-finance",
+      "href": "books/lords-of-finance/index.html",
+      "status": "epub_conversion",
+      "author": "Liaquat Ahamed"
+    },
+    {
+      "title": "Material World",
+      "slug": "material-world",
+      "href": "books/material-world/index.html",
+      "status": "epub_conversion",
+      "author": "Ed Conway"
+    },
+    {
+      "title": "The World for Sale",
+      "slug": "the-world-for-sale",
+      "href": "books/the-world-for-sale/index.html",
+      "status": "epub_conversion",
+      "author": "Javier Blas and Jack Farchy"
+    }
+  ],
+  "requestedBooks": [
+    { "title": "The Price of Time", "slug": "price-of-time", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "Antifragile", "slug": "antifragile", "requestedAs": "antigrafile", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "The Ascent of Money", "slug": "the-ascent-of-money", "author": "Niall Ferguson", "href": "books/the-ascent-of-money/index.html", "sourceStatus": "local_epub_converted", "publicTextStatus": "published" },
+    { "title": "Beating the Street", "slug": "beating-the-street", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "Market Wizards", "slug": "market-wizards", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "The Intelligent Investor", "slug": "the-intelligent-investor", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "The Psychology of Money", "slug": "the-psychology-of-money", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "The Big Short", "slug": "the-big-short", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "The Bond King", "slug": "the-bond-king", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "The Case for Gold", "slug": "the-case-for-gold", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "Central Banking 101", "slug": "central-banking-101", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "Common Stocks and Uncommon Profits", "slug": "common-stocks-and-uncommon-profits", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "Debt", "slug": "debt", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "The Deficit Myth", "slug": "the-deficit-myth", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "The End of Indexing", "slug": "the-end-of-indexing", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "The Euro", "slug": "the-euro", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "Flash Boys", "slug": "flash-boys", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "Going Infinite", "slug": "going-infinite", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "The Gray Rhino", "slug": "the-gray-rhino", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "Hoodwinked", "slug": "hoodwinked", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "How to Listen When Markets Speak", "slug": "how-to-listen-when-markets-speak", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "How to Make Money in Stocks", "slug": "how-to-make-money-in-stocks", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "The Intelligent Option Investor", "slug": "the-intelligent-option-investor", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "The Intelligent REIT Investor Guide", "slug": "the-intelligent-reit-investor-guide", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "Liar's Poker", "slug": "liars-poker", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "The Little Book That Beats the Market", "slug": "the-little-book-that-beats-the-market", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "The Little Book of Common Sense Investing", "slug": "the-little-book-of-common-sense-investing", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "Lords of Finance", "slug": "lords-of-finance", "author": "Liaquat Ahamed", "href": "books/lords-of-finance/index.html", "sourceStatus": "local_epub_converted", "publicTextStatus": "published" },
+    { "title": "Lying for Money", "slug": "lying-for-money", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "Material World", "slug": "material-world", "author": "Ed Conway", "href": "books/material-world/index.html", "sourceStatus": "local_epub_converted", "publicTextStatus": "published" },
+    { "title": "The Money Culture", "slug": "the-money-culture", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "The Next Millionaire Next Door", "slug": "the-next-millionaire-next-door", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "The Next Perfect Trade", "slug": "the-next-perfect-trade", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "One Up on Wall Street", "slug": "one-up-on-wall-street", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "Poor Charlie's Almanack", "slug": "poor-charlies-almanack", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "Quantitative Momentum", "slug": "quantitative-momentum", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "Reminiscences of a Stock Operator", "slug": "reminiscences-of-a-stock-operator", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "A Random Walk Down Wall Street", "slug": "a-random-walk-down-wall-street", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "Stock Market Wizards", "slug": "stock-market-wizards", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "Trading Like a Stock Market Wizard", "slug": "trading-like-a-stock-market-wizard", "sourceStatus": "not_found", "publicTextStatus": "not_available" },
+    { "title": "The World for Sale", "slug": "the-world-for-sale", "author": "Javier Blas and Jack Farchy", "href": "books/the-world-for-sale/index.html", "sourceStatus": "local_epub_converted", "publicTextStatus": "published" }
+  ]
+}
