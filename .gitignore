@@ -13,4 +13,10 @@ __pycache__/
 # Editor artifacts
 .vscode/
 *.swp
+*~
+*.un~
+*.swo
+
+# Graphify output
+graphify-out/
 
