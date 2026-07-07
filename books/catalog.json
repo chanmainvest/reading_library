@@ -263,14 +263,33 @@
       "href": "books/trading-like-a-stock-market-wizard/index.html",
       "status": "epub_conversion",
       "author": "Minervini, Mark"
+    },
+    {
+      "title": "The Gray Rhino",
+      "slug": "the-gray-rhino",
+      "href": "books/the-gray-rhino/index.html",
+      "status": "epub_conversion",
+      "sourceType": "azw3",
+      "author": "Michele Wucker"
+    },
+    {
+      "title": "The Price of Time",
+      "slug": "the-price-of-time",
+      "href": "books/the-price-of-time/index.html",
+      "status": "epub_conversion",
+      "sourceType": "azw3",
+      "author": "Edward Chancellor"
     }
   ],
   "requestedBooks": [
     {
       "title": "The Price of Time",
-      "slug": "price-of-time",
-      "sourceStatus": "not_found",
-      "publicTextStatus": "not_available"
+      "slug": "the-price-of-time",
+      "author": "Edward Chancellor",
+      "href": "books/the-price-of-time/index.html",
+      "sourceStatus": "local_epub_converted",
+      "sourceType": "azw3",
+      "publicTextStatus": "published"
     },
     {
       "title": "Antifragile",
@@ -407,8 +426,11 @@
     {
       "title": "The Gray Rhino",
       "slug": "the-gray-rhino",
-      "sourceStatus": "not_found",
-      "publicTextStatus": "not_available"
+      "author": "Michele Wucker",
+      "href": "books/the-gray-rhino/index.html",
+      "sourceStatus": "local_epub_converted",
+      "sourceType": "azw3",
+      "publicTextStatus": "published"
     },
     {
       "title": "Hoodwinked",

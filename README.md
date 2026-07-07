@@ -21,7 +21,7 @@ This repository is optimized primarily for **AI agent ingestion**, but it also p
 
 Requested finance and markets books are tracked in [books/catalog.json](./books/catalog.json). EPUB files with explicit rights are converted into the same published single-page HTML format as the web mirrors.
 
-Converted from local EPUB source (rights-approved), published as single-page HTML:
+Converted from local ebook source (rights-approved), published as single-page HTML:
 
 1. **Antifragile** — *Nassim Nicholas Taleb* (`/antifragile`)
    - Access: [Browse Antifragile](./books/antifragile/index.html)
@@ -75,31 +75,41 @@ Converted from local EPUB source (rights-approved), published as single-page HTM
    - Access: [Browse The End of Indexing](./books/the-end-of-indexing/index.html)
 26. **The Euro** — *Stiglitz, Joseph E.* (`/the-euro`)
    - Access: [Browse The Euro](./books/the-euro/index.html)
-27. **The Intelligent Option Investor** — *Erik Kobayashi-Solomon* (`/the-intelligent-option-investor`)
+27. **The Gray Rhino** — *Michele Wucker* (`/the-gray-rhino`)
+   - Access: [Browse The Gray Rhino](./books/the-gray-rhino/index.html)
+28. **The Intelligent Option Investor** — *Erik Kobayashi-Solomon* (`/the-intelligent-option-investor`)
    - Access: [Browse The Intelligent Option Investor](./books/the-intelligent-option-investor/index.html)
-28. **The Intelligent REIT Investor Guide** — *Thomas, Brad* (`/the-intelligent-reit-investor-guide`)
+29. **The Intelligent REIT Investor Guide** — *Thomas, Brad* (`/the-intelligent-reit-investor-guide`)
    - Access: [Browse The Intelligent REIT Investor Guide](./books/the-intelligent-reit-investor-guide/index.html)
-29. **The Little Book of Common Sense Investing** — *John C. Bogle* (`/the-little-book-of-common-sense-investing`)
+30. **The Little Book of Common Sense Investing** — *John C. Bogle* (`/the-little-book-of-common-sense-investing`)
    - Access: [Browse The Little Book of Common Sense Investing](./books/the-little-book-of-common-sense-investing/index.html)
-30. **The Little Book That Beats the Market** — *Joel Greenblatt* (`/the-little-book-that-beats-the-market`)
+31. **The Little Book That Beats the Market** — *Joel Greenblatt* (`/the-little-book-that-beats-the-market`)
    - Access: [Browse The Little Book That Beats the Market](./books/the-little-book-that-beats-the-market/index.html)
-31. **The Money Culture** — *Michael Lewis* (`/the-money-culture`)
+32. **The Money Culture** — *Michael Lewis* (`/the-money-culture`)
    - Access: [Browse The Money Culture](./books/the-money-culture/index.html)
-32. **The Next Millionaire Next Door** — *Ph. J. D. Stanley* (`/the-next-millionaire-next-door`)
+33. **The Next Millionaire Next Door** — *Ph. J. D. Stanley* (`/the-next-millionaire-next-door`)
    - Access: [Browse The Next Millionaire Next Door](./books/the-next-millionaire-next-door/index.html)
-33. **The Next Perfect Trade** — *Alex Gurevich* (`/the-next-perfect-trade`)
+34. **The Next Perfect Trade** — *Alex Gurevich* (`/the-next-perfect-trade`)
    - Access: [Browse The Next Perfect Trade](./books/the-next-perfect-trade/index.html)
-34. **The Psychology of Money** — *Morgan Housel* (`/the-psychology-of-money`)
+35. **The Price of Time** — *Edward Chancellor* (`/the-price-of-time`)
+   - Access: [Browse The Price of Time](./books/the-price-of-time/index.html)
+36. **The Psychology of Money** — *Morgan Housel* (`/the-psychology-of-money`)
    - Access: [Browse The Psychology of Money](./books/the-psychology-of-money/index.html)
-35. **The World for Sale** — *Javier Blas and Jack Farchy* (`/the-world-for-sale`)
+37. **The World for Sale** — *Javier Blas and Jack Farchy* (`/the-world-for-sale`)
    - Access: [Browse The World for Sale](./books/the-world-for-sale/index.html)
-36. **Trading Like a Stock Market Wizard** — *Minervini, Mark* (`/trading-like-a-stock-market-wizard`)
+38. **Trading Like a Stock Market Wizard** — *Minervini, Mark* (`/trading-like-a-stock-market-wizard`)
    - Access: [Browse Trading Like a Stock Market Wizard](./books/trading-like-a-stock-market-wizard/index.html)
 
 To convert a rights-approved EPUB into the published `books/` layout, use:
 
 ```bash
 py scripts/convert_epub.py "E:\ebook\Books\path\book.epub" --slug book-slug
+```
+
+For Kindle-format sources (AZW3/AZW/MOBI/KFX), use `scripts/convert_azw3.py`. It transcodes the file to EPUB via Calibre's `ebook-convert`, then compiles the same single-page HTML — output is identical to the EPUB path. Requires [Calibre](https://calibre-ebook.com/download) installed:
+
+```bash
+py scripts/convert_azw3.py "E:\ebook\Calibre Library\Author\Book (1)\Book - Author.azw3" --slug book-slug
 ```
 
 ---

@@ -26,7 +26,8 @@ chanmainvest/reading_library/
 ├── scripts/                # Reusable automation scripts
 │   ├── mirror_natgas101.py # Dedicated script for NatGas 101 scraping
 │   ├── mirror_oil101.py    # Dedicated script for Oil 101 scraping
-│   └── convert_epub.py     # EPUB-to-single-page HTML converter for rights-approved books
+│   ├── convert_epub.py     # EPUB-to-single-page HTML converter for rights-approved books
+│   └── convert_azw3.py     # AZW3/MOBI/AZW-to-HTML converter (Calibre front-end + convert_epub)
 ```
 
 ---
@@ -49,6 +50,8 @@ All books and papers must be compiled into a **single, monolithic `index.html`**
 
 Commercial EPUBs from a local ebook folder must not be copied or converted into GitHub Pages output unless redistribution rights are explicit. When the repository owner confirms rights, use `scripts/convert_epub.py` and publish the generated single-page HTML under `books/<slug>/index.html` like any other book mirror.
 
+For Kindle-format sources (AZW3/AZW/MOBI/KFX), use `scripts/convert_azw3.py`. It transcodes the source to EPUB via Calibre's `ebook-convert` CLI into a temp directory, then reuses `convert_epub.convert_epub()` to compile the same standalone single-page HTML — there is one code path for HTML generation, so output stays consistent with EPUB-sourced books. Neither script bypasses DRM; if a source is DRMed, Calibre will fail and the error is surfaced.
+
 ### 4. SEO & Semantic Best Practices
 Every generated page must contain:
 * A single descriptive `<h1>` title block.
@@ -68,6 +71,12 @@ py scripts/mirror_natgas101.py
 
 # Refresh Oil 101
 py scripts/mirror_oil101.py
+
+# Convert a rights-approved EPUB to single-page HTML
+py scripts/convert_epub.py "E:\ebook\Books\path\book.epub" --slug book-slug
+
+# Convert a rights-approved Kindle-format file (AZW3/AZW/MOBI/KFX)
+py scripts/convert_azw3.py "E:\ebook\Calibre Library\Author\Book (1)\Book - Author.azw3" --slug book-slug
 ```
 
-*Ensure that BeautifulSoup (`bs4`) and `lxml` are available on your host system before running.*
+*Ensure that BeautifulSoup (`bs4`) and `lxml` are available on your host system before running. The AZW3/MOBI path additionally requires [Calibre](https://calibre-ebook.com/download) installed (provides the `ebook-convert` CLI).*
