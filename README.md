@@ -114,12 +114,35 @@ py scripts/convert_azw3.py "E:\ebook\Calibre Library\Author\Book (1)\Book - Auth
 
 ---
 
+## 💬 On-Device AI Assistant
+
+Every page in the library carries a floating **AI** button (bottom-right) that opens an on-device assistant. It runs **entirely in the browser** via WebGPU — no question ever leaves the user's device.
+
+- **Answers about the current book first**, then pulls relevant excerpts from other books in the library via cross-book retrieval (RAG).
+- Powered by **Gemma 4 E2B** (~3.1 GB, downloaded once and cached) with **embeddinggemma-300m** for retrieval.
+- Cites other books by title (e.g. `[Book: The Big Short]`) and links to them.
+
+The assistant is wired into every page by `scripts/wire_chatbot.py`. When books are added or converted, regenerate the RAG index and re-wire:
+
+```bash
+py scripts/build_chatbot_index.py            # rebuild assets/chatbot_chunks.json
+cd scripts && node build_chatbot_embeddings.mjs   # rebuild assets/chatbot_embeddings.bin
+cp web_assets/chatbot.css web_assets/chatbot.js assets/
+py scripts/wire_chatbot.py                   # inject <link>/<script> into every page
+```
+
+See [AGENTS.md](./AGENTS.md) for full architecture details.
+
+---
+
 ## 🛠️ Repository Ecosystem
 
 The repository is organized as follows:
 * **`index.html`** (Root): The main visual landing portal that connects both books and any future papers. Serves as the index for GitHub Pages (`github.io`).
 * **`books/`**: Published single-page book mirrors plus the catalog metadata.
-* **`scripts/`**: Contains standalone Python mirroring and EPUB conversion scripts that compile books into self-contained HTML resources.
+* **`assets/`**: Served chatbot assets — CSS, JS, the RAG chunk index, and the prebuilt embedding cache.
+* **`web_assets/`**: Source of truth for the chatbot CSS/JS (copied to `assets/` to publish).
+* **`scripts/`**: Contains standalone Python mirroring, EPUB conversion, chatbot index/embedding build, and wiring scripts.
 * **`AGENTS.md`**: Dedicated instructions for AI coding and reading agents detailing the environment, script execution, and structure.
 * **`CONTRIBUTING.md`**: Contributing guidelines specifying the automated, agent-led PR workflow.
 

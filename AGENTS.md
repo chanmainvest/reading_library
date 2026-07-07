@@ -23,12 +23,51 @@ chanmainvest/reading_library/
 │   └── <book-slug>/        # Rights-approved EPUB conversion output
 │       ├── index.html      # Single-page converted EPUB
 │       └── assets/         # Locally extracted EPUB images
+├── assets/                 # Served chatbot assets (copied from web_assets/)
+│   ├── chatbot.css         # Self-contained dark palette for the AI assistant
+│   ├── chatbot.js          # On-device Gemma 4 + embeddinggemma RAG assistant
+│   ├── chatbot_chunks.json # Static RAG chunk index of every book (built, not hand-edited)
+│   └── chatbot_embeddings.bin  # Prebuilt embedding cache (~70 MB, built by Node)
+├── web_assets/             # Source of truth for chatbot CSS/JS (copy to assets/ to publish)
 ├── scripts/                # Reusable automation scripts
 │   ├── mirror_natgas101.py # Dedicated script for NatGas 101 scraping
 │   ├── mirror_oil101.py    # Dedicated script for Oil 101 scraping
 │   ├── convert_epub.py     # EPUB-to-single-page HTML converter for rights-approved books
-│   └── convert_azw3.py     # AZW3/MOBI/AZW-to-HTML converter (Calibre front-end + convert_epub)
+│   ├── convert_azw3.py     # AZW3/MOBI/AZW-to-HTML converter (Calibre front-end + convert_epub)
+│   ├── build_chatbot_index.py     # Build assets/chatbot_chunks.json from every book's HTML
+│   ├── build_chatbot_embeddings.mjs  # Embed chunks -> assets/chatbot_embeddings.bin (Node)
+│   ├── package.json        # Node deps for the embeddings build (@huggingface/transformers v4)
+│   └── wire_chatbot.py     # Inject chatbot <link>/<script> into every index.html (idempotent)
 ```
+
+---
+
+## 🤖 On-Device AI Assistant
+
+Every page in the library (the portal and each `books/<slug>/index.html`) carries a floating "AI" button that opens an on-device assistant. It runs **entirely in the browser** — no question leaves the user's device.
+
+- **LLM**: Gemma 4 E2B (~3.1 GB, q4f16, cached in IndexedDB after first load) via transformers.js v4 + WebGPU.
+- **Embedding model**: `onnx-community/embeddinggemma-300m-ONNX` (~300 MB q8) for cross-book retrieval, run on WASM (EmbeddingGemma can't compile a WebGPU pipeline and WASM avoids contending with Gemma for the GPU).
+- **Cross-book RAG**: a static chunk index (`assets/chatbot_chunks.json`) of every published book plus a prebuilt embedding cache (`assets/chatbot_embeddings.bin`) let the assistant pull relevant excerpts from across the whole library. The browser recomputes a SHA-256 over the chunk texts and refuses a stale bin, falling back to per-chunk embedding.
+
+### Regeneration order (after adding or converting books)
+The chunk index and embedding cache are derived artifacts — regenerate them whenever book content changes:
+
+```bash
+# 1. Rebuild the chunk index from every book's index.html (pure stdlib + bs4)
+py scripts/build_chatbot_index.py
+
+# 2. Rebuild the embedding cache (Node + @huggingface/transformers v4)
+cd scripts && npm install && node build_chatbot_embeddings.mjs
+
+# 3. Copy source assets to the served location and (re)wire every page
+cp web_assets/chatbot.css web_assets/chatbot.js assets/
+py scripts/wire_chatbot.py
+```
+
+`wire_chatbot.py` is idempotent — it injects `<link>`/`<script>` with the correct relative depth (`assets/…` on the portal, `../assets/…` on book pages) and skips pages already wired. Run it after adding books so new pages get the assistant.
+
+The chatbot CSS uses a **self-contained dark palette** (defined in `chatbot.css` `:root`) rather than inheriting the host page's tokens, because the portal (dark cyan glass) and book pages (light/dark serif) use different design systems. The assistant looks identical on every page.
 
 ---
 
