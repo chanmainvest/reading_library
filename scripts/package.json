@@ -1,0 +1,16 @@
+{
+  "name": "chanma-reading-library-build-scripts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Node-based asset generators for the Chanma Invest reading library. Used only to prebuild the chatbot embedding cache; the library itself stays Python-only.",
+  "scripts": {
+    "build:embeddings": "node build_chatbot_embeddings.mjs"
+  },
+  "devDependencies": {
+    "@huggingface/transformers": "^4.0.0"
+  },
+  "allowScripts": {
+    "onnxruntime-node@1.24.3": true
+  }
+}

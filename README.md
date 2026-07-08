@@ -21,22 +21,117 @@ This repository is optimized primarily for **AI agent ingestion**, but it also p
 
 Requested finance and markets books are tracked in [books/catalog.json](./books/catalog.json). EPUB files with explicit rights are converted into the same published single-page HTML format as the web mirrors.
 
-Currently converted from local EPUB source:
+Converted from local ebook source (rights-approved), published as single-page HTML:
 
-1. **The Ascent of Money** (`/books/the-ascent-of-money`)
-   - Access: [Browse The Ascent of Money](./books/the-ascent-of-money/index.html)
-2. **Lords of Finance** (`/books/lords-of-finance`)
+1. **Antifragile** — *Nassim Nicholas Taleb* (`/antifragile`)
+   - Access: [Browse Antifragile](./books/antifragile/index.html)
+2. **Beating the Street** — *Peter Lynch* (`/beating-the-street`)
+   - Access: [Browse Beating the Street](./books/beating-the-street/index.html)
+3. **Central Banking 101** — *Joseph Wang* (`/central-banking-101`)
+   - Access: [Browse Central Banking 101](./books/central-banking-101/index.html)
+4. **Common Stocks and Uncommon Profits** — *Philip A. Fisher* (`/common-stocks-and-uncommon-profits`)
+   - Access: [Browse Common Stocks and Uncommon Profits](./books/common-stocks-and-uncommon-profits/index.html)
+5. **Debt** — *David Graeber* (`/debt`)
+   - Access: [Browse Debt](./books/debt/index.html)
+6. **Flash Boys** — *Lewis, Michael* (`/flash-boys`)
+   - Access: [Browse Flash Boys](./books/flash-boys/index.html)
+7. **Going Infinite** — *Michael Lewis* (`/going-infinite`)
+   - Access: [Browse Going Infinite](./books/going-infinite/index.html)
+8. **Hoodwinked** — *John Perkins* (`/hoodwinked`)
+   - Access: [Browse Hoodwinked](./books/hoodwinked/index.html)
+9. **How to Listen When Markets Speak** — *Lawrence G. McDonald* (`/how-to-listen-when-markets-speak`)
+   - Access: [Browse How to Listen When Markets Speak](./books/how-to-listen-when-markets-speak/index.html)
+10. **How to Make Money in Stocks** — *William J. O&#x27;Neil* (`/how-to-make-money-in-stocks`)
+   - Access: [Browse How to Make Money in Stocks](./books/how-to-make-money-in-stocks/index.html)
+11. **Liar&#x27;s Poker** — *Michael Lewis* (`/liars-poker`)
+   - Access: [Browse Liar&#x27;s Poker](./books/liars-poker/index.html)
+12. **Lords of Finance** — *Liaquat Ahamed* (`/lords-of-finance`)
    - Access: [Browse Lords of Finance](./books/lords-of-finance/index.html)
-3. **Material World** (`/books/material-world`)
+13. **Lying for Money** — *Dan Davies* (`/lying-for-money`)
+   - Access: [Browse Lying for Money](./books/lying-for-money/index.html)
+14. **Material World** — *Ed Conway* (`/material-world`)
    - Access: [Browse Material World](./books/material-world/index.html)
-4. **The World for Sale** (`/books/the-world-for-sale`)
+15. **One Up on Wall Street** — *Peter Lynch* (`/one-up-on-wall-street`)
+   - Access: [Browse One Up on Wall Street](./books/one-up-on-wall-street/index.html)
+16. **Poor Charlie&#x27;s Almanack** — *Charles T. Munger* (`/poor-charlies-almanack`)
+   - Access: [Browse Poor Charlie&#x27;s Almanack](./books/poor-charlies-almanack/index.html)
+17. **Quantitative Momentum** — *Gray, Wesley R.,Vogel, Jack R.* (`/quantitative-momentum`)
+   - Access: [Browse Quantitative Momentum](./books/quantitative-momentum/index.html)
+18. **Reminiscences of a Stock Operator** — *Edwin Lefèvre* (`/reminiscences-of-a-stock-operator`)
+   - Access: [Browse Reminiscences of a Stock Operator](./books/reminiscences-of-a-stock-operator/index.html)
+19. **Stock Market Wizards** — *Jack D. Schwager* (`/stock-market-wizards`)
+   - Access: [Browse Stock Market Wizards](./books/stock-market-wizards/index.html)
+20. **The Ascent of Money** — *Niall Ferguson* (`/the-ascent-of-money`)
+   - Access: [Browse The Ascent of Money](./books/the-ascent-of-money/index.html)
+21. **The Big Short** — *Michael Lewis* (`/the-big-short`)
+   - Access: [Browse The Big Short](./books/the-big-short/index.html)
+22. **The Bond King** — *Mary Childs* (`/the-bond-king`)
+   - Access: [Browse The Bond King](./books/the-bond-king/index.html)
+23. **The Case for Gold** — *Ron Paul* (`/the-case-for-gold`)
+   - Access: [Browse The Case for Gold](./books/the-case-for-gold/index.html)
+24. **The Deficit Myth** — *Stephanie Kelton* (`/the-deficit-myth`)
+   - Access: [Browse The Deficit Myth](./books/the-deficit-myth/index.html)
+25. **The End of Indexing** — *Niels Joachim Gormsen* (`/the-end-of-indexing`)
+   - Access: [Browse The End of Indexing](./books/the-end-of-indexing/index.html)
+26. **The Euro** — *Stiglitz, Joseph E.* (`/the-euro`)
+   - Access: [Browse The Euro](./books/the-euro/index.html)
+27. **The Gray Rhino** — *Michele Wucker* (`/the-gray-rhino`)
+   - Access: [Browse The Gray Rhino](./books/the-gray-rhino/index.html)
+28. **The Intelligent Option Investor** — *Erik Kobayashi-Solomon* (`/the-intelligent-option-investor`)
+   - Access: [Browse The Intelligent Option Investor](./books/the-intelligent-option-investor/index.html)
+29. **The Intelligent REIT Investor Guide** — *Thomas, Brad* (`/the-intelligent-reit-investor-guide`)
+   - Access: [Browse The Intelligent REIT Investor Guide](./books/the-intelligent-reit-investor-guide/index.html)
+30. **The Little Book of Common Sense Investing** — *John C. Bogle* (`/the-little-book-of-common-sense-investing`)
+   - Access: [Browse The Little Book of Common Sense Investing](./books/the-little-book-of-common-sense-investing/index.html)
+31. **The Little Book That Beats the Market** — *Joel Greenblatt* (`/the-little-book-that-beats-the-market`)
+   - Access: [Browse The Little Book That Beats the Market](./books/the-little-book-that-beats-the-market/index.html)
+32. **The Money Culture** — *Michael Lewis* (`/the-money-culture`)
+   - Access: [Browse The Money Culture](./books/the-money-culture/index.html)
+33. **The Next Millionaire Next Door** — *Ph. J. D. Stanley* (`/the-next-millionaire-next-door`)
+   - Access: [Browse The Next Millionaire Next Door](./books/the-next-millionaire-next-door/index.html)
+34. **The Next Perfect Trade** — *Alex Gurevich* (`/the-next-perfect-trade`)
+   - Access: [Browse The Next Perfect Trade](./books/the-next-perfect-trade/index.html)
+35. **The Price of Time** — *Edward Chancellor* (`/the-price-of-time`)
+   - Access: [Browse The Price of Time](./books/the-price-of-time/index.html)
+36. **The Psychology of Money** — *Morgan Housel* (`/the-psychology-of-money`)
+   - Access: [Browse The Psychology of Money](./books/the-psychology-of-money/index.html)
+37. **The World for Sale** — *Javier Blas and Jack Farchy* (`/the-world-for-sale`)
    - Access: [Browse The World for Sale](./books/the-world-for-sale/index.html)
+38. **Trading Like a Stock Market Wizard** — *Minervini, Mark* (`/trading-like-a-stock-market-wizard`)
+   - Access: [Browse Trading Like a Stock Market Wizard](./books/trading-like-a-stock-market-wizard/index.html)
 
 To convert a rights-approved EPUB into the published `books/` layout, use:
 
 ```bash
 py scripts/convert_epub.py "E:\ebook\Books\path\book.epub" --slug book-slug
 ```
+
+For Kindle-format sources (AZW3/AZW/MOBI/KFX), use `scripts/convert_azw3.py`. It transcodes the file to EPUB via Calibre's `ebook-convert`, then compiles the same single-page HTML — output is identical to the EPUB path. Requires [Calibre](https://calibre-ebook.com/download) installed:
+
+```bash
+py scripts/convert_azw3.py "E:\ebook\Calibre Library\Author\Book (1)\Book - Author.azw3" --slug book-slug
+```
+
+---
+
+## 💬 On-Device AI Assistant
+
+Every page in the library carries a floating **AI** button (bottom-right) that opens an on-device assistant. It runs **entirely in the browser** via WebGPU — no question ever leaves the user's device.
+
+- **Answers about the current book first**, then pulls relevant excerpts from other books in the library via cross-book retrieval (RAG).
+- Powered by **Gemma 4 E2B** (~3.1 GB, downloaded once and cached) with **embeddinggemma-300m** for retrieval.
+- Cites other books by title (e.g. `[Book: The Big Short]`) and links to them.
+
+The assistant is wired into every page by `scripts/wire_chatbot.py`. When books are added or converted, regenerate the RAG index and re-wire:
+
+```bash
+py scripts/build_chatbot_index.py            # rebuild assets/chatbot_chunks.json
+cd scripts && node build_chatbot_embeddings.mjs   # rebuild assets/chatbot_embeddings.bin
+cp web_assets/chatbot.css web_assets/chatbot.js assets/
+py scripts/wire_chatbot.py                   # inject <link>/<script> into every page
+```
+
+See [AGENTS.md](./AGENTS.md) for full architecture details.
 
 ---
 
@@ -45,7 +140,9 @@ py scripts/convert_epub.py "E:\ebook\Books\path\book.epub" --slug book-slug
 The repository is organized as follows:
 * **`index.html`** (Root): The main visual landing portal that connects both books and any future papers. Serves as the index for GitHub Pages (`github.io`).
 * **`books/`**: Published single-page book mirrors plus the catalog metadata.
-* **`scripts/`**: Contains standalone Python mirroring and EPUB conversion scripts that compile books into self-contained HTML resources.
+* **`assets/`**: Served chatbot assets — CSS, JS, the RAG chunk index, and the prebuilt embedding cache.
+* **`web_assets/`**: Source of truth for the chatbot CSS/JS (copied to `assets/` to publish).
+* **`scripts/`**: Contains standalone Python mirroring, EPUB conversion, chatbot index/embedding build, and wiring scripts.
 * **`AGENTS.md`**: Dedicated instructions for AI coding and reading agents detailing the environment, script execution, and structure.
 * **`CONTRIBUTING.md`**: Contributing guidelines specifying the automated, agent-led PR workflow.
 

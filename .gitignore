@@ -13,4 +13,17 @@ __pycache__/
 # Editor artifacts
 .vscode/
 *.swp
+*~
+*.un~
+*.swo
+
+# Graphify output
+graphify-out/
+
+# Node (chatbot embeddings build toolchain)
+scripts/node_modules/
+scripts/package-lock.json
+
+# Embedding build checkpoint cache (regenerable)
+assets/.embed_cache/
 
