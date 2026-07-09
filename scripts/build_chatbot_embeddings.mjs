@@ -8,8 +8,12 @@
  * (onnx-community/embeddinggemma-300m-ONNX), SAME quantization (q8), and
  * SAME pooling/normalization options as the browser-side chatbot.js, so the
  * vectors here are numerically identical to what the browser would compute.
- * Node has no WebGPU so we run on the CPU device via onnxruntime-node;
- * the q8 weights produce the same vectors regardless of execution provider.
+ *
+ * Execution device: defaults to "dml" (DirectML) on Windows when an NVIDIA
+ * GPU is present — onnxruntime-node ships DirectML.dll so this works without
+ * a CUDA toolkit install. Override with --device (cpu|dml|cuda). The q8
+ * weights produce identical vectors regardless of execution provider, so a
+ * GPU build and a CPU build are interchangeable.
  *
  * The reading library is English-only, so LANGS = ["en"] (one bucket).
  *
@@ -38,9 +42,12 @@
  *   cd scripts && npm install && node build_chatbot_embeddings.mjs
  *   # force a full rebuild:
  *   node build_chatbot_embeddings.mjs --clean
+ *   # force CPU (e.g. no GPU, or for a reproducible reference build):
+ *   node build_chatbot_embeddings.mjs --device cpu
  */
 
 import { createHash } from "node:crypto";
+import { execSync } from "node:child_process";
 import { readFile, writeFile, mkdir, rm } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { dirname, join } from "node:path";
@@ -101,8 +108,30 @@ function decodeCheckpoint(buf) {
   return { ids, vectors: new Float32Array(vectors), count: n }; // copy out of buffer
 }
 
+// Parse a --device <name> CLI flag. Defaults to DirectML on Windows when an
+// NVIDIA GPU is detected, otherwise CPU. Accepts cpu|dml|cuda|wasm.
+function resolveDevice() {
+  const idx = process.argv.indexOf("--device");
+  if (idx !== -1 && process.argv[idx + 1]) {
+    return process.argv[idx + 1];
+  }
+  // Auto: prefer DirectML on Windows + NVIDIA. onnxruntime-node ships
+  // DirectML.dll, so no CUDA toolkit install is needed.
+  if (process.platform === "win32") {
+    try {
+      const out = execSync("nvidia-smi -L", { stdio: ["ignore", "pipe", "ignore"] }).toString();
+      if (/NVIDIA/i.test(out)) return "dml";
+    } catch {
+      // nvidia-smi missing → no NVIDIA GPU; fall through to CPU.
+    }
+  }
+  return "cpu";
+}
+
 async function main() {
   const clean = process.argv.includes("--clean");
+  const device = resolveDevice();
+  console.log(`Embedding device: ${device}`);
   console.log("Loading chunk index...");
   const chunks = JSON.parse(await readFile(CHUNKS_PATH, "utf8"));
   if (!Array.isArray(chunks) || chunks.length === 0) {
@@ -162,10 +191,10 @@ async function main() {
     if (existing && existing.count >= subset.length) continue;
 
     if (!extractor) {
-      console.log("Loading embedding model (first run downloads ~300 MB)...");
+      console.log(`Loading embedding model on ${device} (first run downloads ~300 MB)...`);
       const { pipeline } = await import("@huggingface/transformers");
       extractor = await pipeline("feature-extraction", EMBED_MODEL_ID, {
-        device: "cpu",
+        device,
         dtype: "q8",
       });
       console.log("  model ready");

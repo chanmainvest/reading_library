@@ -33,6 +33,7 @@ const MODEL_OPTIONS = {
 
 const ACTIVE_MODEL = "gemma-4-e2b";
 const MAX_CONTEXT_CHARS = 6000;       // current-page slice in the system prompt
+const MAX_CHAPTER_CHARS = 20000;      // higher cap in "this chapter" scope
 const MAX_HISTORY_TURNS = 6;
 const MAX_NEW_TOKENS = 512;
 
@@ -65,22 +66,10 @@ const EMBED_BIN_LANGS = ["en"];       // reading library is English-only
 
 // Resolve the asset URL relative to the current page. The portal lives at
 // the repo root (assets/...) and book pages live at books/<slug>/
-// (../assets/...). Compute the prefix once from the page's <script src>.
-let ASSET_PREFIX = "assets/";
-(function detectAssetPrefix() {
-    const me = document.currentScript;
-    if (me && me.src) {
-        const m = me.src.match(/^(.*?)(?:web_assets|assets)\/chatbot\.js$/);
-        if (m && m[1]) {
-            // m[1] is the directory up to and including the repo root slash.
-            ASSET_PREFIX = m[1] + "assets/";
-            return;
-        }
-    }
-    // Fallback: book pages are one level deeper than the portal.
-    const path = window.location.pathname;
-    ASSET_PREFIX = /\/books\/[^/]+\/index\.html$/.test(path) ? "../assets/" : "assets/";
-})();
+// The SPA hosts the chatbot at the repo root, so assets are always at
+// "assets/". (Previously this was computed per-page because each book page
+// loaded the script from ../assets/; the SPA consolidates to one location.)
+const ASSET_PREFIX = "assets/";
 const CHUNKS_URL = ASSET_PREFIX + "chatbot_chunks.json";
 const EMBEDDINGS_BIN_URL = ASSET_PREFIX + "chatbot_embeddings.bin";
 
@@ -139,43 +128,76 @@ function tf(key, vars = {}) {
 }
 
 // ----- Page-context extraction --------------------------------------------
-// Book pages wrap content in <article>; the portal uses <main>. Read whichever
-// is present so the assistant has the right context on every page.
+// In the SPA, the active section's prose comes from window.RL. When a book is
+// open the SPA tracks the section in view via IntersectionObserver and exposes
+// its text; on the home view (no book) there is no priority context.
+// In "this chapter" scope the cap is higher so the model sees the whole
+// section (Gemma 4 E2B has a large context window); other scopes use the
+// tighter default since RAG excerpts supplement the priority context.
 function getActivePageText() {
-    const root = document.querySelector("article") || document.querySelector("main");
-    if (!root) return "";
-    let text = root.innerText || "";
-    text = text.replace(/\s+\n/g, "\n").replace(/\n{3,}/g, "\n\n").trim();
-    if (text.length > MAX_CONTEXT_CHARS) {
-        text = text.slice(0, MAX_CONTEXT_CHARS) + "\n…(truncated)";
+    if (window.RL && typeof window.RL.getActiveSectionText === "function") {
+        let text = window.RL.getActiveSectionText() || "";
+        text = text.replace(/\s+\n/g, "\n").replace(/\n{3,}/g, "\n\n").trim();
+        const cap = retrievalScope === "chapter" ? MAX_CHAPTER_CHARS : MAX_CONTEXT_CHARS;
+        if (text.length > cap) {
+            text = text.slice(0, cap) + "\n…(truncated)";
+        }
+        return text;
     }
-    return text;
+    return "";
 }
 
 async function buildSystemPrompt(userQuestion) {
     const pageText = getActivePageText() || t("no_book");
+    const hasBook = !!(window.RL && window.RL.getState && window.RL.getState().bookUrl);
     let retrieved = [];
     if (userQuestion) {
         retrieved = await retrieveContext(userQuestion);
     }
+    // Adapt the prompt to the active scope so the model knows where the
+    // supporting excerpts come from and how to weight them.
+    const scopeDesc = hasBook
+        ? (retrievalScope === "chapter"
+            ? "the CURRENT CHAPTER section"
+            : retrievalScope === "book"
+                ? "the CURRENT BOOK section"
+                : "the CURRENT BOOK section and RELEVANT EXCERPTS from across the library")
+        : "RELEVANT EXCERPTS from across the library";
     const blocks = [
         "You are an assistant for the Chanma Invest reading library, a curated",
         "collection of books on investing, financial history, banking, trading,",
         "commodities, and markets. Answer the user's question using ONLY the",
         "library material provided below.",
-        "Prefer the CURRENT BOOK section. Use the RELEVANT EXCERPTS only when the",
-        "current book does not cover the question, and cite the book title in",
-        'brackets when you draw on an excerpt (e.g. "[Book: The Big Short] …").',
+        `Prefer ${scopeDesc}.`,
+        "",
+        "The material the user is currently reading is provided under CURRENT",
+        "CHAPTER / CURRENT BOOK below. When the user gives a short instruction",
+        'with no object — such as "summarize", "key points", "explain", or',
+        '"what is this about" — apply it to THAT material, not the whole',
+        "library. Do not ask the user to provide text; the text is already",
+        "in this prompt.",
+    ];
+    if (retrievalScope === "all" || !hasBook) {
+        blocks.push(
+            "Use the RELEVANT EXCERPTS only when the current material does not",
+            "cover the question, and cite the book title in brackets when you",
+            'draw on an excerpt (e.g. "[Book: The Big Short] …").',
+        );
+    }
+    blocks.push(
         "If neither section covers the question, say so honestly rather than guessing.",
         "Reply in the same language the user uses. Keep answers concise (~200 words)",
         "unless the user explicitly asks for more detail.",
         "",
         t("current_page_header") + ":",
         pageText,
-    ];
+    );
     if (retrieved.length) {
         blocks.push("");
-        blocks.push(t("retrieved_header") + ":");
+        const header = (retrievalScope === "chapter" || retrievalScope === "book")
+            ? "RELEVANT EXCERPTS (FROM THIS " + retrievalScope.toUpperCase() + "):"
+            : t("retrieved_header") + ":";
+        blocks.push(header);
         for (const { chunk } of retrieved) {
             blocks.push(`[${chunk.title}] ${chunk.text}`);
         }
@@ -238,7 +260,10 @@ function applyInlineMarkdown(text, citeIdx) {
                     .replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">");
                 const url = linkifyCitation(label, citeIdx);
                 if (!url) return match;
-                return `<a href="${escapeAttr(url)}" target="_blank" rel="noreferrer noopener" class="chat-citation">Book: ${inner}</a>`;
+                // Repo-relative href (books/<slug>/index.html) — the SPA's
+                // click interceptor routes these through the hash router
+                // instead of navigating away, so the chatbot stays open.
+                return `<a href="${escapeAttr(url)}" class="chat-citation">Book: ${inner}</a>`;
             }
         );
     }
@@ -1027,7 +1052,50 @@ async function buildIndexFor(lang) {
     }
 }
 
-function cosineTopK(query, entry, k, excludeChunk) {
+// ----- Retrieval scope -----------------------------------------------------
+// The scope toggle controls which slice of the corpus the assistant searches
+// for retrieved excerpts. The SPA tracks the active book + section; these
+// values filter which chunks cosineTopK may return.
+//
+//   "chapter" → only chunks in the current section (this book, this sectionId)
+//   "book"    → only chunks in the current book
+//   "all"     → every chunk (cross-book)
+//
+// The current section's own text is ALWAYS injected as priority context in
+// buildSystemPrompt; the scope controls the RAG *retrieval* layer that adds
+// supporting excerpts from beyond the visible section.
+const SCOPE_MODES = ["chapter", "book", "all"];
+const SCOPE_LABELS = { chapter: "This chapter", book: "This book", all: "All books" };
+let retrievalScope = readPersistentScope() || "book";
+
+function readPersistentScope() {
+    try { return localStorage.getItem("chanma-rl-chat-scope") || null; }
+    catch { return null; }
+}
+function persistScope(mode) {
+    try { localStorage.setItem("chanma-rl-chat-scope", mode); } catch {}
+}
+
+// The chunk "url" for the current book, e.g. "books/the-big-short/index.html".
+// In the SPA this comes from window.RL.getState(); the URL no longer changes
+// on navigation so window.location is not consulted.
+function currentPageBookUrl() {
+    if (window.RL) {
+        const st = window.RL.getState();
+        if (st && st.bookUrl) return st.bookUrl;
+    }
+    return null;
+}
+
+function currentSectionId() {
+    if (window.RL) {
+        const st = window.RL.getState();
+        if (st && st.sectionId) return st.sectionId;
+    }
+    return null;
+}
+
+function cosineTopK(query, entry, k, filter) {
     const { ids, vectors, dim } = entry;
     if (!ids.length) return [];
     // Both query and stored vectors are L2-normalized → dot product = cosine.
@@ -1045,9 +1113,14 @@ function cosineTopK(query, entry, k, excludeChunk) {
         const id = ids[i];
         const chunk = allChunks[id];
         if (!chunk) continue;
-        if (excludeChunk && chunk.url === excludeChunk) continue;
+        // Apply scope filter.
+        if (filter) {
+            if (filter.bookUrl && chunk.url !== filter.bookUrl) continue;
+            if (filter.sectionId != null && chunk.sectionId !== filter.sectionId) continue;
+        }
         // Diversify: at most 2 chunks per source URL so a single book
-        // doesn't crowd out everything else.
+        // doesn't crowd out everything else. (In chapter/book scope there is
+        // only one URL anyway, so this is a no-op there.)
         const c = perUrlCount.get(chunk.url) || 0;
         if (c >= 2) continue;
         perUrlCount.set(chunk.url, c + 1);
@@ -1055,15 +1128,6 @@ function cosineTopK(query, entry, k, excludeChunk) {
         if (picked.length >= k) break;
     }
     return picked;
-}
-
-function currentPageUrl() {
-    const path = window.location.pathname;
-    const last = path.substring(path.lastIndexOf("/") + 1);
-    if (!last) return "index.html";
-    // Book pages live at books/<slug>/index.html; chunks store the
-    // repo-relative "books/<slug>/index.html". Match on the tail.
-    return last;
 }
 
 async function retrieveContext(question) {
@@ -1075,22 +1139,25 @@ async function retrieveContext(question) {
         const e = await loadEmbedder();
         const result = await e([question], { pooling: "mean", normalize: true });
         const queryVec = new Float32Array(result.data);
-        // Exclude chunks from the current book so retrieved excerpts come
-        // from OTHER books (the current book is already the priority context).
-        const cur = currentPageBookUrl();
-        return cosineTopK(queryVec, entry, TOP_K, cur);
+        // Build the scope filter from the active SPA state + the toggle.
+        // "all" → no filter (search the whole corpus).
+        // "book"/"chapter" → restrict to the current book; chapter further
+        //   restricts to the active sectionId. On the home view (no book)
+        //   there is nothing to scope to, so fall back to "all".
+        let filter = null;
+        const bookUrl = currentPageBookUrl();
+        const sectionId = currentSectionId();
+        if (retrievalScope !== "all" && bookUrl) {
+            filter = { bookUrl };
+            if (retrievalScope === "chapter" && sectionId) {
+                filter.sectionId = sectionId;
+            }
+        }
+        return cosineTopK(queryVec, entry, TOP_K, filter);
     } catch (err) {
         console.warn("retrieveContext failed", err);
         return [];
     }
-}
-
-// The chunk "url" for the current page, e.g. "books/the-big-short/index.html".
-function currentPageBookUrl() {
-    const path = window.location.pathname;
-    const m = path.match(/\/books\/([^/]+)\/index\.html$/);
-    if (m) return `books/${m[1]}/index.html`;
-    return null;
 }
 
 function ensureProgressUI(intro) {
@@ -1220,6 +1287,63 @@ function ensureComposer(panel) {
     return composer;
 }
 
+// Build the status-bar scope row: "Search:" label + 3 buttons (This chapter /
+// This book / All books) + an "unavailable" message shown when the index
+// isn't ready. The active button is highlighted; only one can be selected.
+function buildScopeBar() {
+    const bar = el("div", { class: "chat-scope-bar" });
+    bar.appendChild(el("span", { class: "chat-scope-label" }, "Search:"));
+    const btns = el("div", { class: "chat-scope-toggle", role: "group", "aria-label": "Search scope" });
+    for (const mode of SCOPE_MODES) {
+        const btn = el("button", {
+            type: "button",
+            class: "chat-scope-btn" + (mode === retrievalScope ? " active" : ""),
+            "data-scope": mode,
+            title: `Search ${SCOPE_LABELS[mode].toLowerCase()} for supporting excerpts`,
+            onclick: () => setScope(mode),
+        }, SCOPE_LABELS[mode]);
+        btns.appendChild(btn);
+    }
+    bar.appendChild(btns);
+    bar.appendChild(el("span", { class: "chat-scope-unavailable" }, "Search not available"));
+    return bar;
+}
+
+function setScope(mode) {
+    if (!SCOPE_MODES.includes(mode)) return;
+    retrievalScope = mode;
+    persistScope(mode);
+    const row = document.querySelector(".chat-scope-toggle");
+    if (row) {
+        row.querySelectorAll(".chat-scope-btn").forEach((b) => {
+            b.classList.toggle("active", b.getAttribute("data-scope") === mode);
+        });
+    }
+}
+
+// Refresh the scope bar's state: highlight the active button, disable
+// chapter/book when no book is open, and disable ALL buttons (showing
+// "Search not available") when the cross-book index isn't ready. Called
+// after SPA navigation and after index state changes.
+function refreshScopeBar() {
+    const bar = document.querySelector(".chat-scope-bar");
+    if (!bar) return;
+    const indexReady = getIndexState() === "ready";
+    const hasBook = !!(window.RL && window.RL.getState && window.RL.getState().bookUrl);
+    bar.classList.toggle("unavailable", !indexReady);
+    bar.querySelectorAll(".chat-scope-btn").forEach((b) => {
+        const mode = b.getAttribute("data-scope");
+        b.classList.toggle("active", mode === retrievalScope);
+        // Disabled when the index isn't ready, or when chapter/book are
+        // selected but no book is open.
+        let disabled = !indexReady;
+        if (!disabled && mode !== "all" && !hasBook) disabled = true;
+        b.disabled = disabled;
+        // If the active mode just became disabled, fall back to "all".
+        if (disabled && mode === retrievalScope && retrievalScope !== "all") setScope("all");
+    });
+}
+
 function setComposerEnabled(panel, enabled) {
     const composer = panel.querySelector(".chat-composer");
     if (!composer) return;
@@ -1343,8 +1467,7 @@ function buildPanel() {
     panel.appendChild(header);
 
     const statusBar = el("div", { class: "chat-status-bar" });
-    const chip = el("button", { class: "chat-index-chip", type: "button", onclick: () => onIndexChipClick() }, "");
-    statusBar.appendChild(chip);
+    statusBar.appendChild(buildScopeBar());
     panel.appendChild(statusBar);
 
     const body = el("div", { class: "chat-body" });
@@ -1396,31 +1519,32 @@ async function restoreLoadedSession(panel, body) {
     }
 }
 
+// Update the scope bar to reflect the current index state. When the index
+// isn't ready, the scope buttons are disabled and the "unavailable" span
+// shows the reason (building %, failed, or just "not available"). Clicking
+// the span when the index is none/error triggers a (re)build.
 function refreshIndexChip() {
-    const chip = document.querySelector(".chat-index-chip");
-    if (!chip) return;
+    const bar = document.querySelector(".chat-scope-bar");
+    if (!bar) return;
     const state = getIndexState();
-    chip.classList.remove("ready", "indexing", "none", "error");
-    chip.classList.add(state);
+    const unavail = bar.querySelector(".chat-scope-unavailable");
+    bar.classList.toggle("indexing", state === "indexing");
     if (state === "ready") {
-        chip.textContent = "✓ " + t("chip_ready");
-        chip.title = t("chip_ready_title");
-        chip.disabled = true;
+        bar.classList.remove("unavailable");
+        if (unavail) unavail.textContent = "";
     } else if (state === "indexing") {
+        bar.classList.add("unavailable");
         const p = langIndexProgress.get("en") || { done: 0, total: 0 };
         const pct = p.total ? Math.round(100 * p.done / p.total) : 0;
-        chip.textContent = `⏳ ${t("chip_indexing")} ${pct}%`;
-        chip.title = "";
-        chip.disabled = true;
+        if (unavail) unavail.textContent = `Indexing… ${pct}%`;
     } else if (state === "error") {
-        chip.textContent = "⚠ " + t("chip_error");
-        chip.title = t("chip_retry_title");
-        chip.disabled = false;
+        bar.classList.add("unavailable");
+        if (unavail) unavail.textContent = "Index failed — click to retry";
     } else {
-        chip.textContent = "○ " + t("chip_none");
-        chip.title = t("chip_index_title");
-        chip.disabled = false;
+        bar.classList.add("unavailable");
+        if (unavail) unavail.textContent = "Search not available";
     }
+    refreshScopeBar();
 }
 
 async function onIndexChipClick() {
@@ -1475,6 +1599,17 @@ async function autoRestorePanel() {
 document.addEventListener("DOMContentLoaded", () => {
     buildFab();
     autoRestorePanel().catch((err) => console.warn("autoRestorePanel failed", err));
+    // The SPA dispatches rl:sectionchange on book load, scroll, and home
+    // return. Refresh the scope bar so chapter/book are only enabled when a
+    // book is actually open, and the unavailable state tracks the index.
+    document.addEventListener("rl:sectionchange", () => { refreshIndexChip(); });
+    // Clicking the "Search not available" / error message triggers a build.
+    document.addEventListener("click", (e) => {
+        if (e.target.closest && e.target.closest(".chat-scope-unavailable")) {
+            onIndexChipClick();
+        }
+    });
+    refreshIndexChip();
 });
 
 document.addEventListener("selectionchange", updateMermaidSelectionFromPage);

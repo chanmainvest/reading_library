@@ -103,33 +103,36 @@ Converted from local ebook source (rights-approved), published as single-page HT
 To convert a rights-approved EPUB into the published `books/` layout, use:
 
 ```bash
-py scripts/convert_epub.py "E:\ebook\Books\path\book.epub" --slug book-slug
+uv run python scripts/convert_epub.py "E:\ebook\Books\path\book.epub" --slug book-slug
 ```
 
-For Kindle-format sources (AZW3/AZW/MOBI/KFX), use `scripts/convert_azw3.py`. It transcodes the file to EPUB via Calibre's `ebook-convert`, then compiles the same single-page HTML — output is identical to the EPUB path. Requires [Calibre](https://calibre-ebook.com/download) installed:
+For Kindle-format sources (AZW3/AZW/MOBI/KFX) or DJVU (scanned-document) sources, use `scripts/convert_azw3.py`. It transcodes the file to EPUB via Calibre's `ebook-convert`, then compiles the same single-page HTML — output is identical to the EPUB path. Requires [Calibre](https://calibre-ebook.com/download) installed:
 
 ```bash
-py scripts/convert_azw3.py "E:\ebook\Calibre Library\Author\Book (1)\Book - Author.azw3" --slug book-slug
+uv run python scripts/convert_azw3.py "E:\ebook\Calibre Library\Author\Book (1)\Book - Author.azw3" --slug book-slug
 ```
 
 ---
 
 ## 💬 On-Device AI Assistant
 
-Every page in the library carries a floating **AI** button (bottom-right) that opens an on-device assistant. It runs **entirely in the browser** via WebGPU — no question ever leaves the user's device.
+The library is a **single-page app**: a hash router (`#/` = home, `#/books/<slug>` = reader) loads book content into a persistent reader view, so the floating **AI** assistant stays open across book switches — its LLM pipeline, embeddings, and conversation history persist in memory. It runs **entirely in the browser** via WebGPU — no question ever leaves the user's device.
 
-- **Answers about the current book first**, then pulls relevant excerpts from other books in the library via cross-book retrieval (RAG).
+- **Top bar** shows a home icon, the book title, and the active chapter number + title (tracked as you scroll).
+- **Scope toggle** in the chat panel — *This chapter* / *This book* / *All books* — controls which slice of the corpus the assistant searches for supporting excerpts. The current section's text is always the priority context.
 - Powered by **Gemma 4 E2B** (~3.1 GB, downloaded once and cached) with **embeddinggemma-300m** for retrieval.
-- Cites other books by title (e.g. `[Book: The Big Short]`) and links to them.
+- Cites other books by title (e.g. `[Book: The Big Short]`) and links to them (routing through the SPA so the chatbot stays open).
 
-The assistant is wired into every page by `scripts/wire_chatbot.py`. When books are added or converted, regenerate the RAG index and re-wire:
+When books are added or converted, regenerate the RAG index and re-wire:
 
 ```bash
-py scripts/build_chatbot_index.py            # rebuild assets/chatbot_chunks.json
-cd scripts && node build_chatbot_embeddings.mjs   # rebuild assets/chatbot_embeddings.bin
-cp web_assets/chatbot.css web_assets/chatbot.js assets/
-py scripts/wire_chatbot.py                   # inject <link>/<script> into every page
+uv run python scripts/build_chatbot_index.py            # rebuild assets/chatbot_chunks.json (per-section)
+cd scripts && node build_chatbot_embeddings.mjs          # rebuild assets/chatbot_embeddings.bin (auto GPU)
+cp web_assets/spa.css web_assets/spa.js web_assets/chatbot.css web_assets/chatbot.js assets/
+uv run python scripts/wire_chatbot.py                   # wire SPA+chatbot into root; strip book pages
 ```
+
+The embedding build auto-selects **DirectML (GPU)** on Windows when an NVIDIA GPU is present, otherwise CPU — roughly a 10× speedup on a 3060 Ti. Override with `--device cpu|dml|cuda`. The q8 weights yield identical vectors on any device, so GPU and CPU builds are interchangeable.
 
 See [AGENTS.md](./AGENTS.md) for full architecture details.
 
@@ -138,10 +141,10 @@ See [AGENTS.md](./AGENTS.md) for full architecture details.
 ## 🛠️ Repository Ecosystem
 
 The repository is organized as follows:
-* **`index.html`** (Root): The main visual landing portal that connects both books and any future papers. Serves as the index for GitHub Pages (`github.io`).
-* **`books/`**: Published single-page book mirrors plus the catalog metadata.
-* **`assets/`**: Served chatbot assets — CSS, JS, the RAG chunk index, and the prebuilt embedding cache.
-* **`web_assets/`**: Source of truth for the chatbot CSS/JS (copied to `assets/` to publish).
+* **`index.html`** (Root): The SPA shell — hash router, home/reader views, top bar. Serves as the index for GitHub Pages (`github.io`).
+* **`books/`**: Published book content (fetched and injected by the SPA at runtime) plus the catalog metadata.
+* **`assets/`**: Served SPA + chatbot assets — `spa.{css,js}`, `chatbot.{css,js}`, the per-section RAG chunk index, and the prebuilt embedding cache.
+* **`web_assets/`**: Source of truth for the SPA/chatbot CSS/JS (copied to `assets/` to publish).
 * **`scripts/`**: Contains standalone Python mirroring, EPUB conversion, chatbot index/embedding build, and wiring scripts.
 * **`AGENTS.md`**: Dedicated instructions for AI coding and reading agents detailing the environment, script execution, and structure.
 * **`CONTRIBUTING.md`**: Contributing guidelines specifying the automated, agent-led PR workflow.
@@ -153,9 +156,9 @@ The repository is organized as follows:
 To refresh or update the books from their live sources, you can run the mirroring scripts in the `scripts/` folder using Python:
 
 ### Prerequisites
-Make sure you have `beautifulsoup4` and `lxml` installed in your Python environment:
+Python dependencies (`beautifulsoup4`, `lxml`) are resolved automatically by [uv](https://docs.astral.sh/uv/) via the project's `pyproject.toml` — no manual install needed. Install uv once:
 ```bash
-pip install beautifulsoup4 lxml
+pip install uv
 ```
 
 ### Run Scripts
@@ -163,10 +166,10 @@ Each script runs independently to fetch and rebuild its respective book:
 
 ```bash
 # Mirror and rebuild NatGas 101 (with custom SVG charts injection)
-py scripts/mirror_natgas101.py
+uv run python scripts/mirror_natgas101.py
 
 # Mirror and rebuild Oil 101
-py scripts/mirror_oil101.py
+uv run python scripts/mirror_oil101.py
 ```
 
 *Note: The scripts make use of `curl.exe` under the hood to fetch materials reliably on Windows environments.*

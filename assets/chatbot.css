@@ -518,6 +518,48 @@ body.chat-open .chat-fab { display: none; }
 }
 .chat-composer button svg { width: 18px; height: 18px; }
 
+/* --- Scope toggle (This chapter / This book / All books) --- */
+.chat-scope-toggle {
+    display: flex;
+    gap: 2px;
+    flex: 1 1 auto;
+    min-width: 0;
+    padding: 3px;
+    background: color-mix(in srgb, var(--chat-surface) 85%, #000 15%);
+    border: 1px solid var(--chat-border);
+    border-radius: 8px;
+}
+.chat-scope-btn {
+    flex: 1 1 0;
+    min-width: 0;
+    padding: 5px 6px;
+    border: none;
+    border-radius: 6px;
+    background: transparent;
+    color: var(--chat-muted);
+    font-size: 0.72rem;
+    font-weight: 500;
+    font-family: inherit;
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.chat-scope-btn:hover:not(:disabled) {
+    color: var(--chat-text);
+    background: color-mix(in srgb, var(--chat-surface) 70%, var(--chat-accent) 12%);
+}
+.chat-scope-btn.active {
+    background: var(--chat-accent);
+    color: #0b1120;
+    font-weight: 600;
+}
+.chat-scope-btn:disabled {
+    opacity: 0.35;
+    cursor: not-allowed;
+}
+
 /* --- Cross-book index controls --- */
 .chat-index-options {
     margin: 14px 0 4px;
@@ -557,50 +599,57 @@ body.chat-open .chat-fab { display: none; }
     color: var(--chat-muted);
 }
 
-/* --- Status bar with index chip --- */
+/* --- Status bar with scope selector --- */
 .chat-status-bar {
     display: flex;
-    justify-content: flex-end;
+    justify-content: stretch;
     align-items: center;
-    padding: 6px 12px;
+    padding: 6px 10px;
     border-bottom: 1px solid var(--chat-border);
     background: color-mix(in srgb, var(--chat-surface) 96%, var(--chat-accent) 4%);
     flex-shrink: 0;
 }
-.chat-index-chip {
-    display: inline-flex;
+/* Scope bar: "Search:" label + segmented buttons + unavailable message.
+ * Lives in the status bar; replaces the old single index chip. Uses the
+ * same font stack as the rest of the chatbot panel. */
+.chat-scope-bar {
+    display: flex;
     align-items: center;
-    gap: 4px;
-    padding: 3px 10px;
-    border-radius: 999px;
-    border: 1px solid var(--chat-border);
-    background: var(--chat-surface);
-    color: var(--chat-text);
+    gap: 6px;
+    width: 100%;
+    font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
+}
+.chat-scope-label {
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--chat-muted);
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+/* The segmented button group fills available width. */
+.chat-scope-bar .chat-scope-toggle {
+    flex: 1 1 auto;
+    margin: 0;
+}
+/* "Search not available" / indexing / error message. Hidden when the index
+ * is ready; otherwise replaces the button row visually. */
+.chat-scope-unavailable {
+    display: none;
+    flex: 1 1 auto;
     font-size: 0.74rem;
-    font-weight: 500;
+    color: var(--chat-muted);
+    font-style: italic;
     cursor: pointer;
-    font-family: inherit;
-    transition: background 0.15s ease, border-color 0.15s ease;
 }
-.chat-index-chip:hover:not(:disabled) {
-    background: color-mix(in srgb, var(--chat-accent) 12%, var(--chat-surface) 88%);
-    border-color: var(--chat-accent);
+.chat-scope-bar.unavailable .chat-scope-toggle { display: none; }
+.chat-scope-bar.unavailable .chat-scope-unavailable { display: block; }
+.chat-scope-bar.unavailable .chat-scope-unavailable:empty {
+    cursor: default;
 }
-.chat-index-chip:disabled { cursor: default; }
-.chat-index-chip.ready {
-    background: color-mix(in srgb, #2e7d32 22%, var(--chat-surface) 78%);
-    border-color: #2e7d32;
-    color: #a5d6a7;
-}
-.chat-index-chip.indexing {
-    background: color-mix(in srgb, var(--chat-gold) 22%, var(--chat-surface) 78%);
-    border-color: var(--chat-gold);
+.chat-scope-bar.indexing .chat-scope-unavailable {
     color: #ffd98a;
-}
-.chat-index-chip.error {
-    background: color-mix(in srgb, #c62828 22%, var(--chat-surface) 78%);
-    border-color: #c62828;
-    color: #ef9a9a;
+    font-style: normal;
+    cursor: default;
 }
 
 /* --- Mobile --- */

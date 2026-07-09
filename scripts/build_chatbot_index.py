@@ -2,13 +2,20 @@
 """Build the chatbot RAG chunk index for the reading library.
 
 Walks every published book in books/catalog.json, extracts the readable
-text from its single-page index.html (stripping nav, styles, scripts,
-image/svg wrappers, and the per-section kicker labels), splits it into
-~600-character overlapping chunks, and writes a single
-assets/chatbot_chunks.json containing records of the form::
+text from its single-page index.html **section by section** (stripping
+nav, styles, scripts, image/svg wrappers, and kicker labels), splits
+each section into ~1200-character overlapping chunks, and writes a
+single assets/chatbot_chunks.json containing records of the form::
 
     {"id": int, "lang": "en", "url": "books/<slug>/index.html",
-     "title": "<book title>", "author": "<author>", "text": "<chunk>"}
+     "title": "<book title>", "author": "<author>",
+     "sectionId": "<section id or ''>", "sectionTitle": "<heading or ''>",
+     "text": "<chunk>"}
+
+Carrying ``sectionId``/``sectionTitle`` per chunk is what lets the
+chatbot's scope toggle restrict retrieval to "this chapter": the SPA
+tracks the active ``<section>`` via IntersectionObserver and filters
+chunks by matching sectionId.
 
 The browser-side chatbot fetches this file, embeds chunks via an in-page
 embedding model (transformers.js), caches the embeddings in IndexedDB,
@@ -21,7 +28,7 @@ The reading library is English-only, so every chunk is tagged lang="en".
 The companion scripts/build_chatbot_embeddings.mjs uses a single "en"
 language bucket.
 
-Usage: py scripts/build_chatbot_index.py
+Usage: uv run python scripts/build_chatbot_index.py
 """
 from __future__ import annotations
 
@@ -90,19 +97,9 @@ def chunk_text(text: str, size: int = CHUNK_SIZE, overlap: int = CHUNK_OVERLAP) 
     return chunks
 
 
-def extract_text(html: str) -> str:
-    """Pull readable prose out of a book's single-page HTML.
-
-    Handles both layouts in the library:
-      * EPUB conversions: <article> wrapping <section class="epub-section">
-      * Web mirrors (oil101/natgas101): <section class="chapter"> with a
-        <nav class="toc"> and per-chapter titles.
-    Strips presentational chrome so embeddings are dense natural language.
-    """
-    doc = BeautifulSoup(html, "lxml")
-
-    # Drop subtrees that aren't prose. Collect first, then decompose, so the
-    # tree mutation doesn't invalidate live find_all() results mid-iteration.
+def _strip_chrome(doc) -> None:
+    """Remove non-prose subtrees in place. Collect-then-decompose so the
+    tree mutation doesn't invalidate live find_all() results mid-iteration."""
     to_remove = []
     for tag_name in STRIP_TAGS:
         to_remove.extend(doc.find_all(tag_name))
@@ -116,13 +113,67 @@ def extract_text(html: str) -> str:
     for node in to_remove:
         node.decompose()
 
-    # Prefer the main content container if present, else fall back to body.
-    root = doc.find("article") or doc.find("main") or doc.body or doc
-    text = root.get_text(separator="\n", strip=True)
-    # Collapse whitespace runs but keep paragraph breaks for chunk boundary hints.
+
+def _clean_text(text: str) -> str:
+    """Collapse whitespace runs but keep paragraph breaks for chunk hints."""
     text = re.sub(r"[ \t]+", " ", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
+
+
+def _section_title(section) -> str:
+    """Best-effort human title for a <section>.
+
+    EPUB conversions: <h2> (often echoes the kicker "Section N").
+    Mirrors: <h1 class="chapter-title"> ("A Brief History of Oil").
+    Falls back to '' when no heading is found.
+    """
+    h1ct = section.find("h1", class_="chapter-title")
+    if h1ct and h1ct.get_text(strip=True):
+        return h1ct.get_text(" ", strip=True)
+    h2 = section.find("h2")
+    if h2 and h2.get_text(strip=True):
+        return h2.get_text(" ", strip=True)
+    return ""
+
+
+def collect_sections(html: str) -> list[dict]:
+    """Return [{sectionId, sectionTitle, text}] for one book's HTML.
+
+    Each <section> (epub-section or chapter) becomes one entry; its text is
+    the section's prose after chrome is stripped. Any front matter that
+    precedes the first <section> (book title, byline, and content before the
+    first section) is captured as a single entry with sectionId="" so it is
+    still retrievable under this-book / all-books scopes.
+    """
+    doc = BeautifulSoup(html, "lxml")
+    _strip_chrome(doc)
+    # Sections can be direct children of <body> (mirrors like natgas101) or
+    # nested inside <article> (EPUB conversions). Search from body so both
+    # layouts are covered; the article/main wrapper is just structure.
+    root = doc.body or doc
+    sections = root.find_all("section")
+    out: list[dict] = []
+
+    if sections:
+        # Capture text before the first section (title/byline/front matter).
+        # Clone root, remove all sections, take what's left as the prefix.
+        import copy
+        prefix_root = copy.copy(root)
+        for s in prefix_root.find_all("section"):
+            s.decompose()
+        prefix_text = _clean_text(prefix_root.get_text(separator="\n", strip=True))
+        if prefix_text:
+            out.append({"sectionId": "", "sectionTitle": "", "text": prefix_text})
+
+    for section in sections:
+        sid = section.get("id", "") or ""
+        stitle = _section_title(section)
+        text = _clean_text(section.get_text(separator="\n", strip=True))
+        if text:
+            out.append({"sectionId": sid, "sectionTitle": stitle, "text": text})
+
+    return out
 
 
 def collect_chunks() -> list[dict]:
@@ -143,23 +194,26 @@ def collect_chunks() -> list[dict]:
         title = book.get("title", slug)
         author = book.get("author", "")
         try:
-            text = extract_text(html_path.read_text(encoding="utf-8"))
+            sections = collect_sections(html_path.read_text(encoding="utf-8"))
         except Exception as err:
             print(f"  warn: failed to parse {href}: {err}", file=sys.stderr)
             continue
         book_chunks = 0
-        for chunk in chunk_text(text):
-            records.append({
-                "id": next_id,
-                "lang": LANG,
-                "url": href,                # e.g. books/the-big-short/index.html
-                "title": title,
-                "author": author,
-                "text": chunk,
-            })
-            next_id += 1
-            book_chunks += 1
-        print(f"  {slug}: {len(text):,} chars -> {book_chunks} chunks")
+        for sec in sections:
+            for chunk in chunk_text(sec["text"]):
+                records.append({
+                    "id": next_id,
+                    "lang": LANG,
+                    "url": href,                # e.g. books/the-big-short/index.html
+                    "title": title,
+                    "author": author,
+                    "sectionId": sec["sectionId"],
+                    "sectionTitle": sec["sectionTitle"],
+                    "text": chunk,
+                })
+                next_id += 1
+                book_chunks += 1
+        print(f"  {slug}: {len(sections)} sections -> {book_chunks} chunks")
 
     return records
 

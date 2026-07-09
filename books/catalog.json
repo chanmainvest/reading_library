@@ -279,6 +279,21 @@
       "status": "epub_conversion",
       "sourceType": "azw3",
       "author": "Edward Chancellor"
+    },
+    {
+      "slug": "the-intelligent-investor",
+      "title": "The Intelligent Investor",
+      "author": "Benjamin Graham",
+      "href": "books/the-intelligent-investor/index.html",
+      "sourceType": "djvu",
+      "status": "epub_conversion"
+    },
+    {
+      "slug": "a-random-walk-down-wall-street",
+      "title": "A Random Walk Down Wall Street",
+      "author": "Burton G. Malkiel",
+      "href": "books/a-random-walk-down-wall-street/index.html",
+      "status": "epub_conversion"
     }
   ],
   "requestedBooks": [
@@ -324,8 +339,11 @@
     {
       "title": "The Intelligent Investor",
       "slug": "the-intelligent-investor",
-      "sourceStatus": "not_found",
-      "publicTextStatus": "not_available"
+      "sourceStatus": "local_djvu_converted",
+      "publicTextStatus": "published",
+      "author": "Benjamin Graham",
+      "href": "books/the-intelligent-investor/index.html",
+      "sourceType": "djvu"
     },
     {
       "title": "The Psychology of Money",
@@ -579,8 +597,10 @@
     {
       "title": "A Random Walk Down Wall Street",
       "slug": "a-random-walk-down-wall-street",
-      "sourceStatus": "not_found",
-      "publicTextStatus": "not_available"
+      "sourceStatus": "local_epub_converted",
+      "publicTextStatus": "published",
+      "author": "Burton G. Malkiel",
+      "href": "books/a-random-walk-down-wall-street/index.html"
     },
     {
       "title": "Stock Market Wizards",

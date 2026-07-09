@@ -424,9 +424,12 @@
     }
   </style>
   <link rel="stylesheet" href="assets/chatbot.css">
+  <link rel="stylesheet" href="assets/spa.css">
 </head>
 <body>
 
+  <!-- ═══ SPA: home view (portal / catalog) ═══ -->
+  <div id="view-home" class="active">
   <div class="container">
     <header>
       <div class="brand-pill">
@@ -502,7 +505,7 @@
           <a class="book-chip available" href="./books/the-ascent-of-money/index.html"><strong>The Ascent of Money</strong><span class="chip-status available">read html</span></a>
           <a class="book-chip available" href="./books/beating-the-street/index.html"><strong>Beating the Street</strong><span class="chip-status available">read html</span></a>
           <div class="book-chip"><strong>Market Wizards</strong><span class="chip-status">cataloged</span></div>
-          <div class="book-chip"><strong>The Intelligent Investor</strong><span class="chip-status">cataloged</span></div>
+          <a class="book-chip available" href="./books/the-intelligent-investor/index.html"><strong>The Intelligent Investor</strong><span class="chip-status available">read html</span></a>
           <a class="book-chip available" href="./books/the-psychology-of-money/index.html"><strong>The Psychology of Money</strong><span class="chip-status available">read html</span></a>
           <a class="book-chip available" href="./books/the-big-short/index.html"><strong>The Big Short</strong><span class="chip-status available">read html</span></a>
           <a class="book-chip available" href="./books/the-bond-king/index.html"><strong>The Bond King</strong><span class="chip-status available">read html</span></a>
@@ -534,7 +537,7 @@
           <a class="book-chip available" href="./books/poor-charlies-almanack/index.html"><strong>Poor Charlie&#x27;s Almanack</strong><span class="chip-status available">read html</span></a>
           <a class="book-chip available" href="./books/quantitative-momentum/index.html"><strong>Quantitative Momentum</strong><span class="chip-status available">read html</span></a>
           <a class="book-chip available" href="./books/reminiscences-of-a-stock-operator/index.html"><strong>Reminiscences of a Stock Operator</strong><span class="chip-status available">read html</span></a>
-          <div class="book-chip"><strong>A Random Walk Down Wall Street</strong><span class="chip-status">cataloged</span></div>
+          <a class="book-chip available" href="./books/a-random-walk-down-wall-street/index.html"><strong>A Random Walk Down Wall Street</strong><span class="chip-status available">read html</span></a>
           <a class="book-chip available" href="./books/stock-market-wizards/index.html"><strong>Stock Market Wizards</strong><span class="chip-status available">read html</span></a>
           <a class="book-chip available" href="./books/trading-like-a-stock-market-wizard/index.html"><strong>Trading Like a Stock Market Wizard</strong><span class="chip-status available">read html</span></a>
           <a class="book-chip available" href="./books/the-world-for-sale/index.html"><strong>The World for Sale</strong><span class="chip-status available">read html</span></a>
@@ -565,7 +568,25 @@
   <footer>
     &copy; 2026 Chanma Invest. Automated agent curation portal. All rights reserved.
   </footer>
+  </div><!-- /#view-home -->
 
+  <!-- ═══ SPA: reader view (book content loads here) ═══ -->
+  <div id="view-reader">
+    <div class="rl-topbar">
+      <button class="rl-home-btn" type="button" title="Back to library" aria-label="Home">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9.5L12 3l9 6.5"/><path d="M5 10v10h14V10"/><path d="M9 20v-6h6v6"/></svg>
+      </button>
+      <span class="rl-book-title"></span>
+      <span class="rl-sep" aria-hidden="true">·</span>
+      <span class="rl-chapter"></span>
+      <span class="rl-spacer"></span>
+    </div>
+    <div class="rl-reader" tabindex="0">
+      <div id="reader-content"></div>
+    </div>
+  </div>
+
+  <script type="module" src="assets/spa.js"></script>
   <script type="module" src="assets/chatbot.js" defer></script>
 </body>
 </html>
