@@ -85,6 +85,86 @@
       
       --heading-color: #0f172a;
       --card-title-color: #0f172a;
+      
+      /* Chatbot Light Theme Overrides */
+      --chat-bg: #ffffff;
+      --chat-surface: #f1f5f9;
+      --chat-surface-2: #e2e8f0;
+      --chat-text: #1e293b;
+      --chat-muted: #64748b;
+      --chat-heading: #0f172a;
+      --chat-accent: #0891b2;
+      --chat-accent-hover: #06b6d4;
+      --chat-gold: #d97706;
+      --chat-border: rgba(0, 0, 0, 0.08);
+      --chat-code-bg: rgba(0, 0, 0, 0.04);
+    }
+
+    /* Specific element overrides for chatbot in light theme */
+    html.light-theme .chat-msg.bot {
+      background: #f1f5f9;
+      color: #1e293b;
+      border-color: rgba(0, 0, 0, 0.08);
+    }
+    html.light-theme .chat-msg.bot.markdown-rendered code {
+      background: rgba(0, 0, 0, 0.05);
+      color: #0f172a;
+      border-color: rgba(0, 0, 0, 0.08);
+    }
+    html.light-theme .chat-msg.bot.markdown-rendered .chat-code-block {
+      background: #0f172a;
+      color: #e2e8f0;
+    }
+    html.light-theme .chat-msg.bot.markdown-rendered .chat-code-block code {
+      color: #e2e8f0;
+    }
+    html.light-theme .chat-msg.bot.markdown-rendered blockquote {
+      background: rgba(217, 119, 6, 0.08);
+      color: #475569;
+    }
+    html.light-theme .chat-msg.system {
+      color: #64748b;
+    }
+    html.light-theme .chat-mermaid-diagram {
+      background: #f8fafc;
+      border-color: rgba(0, 0, 0, 0.08);
+    }
+    html.light-theme .chat-mermaid-source {
+      background: #0f172a;
+      color: #e2e8f0;
+    }
+    html.light-theme .chat-mermaid-selection-status {
+      color: #64748b;
+    }
+    html.light-theme .chat-scope-toggle {
+      background: #e2e8f0;
+    }
+    html.light-theme .chat-scope-btn {
+      color: #64748b;
+    }
+    html.light-theme .chat-scope-btn:hover:not(:disabled) {
+      color: #0f172a;
+      background: rgba(0, 0, 0, 0.04);
+    }
+    html.light-theme .chat-scope-btn.active {
+      background: var(--chat-accent);
+      color: #ffffff;
+    }
+    html.light-theme .chat-composer {
+      background: #f1f5f9;
+      border-top: 1px solid rgba(0, 0, 0, 0.08);
+    }
+    html.light-theme .chat-composer textarea {
+      background: #ffffff;
+      color: #1e293b;
+      border-color: rgba(0, 0, 0, 0.12);
+    }
+    html.light-theme .chat-composer textarea:focus {
+      border-color: var(--chat-accent);
+    }
+    html.light-theme .chat-composer button:disabled {
+      background: #e2e8f0;
+      color: #94a3b8;
     }
 
     * {

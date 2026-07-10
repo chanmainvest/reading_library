@@ -4,6 +4,15 @@ Welcome to **chanmainvest/reading_library**, the investment reading pipeline for
 
 This repository is optimized primarily for **AI agent ingestion**, but it also provides a premium, highly responsive, human-readable offline browsing experience via GitHub Pages.
 
+👉 **[Access the Live Portal on GitHub Pages](https://chanmainvest.github.io/reading_library/)**
+
+### 🌐 Catalog Portal Features
+The redesigned catalog portal includes:
+- **Light/Dark Mode Toggle**: Persistent theme switcher bubble (Sun/Moon icons) styling both the catalog and the SPA reader/on-device chatbot.
+- **Standardized 3D Book Cards**: A visual grid of dynamic, realistic virtual book covers with creases, page edges, custom gradients, and emblems.
+- **Advanced Search & Filters**: Search catalog contents, filter dynamically by tag categories (e.g., Energy, Investing, Economics), sort by Title/Date, or toggle "Available to Read Only".
+- **Dynamic JSON Architecture**: Rendered entirely from a single source of truth database [books.json](books.json) with a safe offline-browse fallback.
+
 ---
 
 ## 📚 Currently Mirrored Materials

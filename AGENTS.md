@@ -12,6 +12,7 @@ chanmainvest/reading_library/
 ├── CONTRIBUTING.md         # Process guidelines (PR flows)
 ├── AGENTS.md               # This file (Agent instructions)
 ├── index.html              # SPA shell: hash router + home/reader views (GitHub Pages index)
+├── books.json              # Dynamic JSON catalog database (source of truth for catalog cards)
 ├── pyproject.toml          # Python deps (bs4, lxml) for uv run
 ├── books/                  # Published book content (fetched by the SPA at runtime)
 │   ├── catalog.json        # Public catalog/status metadata for requested books
@@ -85,7 +86,7 @@ uv run python scripts/wire_chatbot.py
 pages remain clean content sources for the SPA's fetch+inject path (a
 stray chatbot `<script>` on a book page would spawn a second instance).
 
-The chatbot CSS uses a **self-contained dark palette** (defined in `chatbot.css` `:root`) rather than inheriting the host page's tokens. The assistant looks identical in every view.
+The chatbot CSS uses a **self-contained dark palette** by default (defined in `chatbot.css` `:root`), but it includes dynamic overrides inside `index.html` that align its styling to the light theme when light mode is enabled (providing clear text and light surfaces while preserving dark code block backgrounds for syntax readability).
 
 ---
 
