@@ -3,271 +3,271 @@
     {
       "title": "Oil 101: Antigravity",
       "slug": "oil101",
-      "href": "books/oil101/index.html",
+      "href": "books/oil101/index.md",
       "status": "public_mirror"
     },
     {
       "title": "NatGas 101",
       "slug": "natgas101",
-      "href": "books/natgas101/index.html",
+      "href": "books/natgas101/index.md",
       "status": "public_mirror"
     },
     {
       "title": "The Ascent of Money",
       "slug": "the-ascent-of-money",
-      "href": "books/the-ascent-of-money/index.html",
+      "href": "books/the-ascent-of-money/index.md",
       "status": "epub_conversion",
       "author": "Niall Ferguson"
     },
     {
       "title": "Lords of Finance",
       "slug": "lords-of-finance",
-      "href": "books/lords-of-finance/index.html",
+      "href": "books/lords-of-finance/index.md",
       "status": "epub_conversion",
       "author": "Liaquat Ahamed"
     },
     {
       "title": "Material World",
       "slug": "material-world",
-      "href": "books/material-world/index.html",
+      "href": "books/material-world/index.md",
       "status": "epub_conversion",
       "author": "Ed Conway"
     },
     {
       "title": "The World for Sale",
       "slug": "the-world-for-sale",
-      "href": "books/the-world-for-sale/index.html",
+      "href": "books/the-world-for-sale/index.md",
       "status": "epub_conversion",
       "author": "Javier Blas and Jack Farchy"
     },
     {
       "title": "Antifragile",
       "slug": "antifragile",
-      "href": "books/antifragile/index.html",
+      "href": "books/antifragile/index.md",
       "status": "epub_conversion",
       "author": "Nassim Nicholas Taleb"
     },
     {
       "title": "Beating the Street",
       "slug": "beating-the-street",
-      "href": "books/beating-the-street/index.html",
+      "href": "books/beating-the-street/index.md",
       "status": "epub_conversion",
       "author": "Peter Lynch"
     },
     {
       "title": "The Psychology of Money",
       "slug": "the-psychology-of-money",
-      "href": "books/the-psychology-of-money/index.html",
+      "href": "books/the-psychology-of-money/index.md",
       "status": "epub_conversion",
       "author": "Morgan Housel"
     },
     {
       "title": "The Big Short",
       "slug": "the-big-short",
-      "href": "books/the-big-short/index.html",
+      "href": "books/the-big-short/index.md",
       "status": "epub_conversion",
       "author": "Michael Lewis"
     },
     {
       "title": "The Bond King",
       "slug": "the-bond-king",
-      "href": "books/the-bond-king/index.html",
+      "href": "books/the-bond-king/index.md",
       "status": "epub_conversion",
       "author": "Mary Childs"
     },
     {
       "title": "The Case for Gold",
       "slug": "the-case-for-gold",
-      "href": "books/the-case-for-gold/index.html",
+      "href": "books/the-case-for-gold/index.md",
       "status": "epub_conversion",
       "author": "Ron Paul"
     },
     {
       "title": "Central Banking 101",
       "slug": "central-banking-101",
-      "href": "books/central-banking-101/index.html",
+      "href": "books/central-banking-101/index.md",
       "status": "epub_conversion",
       "author": "Joseph Wang"
     },
     {
       "title": "Common Stocks and Uncommon Profits",
       "slug": "common-stocks-and-uncommon-profits",
-      "href": "books/common-stocks-and-uncommon-profits/index.html",
+      "href": "books/common-stocks-and-uncommon-profits/index.md",
       "status": "epub_conversion",
       "author": "Philip A. Fisher"
     },
     {
       "title": "Debt",
       "slug": "debt",
-      "href": "books/debt/index.html",
+      "href": "books/debt/index.md",
       "status": "epub_conversion",
       "author": "David Graeber"
     },
     {
       "title": "The Deficit Myth",
       "slug": "the-deficit-myth",
-      "href": "books/the-deficit-myth/index.html",
+      "href": "books/the-deficit-myth/index.md",
       "status": "epub_conversion",
       "author": "Stephanie Kelton"
     },
     {
       "title": "The End of Indexing",
       "slug": "the-end-of-indexing",
-      "href": "books/the-end-of-indexing/index.html",
+      "href": "books/the-end-of-indexing/index.md",
       "status": "epub_conversion",
       "author": "Niels Joachim Gormsen"
     },
     {
       "title": "The Euro",
       "slug": "the-euro",
-      "href": "books/the-euro/index.html",
+      "href": "books/the-euro/index.md",
       "status": "epub_conversion",
       "author": "Stiglitz, Joseph E."
     },
     {
       "title": "Flash Boys",
       "slug": "flash-boys",
-      "href": "books/flash-boys/index.html",
+      "href": "books/flash-boys/index.md",
       "status": "epub_conversion",
       "author": "Lewis, Michael"
     },
     {
       "title": "Going Infinite",
       "slug": "going-infinite",
-      "href": "books/going-infinite/index.html",
+      "href": "books/going-infinite/index.md",
       "status": "epub_conversion",
       "author": "Michael Lewis"
     },
     {
       "title": "Hoodwinked",
       "slug": "hoodwinked",
-      "href": "books/hoodwinked/index.html",
+      "href": "books/hoodwinked/index.md",
       "status": "epub_conversion",
       "author": "John Perkins"
     },
     {
       "title": "How to Listen When Markets Speak",
       "slug": "how-to-listen-when-markets-speak",
-      "href": "books/how-to-listen-when-markets-speak/index.html",
+      "href": "books/how-to-listen-when-markets-speak/index.md",
       "status": "epub_conversion",
       "author": "Lawrence G. McDonald"
     },
     {
       "title": "How to Make Money in Stocks",
       "slug": "how-to-make-money-in-stocks",
-      "href": "books/how-to-make-money-in-stocks/index.html",
+      "href": "books/how-to-make-money-in-stocks/index.md",
       "status": "epub_conversion",
       "author": "William J. O'Neil"
     },
     {
       "title": "The Intelligent Option Investor",
       "slug": "the-intelligent-option-investor",
-      "href": "books/the-intelligent-option-investor/index.html",
+      "href": "books/the-intelligent-option-investor/index.md",
       "status": "epub_conversion",
       "author": "Erik Kobayashi-Solomon"
     },
     {
       "title": "The Intelligent REIT Investor Guide",
       "slug": "the-intelligent-reit-investor-guide",
-      "href": "books/the-intelligent-reit-investor-guide/index.html",
+      "href": "books/the-intelligent-reit-investor-guide/index.md",
       "status": "epub_conversion",
       "author": "Thomas, Brad"
     },
     {
       "title": "Liar's Poker",
       "slug": "liars-poker",
-      "href": "books/liars-poker/index.html",
+      "href": "books/liars-poker/index.md",
       "status": "epub_conversion",
       "author": "Michael Lewis"
     },
     {
       "title": "Lying for Money",
       "slug": "lying-for-money",
-      "href": "books/lying-for-money/index.html",
+      "href": "books/lying-for-money/index.md",
       "status": "epub_conversion",
       "author": "Dan Davies"
     },
     {
       "title": "The Money Culture",
       "slug": "the-money-culture",
-      "href": "books/the-money-culture/index.html",
+      "href": "books/the-money-culture/index.md",
       "status": "epub_conversion",
       "author": "Michael Lewis"
     },
     {
       "title": "The Next Millionaire Next Door",
       "slug": "the-next-millionaire-next-door",
-      "href": "books/the-next-millionaire-next-door/index.html",
+      "href": "books/the-next-millionaire-next-door/index.md",
       "status": "epub_conversion",
       "author": "Ph. J. D. Stanley"
     },
     {
       "title": "The Next Perfect Trade",
       "slug": "the-next-perfect-trade",
-      "href": "books/the-next-perfect-trade/index.html",
+      "href": "books/the-next-perfect-trade/index.md",
       "status": "epub_conversion",
       "author": "Alex Gurevich"
     },
     {
       "title": "One Up on Wall Street",
       "slug": "one-up-on-wall-street",
-      "href": "books/one-up-on-wall-street/index.html",
+      "href": "books/one-up-on-wall-street/index.md",
       "status": "epub_conversion",
       "author": "Peter Lynch"
     },
     {
       "title": "Poor Charlie's Almanack",
       "slug": "poor-charlies-almanack",
-      "href": "books/poor-charlies-almanack/index.html",
+      "href": "books/poor-charlies-almanack/index.md",
       "status": "epub_conversion",
       "author": "Charles T. Munger"
     },
     {
       "title": "Quantitative Momentum",
       "slug": "quantitative-momentum",
-      "href": "books/quantitative-momentum/index.html",
+      "href": "books/quantitative-momentum/index.md",
       "status": "epub_conversion",
       "author": "Gray, Wesley R.,Vogel, Jack R."
     },
     {
       "title": "Reminiscences of a Stock Operator",
       "slug": "reminiscences-of-a-stock-operator",
-      "href": "books/reminiscences-of-a-stock-operator/index.html",
+      "href": "books/reminiscences-of-a-stock-operator/index.md",
       "status": "epub_conversion",
       "author": "Edwin Lefèvre"
     },
     {
       "title": "Stock Market Wizards",
       "slug": "stock-market-wizards",
-      "href": "books/stock-market-wizards/index.html",
+      "href": "books/stock-market-wizards/index.md",
       "status": "epub_conversion",
       "author": "Jack D. Schwager"
     },
     {
       "title": "The Little Book That Beats the Market",
       "slug": "the-little-book-that-beats-the-market",
-      "href": "books/the-little-book-that-beats-the-market/index.html",
+      "href": "books/the-little-book-that-beats-the-market/index.md",
       "status": "epub_conversion",
       "author": "Joel Greenblatt"
     },
     {
       "title": "The Little Book of Common Sense Investing",
       "slug": "the-little-book-of-common-sense-investing",
-      "href": "books/the-little-book-of-common-sense-investing/index.html",
+      "href": "books/the-little-book-of-common-sense-investing/index.md",
       "status": "epub_conversion",
       "author": "John C. Bogle"
     },
     {
       "title": "Trading Like a Stock Market Wizard",
       "slug": "trading-like-a-stock-market-wizard",
-      "href": "books/trading-like-a-stock-market-wizard/index.html",
+      "href": "books/trading-like-a-stock-market-wizard/index.md",
       "status": "epub_conversion",
       "author": "Minervini, Mark"
     },
     {
       "title": "The Gray Rhino",
       "slug": "the-gray-rhino",
-      "href": "books/the-gray-rhino/index.html",
+      "href": "books/the-gray-rhino/index.md",
       "status": "epub_conversion",
       "sourceType": "azw3",
       "author": "Michele Wucker"
@@ -275,7 +275,7 @@
     {
       "title": "The Price of Time",
       "slug": "the-price-of-time",
-      "href": "books/the-price-of-time/index.html",
+      "href": "books/the-price-of-time/index.md",
       "status": "epub_conversion",
       "sourceType": "azw3",
       "author": "Edward Chancellor"
@@ -284,7 +284,7 @@
       "slug": "the-intelligent-investor",
       "title": "The Intelligent Investor",
       "author": "Benjamin Graham",
-      "href": "books/the-intelligent-investor/index.html",
+      "href": "books/the-intelligent-investor/index.md",
       "sourceType": "djvu",
       "status": "epub_conversion"
     },
@@ -292,7 +292,7 @@
       "slug": "a-random-walk-down-wall-street",
       "title": "A Random Walk Down Wall Street",
       "author": "Burton G. Malkiel",
-      "href": "books/a-random-walk-down-wall-street/index.html",
+      "href": "books/a-random-walk-down-wall-street/index.md",
       "status": "epub_conversion"
     }
   ],
@@ -301,7 +301,7 @@
       "title": "The Price of Time",
       "slug": "the-price-of-time",
       "author": "Edward Chancellor",
-      "href": "books/the-price-of-time/index.html",
+      "href": "books/the-price-of-time/index.md",
       "sourceStatus": "local_epub_converted",
       "sourceType": "azw3",
       "publicTextStatus": "published"
@@ -310,7 +310,7 @@
       "title": "Antifragile",
       "slug": "antifragile",
       "author": "Nassim Nicholas Taleb",
-      "href": "books/antifragile/index.html",
+      "href": "books/antifragile/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -318,7 +318,7 @@
       "title": "The Ascent of Money",
       "slug": "the-ascent-of-money",
       "author": "Niall Ferguson",
-      "href": "books/the-ascent-of-money/index.html",
+      "href": "books/the-ascent-of-money/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -326,7 +326,7 @@
       "title": "Beating the Street",
       "slug": "beating-the-street",
       "author": "Peter Lynch",
-      "href": "books/beating-the-street/index.html",
+      "href": "books/beating-the-street/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -342,14 +342,14 @@
       "sourceStatus": "local_djvu_converted",
       "publicTextStatus": "published",
       "author": "Benjamin Graham",
-      "href": "books/the-intelligent-investor/index.html",
+      "href": "books/the-intelligent-investor/index.md",
       "sourceType": "djvu"
     },
     {
       "title": "The Psychology of Money",
       "slug": "the-psychology-of-money",
       "author": "Morgan Housel",
-      "href": "books/the-psychology-of-money/index.html",
+      "href": "books/the-psychology-of-money/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -357,7 +357,7 @@
       "title": "The Big Short",
       "slug": "the-big-short",
       "author": "Michael Lewis",
-      "href": "books/the-big-short/index.html",
+      "href": "books/the-big-short/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -365,7 +365,7 @@
       "title": "The Bond King",
       "slug": "the-bond-king",
       "author": "Mary Childs",
-      "href": "books/the-bond-king/index.html",
+      "href": "books/the-bond-king/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -373,7 +373,7 @@
       "title": "The Case for Gold",
       "slug": "the-case-for-gold",
       "author": "Ron Paul",
-      "href": "books/the-case-for-gold/index.html",
+      "href": "books/the-case-for-gold/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -381,7 +381,7 @@
       "title": "Central Banking 101",
       "slug": "central-banking-101",
       "author": "Joseph Wang",
-      "href": "books/central-banking-101/index.html",
+      "href": "books/central-banking-101/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -389,7 +389,7 @@
       "title": "Common Stocks and Uncommon Profits",
       "slug": "common-stocks-and-uncommon-profits",
       "author": "Philip A. Fisher",
-      "href": "books/common-stocks-and-uncommon-profits/index.html",
+      "href": "books/common-stocks-and-uncommon-profits/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -397,7 +397,7 @@
       "title": "Debt",
       "slug": "debt",
       "author": "David Graeber",
-      "href": "books/debt/index.html",
+      "href": "books/debt/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -405,7 +405,7 @@
       "title": "The Deficit Myth",
       "slug": "the-deficit-myth",
       "author": "Stephanie Kelton",
-      "href": "books/the-deficit-myth/index.html",
+      "href": "books/the-deficit-myth/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -413,7 +413,7 @@
       "title": "The End of Indexing",
       "slug": "the-end-of-indexing",
       "author": "Niels Joachim Gormsen",
-      "href": "books/the-end-of-indexing/index.html",
+      "href": "books/the-end-of-indexing/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -421,7 +421,7 @@
       "title": "The Euro",
       "slug": "the-euro",
       "author": "Stiglitz, Joseph E.",
-      "href": "books/the-euro/index.html",
+      "href": "books/the-euro/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -429,7 +429,7 @@
       "title": "Flash Boys",
       "slug": "flash-boys",
       "author": "Lewis, Michael",
-      "href": "books/flash-boys/index.html",
+      "href": "books/flash-boys/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -437,7 +437,7 @@
       "title": "Going Infinite",
       "slug": "going-infinite",
       "author": "Michael Lewis",
-      "href": "books/going-infinite/index.html",
+      "href": "books/going-infinite/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -445,7 +445,7 @@
       "title": "The Gray Rhino",
       "slug": "the-gray-rhino",
       "author": "Michele Wucker",
-      "href": "books/the-gray-rhino/index.html",
+      "href": "books/the-gray-rhino/index.md",
       "sourceStatus": "local_epub_converted",
       "sourceType": "azw3",
       "publicTextStatus": "published"
@@ -454,7 +454,7 @@
       "title": "Hoodwinked",
       "slug": "hoodwinked",
       "author": "John Perkins",
-      "href": "books/hoodwinked/index.html",
+      "href": "books/hoodwinked/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -462,7 +462,7 @@
       "title": "How to Listen When Markets Speak",
       "slug": "how-to-listen-when-markets-speak",
       "author": "Lawrence G. McDonald",
-      "href": "books/how-to-listen-when-markets-speak/index.html",
+      "href": "books/how-to-listen-when-markets-speak/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -470,7 +470,7 @@
       "title": "How to Make Money in Stocks",
       "slug": "how-to-make-money-in-stocks",
       "author": "William J. O'Neil",
-      "href": "books/how-to-make-money-in-stocks/index.html",
+      "href": "books/how-to-make-money-in-stocks/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -478,7 +478,7 @@
       "title": "The Intelligent Option Investor",
       "slug": "the-intelligent-option-investor",
       "author": "Erik Kobayashi-Solomon",
-      "href": "books/the-intelligent-option-investor/index.html",
+      "href": "books/the-intelligent-option-investor/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -486,7 +486,7 @@
       "title": "The Intelligent REIT Investor Guide",
       "slug": "the-intelligent-reit-investor-guide",
       "author": "Thomas, Brad",
-      "href": "books/the-intelligent-reit-investor-guide/index.html",
+      "href": "books/the-intelligent-reit-investor-guide/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -494,7 +494,7 @@
       "title": "Liar's Poker",
       "slug": "liars-poker",
       "author": "Michael Lewis",
-      "href": "books/liars-poker/index.html",
+      "href": "books/liars-poker/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -502,7 +502,7 @@
       "title": "The Little Book That Beats the Market",
       "slug": "the-little-book-that-beats-the-market",
       "author": "Joel Greenblatt",
-      "href": "books/the-little-book-that-beats-the-market/index.html",
+      "href": "books/the-little-book-that-beats-the-market/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -510,7 +510,7 @@
       "title": "The Little Book of Common Sense Investing",
       "slug": "the-little-book-of-common-sense-investing",
       "author": "John C. Bogle",
-      "href": "books/the-little-book-of-common-sense-investing/index.html",
+      "href": "books/the-little-book-of-common-sense-investing/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -518,7 +518,7 @@
       "title": "Lords of Finance",
       "slug": "lords-of-finance",
       "author": "Liaquat Ahamed",
-      "href": "books/lords-of-finance/index.html",
+      "href": "books/lords-of-finance/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -526,7 +526,7 @@
       "title": "Lying for Money",
       "slug": "lying-for-money",
       "author": "Dan Davies",
-      "href": "books/lying-for-money/index.html",
+      "href": "books/lying-for-money/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -534,7 +534,7 @@
       "title": "Material World",
       "slug": "material-world",
       "author": "Ed Conway",
-      "href": "books/material-world/index.html",
+      "href": "books/material-world/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -542,7 +542,7 @@
       "title": "The Money Culture",
       "slug": "the-money-culture",
       "author": "Michael Lewis",
-      "href": "books/the-money-culture/index.html",
+      "href": "books/the-money-culture/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -550,7 +550,7 @@
       "title": "The Next Millionaire Next Door",
       "slug": "the-next-millionaire-next-door",
       "author": "Ph. J. D. Stanley",
-      "href": "books/the-next-millionaire-next-door/index.html",
+      "href": "books/the-next-millionaire-next-door/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -558,7 +558,7 @@
       "title": "The Next Perfect Trade",
       "slug": "the-next-perfect-trade",
       "author": "Alex Gurevich",
-      "href": "books/the-next-perfect-trade/index.html",
+      "href": "books/the-next-perfect-trade/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -566,7 +566,7 @@
       "title": "One Up on Wall Street",
       "slug": "one-up-on-wall-street",
       "author": "Peter Lynch",
-      "href": "books/one-up-on-wall-street/index.html",
+      "href": "books/one-up-on-wall-street/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -574,7 +574,7 @@
       "title": "Poor Charlie's Almanack",
       "slug": "poor-charlies-almanack",
       "author": "Charles T. Munger",
-      "href": "books/poor-charlies-almanack/index.html",
+      "href": "books/poor-charlies-almanack/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -582,7 +582,7 @@
       "title": "Quantitative Momentum",
       "slug": "quantitative-momentum",
       "author": "Gray, Wesley R.,Vogel, Jack R.",
-      "href": "books/quantitative-momentum/index.html",
+      "href": "books/quantitative-momentum/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -590,7 +590,7 @@
       "title": "Reminiscences of a Stock Operator",
       "slug": "reminiscences-of-a-stock-operator",
       "author": "Edwin Lefèvre",
-      "href": "books/reminiscences-of-a-stock-operator/index.html",
+      "href": "books/reminiscences-of-a-stock-operator/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -600,13 +600,13 @@
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published",
       "author": "Burton G. Malkiel",
-      "href": "books/a-random-walk-down-wall-street/index.html"
+      "href": "books/a-random-walk-down-wall-street/index.md"
     },
     {
       "title": "Stock Market Wizards",
       "slug": "stock-market-wizards",
       "author": "Jack D. Schwager",
-      "href": "books/stock-market-wizards/index.html",
+      "href": "books/stock-market-wizards/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -614,7 +614,7 @@
       "title": "Trading Like a Stock Market Wizard",
       "slug": "trading-like-a-stock-market-wizard",
       "author": "Minervini, Mark",
-      "href": "books/trading-like-a-stock-market-wizard/index.html",
+      "href": "books/trading-like-a-stock-market-wizard/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     },
@@ -622,7 +622,7 @@
       "title": "The World for Sale",
       "slug": "the-world-for-sale",
       "author": "Javier Blas and Jack Farchy",
-      "href": "books/the-world-for-sale/index.html",
+      "href": "books/the-world-for-sale/index.md",
       "sourceStatus": "local_epub_converted",
       "publicTextStatus": "published"
     }

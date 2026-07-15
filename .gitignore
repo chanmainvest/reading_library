@@ -27,3 +27,12 @@ scripts/package-lock.json
 # Embedding build checkpoint cache (regenerable)
 assets/.embed_cache/
 
+# Editor / scratch artifacts
+.cursor/
+.zcode/
+.obsidian/
+
+# Local debug logs
+*.err
+scripts/*_err.txt
+

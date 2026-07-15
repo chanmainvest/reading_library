@@ -1,4 +1,4 @@
-"""Convert a local EPUB into one published, single-page HTML file.
+"""Convert a local EPUB into one published markdown book file.
 
 This converter is for EPUB files that the repository owner has rights to
 convert and publish in this personal reading-library repository. It does not
@@ -11,7 +11,6 @@ from __future__ import annotations
 
 import argparse
 import hashlib
-import html
 import posixpath
 import re
 import sys
@@ -22,6 +21,8 @@ from urllib.parse import unquote, urlparse
 from xml.etree import ElementTree as ET
 
 from bs4 import BeautifulSoup, XMLParsedAsHTMLWarning
+
+from book_markdown import build_book_markdown, html_fragment_to_markdown, write_book_markdown
 
 
 warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
@@ -163,7 +164,7 @@ def convert_epub(
                 spine_paths.append(internal_path)
 
         spine_anchor_map = {path: f"section-{index + 1}" for index, path in enumerate(spine_paths)}
-        sections: list[str] = []
+        sections: list[dict] = []
 
         for index, internal_path in enumerate(spine_paths, 1):
             document = BeautifulSoup(read_text(epub_zip, internal_path), "lxml")
@@ -197,49 +198,36 @@ def convert_epub(
             body = document.body or document
             heading = body.find(["h1", "h2", "h3"])
             section_title = heading.get_text(" ", strip=True) if heading else f"Section {index}"
+            body_md = html_fragment_to_markdown(body.decode_contents())
+            if section_title and not body_md.lstrip().startswith("#"):
+                body_md = f"## {section_title}\n\n{body_md}".strip()
             sections.append(
-                f'<section id="section-{index}" class="epub-section">'
-                f'<div class="section-kicker">Section {index}</div>'
-                f'<h2>{html.escape(section_title)}</h2>'
-                f'{body.decode_contents()}'
-                f'</section>'
+                {
+                    "id": f"section-{index}",
+                    "class": "epub-section",
+                    "kicker": f"Section {index}",
+                    "title": section_title,
+                    "body_md": body_md,
+                }
             )
 
-        page = f"""<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{html.escape(display_title)}</title>
-<meta name="description" content="Single-page EPUB conversion of {html.escape(display_title)} for the Chanma Invest reading library.">
-<style>
-:root {{ --bg: #ffffff; --fg: #171717; --muted: #666666; --rule: #e5e5e5; --accent: #0a4f6b; }}
-body {{ max-width: 760px; margin: 0 auto; padding: 2rem 1.25rem 6rem; font-family: Georgia, 'Times New Roman', serif; font-size: 18px; line-height: 1.65; color: var(--fg); background: var(--bg); }}
-img, svg {{ max-width: 100%; height: auto; }}
-a {{ color: var(--accent); }}
-.book-sub, .section-kicker {{ color: var(--muted); }}
-.book-sub {{ margin-bottom: 3rem; font-style: italic; }}
-.epub-section {{ margin: 4rem 0; padding-top: 2rem; border-top: 1px solid var(--rule); }}
-.section-kicker {{ text-transform: uppercase; letter-spacing: .14em; font-size: .75rem; }}
-@media (prefers-color-scheme: dark) {{ :root {{ --bg: #111111; --fg: #eeeeee; --muted: #999999; --rule: #333333; --accent: #7ec0d8; }} }}
-</style>
-</head>
-<body>
-<article>
-<h1>{html.escape(display_title)}</h1>
-<p class="book-sub">{html.escape(display_creator)} &middot; single-page EPUB conversion</p>
-{''.join(sections)}
-</article>
-</body>
-</html>
-"""
+        preamble = (
+            f"# {display_title}\n\n"
+            f"*{display_creator} · single-page EPUB conversion*"
+        )
+        page = build_book_markdown(
+            title=display_title,
+            author=display_creator,
+            source="single-page EPUB conversion",
+            preamble_md=preamble,
+            sections=sections,
+        )
         output_dir.mkdir(parents=True, exist_ok=True)
-        (output_dir / "index.html").write_text(page, encoding="utf-8")
-        return output_dir / "index.html"
+        return write_book_markdown(output_dir / "index.md", page)
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Convert a local EPUB to published single-page HTML.")
+    parser = argparse.ArgumentParser(description="Convert a local EPUB to published markdown.")
     parser.add_argument("epub", type=Path, help="Path to a local EPUB file")
     parser.add_argument("--slug", help="Output book slug. Defaults to a slugified EPUB title.")
     parser.add_argument("--title", help="Display title override for the generated page.")
@@ -252,8 +240,8 @@ def main() -> int:
     )
     args = parser.parse_args()
 
-    output_html = convert_epub(args.epub, args.output_root, args.slug, args.title, args.creator)
-    print(output_html)
+    output_md = convert_epub(args.epub, args.output_root, args.slug, args.title, args.creator)
+    print(output_md)
     return 0
 
 

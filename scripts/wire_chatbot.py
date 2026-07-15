@@ -10,7 +10,8 @@ otherwise two chatbot instances would compete. This script:
     * ensures the root index.html loads spa.css, chatbot.css, spa.js, and
       chatbot.js (idempotent);
     * strips any chatbot <link>/<script> from every books/<slug>/index.html
-      so they remain clean content sources for the SPA's fetch+inject path.
+      (legacy HTML books only) so they remain clean content sources for the
+      SPA's fetch+inject path.
 
 Run after adding/converting books or after updating web_assets/. The
 web_assets/ copies are the source of truth; pair this with a sync of

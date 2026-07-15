@@ -1,0 +1,2 @@
+assets/chatbot_embeddings.bin filter=lfs diff=lfs merge=lfs -text
+assets/chatbot_chunks.json filter=lfs diff=lfs merge=lfs -text

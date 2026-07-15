@@ -1,4 +1,4 @@
-"""Mirror Morgan Downey's Oil 101 site into a single index.html + images/ dir.
+"""Mirror Morgan Downey's Oil 101 site into a single index.md + images/ dir.
 
 Usage:
     py scripts/mirror_oil101.py
@@ -11,6 +11,8 @@ from pathlib import Path
 from urllib.parse import urljoin, urlparse, unquote
 import subprocess
 from bs4 import BeautifulSoup
+
+from book_markdown import build_book_markdown, html_fragment_to_markdown, write_book_markdown
 
 SITE_CFG = {
     "base": "https://oil101.morgandowney.com",
@@ -237,7 +239,7 @@ def process_site(out_dir: Path):
         image_cache[src_url] = rel
         return rel
 
-    chapter_blocks = []
+    chapter_sections = []
     toc_entries = []
 
     # Combine chapters and appendices
@@ -301,79 +303,37 @@ def process_site(out_dir: Path):
                 body_content = re.sub(target_regex, injected_html, body_content, count=1)
                 print("  -> Injected WTI Negative Price SVG chart.")
 
-        # Wrap chapter content
-        chapter_html = (
-            f'<section class="chapter" id="{chapter_id}">'
-            f'<div class="chapter-number">{"Appendix" if slug in cfg["appendices"] else "Chapter"} {i}</div>'
-            f'<h1 class="chapter-title">{title}</h1>'
-            f'<div class="chapter-body">{body_content}</div>'
-            f'</section>'
+        kicker_label = "Appendix" if slug in cfg["appendices"] else "Chapter"
+        body_md = html_fragment_to_markdown(body_content)
+        body_md = f"## {title}\n\n{body_md}".strip()
+        chapter_sections.append(
+            {
+                "id": chapter_id,
+                "class": "chapter",
+                "kicker": f"{kicker_label} {i}",
+                "title": title,
+                "body_md": body_md,
+            }
         )
-        chapter_blocks.append(chapter_html)
 
-    # Build TOC
-    toc_html = '<nav class="toc"><h2>Contents</h2><ol>' + "".join(
-        f'<li><a href="#{cid}"><span class="num">{n}.</span> {t}</a></li>'
-        for n, t, cid in toc_entries
-    ) + "</ol></nav>"
-
-    css = """
-    :root { --bg:#fff; --fg:#1a1a1a; --muted:#666; --accent:#0a4f6b; --rule:#e5e5e5; }
-    * { box-sizing: border-box; }
-    body { font-family: Georgia, 'Times New Roman', serif; max-width: 760px; margin: 0 auto; padding: 2rem 1.25rem 6rem; color: var(--fg); background: var(--bg); line-height: 1.65; font-size: 18px; }
-    h1.book-title { font-size: 2.5rem; margin: 0 0 0.25rem; letter-spacing: -0.02em; }
-    .book-sub { color: var(--muted); margin: 0 0 2.5rem; font-style: italic; }
-    nav.toc { margin: 3rem 0 5rem; padding: 1.5rem 0; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); }
-    nav.toc h2 { font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); margin: 0 0 1rem; }
-    nav.toc ol { list-style: none; padding: 0; margin: 0; }
-    nav.toc li { margin: 0.4rem 0; }
-    nav.toc a { color: var(--fg); text-decoration: none; display: flex; gap: 0.75rem; }
-    nav.toc a:hover { color: var(--accent); }
-    nav.toc .num { color: var(--muted); min-width: 2.5rem; font-variant-numeric: tabular-nums; }
-    section.chapter { margin: 5rem 0; padding-top: 3rem; border-top: 1px solid var(--rule); }
-    section.chapter:first-of-type { border-top: none; }
-    .chapter-number { color: var(--muted); text-transform: uppercase; letter-spacing: 0.15em; font-size: 0.8rem; margin-bottom: 0.5rem; }
-    .chapter-title { font-size: 2rem; margin: 0 0 2rem; letter-spacing: -0.01em; }
-    .chapter-body h2 { font-size: 1.4rem; margin-top: 2.5rem; }
-    .chapter-body h3 { font-size: 1.15rem; margin-top: 2rem; }
-    .chapter-body p { margin: 1rem 0; }
-    .chapter-body img { max-width: 100%; height: auto; display: block; margin: 1.5rem auto; }
-    .chapter-body figure { margin: 1.5rem 0; }
-    .chapter-body figcaption { font-size: 0.85rem; color: var(--muted); text-align: center; margin-top: 0.5rem; }
-    .chapter-body table { border-collapse: collapse; width: 100%; margin: 1.5rem 0; font-size: 0.92rem; }
-    .chapter-body th, .chapter-body td { border: 1px solid var(--rule); padding: 0.5rem 0.75rem; text-align: left; }
-    .chapter-body th { background: #f7f7f7; }
-    .chapter-body blockquote { border-left: 3px solid var(--accent); padding-left: 1rem; color: var(--muted); margin: 1.5rem 0; }
-    .chapter-body code { background: #f4f4f4; padding: 0.1rem 0.3rem; border-radius: 3px; font-size: 0.9em; }
-    .chapter-body a { color: var(--accent); }
-    .offline-chart-container { background: rgba(0,0,0,0.01) !important; }
-    @media (prefers-color-scheme: dark) {
-      :root { --bg:#111; --fg:#eee; --muted:#888; --rule:#333; --accent:#7ec0d8; }
-      .chapter-body th { background: #1c1c1c; }
-      .chapter-body code { background: #1c1c1c; }
-      .offline-chart-container { background: rgba(255,255,255,0.01) !important; }
-    }
-    """
-
-    page = f"""<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{cfg['title']}</title>
-<style>{css}</style>
-</head>
-<body>
-<h1 class="book-title">{cfg['title']}</h1>
-<p class="book-sub">Morgan Downey &middot; offline mirror of <a href="{base}">{urlparse(base).netloc}</a></p>
-{toc_html}
-{''.join(chapter_blocks)}
-</body>
-</html>
-"""
-
-    (out_dir / "index.html").write_text(page, encoding="utf-8")
-    print(f"\nWrote {out_dir / 'index.html'} ({len(chapter_blocks)} chapters, {len(image_cache)} images)")
+    toc_lines = ["## Contents", ""]
+    for n, t, cid in toc_entries:
+        toc_lines.append(f"{n}. [{t}](#{cid})")
+    toc_md = "\n".join(toc_lines)
+    preamble = (
+        f"# {cfg['title']}\n\n"
+        f"*Morgan Downey · offline mirror of [{urlparse(base).netloc}]({base})*\n\n"
+        f"{toc_md}"
+    )
+    page = build_book_markdown(
+        title=cfg["title"],
+        author="Morgan Downey",
+        source=f"offline mirror of {urlparse(base).netloc}",
+        preamble_md=preamble,
+        sections=chapter_sections,
+    )
+    write_book_markdown(out_dir / "index.md", page)
+    print(f"\nWrote {out_dir / 'index.md'} ({len(chapter_sections)} chapters, {len(image_cache)} images)")
 
 def main():
     root = Path(__file__).resolve().parent.parent
