@@ -1,0 +1,5424 @@
+---
+title: Reminiscences of a Stock Operator
+author: Edwin Lefèvre
+source: single-page EPUB conversion
+---
+
+# Reminiscences of a Stock Operator
+
+*Edwin Lefèvre · single-page EPUB conversion*
+
+<!-- rl-section id="section-1" class="epub-section" kicker="Section 1" title="Section 1" -->
+
+## Section 1
+
+<svg height="100%" preserveaspectratio="none" version="1.1" viewbox="0 0 688 900" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<image height="900" width="688" xlink:href="assets/cover-cc8a3016.jpeg"/>
+</svg>
+
+<!-- rl-section id="section-2" class="epub-section" kicker="Section 2" title="Section 2" -->
+
+## Section 2
+
+Contents
+
+[Foreword](#section-5)
+
+[Introduction](#section-6)
+
+[I: The Biggest Plunger Wall Street Ever Saw](#section-7)
+
+[Reminiscences of a Stock Operator: June 10, 1922](#section-8)
+
+> [Lawrence Livingston’s Raid](#section-8)
+
+> [Who Was Wall Street’s Biggest Plunger?](#section-8)
+
+> [The Livingston Personality](#section-8)
+
+> [A Pointed Question](#section-8)
+
+> [Merchants in Wall Street](#section-8)
+
+> [An Undeserved Reputation](#section-8)
+
+> [The Inside Story](#section-8)
+
+> [Studying the Wheel](#section-8)
+
+> [The Technic of Interviewing](#section-8)
+
+> [The Business of Being Right](#section-8)
+
+> [Traders of Various Types](#section-8)
+
+> [Ticker Sense](#section-8)
+
+> [Speculators’ Weaknesses](#section-8)
+
+[II: The Boy Trader Beats the Bucket Shops](#section-9)
+
+[Reminiscences of a Stock Operator: June 17, 1922](#section-10)
+
+> [Learning to Read the Tape](#section-10)
+
+> [Livingston’s First Tip](#section-10)
+
+> [Beating the Bucket Shops](#section-10)
+
+> [Uncanny Tape Reading](#section-10)
+
+> [A Ticklish Situation](#section-10)
+
+> [How They Worked It](#section-10)
+
+> [Early Weeks in New York](#section-10)
+
+> [The Boy Trader Goes Broke](#section-10)
+
+> [A Change of Base](#section-10)
+
+> [Adventures in St. Louis](#section-10)
+
+> [What Happened at Teller’s](#section-10)
+
+> [Old McDevitt’s Tip](#section-10)
+
+> [Settling an Old Score](#section-10)
+
+> [Teller Trimmed Again](#section-10)
+
+[III: I Was Dead Right—I Lost Every Cent I Had](#section-11)
+
+[Reminiscences of a Stock Operator: July 1, 1922](#section-12)
+
+> [Memories of James R. Keene](#section-12)
+
+> [When the Clock Struck Three](#section-12)
+
+> [The Test of Rightness](#section-12)
+
+> [Dearly Bought Experience](#section-12)
+
+> [Staggering Losses](#section-12)
+
+> [Defective Trading Methods](#section-12)
+
+> [A New Aquaintance](#section-12)
+
+> [Secret Bucketeers](#section-12)
+
+> [Lambs Led to Slaughter](#section-12)
+
+> [The Double Cross](#section-12)
+
+> [Mild Punishment](#section-12)
+
+> [A Profitable Stop-Over](#section-12)
+
+> [Back to Wall Street](#section-12)
+
+[IV: The Quarter Million Dollar Hunch](#section-13)
+
+[Reminiscences of a Stock Operator: July 15, 1922](#section-14)
+
+> [Chart Versus Tape](#section-14)
+
+> [Reaction That Never Came](#section-14)
+
+> [Elmer Grows Indignant](#section-14)
+
+> [The Wisdom of Old Mr. Partridge](#section-14)
+
+> [Market Lessons](#section-14)
+
+> [A Mysterious Hunch](#section-14)
+
+> [The Subconscious Urge](#section-14)
+
+> [Does the Tape Ever Lie?](#section-14)
+
+> [Words of Warning](#section-14)
+
+> [A Cheap Lesson](#section-14)
+
+> [Livingston’s Trading Methods](#section-14)
+
+> [Deacon White’s Tip](#section-14)
+
+> [The Deacon in Action](#section-14)
+
+> [Timing Operations](#section-14)
+
+[V: My Day of Days](#section-15)
+
+[Reminiscences of a Stock Operator: August 12, 1922](#section-16)
+
+> [Preparation for Big Operations](#section-16)
+
+> [Correct in Theory, Wrong in Practice](#section-16)
+
+> [Right, but Busted](#section-16)
+
+> [Critical Days](#section-16)
+
+> [Planning an Assault on Reading](#section-16)
+
+> [Trusty Allies at Work](#section-16)
+
+> [A Hunch on Anaconda](#section-16)
+
+> [Job’s Comforters](#section-16)
+
+> [Getting Ready for the Storm](#section-16)
+
+> [On the Right Track](#section-16)
+
+> [Round the Money Post](#section-16)
+
+> [King for a Day!](#section-16)
+
+> [The Market Topples](#section-16)
+
+> [A Sudden Switch](#section-16)
+
+> [The Street Begs for Mercy](#section-16)
+
+> [A Million to Lose](#section-16)
+
+[VI: No Man Living Can Beat the Stock Market](#section-17)
+
+[Reminiscences of a Stock Operator: September 2, 1922](#section-18)
+
+> [Learning by Mistakes](#section-18)
+
+> [Trading in Commodities](#section-18)
+
+> [The Line of Least Resistance](#section-18)
+
+> [Giving the Market a Push](#section-18)
+
+> [An Illustrative Case](#section-18)
+
+> [Feeling Out the Trend](#section-18)
+
+> [Costly Carelessness](#section-18)
+
+> [The Unbeatable Game](#section-18)
+
+> [Saved by Strategy](#section-18)
+
+> [Inside Information](#section-18)
+
+> [The Tactics of Genius](#section-18)
+
+> [A Deal in July Cotton](#section-18)
+
+> [Time for Quick Action](#section-18)
+
+> [A Case of Sheer Luck](#section-18)
+
+[VII: Playing Another Man’s Game](#section-19)
+
+[Reminiscences of a Stock Operator: September 16, 1922](#section-20)
+
+> [A Lone Hand in Wall Street](#section-20)
+
+> [Capitalizing Mistakes](#section-20)
+
+> [Signing on the Dotted Line](#section-20)
+
+> [The High Cost of Personality](#section-20)
+
+> [Fleet-Winged Fortune](#section-20)
+
+> [Wall Street Hoodoos](#section-20)
+
+> [Beaten by the Game](#section-20)
+
+> [Back to New York](#section-20)
+
+> [A Chance to Come Back](#section-20)
+
+> [Tied Up by Gratitude](#section-20)
+
+> [Lessons From Losses](#section-20)
+
+> [Five Lean Years](#section-20)
+
+[VIII: $1 Million in Debt; $1 Million Repaid](#section-21)
+
+[Reminiscences of a Stock Operator: October 7, 1922](#section-22)
+
+> [Sitting in with the Insiders](#section-22)
+
+> [The Boy Plunger at Work](#section-22)
+
+> [In Dutch with Destiny](#section-22)
+
+> [A Million-Dollar Debt](#section-22)
+
+> [A Fresh Start](#section-22)
+
+> [Watching and Waiting](#section-22)
+
+> [Bethlehem Goes Kiting](#section-22)
+
+> [Early Signs of a Bear Market](#section-22)
+
+> [A Chance to Cover](#section-22)
+
+> [A Matter of Bookkeeping](#section-22)
+
+> [Paying for Dead Horses](#section-22)
+
+[IX: Black Cats and Irresistible Impulses](#section-23)
+
+[Reminiscences of a Stock Operator: October 21, 1922](#section-24)
+
+> [The Black Mascot](#section-24)
+
+> [The Scratching at the Door](#section-24)
+
+> [Livingston’s Strange Behavior](#section-24)
+
+> [What Really Happened](#section-24)
+
+> [Turning Paper Profits into Money](#section-24)
+
+> [Cashing in on Experience](#section-24)
+
+> [Market Symptoms](#section-24)
+
+> [The Lame Duck among the Motors](#section-24)
+
+> [Ups and Downs of Guiana Gold](#section-24)
+
+> [A Million to the Bad](#section-24)
+
+> [Milking the Market](#section-24)
+
+> [The Bear Raid on T. T.](#section-24)
+
+> [Livingston’s Tactics Analyzed](#section-24)
+
+[X: The Coffee Corner and the Price Fixing Committee](#section-25)
+
+[Reminiscences of a Stock Operator: December 16, 1922](#section-26)
+
+> [Costly Eighths](#section-26)
+
+> [Following Livingston](#section-26)
+
+> [The Bewildered Followers](#section-26)
+
+> [No Protection Against Welshers](#section-26)
+
+> [Livingston’s Coffee Trade](#section-26)
+
+> [The Unexpectable](#section-26)
+
+> [Blamed for Bear Raids](#section-26)
+
+> [The Story of Borneo Tin](#section-26)
+
+> [The Dinner-Table Tip](#section-26)
+
+> [Wisenstein’s Slip](#section-26)
+
+> [Periodical Hope Sprees](#section-26)
+
+> [Grateful John Gates](#section-26)
+
+> [Whipsawed Again](#section-26)
+
+> [Sizing Up Atchison](#section-26)
+
+> [Sam Sloan’s Thrift](#section-26)
+
+[XI: Why the Public Always Loses](#section-27)
+
+[Reminiscences of a Stock Operator: May 19, 1923](#section-28)
+
+> [Compliments](#section-28)
+
+> [The Right Time Being Never](#section-28)
+
+> [The Man Who Missed the Moral](#section-28)
+
+> [What Larry Livingston Said](#section-28)
+
+> [Wholesome Regulations](#section-28)
+
+> [The Multiplication of Issues](#section-28)
+
+> [Unsigned Statements](#section-28)
+
+> [Anonymous Tipsters](#section-28)
+
+> [Loading Up for a Rise](#section-28)
+
+> [Inside Selling](#section-28)
+
+> [The Case of New Haven](#section-28)
+
+> [Livingston the Scapegoat](#section-28)
+
+[XII: Kings, Paupers, and the Hazards of the Game](#section-29)
+
+[Reminiscences of a Stock Operator: May 26, 1923](#section-30)
+
+> [How Brokers Help Insiders](#section-30)
+
+> [Melons](#section-30)
+
+> [Signed Statements by Insiders](#section-30)
+
+> [The Ticker Taketh Away](#section-30)
+
+> [Jacob Little’s Spectacular Career](#section-30)
+
+> [The Scene at the Captain’s Office](#section-30)
+
+> [Paid in Full](#section-30)
+
+> [The Great Man’s Fall](#section-30)
+
+> [Morse’s Rock Island Pool](#section-30)
+
+> [Operations in Erie](#section-30)
+
+> [The Monarch Dethroned](#section-30)
+
+> [From Splendor to Squalor](#section-30)
+
+[Publisher’s Postscript](#section-31)
+
+> ![image](assets/00001-f12ad441.jpg)
+
+<!-- rl-section id="section-3" class="epub-section" kicker="Section 3" title="Section 3" -->
+
+## Section 3
+
+![image](assets/00002-5ea05c02.jpg)
+
+<!-- rl-section id="section-4" class="epub-section" kicker="Section 4" title="Section 4" -->
+
+## Section 4
+
+Copyright © 2005 by John Wiley & Sons, Inc. All rights reserved.
+
+Published by John Wiley & Sons, Inc., Hoboken, New Jersey.
+
+Published simultaneously in Canada.
+
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, scanning, or otherwise, except as permitted under Section 107 or 108 of the 1976 United States Copyright Act, without either the prior written permission of the Publisher, or authorization through payment of the appropriate per-copy fee to the Copyright Clearance Center, Inc., 222 Rosewood Drive, Danvers, MA 01923, 978-750-8400, fax 978-750-4470, or on the web at [www.copyright.com](http://www.copyright.com). Requests to the Publisher for permission should be addressed to the Permissions Department, John Wiley & Sons, Inc., 111 River Street, Hoboken, NJ 07030, 201-748-6011, fax 201-748-6008, e-mail: [permcoordinator@wiley.com](mailto:permcoordinator@wiley.com).
+
+Limit of Liability/Disclaimer of Warranty: While the publisher and author have used their best efforts in preparing this book, they make no representations or warranties with respect to the accuracy or completeness of the contents of this book and specifically disclaim any implied warranties of merchantability or fitness for a particular purpose. No warranty may be created or extended by sales representatives or written sales materials. The advice and strategies contained herein may not be suitable for your situation. You should consult with a professional where appropriate. Neither the publisher nor author shall be liable for any loss of profit or any other commercial damages, including but not limited to special, incidental, consequential, or other damages.
+
+For general information on our other products and services, or technical support, please contact our Customer Care Department within the United States at 800-762-2974, outside the United States at 317-572-3993 or fax 317-572-4002.
+
+Wiley also publishes its books in a variety of electronic formats. Some content that appears in print may not be available in electronic books.
+
+For more information about Wiley products, visit our web site at [www.wiley.com](http://www.wiley.com).
+
+ISBN 0-471-67876-7
+
+<!-- rl-section id="section-5" class="epub-section" kicker="Section 5" title="Section 5" -->
+
+## Section 5
+
+Foreword
+
+This new edition of Reminiscences of a Stock Operator is a must-read classic for all investors, whether brand new or experienced. It is about the invaluable knowledge and experiences of Jesse Livermore, a market speculator who made and lost millions during the period from 1900 through the 1930s. I had to pay $50.00 in 1960 to get my first copy of Reminiscences because it was out of print. I later gave a copy to Gerry Tsai, one of Fidelity’s top mutual fund managers at that time. Gerry then told me that Reminiscences was the investment bible of Edward Johnson Sr., his boss and the founder of the Boston-based Fidelity Funds.
+
+Jesse Livermore was one of the best tape readers of his day. Here is just a taste of Livermore’s sage advice:
+
+> “There is nothing new in Wall Street. Whatever happens in the stock market today has happened before and will happen again.”
+
+> “History repeats itself.”
+
+> “The big money is made by sitting, not thinking. Men who can both be right and sit tight are uncommon.”
+
+> “The point is not so much to buy as cheap as possible or go short at top price, but to buy or sell at the right time.”
+
+> “I never argue with the tape.”
+
+> “It took me five years to learn to play the game intelligently enough to make big money when I was right.”
+
+> “There is nothing like losing for teaching you what not to do. And when you know what not to do, you begin to learn what to do in order to win.”
+
+> “There are only two emotions in the market, hope and fear—the only problem is you hope when you should fear and fear when you should hope.”
+
+> “Know yourself and provide against your own weaknesses.”
+
+> “Sell after a reaction and this is no rally.”
+
+Livermore quoted old Baron Rothchild, saying his secret to making money was “I never buy at the bottom and I always sell too soon.”
+
+So you see, Reminiscences of a Stock Operator is packed with wisdom based on years of daily experience with the realities of how the market actually works and how human nature constantly gets in the way of following sound and proven rules, systems, and methods.
+
+This new edition of the investment classic not only contains interesting illustrations but also incudes a 1920s Saturday Evening Post article by the author that was not included in the original book. My original copy of Reminiscences is now dog-eared and has notes from different colored pens from the several times I read and reread it over the years. Years ago, I purchased a library of over a thousand stock market and investment books. However, in my 45 years of experience in this business, I have only found 10 or 12 books that were of any real value—Reminiscences is one of them.
+
+The stock market is difficult for most investors because it works in precisely the opposite way of how a normal, intelligent person tends to think and react. People want to buy something that looks cheap, is down in price, and appears to be a bargain. This rarely works because the stock is usually down for a good reason. People also do not realize that no matter how smart they are, they will make many mistakes. Investors potentially must habitually cut short every loss to keep all their mistakes small and avoid enormous losses later on. Others want to make money the easy way, without doing any homework or by simply relying on the tips, rumors, or advice of others. This is a national shame. America is a land of great opportunity, unlimited new ideas, and relentless new entrepreneurs, investors, and businesspeople. Every year there are initial public offerings by highly motivated new entrepreneurs who run unique businesses. In time, a few of these could become excellent investments of which anyone can learn to take advantage if they just save a little money and read the best investment books around. These books are written by people who have been in the battlefield and have learned how to profitably select America’s very best companies. Usually the very best in anything comes at a higher price.
+
+Reminiscences will help you begin to create your own sound investment rules that can move you into the big winner’s column. You can do it if you really want to.
+
+William O’Neil
+
+Founder and Chairman
+
+Investor’s Business Daily
+
+<!-- rl-section id="section-6" class="epub-section" kicker="Section 6" title="Section 6" -->
+
+## Section 6
+
+Introduction
+
+In its long history, Wall Street has never been short of legend and myth. Stories abound of traders making fortunes using nothing more than their instinct and nerves of steel. The nineteenth century in particular produced many of these tales, telling the stories of men who started with nothing, later retiring with great fortunes, exotic lifestyles, and great art hung on their walls. The stories attracted legions of aspiring millionaires intent on making their own market history.
+
+The inspiration for the tradition began when Horatio Alger began writing his Ragged Dick stories after the Civil War. They told of how average, penniless young men achieved wealth and fame through hard work, enterprise, and more than a little good luck. The sales of the books made Alger one of the best-read American authors of the century. Although none were stock market stories, they had a foundation in fact. After finishing college, Alger became the tutor to the children of Joseph Seligman of the famed Seligman banking family. A great deal of the bootstrap stories had their origins in the fortunes of the Seligmans, who began their investment banking careers somewhat inauspiciously as merchants in Alabama.
+
+Economist and social theorist Thorstein Veblen added further fuel to the fire when he wrote his Theory of the Leisure Class in 1899. It was hardly a simple tale of young men aspiring to wealth and fame, but Veblen did share a common trait with Alger. The idea of “conspicuous consumption” found in the book was based on the author’s observations of the two most famous conspicuous consumers of the era, August Belmont and his son August Belmont II. The pair’s opulent life styles were the envy of New York. Their parties were legendary and their wine bills alone made other financiers green with envy (if not red in the face). By the turn of the twentieth century it was clear that finance and its high lifestyle had become the source of myth and envy.
+
+But writing about others alone would not create myths and legends. The real stuff came from those who actually traded stocks and participated in high finance and then told tales about themselves and others. These stories were considered “inside” stuff and drew large audiences. They displayed the great contradiction in the American spirit. On the one hand, most people at the turn of the century disliked Wall Street and the Chicago commodities markets because they were places where chicanery and shady dealings occurred. On the other hand, they were the places where great wealth was created—and everyone in America loved a buck. The stories became popular because readers could learn about people they despised making large amounts of something they loved. Writers and publishers quickly saw the opportunities.
+
+By 1900, Wall Street already had its share of rogues and villains, many of whom were extremely wealthy. The tradition began well before the Civil War. Jacob Little was a notorious short seller, always looking for a profit on the downside. Daniel Drew was another stock manipulator who relied on chicanery as much as anyone who roamed the floor of the New York Stock Exchange (NYSE). They were succeeded by Jay Gould, whose activities earned him the sobriquet of “most hated man in America.” Charles Woerishoffer was another short seller, or “plunger,” who made a reputation on the downside. Most “operators,” as they became known, did not consistently sell or buy a stock but would mix their activities depending on the objective. But their nicknames tended to stick because of their best-known operation.
+
+The first critics of these operators contributed to their reputations, although their intentions were just the opposite. Jay Gould became the target of cartoonists Thomas Nast and Frederic Oppler on many occasions. The cartoons, appearing in Harper’s Weekly and Puck, among other periodicals, only exaggerated their already formidable reputations. Once the pictures started to appear, a hagiography began to develop around these colorful characters. Soon they were described as the forces moving markets; they were not simply bulls or bears anymore.
+
+Added to this was the Wall Street memoir, which started to make its appearance in the late nineteenth century. Most were tales of the authors’ experiences on the stock exchange and the rogue’s gallery of characters they met along the way. Henry Clews’s Fifty Years in Wall Street, published in 1908, had already appeared in previous editions, celebrating the shorter anniversaries of his career which began in 1858. Many other editions by Wall Street veterans also appeared over the years, but the book format was not as popular as the magazine article. Dozens of articles appeared over the years, celebrating the traders who made a living from the stock exchange. Few of them, however, divulged the secrets of their trade. Part of the myth was the shroud of secrecy. Genius—even unscrupulous genius—was not divulged in popular weekly magazines for all to read.
+
+Contemporary readers will notice one distinct characteristic of late nineteenth- and early twentieth-century market literature. Great fortunes were made and lost without regard for the stocks being traded. Jay Gould and his sidekick Jim Fisk made a killing off the stock of the Erie Railroad by fooling their main adversary Cornelius “Commodore” Vanderbilt. Woerishoffer made a mint and dealt a serious setback to Henry Villard of the Northern Pacific Railroad by mounting a bear raid against his holdings. Commentators at the time attributed much of this activity to personal duels between these traders. The fundamentals of the stocks may have led to massive short selling, especially if they were overpriced, but in the end the duels were personal.
+
+The financial performance of many stocks, especially those of the railroads and heavy industries, was not the primary attraction for many investors at the time. They simply followed the herd. If James Keene, who ramped the price of U.S. Steel for J.P. Morgan after the company was created in 1901, was accumulating stock, then others would follow—the great man obviously knew something they did not. Behavior of that sort only led small investors to ruin. Cartoonists repeatedly portrayed small investors being led to slaughter on Wall Street. By the time small investors realized it was time to sell, it was often too late. The fortune had already been made but it was not theirs.
+
+By 1900, the stock exchanges made great strides in becoming places where investors could invest their money. They still had to be wary, however, and willing to sell quickly. Large operators relied on small investors to give support to their market manipulations. Although more stocks were listed on the New York Stock Exchange than ever before, it was still known as a place where bear raids and corners occurred with some frequency. Traders, acting individually or through pools, would often force the price of a stock up or down. This behavior suggested to the small investor that he still had to follow the renowned traders if money was to be made. So the bull and bear tradition continued unabated, although the arena was larger than ever before.
+
+The atmosphere was similar to that of a casino: Investors were willing to make bets on stocks they thought would make them rich. But the one thing that they lacked a hundred years ago was a trading guide. Few “how to” books (showing the pitfalls of the marketplace or how to invest intelligently) were available to the investor. Wall Street operators called investors “suckers.” The few resources they did have at their command would soon be depleted through their own ignorance or lack of discipline.
+
+The existing Wall Street books were of little help. Henry Clews wrote about policy issues in a very personal vein. He suggested that the Charleston earthquake of 1884 was probably caused by mining companies probing underground for minerals. Although it is easy to write off such remarks as uninformed, given the nature of the times it probably had more to do with the performance of mining stocks, which were very popular at the time. Writing about the market and its performance could not be separated. The best way to affect a price was to write about the stock or the industry in an informed way even if the author had no special knowledge. Many reputable newspapers began implementing policies to head off articles that attempted to affect stock prices. But dozens more ignored the policies in favor of increased circulation.
+
+The best way to get inside information on stocks before the Crash of 1929 was to pay a tipster for information. These “agents” professed to have inside knowledge of stocks that they would pass along for a fee to interested parties. Prior to the 1930s, there was nothing illegal about the practice although it was clearly manipulative. Tipsters would pass information to smaller investors from professional traders who wanted a price to move up or down and needed “retail” assistance. Small investors would then pile in or out of a stock on cue, helping provide the large operators with additional liquidity in the process.
+
+But many small investors could not afford to play the stock market. Many stocks were expensive, trading over a hundred dollars per share at a time when the average salary was only about $1,000 per year. Small investors often did not invest their money in actual stocks but instead sought the facilities offered by a bucket shop. These were places that looked like brokers’ offices but were simply betting parlors where the “investor” could put a few dollars down on a stock and hope that it would rise. The term came from the practice of placing the order in a bucket behind the counter rather than transmitting it to an exchange as a normal broker would do. The “investor” was betting against the house and usually did not win.
+
+For a few dollars down, the bucket shop would tell the bettor how many shares he could buy or sell. When the bettor wanted to cash out his bet, he would receive the next price that the bucket shop read off the ticker, if in fact it had access to one. Some merely made up the prices as they went along. But the larger bucket shops did have access to live prices and would close the order on the next available price. Constantly winning at a bucket shop was not tolerated for long. Bucket shops could only make money when bettors lost.
+
+Dozens of bucket shops could be found in the major financial and commodities centers. The most sophisticated were known as “bucketeers” and became the most difficult to pursue by local authorities and the exchanges. They had all the equipment of a legitimate brokerage office, replete with chalkboards and ticker tapes. How they got their prices was a matter of skullduggery in some cases. In a notable case pursued by the Chicago Board of Trade (CBOT), a bucket shop paid a boy to sit atop a building next to the exchange with a pair of binoculars and read the prices as they were posted by the exchange. He would then call them down to the bucketeers who would post them on their own blackboards.
+
+The bucket shops were a black mark on the already spotty record of the markets for another reason. The larger bucketeers would aggregate their funds and take opposite positions in the market to ensure that their customers did not win. They could become a formidable force in their own right, especially if they were selling a stock short that their customers thought they were buying. This was one of the dark sides of the market that was rarely discussed in either New York or Chicago. A CBOT official once divulged that if the shops could take $10 million of customers’ money and use it in the market, they could then leverage as much as $100 to $500 million worth of market power, depending on the margin rates at the exchanges were they were deploying their funds. It was thus nearly impossible for the small guy to make any money from the bucketeers.
+
+Regulation of the stock exchanges by Washington was absent in the 1920s because no federal securities legislation had ever been passed. The states did their best, however, to keep fraud and manipulation in check. The states and the exchanges declared war on the bucket shops as early as the 1890s, but the battles were slow. CBOT won a significant victory over the bucket shops in 1905 when the Supreme Court ruled in its favor in a lawsuit against a large bucket shop located in Kansas City. The exchange wanted to bar the bucket shop from using its prices, transmitted by Western Union, in its offices, pretending to be a real exchange broker when it was doing nothing more than bucketing orders. The court ruled in the CBOT’s favor and the bucket shops lost a significant battle. They still managed to thrive, however. Bettors were still willing to put a few dollars down and hoped to become as wealthy as the legendary traders. Gambling had been an American pastime for decades, so preventing the bucket shops from receiving live information via the wire did not deprive them of customers.
+
+Some small bettors were able to beat the bucket shops at their own game. Being able to do so had nothing to do with investing, however. The little guy could always take information from a tipster, but that information was usually tainted in the first place, designed to lure small bettors and investors. State regulation increased after World War I although it only dealt with fraud and manipulation on a case-by-case basis. Cases were pursued against wash sales by brokers and bucketeers in New York. Many were won but fraud and manipulation continued unabated. Sometimes fines were levied while at others prison sentences were handed down, especially against bucketeers. The clever bucket shop patron had to understand the system and trade with speed. When one of their ranks finally divulged his secrets, he became an overnight sensation with the public.
+
+•••
+
+In a marketplace hungry for tips and insight, “inside” information on the actual trading techniques of a well-known operator would be welcome, to say the least. Readers got their wish in 1922 when the first in a series of 12 articles about a legendary trader appeared in the Saturday Evening Post. They were written by financial journalist Edwin Lefèvre, a veteran journalist previously know for his financial fiction. The articles captured the public’s imagination and appeared a year later later in a book of the same title, Reminiscences of a Stock Operator. The public finally enjoyed what it had craved for years: the inside scoop on how to win big in the market.
+
+Lefèvre began writing about Wall Street in 1897. His ancestors were Huguenots who escaped France in the late seventeenth century. His father was an officer in the Union navy during the Civil War. Although Lefèvre always wanted to be a writer, his father insisted that he get an education, so he studied engineering before turning to the pen. He studied mining engineering at Lehigh University from 1887 to 1890. He began his career as a financial journalist, writing short stories in his spare time. Ten years later he published his first novel, Sampson Rock of Wall Street. During his career in journalism he worked at the New York Sun, served as financial editor at Harper’s Weekly, and wrote stories for the Saturday Evening Post. He found Wall Street to be an ideal background for his stories because, as he put it, “there are two big motive powers in men: love and greed.”
+
+Lefèvre’s career was also reflective of the way financial journalism was viewed at the time—as a part of Wall Street itself. He often told interviewers about his career in writing, especially the period “before I went to Wall Street.” This language would not be used today because journalism has been separate from its subjects for some time. But around the turn of the twentieth century, they were sufficiently related so that a financial writer could claim he was part of the financial scene. The exposure helped Lefèvre write about the stock exchange knowingly; this confidence was on full display in his writings before the series of articles that would cement his fame in 1922.
+
+The first of the Saturday Evening Post stories appeared on June 10, 1922, and continued until the following May. They were not the first financial stories Lefèvre wrote for the Post. In early 1917, he wrote a series of articles entitled “More than Two Million a Week” which also proved popular, discussing how investors could be pulled into the vortex of the market. The series was written in traditional narrative style with dialogue but the later series was quite different.
+
+The 1922 stories were ostensibly a series of interviews Lefèvre conducted with a legendary stock and commodities trader named Lawrence Livingston, a self-made entrepreneur who accumulated fame and fortune in the years preceding World War I. From the rough chronology in the interviews, Livingston was about the same age as Lefèvre, so it should have been easy for the seasoned writer to get along with the legendary trader. But Lefèvre made practical demands on his readers. He began his interviews without much introduction other than to say that he requested and received permission to interview the often laconic stock operator. Stock market operators and well-known bankers were celebrities until the Crash of 1929 so the public did not need much of an introduction to the general subject. The technical side of a true Horatio Alger story would become required reading by anyone wanting to get rich in the markets.
+
+Since there was no legendary trader named Lawrence Livingston, readers quickly became aware that the name was a pseudonym and that the interview was conducted with someone else. Lefèvre tipped his hand a year later when he dedicated the book version of the articles to Jesse Livermore, one of the handful of big-time stock and commodities speculators known outside the markets. Livermore was nicknamed the “Boy Plunger” by the financial press since one of his best-known publicized operations was a very successful short sale. The suspicion was even more intriguing because Livermore, like many of his successful colleagues, was known to be fairly tight-lipped.
+
+When the articles appeared, the markets were just recovering from a severe recession. Much of the wartime demand for manufactured goods and commodities subsided and business activity retracted sharply in 1920 and 1921. General Motors, for example, suffered a decline in sales and underwent a reorganization while many smaller manufacturers went out of business. The timing for a series of confessions in a national magazine could not have been worse from a marketing perspective, yet the articles proved extremely popular. But Lefèvre already was known as a writer of short stories designed for magazines and the lighter side of finance always made for good reading in good times or bad. Soon it became obvious, however, that Lefèvre was not writing fiction. The material related by Livingston had too much professional flavor about it to be understood as merely as a fictional short story.
+
+Although Lefèvre never actually said that Livingston was in fact Livermore, it was immediately assumed that the two were the same and the legend began to build. A trader’s secrets finally had been revealed and they indeed were in the tradition of Horatio Alger characters. At the age of 15, Livingston left his family home and traveled to Boston and immediately got a job writing prices on the boards at a Boston brokerage. He soon became hooked on the market and wanted to play, but he had no funds. A friend then asked him if he wanted to contribute a small amount to place a bet at a bucket shop. They bet $10 and actually succeeded. Livingston became hooked on the intriguing possibility of playing the market, doing nothing more than watching and interpreting a series of numbers as reported on the ticker tape.
+
+Their first bet became so well remembered that when the New York Times wrote Livermore’s obituary in 1940, it reported the incident as the first market play of the trader. “The Livermore share of the profit was $3.12 and Jesse Livermore had found his career,” the paper reported (November 29, 1940). As Lefèvre’s articles related, Livermore then quit his job as a clerk and took up speculating fulltime. But Livingston did not consider it speculation; instead he devised a system that would generate profits more often than losses. It was a system that took many years to develop. But in the early years, it earned him considerable notoriety.
+
+Although the chronology of Lefèvre’s narrative is a bit spotty in places, the date for Livermore’s first bet would have been 1893. Then the relation between the fictional Livingston and Livermore begins to dovetail. Within eight years, Livingston and Livermore were already millionaires. Livermore’s reputation was only known in the markets, however. When he and his wife returned from a European trip in 1901, she was found to be carrying $12,000 in jewelry on which he was forced to pay customs duty of $7,200. The story was eventually picked up by the New York World, which began an investigation into how an unknown speculator got into such trouble. It also reported that he had already made $3 million in the market. Who exactly was this character?, the newspaper wanted to know. All of this had been accomplished by the time Livermore was about 23.
+
+What Livingston revealed in the interviews was the stuff of which legends are made. He was not a member of a stock exchange early in his career nor was he a wealthy individual with spare time on his hands. The road to riches lay in the tale of the ticker tape and it was that sequence of numbers that made him so much money. Livingston started his career making substantial amounts of money in the bucket shops. He discovered that he could scalp prices in the shops by placing a bet and then liquidating his positions quickly afterward. His reading of the tape might suggest that a stock was on the rise. He would buy it and then liquidate it while it was still rising. The feat was not as simple as it sounded since the bucket shop prices were not always true and the ticker tape was not readily available at the bucket shops. Nevertheless, he won more often than he lost, incurring the wrath of bucket shop operators in the process.
+
+When some shops banned him, he moved and traded in the Midwest before returning to New York. He made a substantial amount of money, and lost at other times, by simply remaining at a distance from the actual stock exchanges. What was so intriguing about the story in contemporary terms was that Livingston had invented what we know today as day trading. Buying and selling for small marginal amounts while relying on the tape was the only way to beat the bucket shops at their own game. When this was compared to what occurred on an exchange, it was apparent that it was the only method by which a small trader could succeed. On an exchange, a floor trader could accomplish the same thing but would have to be much more heavily capitalized.
+
+•••
+
+During the years prior to World War I, different breeds of trader existed in the markets. Some, like Livingston, were not floor members of the exchanges but remained ensconced in their offices reading the ticker tapes and entering trades based on what they saw. Others were floor traders who were much closer to the action and were privy to the markets’ inside secrets that outsiders could not always divine. Their techniques were the same regardless of location and the myths surrounding them were similar.
+
+A great deal of the nostalgia that Reminiscences has inspired over the years has to do with its portrait of a period in the stock market that no longer exists. Livingston’s stories about making and subsequently losing millions occurred well before the banking and securities acts of the 1930s were passed. Tipsters sold information that would become illegal once the Securities and Exchange Commission (SEC) was created (if the information was correct in the first place) and routine market operations that he described in detail would be proscribed. Subsequent generations of potential stock traders could only look back longingly at a period when boys and young men with nothing more than an eye for sequences of numbers could become millionaires purely through their own audacity.
+
+Another part of the allure of Reminiscences was the fact that it was written before the roaring bull market of the 1920s began. The surging market that finally crashed in October 1929 did not actually begin its ascent until 1924. Livermore and other already legendary traders were heavily involved in that surging market and added to their already established reputations. But they did not confine themselves to the stock market alone. Most of them mixed commodity futures trading with their stock market activities, although the futures market was not a roaring bull market during the 1920s. The futures markets also had their share of legendary traders, some of whom turned to the stock market in the mid-1920s.
+
+Jesse Livermore’s main rival in the 1920s was Arthur Cutten, a Chicago-based futures trader. Cutten was very successful during World War I and the years immediately following and was reputed to have made a personal fortune of $75 million in the futures markets. He turned his attention to New York and the stock exchange when Congress passed the Grain Futures Act in 1922. The new law was the first attempt by the federal government to regulate the futures exchanges, which at the time traded mostly grains. Cutten saw it as government interference in the marketplace and decided to move some of his operations to the NYSE. Livermore decided to do just the opposite.
+
+The NYSE was the main bastion for stock operators and the CBOT was the main home of futures traders. At the time it seemed that futures trading was about to die a regulated death. Livermore heard about the amount of money that Cutten reputedly made in his commodities operations and began trading on the CBOT more than he had done in the past. It would take a crash and more than ten years for Congress to react and regulate the stock markets; at the time, however, traders thought they had seen their best days because of the Grain Futures Act. That looming problem may have been a reason why Lefèvre published his articles when he did. Perhaps Livingston thought it was finally time to divulge his secrets because regulation appeared right around the corner. If the trader’s lucrative living were about to dry up, at least his reputation would survive.
+
+Livingston confided to Lefèvre that he had often played the futures markets as well as the stock market. The two were not incompatible because, as Livingston revealed in the interviews, he was what would be known today as a macro trader; he looked for profits in macroeconomic information like the international demand for wheat or the lack of rain in Iowa. He used the same approach to stocks, although much of the interviews dealt with pure hunch and instinct rather than fundamentals. When Livingston did turn the discussion to something other than psychological factors, he usually talked of stock market sectors or events in the general economy that could affect the price of a particular stock. If he did use more fundamental analysis, he did not divulge it to Lefèvre. The portrait that emerged of Livingston was that of a trader who employed technical analysis while paying some attention to the world around him.
+
+Although he claimed that events in the political and economic world had much effect on his activities, Livingston offered little insight into some of the more interesting market developments of his day. One example was the Wilson peace overtures made during World War I. Woodrow Wilson offered to broker peace talks between the Allies and the Central Powers in an attempt to end the war. The information hit the wire services hours before the actual announcement and the markets began to tumble. Critics were infuriated that the markets had the information hours before it was made public. But traders saw it as a golden opportunity. War had been good for the American economy and peace suggested that exports of commodities and manufactured goods could slow down. Both the stock and commodities markets fell sharply as a result, although Wilson’s olive branch ultimately was rejected. Short sellers had a field day on the news. Unfortunately, Livingston mentions it only in passing in his narrative.
+
+After World War I, the stock market began to rise after billions in Liberty bonds issued during the war began to mature. Investors found themselves flush with cash and in the mood for speculation. Brokers and investment bankers recognized the opportunity and began marketing to a new class of investor. The seeds for the greatest bull market in history were planted, one that would soon reap huge rewards for Wall Street. Lefèvre’s stories helped pave the way for the market bubble by demonstrating that the public had an insatiable demand for both a good story and a fast buck. The best part of the 1920s was yet to come.
+
+Charles Geisst
+
+July, 2004
+
+<!-- rl-section id="section-7" class="epub-section" kicker="Section 7" title="Section 7" -->
+
+## Section 7
+
+I.
+
+The Biggest Plunger Wall Street Ever Saw
+
+The first installment of the Saturday Evening Post articles does not appear in the book published a year later. In the magazine, Lefèvre introduces his readers to the subject of his series of 12 articles, Lawrence Livingston. Although later articles show that Livingston was skilled at both buying and selling stocks, in this installment he is described as one of Wall Street’s biggest “plungers.” This was the term used in the nineteenth and early twentieth centuries for a short seller.
+
+Before the Securities Exchange Act was passed, short selling was practiced much more liberally than it is today. Traders who thought a stock could fall in price could easily begin selling, creating a self-fulfilling prophecy by forcing down the stock. Once the process began, the momentum could be hard to break because, unlike today’s practice, shorting could be accomplished on a “down tick.” The price did not need to tick up, meaning that someone had to buy shares before it could be sold again, so a downward momentum could be established by the short sellers that could be sharp, quick, and profitable.
+
+The technique could also be used effectively in a “bear raid,” an established market practice. A concentrated and concerted effort was made to sell a stock short by a group intent on lowering its price. The reasons were often known only to the group itself. Reaction to it outside the marketplace was mostly hostile. Politicians and commentators saw it as a way that companies could be gouged by speculators, leaving them virtually worthless. A stock that had been raided was much cheaper for potential buyers or creditors to seize. Short selling became understood as a means through which companies could be stolen from the rightful owners by those intent on destroying their value.
+
+Lefèvre begins his tale in a brokerage office during a dismal market. He recounts a rumor that the market had been inspired by a particularly adroit short seller named Lawrence Livingston. He was, in the parlance of the day, the reason for the “market break,” a term used to describe a downward trend in prices after a particularly strong market phase. But the year was 1922: The market already had grown too big and broad to be dominated by one man, especially one known for selling short. Volume was too large and the investor base too broad for one trader to have such a profound effect on prices.
+
+Yet the presence of legendary speculators could not be taken lightly. When rumors began that a plunger like Livingston decided to short a stock, other small investors also plunged in. These were the proverbial “suckers”: small investors of various stripes who never had a distinct idea about the market except to follow someone else’s lead. If the suckers began shorting the same stock, one could bet that Livingston or other big traders were already out of their positions. The leaders profited while the suckers lost their bets.
+
+Although he became known as the “Boy Plunger” for his activities, Livingston also bought many stocks in addition to selling short. He noted that he would “...rather play on the long side. It is constructive, and it is nicer to share your prosperity with others. The public does not take kindly to short selling.” The idea that someone could sell something that he or she did not own and buy it later to cover at a lower price seemed alien to many people in the early twentieth century. This was especially true in the Midwest where shorting was common in the futures markets. Although various attempts had been made since the late nineteenth century to close the futures markets, considered places of ill repute, the markets had survived. But the public aversion to them and their peculiar ways was well-known to market operators.
+
+Despite the aversion to trading and gambling in rural America in the early 1920s, New York and Chicago had no such qualms. They were places where Livingston (Liver-more) and other notable traders like Michael Meehan, Joseph P. Kennedy, Bernard Baruch, Arthur Cutten, and Ben Smith made a handsome living. And there were also the legions of suckers who began picking up the magazine to read about themselves, only to discover that they were playing a game they could not win. Not that a story would stop them from trying, however. Lefèvre’s account would certainly prove that there was never a dull moment in the market nor was there a lack of new speculators trying to make a killing.
+
+C.G.
+
+<!-- rl-section id="section-8" class="epub-section" kicker="Section 8" title="Section 8" -->
+
+## Section 8
+
+Reminiscences of a Stock Operator
+
+June 10, 1922
+
+THE market was so weak that you could see the customers counting their dead hopes. Presently they would enter upon the second stage of the most tragic bookkeeping in the world—the translating of paper losses into actual deprivations. But the first step came harder, because stock-market gamesters invariably hope with all their might. Clerks walked about the room almost on tiptoe and looked guilty—as though the fatal bull tips had come from them and a reckoning were demanded. But if you had asked one of the customers about the weather outside he would have answered that it was not yet three o’clock.
+
+Two boys were posting the quotations on the board, slipping the green cards into place with fretful little snaps. They told the battle’s story in mournful numbers, the little cards did! The falling fractions were shots striking below the water line, and the ship, loaded with its phantom freight of hearts’ desires, was sinking. Paper profits! Paper pleasures!
+
+Awake and hungry
+
+![image](assets/00003-2c8a1d1c.jpg)
+
+Going down!
+
+At first it was the speculative favorites that crumbled, like Siam Oil or Acme Motors. But presently the picture became that of a Satanic torchbearer racing down an avenue of hayricks, setting fire to one after another. And how they blazed!
+
+Up in smoke!
+
+The quotation boys had to hustle like mad now. You could see that the ticker was leaving them behind. Some of the stocks began to break whole points at a time. Once the man by the ticker yelled “T.M. 51! 50½! ¼! 49!” and then, as though all their heads had been pulled by one string, everybody turned to look at a sharp-nosed, thin-lipped chap with tortoise-shell goggles. Then they all looked away, as though it were indecent to watch his face. He was long five thousand shares of that stock, and had often laughed at them for piking.
+
+It brought back the old days to me so that I could have sworn I heard once more the exultant yells of the winning bears in the board room. And I saw again a seething mass of winners and losers—winners pushing their luck, and losers bent on not losing any more than they could help—help at the top of their voices. A carnival of audible greed! Fear straight from six hundred throats! I remembered the Northern Paci-fic panic of 1901, when I had heard and seen——
+
+“It reminds me of old times, Bill,” I told the head of the firm.
+
+He was sticking close to me, I suspect, so that nobody would be ill-bred enough to ask him embarrassing questions—for instance, whether he thought the break had gone far enough. But he shook his head.
+
+“Times have changed,” he muttered absently, as though this were the first time in years that the ticker had relapsed into ancient vices.
+
+What had happened was that after a dull, drooping market for a few weeks the bulls had begun to tell themselves that the worst was over. The little daily bleeding of the past fortnight, they hoped, would obviate the need of total amputation. Then—the crash! Unexpected, as always, by those who having expected to win had forgotten everything else.
+
+I took another look at the customers. I saw men young and old and middle-aged, short and tall, thin and fat—and all of them strangers to me. Not one of the dozens who had traded in that office when I had an account there a few years before was left. And yet these, their successors, were curiously familiar. It was the eyes. They all had the dazed, hurt look of men who dread to admit that they are wrong.
+
+A parasitical office man, extremely well dressed, as all salesmen of bunk naturally feel they must be to hold their jobs, was circulating about the room, skillfully registering both condolence and resignation. It was really too bad, but you had to expect sudden showers in April! Of course it was a beastly shame it should pour on the holiday that you had planned to go to the links. He did it very well. Practice!
+
+One of the customers was moved to speech. He asked with a cheerfulness that anyone could see was sheer bravado, “Say, Fred, what’s the news?”
+
+“No news,” answered the omniscient Fred, who in balmier weather always began his remarks with “I hear.”
+
+Lawrence Livingston’s Raid
+
+PERHAPS the customer remembered this habit, for he asked, “What do you hear?”
+
+“Nothing,” answered Fred. The customer frowned. Fred, who was paid by the firm to abstain from silence, went on: “The less you hear the better. It’s all bear lies anyhow. If you listen you’ll hear nothing but calamities.” He paused. Then slowly, impressively: “I’m a bull on the country. You can’t make me believe that in twenty-four hours the soil of the farms has become barren, the springs have dried up and the sun has gone on a strike. No matter how hard I look I can’t see any change in the crops or in the steel trade or in——”
+
+“There must be a reason for this break!” the customer was goaded into interrupting.
+
+“Reason?” echoed Fred scornfully. But the customer’s face made him add quickly: “I’ll get in touch with Jameson and find out what they say over on the board.” And he left.
+
+Some of the other customers had listened to the colloquy apathetically. They were beyond the rescuing stage. Only a miracle would help them; and they had fatigued themselves praying for one.
+
+The office man, Fred, came back.
+
+“Of course!” he announced from the threshold. “I knew it! I said so!
+
+The customers resentfully watched him advance to the best oratorical position in the room—beside the frantic stock ticker. If he knew and had said so they had not heard him; and so they had not sold out before the break; and so he was to blame for it.
+
+“Lawrence Livingston is raiding the market!” he cried proudly.
+
+The years fell off my shoulders. I was again young and enthusiastic, and life smiled on me, even in Wall Street. I laughed for sheer happiness.
+
+Fred turned quickly, a frown on his face. Remembering that I was a friend of the boss and therefore a potential customer, he unfrowned. But he could not help turning a brick red. The customers stared at me; it was the first laughter heard that day in that office.
+
+My friend, tolerant by temperament and tactful by profession, turned and asked me affectionately, “What bit you?”
+
+“The vanished past!” I answered cheerfully.
+
+The customers politely looked away; only a man who already owes his brokers laughs when they call for more margin.
+
+“That’s a little more obscure than usual. I guess I am getting too old for your epigrams,” said my friend.
+
+“And I am getting younger every minute, listening to Fred’s,” I assured him.
+
+My friend, by reason of his calling, always played safe where his customers were concerned. He scented unpleasant observations on my hobby—which is that no man can consistently beat the game—and he intelligently forestalled the danger of anyone else overhearing me by smiling benevolently and remarking, “Come along, my boy!”
+
+I followed him into his private office and closed the sound-proof door. He motioned me to a chair. I took it. He looked resigned.
+
+“I am not going the scold you for letting your customers overstay the bull market,” I assured him.
+
+“No, but I suspect you are going to speak a piece on the stupidity of professional men in Wall Street. I haven’t got a soap box for you, as I heard Robert W. Chambers say they supply you with at your cryptlike club, but I’ll bite. Why did you laugh?”
+
+“When your young man Fred, whose job seems to be to keep the customers from thinking, announced so positively that the slump was a bear raid by Lawrence Livingston I felt that I was in Wall Street in the late ’90’s or early 1900’s, when I was conducting my Wall Street column in one of the afternoon papers.”
+
+“But Livingston wasn’t operating then,” protested my friend, who not only is literal minded but is also one of the most useful governors of the New York Stock Exchange.
+
+“He’s always been in Wall Street,” I said.
+
+He looked so puzzled and then so perturbed that I hastened to explain:
+
+“He isn’t stock operator, he’s a stock excuse—only his name has changed slightly. It used to be Jim Keene; and before that, Charley Woerishoffer; and before that, Daniel Drew. You commission men early discovered that what the average sucker—that is, what your average customer—wants is not reasons but excuses—excuses for his trading, for his taking unbusinesslike chances in another man’s game, for the inevitable misbehavior of the market at an inconvenient time, for his own imbecility and that of his broker. Any explanation except the truth will do to account for the obvious—when the obvious happens to be that the customer is an ass. He loses his money, but gives you commissions. So, when the end of the bull market comes and the profits are not taken the commission brokers have to excuse themselves for not calling the turn.”
+
+“Say!” interjected my friend. “You know it’s no use to tell your customers to get out. You might as well save your breath, and let the old mule kick them.”
+
+“I have no fault to find with that,” I said. “What I object to is the habit of telling the public that some big operator is raiding the market whenever the natural slumps come along to prove that the bull market is over. Do you wonder I laughed when Fred said Larry Livingston was raiding the market?”
+
+“What makes you so sure that Larry Livingston was not raiding the market?” My friend used the excruciatingly polite tone of voice that humorless people use to squelch friends. It’s bloodless.
+
+But I answered with a grateful smile, “Common sense makes me sure. This is a bear market, and too many weaklings are still long of stocks. The break is too violent and painful to be relished by men whose margins are nearing exhaustion. It is, nevertheless, legitimate—that is, logical. Merely to suspect Livingston of selling stocks in bulk at this level is a blood insult to him. You talk as though he were a room trader in the old days gunning for stoploss orders. Why in blazes don’t you tell customers the truth?”
+
+“Do you know Livingston?” asked my poor friend.
+
+I was willing that he should derive what comfort he could from my ignorance, so I said “I do not.”
+
+And sure enough, he smiled!
+
+“I thought so!” he said. “You may not think the Street has changed since you quit it fifteen years ago, but I know that it certainly has.”
+
+“Hang it, man, I write a yearly article to prove that it hasn’t,” I protested. “I’ve done it for years.”
+
+“Yes, yes, I know. And they make me laugh.” He doubtless meant my articles.
+
+“Where are they wrong?” I asked him, not at all pugnaciously.
+
+“The principle is wrong. You pick out the things that never change——”
+
+“I pick out stockbrokers, their customers, the psychology of all speculators everywhere, the theory of speculation, the amazing short-sightedness of the Stock Exchange governors, and the fact that the unbeatable game of stock speculation remains as unbeatable as it ever was. The customer, without whom there would be no commission brokers, to-day is smooth shaven, and sixty years ago he wore a beard or an imperial. But he comes to Wall Street on the same errand and quits loser, just as he used to do. And if you are a fair sample, I’ll say that the commission brokers have not changed either. What have you got to say to that?”
+
+“Only this: That I know Larry Living-ston is raiding the market.”
+
+“And how do you know that?”
+
+“I know it!” And he smiled most sapiently—exactly as though I were a customer.
+
+“Are you one of his principal brokers?”
+
+“No, but his brokers have been big sellers.”
+
+Who Was Wall Street’s Biggest Plunger?
+
+“IT’S a persistent delusion of men like you that a shrewd operator’s buying and selling can always be spotted. In Governor Flower’s time everybody knew when he was buying because he wished it known. But nobody could tell when he was selling. Can’t you imagine what Keene did when people like you thought they knew what he was doing?”
+
+“Livingston’s selling, all right,” insisted my friend. Seeing my look he added, “I can tell.”
+
+“Well, if you can tell, he must be an ass,” I said, being a true friend. “And I’ve heard he has quite a thinkpiece, as you’d call it.”
+
+“He has. That is why I know he is back of this drive. He is the biggest plunger Wall Street ever saw——”
+
+“There you go again!” I couldn’t help interrupting. “Nobody really and truly is the biggest plunger Wall Street ever saw. Whoever happens to be most active at the moment becomes the legendary hero of mythical raids. I remember hearing somebody remark that Charley Woerishoffer was the biggest plunger of all. Deacon S.V. White, who in his prime was himself no piker, was present and he declared very impressively that James R. Keene never had an equal in Wall Street for magnitude of operations or brilliancy of execution. Then old man Smith, who was a Forty-niner, chipped in to say that all these later chaps were shoestringers alongside of Anthony W. Morse, the hero of the Chancellorsville rise—in 1864, I think he said. And he mentioned Henry Keep, who was known as William the Silent; and Bill Travers, who after looking at the Siamese Twins a long time turned to P. T. Barnum and asked gravely: ‘B-b-brothers, I s-suppose?’ And the two Jeromes, Addison and Leonard, and other men you never even heard of, who had been Napoleons of the board in their day.”
+
+“I know. But the country is richer now and operations are on a proportionate scale,” he said pityingly.
+
+“Well,” I reminded him, “it isn’t so very long ago that one of the famous Chicago crowd told me that the heaviest player of the bunch, bigger than John W. Gates himself, was Loyal Smith, who lived and died unknown to most of you brokers. But no reliable figures were mentioned. A man who ought to know assured me over fifteen years ago, that William Rockefeller was carrying a line of a million shares of stocks—that is, his purely speculative commitments. If true, that is unquestionably a bigger line than any other man has ever swung in Wall Street since Hendrik Hudson arrived.”
+
+“I don’t believe the man who told you knew what he was talking about.”
+
+“He didn’t keep Mr. Rockefeller’s books any more than you keep Mr. Livingston’s. But my guess is that your guess about Livingston is wrong. If you wish I’ll make his acquaintance exclusively to ask him.”
+
+> ![image](assets/00004-1d10091f.jpg)
+
+“And he’d tell you!” he jeered.
+
+“Why not?”
+
+“He doesn’t talk,” he said.
+
+“Then how does he tell the waiter what to bring him? What you mean is that he doesn’t blab. That fact and the report that he has put a million or two in trust against the possibility of the game getting him some day, as it does every one of your customers in the end, make me quite anxious to meet him. I understand that he never gives tips on stocks, but never hesitates to say whether he is bullish or bearish and why, and also that he never talks one way and acts another—a luxury that no man can permit himself unless he has an intelligent conception of the big swings. My own opinion is that Livingston will agree with me that stock speculation, considered as a continuous performance, is an unbeatable game.”
+
+“Sure! He’ll agree all right. He’s made millions playing it.”
+
+“You don’t know that he plays the game as a speculator. Moreover, he has made and lost several fortunes and he evidently thinks he may go broke again or he would not have soaked away that million so that the same ticker that gave shall not take away. I know there is always a good reason for his operations; and that reason will prove my theory.”
+
+“He may talk about the market, but he won’t talk about himself,” insisted my friend.
+
+“He can’t talk about the market without talking about his methods of operating. His market philosophy is himself,” I said.
+
+Brokers do not listen to abstractions. If they did some of their customers might make money. My friend said earnestly, “He has always played a lone hand and I know he is a very heavy trader. He has friends, but not a personal following such as all operators had in the old days of which you are so fond of speaking.”
+
+The Livingston Personality
+
+“Then he is really able and also honest, and therefore exceptional. My dear chap, on the bear side all the following an operator needs is to be right. But you are, as usual, wrong. In the old days the only operator I recall who really had a following was Governor Flower, and he was not, strictly speaking, an operator, but a pool manager and promoter of syndicates operating in an unusual period. There never was and never will be another such man. His type, his place in the popular regard and the conditions that made possible his leadership will not recur. Keene, who is the nearest approach to a predecessor of Livingston, played a lone hand. But he did not disdain to accept company when there was need. And it was his pools that hurt him most, and it was a pool that made his last Wall Street chapter so inglorious. But I have to thank you for one thing, and I am very grateful.”
+
+“For what?” he asked suspiciously.
+
+“For my present intention to see Livingston, that he may prove how sound my theories are.”
+
+“Your theories!” smiled my friend.
+
+“I never heard you say that they were yours,” I remarked quite mildly.
+
+•••
+
+A mutual friend told Livingston that I wished to meet him. I do not know what else he said, but he once upon a time was a newspaper man. At all events, Livingston sent word that he would have more time to give me if I took luncheon with him at his home on Sunday. We could then spend the entire afternoon together.
+
+I was there at the appointed hour. It was a sumptuous home. Its owner, who had never done anything else in his life than speculate, obviously lived in the height of luxury—liveried flunkies in the hall, Old Masters on the walls, and all that. It was not the blatant assertiveness of new millions that obtruded itself, but the inescapable evidence of guessing correctly on the stock market. If the unbeatable game of stock speculation had not been beaten by this man it at least had received a severe jolt at his hands. He had made and lost several fortunes in a few years, according to the gossip of the Street. It was plain that he had not lost the last one—not yet! But I was forced to admit that the mere making of one of the magnitude at which his home hinted was a solar-plexus blow to my cherished theory.
+
+He was tall and well built, and straight as a West Pointer. He was clearly a man in the pink of condition—that is, an intelligent human being. He did not look his years or his business. He showed no wrinkles, no traces of the worries and anxieties that bring premature old age on so many Wall Street professionals, no visible evidence that he had ever lived unwisely. But the chief impression I received was of a mind that worked both habitually and best when cold.
+
+His greeting was neither distant nor cordial, but his neutrality was not instantly ascribable to a habit of caution any more than the mere shadow of a corrugation on his brow came from the pervasive hostility of a man perennially on his guard by reason of his business. And, quite definitely, there was about him nothing to make me think of the lightning decisions he was credited with making on big market days—decisions in-volving millions of dollars.
+
+A Pointed Question
+
+We shook hands, still neutral. I at once proceeded to tell him why I had sought him.
+
+As I talked I kept my eyes on his face to judge the effect of my words on him, but I could not tell what his thoughts were, nor, indeed, whether he was thinking at all. His eyes were full of that baffling intelligence that you see in the eyes of some babies. They were of a clean, clear, blue gray, and so steady that they impressed me as being more than merely organs of vision, as if they greatly helped him in his listening.
+
+Livingston did not baffle analysis, like Henry M. Flagler, nor remind you of a soul refrigerator like the late James Stillman. It was rather that the sending apparatus of his psychic wireless was not working. His face had the quality that goes with genuine imperturbability rather than the studied immobility of exercised self-control. Had it not been for the listening eyes you might even have called it placidity.
+
+I told him that I had certain theories about the game of speculation, as well as of the psychology of speculators, big or little.
+
+“I’ve read some of your articles.”
+
+He spoke so noncommittally that I said, “Well?”
+
+“Well, you are one writer who is not afraid to tell the truth, even though it might hurt the brokers’ business to tell it.”
+
+“But the truth does not hurt the brokers’ business,” I said.
+
+He merely nodded.
+
+“I’d like to ask you some questions,” I said.
+
+“I’ll answer any question you ask me,” he said confidently.
+
+“About yourself?” I asked.
+
+There flitted across his face the shadow of reluctance. It was plain that he was not in the properly loquacious mood. That comes only when a man knows that he is not only completely but instantly understood, when talking ceases to be talking and becomes thinking aloud.
+
+I had heard from the newspaper men—of course nothing had been published about it—that Livingston had received threatening letters from cranks who had read about his alleged bear raids on the market. There had been some bad breaks in prices and no end of harrowing stories of terrific losses by the public. I argued that as he lived with his family in this house the threats of bomb throwing could not be ignored by him, however courageous he personally might be. The problem was to give him the habit of talking unrestrainedly about all things by first inducing him to talk unrestrainedly about one thing.
+
+So I said, “The principal reason why I wanted to see you was that everybody said the weakness of the market last Friday was due to a bear raid by you. I have heard that you often spread your selling orders among a hundred brokers to give the impression of liquidation by the general public. How about it?”
+
+Sure enough, his face flushed.
+
+“I never raid the market,” he said quickly. “It would be useless. The market raids itself when a lot of people suddenly discover that they ought to have sold out ten points higher, or when a lot of insiders dispose of stocks they couldn’t land the public with, or when brokers have loans called on them. But they always blame it on the bears. As a matter of fact a bear market is 100 per cent legitimate. It begins without the need of manipulation or thimblerigging, and it continues without having to be nursed. No man or set of men can smash a market day after day. I might raid the market once. But what good would that do me? It won’t stay down if it isn’t a bear market; and if it is a bear market I don’t have to raid it, do I?” He looked at me, frowning.
+
+“No, you don’t,” I said.
+
+Merchants in Wall Street
+
+“Personally I’d rather play on the long side. It is constructive, and it is much nicer to share your prosperity with others. The public does not take kindly to short selling. For one thing, it is easier to be optimistic, to believe what it pleases a man to believe. And then, as I said, everybody boosts a bull market, bankers and suckers alike. Nobody speaks about the misdeeds of the bulls or the misstatements of insiders about their companies. Bull tips are mostly anonymous. I have an idea that if the papers published only signed bull dope there would be much less money lost by the public. Fix the responsibility. But don’t talk about bear raids as though they really were the cause of the declines.”
+
+“I don’t think anything anyone can do will help a man in whom greed takes the place of gumption,” I said.
+
+He nodded—the kind of perfunctory nod a man gives when he has only half heard but isn’t interested enough to ask for a repetition. His next word proved it.
+
+“I am tired,” he said, “of hearing the public and the papers blame Wall Street for parting fools from their money. Take the biggest losers. They are not the piker suckers, who only lose what they risk—pennies. It’s the successful business man, the shrewd merchant, who is the biggest sucker of the lot. He has made a fortune in his own line? How? By being on the job for years; by learning all there was to know about it; by taking reasonable chances; by utilizing his knowledge and experience to anticipate probabilities. He wants to increase that fortune at a faster rate and with less effort. He decides to make his money work for him—at high wages. He assures himself that as he is taking the risk of losing every cent he puts up it is only fair to make more than his usual profit. Why, that man doesn’t lose his money in Wall Street. He loses it in his own office. It isn’t the game that beats him; he beats himself. Am I right?”
+
+He looked as if he really wished to hear my opinion, so I said, “Absolutely!” It was one of my own favorite points.
+
+“That man expects to make money in Wall Street by using methods he wouldn’t dream of using in his own business. That is why legislation can’t help much, because it can’t keep a man from wanting to get something for nothing. If all the so-called abuses were suppressed and the public protected against crooks and against its own greed and ignorance, so that nobody could lose money, who in blazes could make money? If everybody bought at the bottom, from whom would he buy? Who would sell?”
+
+“Precisely. That’s one point all the investigating committees overlook,” I said.
+
+He went on earnestly:
+
+“The sucker play is always the same: To make easy money. That is why speculation never changes. The appeal is the same: Greed, vanity and laziness. The merchant who would not dream of buying and selling stockings or percales on the advice of fools goes to Wall Street and cheerfully risks his money on the say-so of men whose interest is not his interest, or tipsters who have not grown rich at the game they want him to play. He thinks his margin will take the place of brains, vision, knowledge, experience and of intelligent self-surgery. Whether the stock market goes his way or against him, his hope is always fighting his judgment—his hope of gaining more that keeps him from taking his profits when he should; his hope of losing less that keeps him from taking a relatively small loss. It is a human failing!”
+
+“Yes,” I said. “Even old Daniel Drew couldn’t bear to take a loss. If he was trading in several stocks and one of them showed him a loss he would put his minus in some account that showed him a profit. That way he would tell himself that he hadn’t lost money, that he hadn’t been wrong! The foxiest of all stock operators in his day couldn’t bear the mere thought of a loss, and he wasn’t a miser. Imagine the average sucker!”
+
+“Yes. He is the kind of animal that believes the reason stocks decline is because I raid the market,” said Livingston.
+
+It was plain that so far it had been his grievances that had been loquacious, and that he himself had been listening to those same grievances. But I was less keen to hear business aphorisms than I was to get the plain tale of his own successes—the how of this sumptuous house and the when of his market wisdom.
+
+I asked him about his methods—later I would ask him about himself—and it became clear that he was far more concerned with determining the direction and duration of the big swings than with specific moves in specific stocks. There was no trouble about making big money if the operator’s position was correct. All stocks, for instance, go down in a bear market. As bear conditions become more clearly defined the operator must pick out his stocks in accordance with the way in which the hard times develop and spread in the various industries. Every group has its turn. He himself studies conditions all the time. It is part of his day’s work. Long before he has his breakfast he has read the various market reports in the daily as well as in the trade papers.
+
+He told me a story that beautifully illustrates the Wall Street point of view, how apt are the wiseacres in the brokerage houses to be wrong and how an intelligent man earns his successes.
+
+An Undeserved Reputation
+
+The United States World Trade Corporation, with a capital stock of $100,000,000, was formed to operate in various foreign countries. It owned steamship lines that went everywhere, trolleys in Brazil, coffee plantations in Guatemala, hydroelectric plants in Bolivia, banks in Peru, and in addition conducted a huge export business. When, after the armistice, business the world over fell off, the U. S. W. T. shares remained firm. Other stocks gradually declined, but the public remembered that the company’s business was spread all over the world and so could divide its risks. Moreover the directors were the wealthiest financiers in the country. The company continued to pay its regular quarterly dividend.
+
+The bear market developed. There were severe declines in security prices. One pool after another was forced to liquidate. U. S. W. T. stock descended in a dignified and leisurely manner as befitted its aristocratic directorate. One day when the rest of the market displayed an improvement in tone U. S. W. T. stock suddenly declined five points and was more active than in months.
+
+There was the usual demand for explanations, and one of the financial editors was delegated by his fellows to call on the president of the company.
+
+“There is a rumor that your directors are going to pass the dividend at the next meeting,” said the newspaper man. It was no disgrace; other companies had been doing so on account of the hard times.
+
+“It’s news to me,” said the president.
+
+That didn’t mean anything to the experienced financial editor, who persisted, “Has there been any formal or informal discussion about passing the dividend?”
+
+“No!”
+
+“Or about reducing it?”
+
+“I might answer that it is none of your business what our directors discuss formally or informally. But instead I’ll tell you that there has been no talk whatever about it, and no desire or intention of either reducing or passing the next dividend. I hope we may never have to do that.”
+
+> ![image](assets/00005-1d6a2845.jpg)
+
+“I hope the same thing. Thanks!” said the editor.
+
+> ![image](assets/00006-ad45d770.jpg)
+
+All the papers published the statement denying on the highest authority—the president’s—that the company would cut or pass the next dividend. The effect was to keep many stockholders from selling out. The president was known to be a square and truthful man, respected even by the financial writers, who have very few illusions about presidents with tickers in their private offices.
+
+Instead of rallying, however, the stock broke the next day worse than before, and on the day after it was the weak feature of the market. The newspapers did not know what to make of this slump, for the president’s categorical denial made it difficult to believe that the dividend would be cut. Wise Wall Street, however, always ready to believe the worst—naturally—smiled and asserted, “The tape tells the story! There can be as many official denials as you please, but that stock has gone down on inside selling!”
+
+The financial writer who procured the statement from the president told me at the time that it was a great shock to him, for he had always entertained the highest respect for the character of the president, who happened to be a particular friend of mine.
+
+“But why do you think he lied to you? “I asked.
+
+“Look at the price!” answered the editor.
+
+I said nothing. I knew it was useless. Besides, I was looking at the price.
+
+Sure enough, a couple of days later the board of directors of the United States World Trade Corporation met and announced, after the market closed, that in view of the unsettled conditions, financial, commercial and industrial, the world over, the company had decided to conserve its cash resources and would not declare the regular quarterly dividend.
+
+The Inside Story
+
+Wall Street rang with the jeers of the wiseacres.
+
+“Of course! The directors sold out their holdings and went short. The rawest deal in years!”
+
+The financial editor who had secured the statement from the president elected that gentleman to the Ananias Club of Wall Street; membership: Omnes.
+
+It so happens that I know the president intimately. I ran across him uptown and, of course, like a true friend did not wait for particulars but accused.
+
+“Why in blazes did you have to deny that you were going to pass the dividend?”
+
+“It was the truth!” he said doggedly. I wasn’t the first.
+
+“Huh?”
+
+“The truth! When I made that statement there had been absolutely no talk about the dividend. I give you my word that two minutes before the vote was taken there was not one director who was sure of what the board’s action might be.”
+
+“You know I am your friend,” I said. “I am the kind that sticks, Whether you are in or out of jail, I am strong for you.”
+
+“What do you mean?”
+
+“That you do not have to tell me you are innocent. I believe you. But it smells mighty cod-livery. Who sold the stock?”
+
+“I didn’t; worse luck!”
+
+He spoke with such sincere regret that I looked at him again.
+
+Then I whispered; “Which director had the—er—prescience to sell?”
+
+“All of them swore that they were not guilty.”
+
+“All of them always do,” I remarked. “What did you expect, signed confessions?”
+
+“Listen,” said the president seriously. “Not a single director was guilty this time. After I issued my statement our business got much worse. Some of the markets for our products simply dropped out of sight; there were a couple of revolutions and a lot of banking and commercial failures all over South America; altogether one hellish state of affairs. We are going to need a lot of money, for there’s a long hard pull ahead of us, and we naturally decided to keep as much cash on hand as we possibly could. There was considerable opposition to passing the dividend, but the conservatives won.”
+
+“Well, you’ll never make Wall Street believe that story,” I assured him cheerfully.
+
+“I know it,” he said. Then he exploded: “Why, I bought five thousand shares myself on the first break. It shows me a fifteen-point loss this minute.”
+
+“You shouldn’t have talked to reporters,” I told him.
+
+“I shall not after this,” he promised heartfully.
+
+“Don’t worry about the next time,” I assured him. “They will never again ask you any questions. And if they do they won’t print the answers. Not after this.”
+
+It all happened several weeks before I called on Livingston. The story he told me was that he had been keeping an eye on the export trade and on conditions in South America and the Orient. The future was gloomy. Things were bound to grow worse. He looked, in accordance with his usual practice, for the stock that would corroborate and justify his opinion of basic conditions. There was United States World Trade Corporation, selling way up. He got the annual reports of the company for three years, and then, when he knew all about the company finances as well as the underlying conditions in every one of the company’s divers lines of business, he sold short ten thousand shares of the stock. He began at 110. The next morning he read the president’s statement. It had the effect on him of making him sell another ten thousand shares short, and the price broke so badly that he was encouraged to put out an additional short line of ten thousand shares on the third day. By the time he was short thirty thousand shares the price was in the 80’s. There was no inside support to speak of, and the room-traders on the floor saw it and sold it so recklessly that the stock had a good rally on their covering. Then came the last grand drive, at the opening, on the day after the directors’ meeting. Livingston took advantage of the big collapse to take in his shorts at a trifle above 60.
+
+“I made a killing on that stock. I didn’t need any inside tip,” he finished.
+
+“And the beauty of it is,” I said, “that Wall Street accused the directors of speculating in their own shares. Do you remember the shriek the newspapers let out when the stock broke after the president came out with a statement that they were not going to pass the dividend? They did not know that it was your selling. I happen to know that the decision to pass the dividend was not reached by the directors until two minutes before they took a vote on it.”
+
+“Wasn’t it? Well,” he said grimly. “I reached it for them two weeks before they voted. I read the president’s statement. I didn’t hope that they might never have to pass the dividend. I knew they must; if not this time, three months later. If they had paid the regular dividend I would have sold short twenty thousand shares more, because their action would have been proof that they didn’t know their business or that their stock-market commitments obliged them to do the wrong thing; and with the help of the vanishing export business I would have made them let go their holdings before I got through with them. I knew the directors were the richest bankers in the country, but I also knew that no man or set of men could fight conditions.”
+
+Studying the Wheel
+
+That is the inside history of a typical Wall Street episode. I told my friend, the president, what Livingston told me. His remark was, “That’s very interesting; but I don’t expect ever to live down my reputation as a conscienceless stock gambler.”
+
+Livingston and I discussed other market topics. He told me many illuminating stories about buying and selling stocks at other than the exactly right time. Also he discoursed at length on tape reading and on numbers and their meaning, which enabled him to base operations on what one might call behavior. Time and behavior! He was very keen about these.
+
+“And it isn’t only in stocks. It holds true in nearly everything in the world. I was at a Southern resort, and some friends took me to Gridley’s. I had never played roulette. So after a while I did.”
+
+“And you beat it?” I asked.
+
+“Yes,” he answered in a matter-of-fact voice.
+
+My heart sank so that I almost heard it. I had developed a very fair degree of admiration for this stock operator, who in the palace he had bought with his winnings had been corroborating my contentions about the fate of all stock-market players. I had seen in him the honest-to-goodness hero of no end of exciting Wall Street yarns. And now he had to go and spoil everything!
+
+“Do you mean,” I asked in a casual tone of voice, “that you have a system for beating the roulette?”
+
+It was too bad, after promising so much!
+
+“No,” he answered slowly, “I haven’t a system for beating roulette. I have a method that I follow in playing the game at certain wheels at certain times.”
+
+“Meaning?”
+
+“I’ll tell you what I mean. I stood at one of the tables and watched the wheel. I jotted down in a notebook every number that came out. I can’t tell you how long I was at it. But I kept the tally of hundreds of plays. I studied these and saw that certain numbers appeared much oftener than others and that certain numbers also were very apt to come after certain other numbers. To make the story short, I found certain sequences. I waited for the right time and then I played according to the result of my observations at that one table! I figured that the odds were in my favor; and sure enough, I won.”
+
+“Did you always win?”
+
+“Oh, no! Whenever things didn’t come out as they should, I’d quit. There was no sense in arguing. Something had gone wrong. I might find out the reason later; but the pressing need when one is wrong is to quit quick. I went to Gridley’s a good many times and studied his tables. I learned that the runs of numbers varied not only with the wheels but with the dealers. There were times when the same wheel and the same dealer would not run true to form. Probably they had oiled the mechanism that afternoon or had done something or other to alter conditions. The whole thing was simply one of the mechanical behavior of individual wheels, and the physical peculiarities of each dealer. I watched for the repetitions. As I told you, I always cut short my losses. No wheel could take more than two hundred dollars out of me. By the time I’d lost that sum I was sure something or other had changed, which rendered valueless all my previous observations. But often I won quite a little. At the end of the season I quit a small winner; say, three or four thousand. But that wasn’t the thing. The reason I played was to learn whether my observations were accurate.”
+
+The Technic of Interviewing
+
+The English-speaking man suffers from a purely conventional reticence. He seldom talks frankly about himself or humanly about his hopes, and the chief problem of the interviewer is to make him cease to think of his auditor as an auditor. A man who does not wish to be quoted must be persuaded that he will not be misquoted; and the best way to achieve that is to convince him that you know him better than he can possibly know himself, because it is your business to know men—as it is his to be an unusual personality.
+
+A talker as a rule does not crave action; but a doer often loves to talk. When a man of deeds is convinced that you will not confound the certainty of knowledge with the dogma of egotism or that you are intelligent enough to be deeply interested in his pet hobby—his achievements—he regards you as his other self. Talk about the femme
+incomprise! It is the super successful man who is most vulnerable on his nonunderstood side. Of course, before he can be sure of the value of your appreciation—he does not crave d. f. praise—he studies you, tries to see the real you, even as you are after the real him. All you have to do to win out is really to understand him. You will best make this patent by listening accurately rather than sympathetically, for if he is a big man he doesn’t need sympathy. You prove your understanding by occasionally not waiting for him to finish a remark, but finishing it yourself. If you put his own thought more epigrammatically than he himself would have done, you will find that he in-variably repeats after you, as though he understood you! He will not talk down to you after that, but up! You may even interrupt, urging him to go faster. He will forgive your impoliteness because it proves that your interest makes you impatient to hear everything he has to say and hear it quickly; a thrilling story.
+
+A quick-gaited mind finds its greatest torture in having to moderate its stride to allow you to keep up with it. With men like Theodore Roosevelt, James J. Hill or Nelson W. Aldrich it was no trick to get an answer to any sort of question after you once proved your ability to keep pace with their extremely rapid-working minds. To be understood, no matter what words he uses or how quickly the thoughts succeed each other or how far the leap is from subject to subject, makes a man cease to talk to you. Instead he proceeds to talk to himself in your hearing; for even the most self-repressed captain of industry or banker or poet finds pleasure in your listening when it compels him to justify your rare appreciation of him. Often he finds himself for the first time crystallizing his own opinion of his own acts. The man who does big things is less afraid of being blamed than of being misunderstood. He doesn’t ask applause from you. His one prayer is that you should understand him as he understands himself; because then you will realize that it is natural for him to be what he is. And he knows what he is!
+
+This digression was intended to make plain why men who seldom talk about themselves will at times talk freely. A politician need or need not talk about himself. He can be a Roosevelt or a Quay. But a stock operator should talk only about the market, and at that only when the talk helps him. Livingston had no axes to grind on the stone of publicity. He needed no following—no votes. He had no vanity to gratify by speaking about his successes, when the detailed story if published might mean merely more threatening letters or even bombs or midnight visits. It was less his philosophy of trading that I wished to hear than the story of his life—the reason for the Old Masters on the walls and the exquisite pearls about his wife’s exquisite throat—the man himself, self-painted by his autobiography. A life habit of playing a lone hand was not conducive to garrulity. All during luncheon I was thinking of this man’s stock-market life and how to induce him to tell it to me.
+
+I have told how I received no definite impression of Livingston’s personality except that it was bafflingly unvibrating. He was psychically inert, as it were. But soon I perceived that he was testing me—as all men who have many opponents do when they are interviewed. It is always better for the interviewer to reveal himself at once instead of waiting to be sized up by the sitter, who is less apt to be an expert character analyst.
+
+Livingston’s secretary brought in a certain document. I was about to move away, when he said, “No; it is nothing private.”
+
+After the secretary left, remembering that Livingston did not know me, I said, “It is very interesting to see how your mind works.”
+
+“How do you mean, see?” he asked sharply.
+
+“That!” I said. “See! I could tell by looking at you.”
+
+The Business of Being Right
+
+I described how he looked when he turned his mind from our discussions to the new matter, how he concentrated, how he forgot everything except the point he was studying. I then told him how I read back from his actions to his thoughts, and why in my opinion he had decided to do what he told the secretary he would do.
+
+He listened intently—as all men of affairs do when you talk to them about themselves frankly—and nodded. But after that the change of attitude was noticeable. He was now quite as much interested in his own talking as in my listening. We had become acquainted. Those ten seconds of understanding were the equivalent with him of a year’s acquaintance.
+
+After Livingston begins to talk because it is you who are listening to him, it is impossible not to realize that he has the kind of mind that makes him the best tape reader and consequently the best technical trader of all the big stock operators of his generation. It is a decidedly arithmetical mind—not indeed of the type of the lightning calculator who is nothing but a lightning calculator, but of a man who reads numbers on the tape as an astronomer reads the stars in the sky; and remembers—both the numbers and their meaning according to the time and place. So marked was this, so obviously was his uptown life drab as compared with his daily five hours downtown, that one wondered a trifle dubiously about his grasp of human nature and human emotions in general. For it was as clear as day that he took no interest in men who were merely human beings, whether butchers or poets. It was the people who played the same game that he did who alone mattered. Plungers or pikers, they were all a part of his problem. For their human weaknesses he had neither sympathy nor condemnation. They were stock speculators who might help or hinder his plans; or, more accurately, who might retard or hasten the hour of his winning.
+
+Later, when he told me about his own experiences, I was not surprised that not once did he volunteer any impressions of the people with whom he dealt. He did not describe the physical or mental characteristics of men who had played a part in his career. He either never had cared or did not think it worth while remembering. It was always what he did or what they said—that is, what made him do what he did at the time. But he recalled in astonishing detail the facts of his deals; the exact number of shares and the prices of stocks bought and sold twenty years before—that is, all about his business, the business of being right in the stock market.
+
+I am giving impressions derived from his words in the course of a talk of hours, that grew more personal as it proceeded; the cumulative effect of scores of little self-revelatory flashes. For instance, I easily gathered that he had the unusual type of mind that a great chess player has. He was born with it. That is the reason he knows what to do by instinct. He has, to an abnormal degree, the ticker sense—as Dempsey has the fighting instinct or some reporters the news sense. He was born for his game as Mozart was born for music or Ty Cobb for baseball. He came into the world with it and he has developed it as Paul Morphy developed his chess playing. He has both studied and practiced. But his own success, his very millions, proved, as you shall later see, that not even he can beat the unbeatable game. For what he does is not to gamble or speculate, in the sense in which I use “speculation”—that is, the continuous practice of buying and selling stocks in expectation of a profitable change in value. He does what all successful merchants and manufacturers and railroad men and prize-fight promoters and pioneers do: He anticipates probabilities. And that is not a mere euphemism for gambling. It connotes a vital difference.
+
+Traders of Various Types
+
+It was most interesting to hear from his own lips that with all his natural and cultivated equipment as an operator, whenever he tried to get something for nothing out of the stock market, or followed tips or ventured in other markets on another’s advice, he invariably fared as doth the sucker. He has lost millions by making sucker plays. He admits it painlessly. If it wasn’t for his mistakes he would be one of the richest men in the world—like many others!
+
+He has the marvelous memory of all men of that type of mind. He remembers numbers and fluctuations indefinitely. He can tell what a stock sold at when he became bullish or bearish on it fifteen years ago. Professional chess players will remember every move of a complicated game played years before. Only the other day a billiard player who may or may not be the world’s champion as these words are printed, described exactly how the balls lay when he missed a certain shot that ended a certain run at a certain tournament before the war. That sort of memory is of value to a stock trader who remembers the lessons taught by miles upon miles of ticker tape.
+
+Relatively few of the big men of Wall Street have been good traders in stock. Jay Gould, who was a great financial genius, saw in the market a means to an end. He made and lost millions in his speculations. In his manipulations to obtain control of companies he was more successful. But that was quite another game. One of his chief brokers told me that he made $100,000 in commissions from Mr. Gould in one year, and that he was certain Mr. Gould’s net winnings that same year did not amount to $50,000. In fact, he suspected Mr. Gould quit a loser. It was the year of the famous Northwest corner.
+
+Commodore Vanderbilt bought stocks that he believed in, and held them. He invested, not traded. He squeezed the shorts in his two Harlem corners, but his motive was mainly to punish treachery and crookedness. Moreover, he knew his own financial resources and believed in the future of the road, as well he might. But old Daniel Drew ran rings around him in the stock market more than once.
+
+The late J. P. Morgan was never interested in the stock market as a trader, although the late Thomas Hitchcock—”Matthew Marshall”—and others have told me stories of certain coups of his when he was a young man working for his father, who often told friends he was afraid Pierpont would never make a banker! When he formed the United States Steel Corporation he intrusted the market manipulation of the unproven shares to James R. Keene and, I have been told, always regretted the necessity of having to develop a speculative market for them. Of Mr. Morgan’s partners I’ve never heard any accused of being a particularly good stock-market trader, with the exception of the late George W. Perkins, a man of unusual ability and imagination, who was a great and natural money maker and took kindly to the stock market, where he could utilize to the full his varied resources.
+
+James J. Hill was a successful operator in stocks in which he was interested, but not as a constant or general trader. He was the most picturesque personality I have ever met in Wall Street. On the other hand, E. H. Harriman was a very good trader. His huge fortune, won in a few golden years, was taken out of the market not by trading in stocks but by high financial manipulation of entire capitalizations. But he could read the tape very well. His early career on the floor of the Stock Exchange gave him the needed experience. I remember once being in a certain office and one of the greatest operators that ever lived looked worried.
+
+Ticker Sense
+
+“What’s the matter?” I asked, scenting trouble—that is, front-page news.
+
+“Oh, I’ve been forced to change some plans. I told a friend the other day what I hoped to do, and he bought twenty thousand shares of—of a certain stock. I don’t know whether to let him know now or wait a bit.”
+
+“Until you are entirely out?” I said—and smiled, so that he wouldn’t shoot.
+
+“No,” he said frankly; “until some other friends are out.”
+
+“Is your twenty-thousand-share man a very good friend?”
+
+“Not so very.”
+
+“Well off?”
+
+“Yes. It’s E. H. Harriman,” he said.
+
+I laughed and told him: “Don’t worry about him. He’s out.”
+
+“How do you know?”
+
+“Look at the tape; and if that isn’t enough, call him up.”
+
+The tape wasn’t enough, so the greatest pool manager that ever operated in Wall Street called up E. H.
+
+“Just ask him,” I suggested, “when he sold the stock.”
+
+“No.”
+
+“Then ask him if he has it yet.”
+
+My friend did. He told me that Harriman answered, “Oh, I sold day before yesterday. I didn’t like the looks of the market.” He had called the turn on the minute.
+
+James R. Keene, of course, was an artist as a manipulator, and a consummate reader of the tape. In his later years he interested himself chiefly in campaigns in single stocks, following the method first employed in the Stock Exchange by John M. Tobin in Civil War times, which consisted of carefully studying the affairs of one company and then acting upon the knowledge thus obtained. Tobin was Commodore Vanderbilt’s chief broker in the famous Harlem corner of 1864. He and Jerome adopted the Napoleonic principle of concentrating their attack upon one point. One stock was enough. Keene, of course, traded in many stocks and he also had, very highly developed, what I have called ticker sense; that curious instinct that saved him more than once. He was a brilliant manipulator and a daring plunger. He did not care to direct a company’s affairs, but he could analyze an annual report as accurately as an expert accountant; and ten times faster.
+
+It was a wonderful equipment that Livingston had been born with, and I could not help comparing him with the average man who goes to Wall Street after easy money. I recapitulated the sources of loss by the public.
+
+Speculators’ Weaknesses
+
+MOTIVE. The sucker wishes to get something for nothing. He is prompted by blind greed or by the excitement of gambling. But Livingston cared only for winning, for being right. Money was merely the proof of it. He sees. Then he seeks to verify his sight by actual operations. It was the hot passion of a chess master for chess, however cold-bloodedly he may play the game itself; the irresistible urge to find solutions to problems. And his were all stock-market problems.
+
+Trading in and out of Season. Livingston had lost too many millions and had learned to wait for the right time. Too soon is as bad as too late.
+
+Hope. The average sucker does little more than hope, whatever official reason he may give to others or to himself. But Livingston doesn’t hope; he thinks. He makes mistakes, but never the same mistake twice, for he has toward the game the curiously personal as well as utterly impersonal attitude of the artist toward his work. One of his aphorisms is “I never argue with the tape.” He is right or he is wrong; hope has nothing to do with it. And even when accidents make him lose money they don’t prove he’s wrong. So his attitude is unchanged, his confidence in himself unshaken. And that makes the millions!
+
+Lack of Knowledge of the Game. Lack of knowledge of market movements, of general trade conditions, of specific conditions affecting specific stocks, of values, of money conditions, contributes to make the public lose. But Livingston knows and studies all the time. He reads trade papers, and hires experts, and gets reports, and is forever on his own job.
+
+Inexperience in the Stock Market. It is the one business Livingston knows. He has been in it since he was fourteen.
+
+Temperamental Unfitness. That is back of many failures. But Livingston has experience, a remarkable memory, coordinates accurately and quickly, has ticker sense—the instinct for the game that a man must have to be a master. At times it proves to be a trustier guide than his reasoning, for that may be vitiated by ill health, nerves or special circumstances. But the instinct is never dormant.
+
+And yet Livingston loses. He was a discharged bankrupt for millions, as late as 1915. In two years he had paid all his debts with interest; and two years later was a multimillionaire.
+
+How did he do it all?
+
+How did he make his first million in 1907?
+
+How did he lose all his millions in 1915?
+
+How did he get back?
+
+And even more interesting and valuable—how did he make his first dollar?
+
+<!-- rl-section id="section-9" class="epub-section" kicker="Section 9" title="Section 9" -->
+
+## Section 9
+
+II.
+
+The Boy Trader Beats the Bucket Shops
+
+Livingston begins his narrative by recounting his boyhood and how he got into the stock business. He began trading at the bucket shops while working as a clerk at a brokerage house and made his first thousand dollars when he was fifteen. His parents tried to dissuade him from earning money in such a speculative manner because they could not understand how that much money could be made without actually working. At the time, the amount represented about a year’s gross wages.
+
+But the young boy was already hooked on the market. As the story unfolds, he traded at more than one bucket shop in quick succession because when he was recognized he would have to move his business to another. The story is also fascinating because it shows the development of a trader’s personality and psychology. It also gives one of the few accounts of how bucket shops operated. Bucket shops came in various shapes and sizes although the one common trait they had in common involved the “sucker.” At no time was an investment ever involved, only a bet. However, bucket shops still adhered to the ideas of margin on the trades and other visible rules of the game.
+
+The average bucket shop was a storefront operation with some of the equipment of a brokerage office. Inside, a chalkboard was displayed; clerks stood behind a counter taking money from customers. Clerks were employed to keep changing prices, suggesting that the bucket shop was fully abreast of changing prices. The larger houses may have had access to actual ticker tapes, at least until 1905 when the Supreme Court ruling went against them. Some of the largest shops actually masqueraded as stock exchanges, with names suggesting that they were in fact markets. The CBOT went to war with an operation dubbed the Consolidated Produce and Stock Exchange, which opened facilities near its Chicago trading floor. Its proprietor established it with all the accoutrements of a legitimate exchange, including phony traders who shouted prices to each other in order to give the impression they were doing a real trading business.
+
+Not all the bucket shops were local operations, as Livingston reveals. Many were related to others in different parts of the country and his physical description quickly was passed around among them once they discovered that he was more often a winner than a loser. As he confided to Lefèvre, the shops had virtues over a legitimate broker for the small trader. In a bucket shop, the trader could never lose more cash than he put down on his initial trade.
+
+This was the great allure of the shops. Livingston recalls betting only on large, well-known stocks like Burlington, American Sugar Refining, or United States Steel. These were stocks that traded frequently and were always on the ticker tape, so determining their momentum was easier than trying to decipher the trading patterns of smaller, lesser known stocks. The outdoor market, or curb market, that existed on Wall and Broad Streets until the early 1920s before moving indoors as the New York Curb Exchange (later the American Stock Exchange) is hardly mentioned; it was not the sort of place where a clean trade could easily be made.
+
+The bucket shops faded from existence in the 1920s when brokers realized that they could capture some of this speculative retail business by lowering margin requirements for their customers. Unfortunately, that move helped fuel an even more speculative bubble which finally burst in October 1929 when the small investor realized that investments could be followed by margin calls, not a problem for a bucket shop bettor.
+
+C.G.
+
+<!-- rl-section id="section-10" class="epub-section" kicker="Section 10" title="Section 10" -->
+
+## Section 10
+
+> ![image](assets/00007-77e24ac1.jpg)
+
+Reminiscences of a Stock Operator
+
+June 17, 1922
+
+I SAW Livingston many times in his office and at his home. Mostly he philosophized about the market. Now I wanted less of his mature wisdom and more of the early Larry Livingston. It would help me to understand him in his prime. One evening when I spoke about his unusual ability to read the tape he merely nodded.
+
+But I persisted: “You were born with it. But how did you come to develop it?”
+
+> ![image](assets/00008-6b317009.jpg)
+
+“My early training. The first job I ever had.”
+
+“I’d like to hear about it,” I said.
+
+But that evidently was not enough, friendly as we had become. It is not difficult to start a man at talking. But to get him to narrate you must work on him when he is in the mood. Any professional writer of fiction knows that there are times when story-telling comes easier than at others.
+
+“There isn’t much to tell,” he said.
+
+But I saw in his eyes that he saw in mine that I was listening with my very soul. And then I knew the story was coming. He spoke in a matter-of-fact voice, unhesitatingly, remembering facts, unconcerned with people. At times I asked questions, and he answered without the slightest impatience and went on, steadily and emotionlessly as a machine. I have suppressed some of my questions, leaving his answers.
+
+“I went to work when I was a kid out of grammar school. I got a job as quotation-board boy in a stock-brokerage office. I was quick at figures. At school I did three years of arithmetic in one. I was particularly good at mental arithmetic. As quotation-board boy I posted the numbers on the big board in the customers’ room. One of the customers usually sat by the ticker and called out the prices. They couldn’t come too fast for me. I have always remembered figures. No trouble at all.
+
+“There were plenty of other employes in that office. Sure, I made friends with the other fellows, but the work I did, if the market was active, kept me too busy from ten a.m. to three p.m. to let me do much talking. I don’t care for it, anyhow, during business hours.”
+
+Learning to Read the Tape
+
+“BUT a busy market did not keep me from thinking about the work. Those quotations did not represent prices of stocks to me, so many dollars per share. They were numbers. Of course, they meant something. They were always changing. It was all I had to be interested in—the changes. Why did they change? I didn’t know. I didn’t care. I didn’t think about that. I simply saw that they changed. That was all I had to think about five hours every day and two on Saturdays; that they were always changing.
+
+“That is how I first came to be interested in the behavior of prices. I had a very good memory for figures. I could remember in detail how the prices had acted on the previous day, just before they went up or down. My fondness for mental arithmetic came in very handy.
+
+“I noticed that in advances as well as declines, stock prices were apt to show certain repetitions. There was no end of par-allel cases and they created precedents to guide me. I was only fourteen, but after I had taken hundreds of observations in my mind I found myself testing their accuracy, comparing the behavior of stocks today with other days. It was not long before I was anticipating movements in prices. My only guide, as I say, was their past performances. I carried the dope sheets in my mind. I looked for stock prices to run on form. I had clocked them. You know what I mean.
+
+“You can spot, for instance, where the buying is only a trifle better than the selling. You can see the gradual overcoming of resistance, the carrying of defenses. A battle goes on in the stock market and the tape is your telescope. You can depend upon it seven out of ten times.
+
+“Another lesson I learned early is that there is nothing new in Wall Street. There can’t be because speculation is as old as the hills. Whatever happens in the stock market today has happened before and will happen again. I’ve never forgotten that.”
+
+“No,” I said, “you don’t forget what has happened. But you also manage to remember when and how. You carry the precedents in your head and can utilize them. That is experience—the fact that you remember.”
+
+“Why shouldn’t I remember?” Livingston asked simply.
+
+“No reason,” I said with conviction, and thought of Paul Morphy’s memory. Then I thought of the mind of the average stock speculator. No wonder!
+
+Livingston went on:
+
+“I got so interested in my game and so anxious to anticipate advances and declines in all the active stocks that I got a little book. I put down my observations in it. It was not a record of imaginary transactions such as so many people keep merely to make or lose millions of dollars without getting the swelled head or going to the poorhouse. It was rather a sort of record of my hits and misses, and next to the determination of probable movements I was most interested in verifying whether I had observed accurately; in other words, whether I was right.
+
+“Say that after studying every fluctuation of the day in Sugar I would conclude that the stock was behaving as she always did before she broke eight or ten points. Well, I would jot down the stock and the price on Monday, and remembering past performances I would write down what it ought to do on Tuesday and Wednesday. Later I would check up with actual transcriptions from the tape.
+
+“That is how I first came to take an interest in the message of the tape. The fluctuations were from the first associated in my mind with upward or downward movements. Of course there is always a reason for fluctuations, but the tape does not concern itself with the why and wherefore. It doesn’t go into explanations. I didn’t ask the tape why when I was fourteen, and I don’t ask it today, at forty. The reason for what a certain stock does today may not be known for two or three days, or weeks, or months. But what the dickens does that matter? Your business with the tape is now—not tomorrow. The reason can wait. But you must act instantly or be left. Time and again I see this happen. You’ll remember that Hollow Tube went down three points the other day while the rest of the market rallied sharply. That was the fact. On the following Monday you saw that the directors passed the dividend. That was the reason. They knew what they were going to do, and even if they didn’t sell the stock themselves they at least didn’t buy it. There was no inside buying, no reason why it should not break.”
+
+Livingston’s First Tip
+
+“WELL, I kept up my little memorandum book perhaps six months. Instead of leaving for home the moment I was through with my work, I’d jot down the figures I wanted and would study the changes, always looking for the repetitions and parallelisms of behavior—learning to read the tape, although I was not aware of it at the time.
+
+“One day one of the office boys—he was older than I—came to me where I was eating my lunch and asked me on the quiet if I had any money.
+
+“‘Why do you want to know?’ I said.
+
+“‘Well,’ he said, ‘I’ve got a dandy tip on Burlington. I’m going to play it if I can get somebody to go in with me.’
+
+“‘How do you mean, play it?’ I asked. To me the only people who played or could play tips were the customers—old jiggers with oodles of dough. Why, it cost hundreds, even thousands of dollars, to get into the game. It was like owning your private carriage and having a coachman.
+
+“‘That’s what I mean; play it!’ he said. ‘How much you got?’
+
+“‘How much you need?’
+
+“‘Well, I can trade in five shares by putting up $5.’
+
+“‘How are you going to play it?’
+
+“‘I’m going to buy all the Burlington the bucket shop will let me have with the money I give him for margin,’ he said. ‘It’s going up sure. It’s like picking up money. We’ll double ours in a jiffy.’
+
+“‘Hold on!’ I said to him, and pulled out my little dope book.
+
+“I wasn’t interested in doubling my money, but in his saying that Burlington was going up. If it was, my notebook ought to show it. I looked. Sure enough, Burlington, according to my figuring, was acting as it usually did before it went up. I had never bought or sold anything in my life, and I never gambled with the other boys. But all I could see was that this was a grand chance to test the rightness of my work, of my hobby. It struck me at once that if my dope didn’t work in practice there was nothing in the theory of it to interest anybody. So I gave him all I had, and with our pooled resources he went to one of the near-by bucket shops and bought some Burlington. Two days later we cashed in. I made a profit of $3.12.”
+
+I interrupted Livingston. “You remember, exactly?” I asked him.
+
+“Sure!”
+
+“Because it was your first trade?” I persisted.
+
+“Because I remember,” he said.
+
+Later I was to learn that Livingston simply can’t forget numbers. It is as though he carried with him photographs of whole quotation boards or miles of ticker tape.
+
+“After that first trade,” proceeded Livingston, “I got to speculating on my own hook in the bucket shops. I’d go during my lunch hour and buy or sell—it never made any difference to me. I was playing a system and not a favorite stock or backing opinions. All I knew was the arithmetic of it. As a matter of fact, mine was the ideal way to operate in a bucket shop, where all that a trader does is to bet on fluctuations as they are printed by the ticker on the tape.
+
+“It was not long before I was taking much more money out of the bucket shops than I was pulling down from my job in the brokerage office. So I gave up my position. My folks objected, but they couldn’t say much when they saw what I was making. I was only a kid and office-boy wages were not very high. I did mighty well on my own hook.”
+
+I again interrupted Livingston. “Didn’t it go to your head to make so much money?”
+
+“No. Why should it?” He asked it simply.
+
+“No reason!” I said again.
+
+“Certainly not,” he went on. “The money wasn’t anything. Why, I remember when I had made my first thousand and laid the cash in front of my mother.”
+
+“How old were you?”
+
+“Fifteen.”
+
+“Made it all in the bucket shops?”
+
+“Yes.”
+
+“In a few months?”
+
+“Yes; and I had taken home other money besides. My mother carried on something awful. She wanted me to put it away in the savings bank out of reach of temptation. She said it was more money than she ever heard any boy of fifteen had made, starting with nothing. She didn’t quite believe it was real money. She used to worry and fret about it. And I? Oh, I didn’t think of anything except that I could keep on proving my figuring was right. That’s all the fun there is—being right by using your head. If I was right when I tested my convictions with ten shares I would be ten times righter if I traded in a hundred shares. That is all that having more margin meant to me—I was right more emphatically. More courage? No! No difference! If all I have is ten dollars and I risk it, I am much braver than when I risk a million, if I have another million salted away.”
+
+Beating the Bucket Shops
+
+“ANYHOW, there I was, at fourteen, making a living out of the stock market. I began in the smaller bucket shops, where the man who traded in twenty shares at a clip was suspected of being John W. Gates in disguise or J. P. Morgan traveling incognito. No! Bucket shops in those days seldom lay down on their customers. They didn’t have to. There were other ways of parting customers from their money, even when they guessed right. The business was tremendously profitable. When it was conducted legitimately—I mean, straight, as far as the bucket shop went—the fluctuations took care of the shoestrings. It doesn’t take much of a reaction to wipe out a margin of only three-quarters of a point. Also, no welsher could ever get back in the game. Wouldn’t have any trade.
+
+“No, I didn’t have a following. I kept my business to myself. It was a one-man business, anyhow. It was my head, wasn’t it? Prices either were going the way I doped them out, without any help from friends or partners, or they were going the other way, and nobody could stop them out of kindness to me. I couldn’t see where I needed to tell my business to anybody else. I’ve got friends, of course, but my business has always been the same—a one-man affair. That is why I have always played a lone hand.
+
+“As it was, it didn’t take long for the bucket shops to get sore on me for beating them. I’d walk in and plank down my margin, but they’d look at it without making a move to grab it. They’d tell me there was nothing doing. That was the time they got to calling me the Kid Plunger. I had to be changing brokers all the time, going from one bucket shop to another. It got so that I had to give a fictitious name. I’d begin light, only fifteen or twenty shares. At times, when they got suspicious, I’d lose on purpose at first and then sting them proper. Of course after a little while they’d find me too expensive and they’d tell me to take myself and my business elsewhere and not interfere with the owners’ dividends. Once, when the big concern I’d been trading with for months shut down on me I made up my mind to take a little more of their money away from them. That bucket shop had branches all over the city, in hotel lobbies, and in near-by towns. I went to one of the hotel branches and asked the manager a few questions and finally got to trading. But as soon as I played an active stock my especial way he began to get messages from the head office asking who it was that was operating. The manager told me what they asked him and I told him my name was Edward Robinson, of Cambridge. He telephoned the glad news to the big chief. But the other end wanted to know what I looked like. When the manager told me that I said to him, ‘Tell him I am a short fat man with dark hair and a bushy beard!’ But he described me instead, and then he listened and his face got red and he hung up and told me to beat it.
+
+“‘What did they say to you?’ I asked him politely.
+
+“They said, ‘You blankety-blank fool, didn’t we tell you to take no business from Larry Livingston? And you let him trim us out of $700!’ He didn’t say what else they told him.
+
+“I tried the other branches one after another, but they all got to know me, and my money wasn’t any good in any of their offices. I couldn’t even go in to look at the quotations without some of them making cracks at me. I tried to get them to let me trade at long intervals by dividing my visits among them all. But that didn’t work.
+
+“Finally there was only one left to me and that was the biggest and richest of all—the Cosmopolitan Stock Brokerage Company.
+
+“The Cosmopolitan was rated as A 1 and did an enormous business. It had branches in every manufacturing town in New England. They took my trading all right, and I bought and sold stocks and made and lost money for months, but in the end it happened with them as usual. They didn’t refuse my business point-blank, as the small concerns had. Oh, not because it wasn’t sportsmanship, but because they knew it would give them a black eye to publish the news that they wouldn’t take a fellow’s business just because that fellow happened to make a little money. But they did the next worse thing—that is, they made me put up a three-point margin and compelled me to pay a premium at first of a half point, then a point, and finally, a point and a half. Some handicap, that! How? Easy! Suppose Steel was selling at 90 and you bought it. Your ticket read, normally: ‘Bot ten Steel at 90⅛.’ If you put up a point margin it meant that if it broke 89¼ you were wiped out automatically. In a bucket shop the customer is not importuned for more margin or put to the painful necessity of telling his broker to sell for anything he can get.
+
+“But when the Cosmopolitan tacked on that premium they were hitting below the belt. It meant that if the price was 90 when I bought, instead of making my ticket: ‘Bot Steel at 90⅛, it read: ‘Bot Steel at 91⅛. Why, that stock could advance a point and a quarter after I bought it and I’d still be losing money if I closed the trade. And by also insisting that I put up a three-point margin at the very start they reduced my trading capacity by two-thirds. Still, I had to accept their terms or quit trading.”
+
+> ![image](assets/00009-9fd1f887.jpg)
+
+“And you beat the game at that?” I asked Livingston. It was more than interesting, more than incredible; it was positively uncanny.
+
+> ![image](assets/00010-4be56276.jpg)
+
+“Yes. Of course I had my ups and downs, but was a winner on balance. However, the Cosmopolitan people were not satisfied with the awful handicap they had tacked on me, which should have been enough to beat anybody. They tried to double-cross me. They didn’t get me. I escaped because of one of my hunches.”
+
+Uncanny Tape Reading
+
+IN PREVIOUS conversations we had discussed what people call hunches. Livingston described it as a distinct message from the tape, a feeling that the little paper ribbon is telling him to get out and stay out until the sky clears again. Later, when he told half dozen stories in illustration of his meaning I came to the conclusion that it was the curious ticker instinct to which I have referred. Livingston has it to a greater degree than any other operator I ever met. But James R. Keene possessed that same sixth sense, and although he always denied that he acted on blind impulse I am convinced that the only reason the Whitney-Ryan group didn’t get Keene on two historic occasions was that Keene smelt the trap. Born operators of the type of Keene and Livingston are often able to do the right thing instantly because they do it instinctively. Livingston went on:
+
+“The Cosmopolitan was my last resort. It was the richest bucket shop in New England, and as a rule they put no limit on a trade. I suppose I was the heaviest individual trader they had—that is, of the steady, everyday customers. They had a fine office and the largest and completest quotation board I have ever seen anywhere. It ran along the whole length of the big room and every imaginable thing was quoted. I mean stocks dealt in on the New York and Boston Stock Exchanges, cotton, wheat, provisions, metals—everything that was bought and sold in New York, Chicago, Boston and Liverpool.
+
+“You know how they trade in bucket shops. You give your money to a clerk and tell him what you wish to buy or sell. He looks at the tape or the quotation board and takes the price from there—the last one, of course. He also puts down the time on the ticket so that it almost reads like a regular broker’s report—that is, that they have bought or sold for you so many shares of such a stock at such a price at such a time on such a day and how much money they received from you. When you wish to close your trade you go to the clerk—the same or another, it depends on the shop—and you tell him. He takes the last price or, if the stock has not been active, he waits for the next quotation that comes out on the tape. He writes that price and the time on your ticket, O. K.’s it and gives it back to you, and then you go to the cashier and get whatever cash it calls for. Of course, when the market goes against you and the price goes beyond the limit set by your margin, your trade automatically closes itself and your ticket becomes one more scrap of paper.
+
+“In the humbler bucket shops, where people were allowed to trade in as little as five shares, the tickets were little slips—different colors for buying and selling—and at times, as for instance in boiling bull markets, the shops would be hard hit because all the customers were bulls and happened to be right. Then the bucket shop would deduct both buying and selling commissions and if you bought a stock at 20 the ticket would read 20¼. You thus had only ¾ of a point’s run for your money.
+
+“But the Cosmopolitan was the finest in New England. It had thousands of patrons and I really think I was the only man they were afraid of. Neither the killing premium nor the three-point margin they made me put up reduced my trading much. I kept on buying and selling as much as they’d let me.”
+
+“How big a line did they let you carry?”
+
+“Ever?” he asked.
+
+“Yes.”
+
+“Oh, five thousand shares,” said Livingston.
+
+“In a bucket shop, on a three-point margin, which was supposed to be unnecessarily big?”
+
+He nodded and went on:
+
+“Well, on the day the thing happened that I am going to tell you, I was short thirty-five hundred shares of Sugar. I had seven big pink tickets for five hundred shares each. The Cosmopolitan used big slips with a blank space on them where they could write down additional margin. Of course, the bucket shops never ask for more margin. The thinner the shoestring the better for them, for their profit lies in your being wiped. In the smaller shops if you wanted to margin your trade still further they’d make out a new ticket, so they could charge you the buying commission and only give you a run of ¾ of a point on each point’s decline, for they figured the selling commission also.”
+
+A Ticklish Situation
+
+“Well, this day I remember I had up over $10,000 in margins; not so bad for a kid who looked several years younger than he was.”
+
+“How old were you then?”
+
+“About twenty-one.”
+
+“And you had made over ten thousand dollars by then?” I asked.
+
+“Oh, I was only twenty when I first accumulated ten thousand dollars in cash. And you ought to have heard my mother! You’d have thought that ten thousand dollars in cash was more than anybody carried around except old John D., and she used to tell me to be satisfied and go into some regular business. I had a hard time convincing her that I was not gambling, but making money by figuring. But all she could see was that ten thousand dollars was a lot of money, and all I could see was more margin.
+
+“I had put out my 3500 shares of Sugar at 105¼. There was another fellow in the room, Henry Williams, who was short 2500 shares. I used to sit by the ticker and call out the quotations for the board boy. The price behaved as I thought it would. It promptly went down a couple of points and paused a little to get its breath before taking another dip. The general market was pretty soft and everything looked promising. Then all of a sudden I didn’t like the way Sugar was doing its hesitating. I began to feel uncomfortable. I thought I ought to get out of the market. Then it sold at 103—that was low for the day—but instead of feeling more confident I felt more uncertain. I knew something was wrong somewhere, but I couldn’t spot it exactly. But if something was coming and I didn’t know where from, I couldn’t be on my guard against it. That being the case I’d better be out of the market.
+
+“You know, I don’t do things blindly. I don’t like to. I never did. Even as a kid I had to know why I should do certain things. But this time I had no definite reason to give to myself, and yet I was so uncomfortable that I couldn’t stand it. I called to a fellow I knew, Dave Wyman, and said to him: ‘Dave, you take my place here. I want you to do something for me. Wait a little before you call out the next price of Sugar. Call it last, will you?’
+
+“He said he would, and I got up and gave him my place by the ticker so he could call out the prices for the boy. I took my seven Sugar tickets out of my pocket and walked over to the counter, to where the clerk was who marked the tickets when you closed your trades. But I didn’t really know why I should get out of the market, so I just stood there, leaning against the counter, my tickets in my hand so that the clerk couldn’t see them. Pretty soon I heard the clicking of a telegraph instrument and I saw Tom Burnham, the clerk, turn his head quickly and listen. Then I felt that something crooked was hatching, and I decided not to wait any longer. Just then Dave Wyman by the ticker began: ‘Su—’ and quick as a flash I slapped my tickets on the counter in front of the clerk and yelled ‘Close Sugar!’ before Dave had finished calling the price. So, of course, the house had to close my Sugar at the last quotation. What Dave called turned out to be 103 again.”
+
+How They Worked It
+
+“According to my dope Sugar should have broken 103 by now. The engine wasn’t hitting right. I had the feeling that there was a trap in the neighborhood. At all events, the telegraph instrument was now going like mad and I noticed that Tom Burnham, the clerk, had left my tickets unmarked where I laid them, and was listening to the clicking as if he were waiting for something. So I yelled at him: ‘Hey, Tom, what in hell are you waiting for? Mark the price on these tickets—103! Get a gait on!’
+
+“Everybody in the room heard me and began to look toward us and ask what was the trouble, for you see, while the Cosmopolitan had never laid down, there was no telling, and a run on a bucket shop can start like a run on a bank. If one customer gets suspicious the others follow suit. So Tom looked sulky but came over and marked my tickets ‘Closed at 103’ and shoved the seven of them over toward me. He sure had a sour face.
+
+“Say, the distance from Tom’s place to the cashier’s cage wasn’t over eight feet. But I hadn’t got to the cashier to get my money when Dave Wyman by the ticker yelled excitedly: ‘Gosh! Sugar, 108!’ But it was too late; so I just laughed and called over to Tom, ‘It didn’t work that time, did it, old boy?’”
+
+Livingston paused to look at me and I saw him—in the bucket shop twenty years before, a sandy-haired kid with blue-gray eyes, laughing at the discomfited bucketeers. There was nothing in Livingston’s voice to show that he ever had felt any great indignation or resentment against the Cosmopolitan gang. The game was the game he had chosen to play and he took both a square deal and sharp practice as alike, being conditions on which he must reckon. He went on:
+
+“Of course, it was a put-up job. Henry Williams and I together were short six thousand shares of Sugar. That bucket shop had my margin and Henry’s, and there may have been a lot of other Sugar shorts in the office; possibly eight or ten thousand shares in all. Suppose they had $20,000 in Sugar margins. That was enough to pay them to thimblerig the market on the New York Stock Exchange and wipe us out. In the old days whenever a bucket shop found itself loaded with too many bulls on a certain stock it was a common practice to get some broker to wash down the price of that stock far enough to wipe out all the customers that were long of it. This seldom cost the bucket shop more than a couple of points on a few hundred shares, and they made thousands of dollars.
+
+“That was what the Cosmopolitan did to get me and Henry Williams and the other Sugar shorts. Their brokers in New York ran up the price to 108. Of course it fell right back, but Henry and a lot of others were wiped out. Whenever there was an unexplained sharp drop which was followed by instant recovery, the newspapers in those days used to call it a bucket-shop drive.
+
+> ![image](assets/00011-ed368e28.jpg)
+
+“And the funniest thing,” continued Livingston, “was that not later than ten days after the Cosmopolitan people tried to double-cross me a New York operator did them out of over seventy thousand dollars. This man, who was quite a market factor in his day and a member of the New York Stock Exchange, made a great name for himself as a bear during the Bryan panic of ’96. He was forever running up against Stock Exchange rules that kept him from carrying out some of his plans at the expense of his fellow members. One day he figured that there would be no complaints from either the exchange or the police authorities if he took from the bucket shops of the land some of their ill-gotten gains. In the instance I speak of he sent thirty-five men to act as customers. They went to the main office and to the bigger branches. On a certain day at a fixed hour the agents all bought as much of a certain stock as the managers would let them. They had instructions to sneak out at a certain profit. Of course what he did was to distribute bull tips on that stock among his cronies and then he went in to the floor of the Stock Exchange and bid up the price, helped by the room traders, who thought he was a good sport. Being careful to pick out the right stock for that work, there was no trouble in putting up the price: three or four points. His agents at the bucket shops cashed in as prearranged.
+
+“A fellow told me the originator cleaned up seventy thousand dollars net, and his agents made their expenses and their pay besides. He played that game several times all over the country, punishing the bigger bucket shops of New York, Boston, Phila-delphia, Chicago, Cincinnati and St. Louis. One of his favorite stocks was Western Union, because it was so easy to move a semiactive stock like that a few points up or down. His agents bought it at a certain figure, sold at two points profit, went short and took three points more. By the way, I read the other day that that man died, poor and obscure. If he had died in 1896 he would have got at least a column on the first page of every New York paper. As it was he got two lines.”
+
+Early Weeks in New York
+
+“Well, between the discovery that the Cosmopolitan Stock Brokerage Company was ready to beat me by foul means if the killing handicap of a three-point margin and a point-and-a-half premium didn’t do it, and hints that they didn’t want my business anyhow, I soon made up my mind to go to New York, where I could trade in the office of some member of the New York Stock Exchange. I didn’t want any Boston branch, where the quotations had to be telegraphed. I wanted to be close to the original source. I came to New York——”
+
+“How old were you?” I interrupted.
+
+“A little past twenty-one.”
+
+“And you didn’t look it?”
+
+“I suppose not.”
+
+“How much of a roll did you bring with you?”
+
+“All I had; twenty-five hundred dollars.”
+
+“But you had made a lot more. You had ten thousand dollars when you were twenty, and your margin on that Sugar deal was over ten thousand.”
+
+“I didn’t always win,” said Livingston.
+
+“But how was it your system sometimes won and sometimes lost?”
+
+“That wasn’t it. My plan of trading was sound enough and won much oftener than it lost. If I had stuck to it I’d have been right perhaps as often as seven out of ten times. In fact, I always made money when I was sure I was right before I began, What beat me was not having brains enough to stick to my own game—that is, to play the market only when I was satisfied that precedents favored my play. There is a time for all things, but I didn’t know it. And that is precisely what beats so many men in Wall Street who are very far from being in the main sucker class. There is the plain fool, who does the wrong thing at all times everywhere, but there is the Wall Street fool who thinks he must trade all the time. No man can always have adequate reasons for buying or selling stocks daily—or sufficient knowledge to make his play an intelligent play.
+
+“I proved it. Whenever I read the tape by the light of experience I made money, but when I made a plain sucker play I had to lose. I was no exception, was I?”
+
+He asked it almost indignantly.
+
+“No,” I gratefully assured him, thinking of what I had written about the unbeatable game. “You would not bide your time.”
+
+Livingston said almost apologetically: “There was the huge quotation board staring me in the face, and the ticker going on, and people trading and watching their tickets turn to cash or to waste paper. Of course I let the craving for excitement get the better of my judgment. In a bucket shop where your margin is a shoestring you don’t play for long pulls. You are wiped too easily and quickly. The desire for constant action irrespective of underlying conditions is responsible for many losses in Wall Street even among the professionals, who feel that they must take home some money every day, as though they were working for regular wages. I was only a kid, remember. I did not know then what I learned later, what made me, fifteen years later, wait two long weeks and see a stock on which I was very bullish go up thirty points before I felt that it was safe to buy it. I was broke and was trying to get back, and I couldn’t afford to play recklessly. I had to be right, and so I waited.”
+
+“When was that?”
+
+“In 1915. It’s a long story. Do you want to hear it?” he asked.
+
+The Boy Trader Goes Broke
+
+“Sure, later. Now let’s go on from where you left off. You, with your unusual mathematical mind and your remarkable memory, with your exceptional aptitude for the game and your years of practice at it, you the Boy Terror of the Bucket Shops, making a living out of it, you let them take away most of your winnings?” I asked.
+
+Livingston nodded.
+
+“Right! And with my eyes wide open, to boot! And it wasn’t the only period of my life when I did it, either. A stock operator has to fight a lot of expensive enemies within himself. Anyhow, I came to New York with twenty-five hundred dollars. There were no bucket shops here that a fellow could trust. The Stock Exchange and the police between them had succeeded in closing them up pretty tight. Besides, I wanted to find a place where the only limit to my trading would be the size of my stake. I didn’t have much of one, but I didn’t expect it to stay little forever. The main thing at the start was to find a place where I wouldn’t have to worry about getting a square deal. So I went to a New York Stock Exchange house that had a branch at home where I knew some of the clerks. They have long since gone out of business. I wasn’t there long, didn’t like one of the partners, and then I went to A. R. Fullerton & Co. Somebody must have told them about my early experiences, because it was not long before they all got to calling me the Boy Trader. I’ve always looked young. It was a handicap in some ways, but it compelled me to fight for my own because so many tried to take advantage of my youth. The chaps at the bucket shops seeing what a kid I was, always thought I was a fool for luck and that that was the only reason why I beat them so often.
+
+“Well, it wasn’t six months before I was broke. I was a pretty active trader and had a sort of reputation as a winner. I guess my commissions amounted to something. I ran up my account quite a little, but, of course, in the end I lost. I played carefully; but I had to lose. I’ll tell you the reason: It was my remarkable success in the bucket shops!
+
+“I could beat the game my way only in a bucket shop, where I was betting on fluctuations. My tape reading had to do with that exclusively. When I bought, the price was there on the quotation board, right in front of me. Even before I bought I knew exactly the price, I’d have to pay for my stock. And I always could sell on the instant. I could scalp successfully, because I could move like lightning. I could follow up my luck or cut my loss in a second. Sometimes, for instance, I was certain a stock would move at least a point. Well, I didn’t have to hog it, I could put up a point margin and double my money in a jiffy; or I’d take half a point. On one or two hundred shares a day, that wouldn’t be bad at the end of the month, what?
+
+“The practical trouble with that arrangement, of course, was that even if the bucket shop had the resources to stand a big steady loss, they wouldn’t do it. They wouldn’t have a customer around the place who had the bad taste to win all the time.
+
+“At all events, what was a perfect system for trading in bucket shops didn’t work in Fullerton’s office. There I was actually buying and selling stocks. The price of Sugar on the tape might be 105 and I could see a three-point drop coming. As a matter of fact, at the very moment the ticker was printing 105 on the tape the real price on the floor of the Exchange might be 104 or 103. By the time my order to sell a thousand shares got to Fullerton’s floor man to execute, the price might be still lower. I couldn’t tell at what price I had put out my thousand shares until I got a report from the clerk. When I surely would have made three thousand on the same transaction in a bucket shop I might not make a cent in a Stock Exchange house. Of course, I have taken an extreme case, but the fact remains that in A. R. Fullerton’s office the tape always talked ancient history to me, as far as my system of trading went, and I didn’t realize it.
+
+“And then, too, if my order was fairly big my own sale would tend further to depress the price. In the bucket shop I didn’t have to figure on the effect of my own trading. I lost in New York because the game was altogether different. It was not that I now was playing it legitimately that made me lose, but that I was playing it ignorantly. You told me you thought I was the best reader of the tape you ever saw who was not a member of the New York Stock Exchange.”
+
+Livingston looked at me. I nodded and said, “You are.”
+
+“Well,” he went on, “reading the tape like an expert did not save me. I might have made out a great deal better if I had been on the floor myself, a room trader. In a particular crowd perhaps I might have adapted my system to the conditions immediately before me. But, of course, if I had got to operating on such a scale as I do now, for instance, the system would have equally failed me, on account of the effect of my own trading on prices.
+
+“In short, I did not know the game of stock speculation. I knew a part of it, a rather important part, which has been very valuable to me at all times. But if with all I had I still lost, what chance does the green sucker have of cashing in?”
+
+A Change of Base
+
+“It didn’t take me long to realize that there was something wrong with my play, but I couldn’t spot the exact trouble. There were times when my system worked beaufully, and then, all of a sudden, nothing but one swat after another. I was only twenty-two, remember; not that I was so stuck on myself that I didn’t want to know just where I was at fault, but that at that age nobody knows much of anything.
+
+“The people in the office were very nice to me. I couldn’t plunge as I wanted to because of my margin requirements, but old A. R. Fullerton and the rest of the firm were so kind to me that after six months of active trading I not only lost all I had brought and all that I had made there but I even owed the firm a few hundreds.
+
+“There I was, a mere kid, who had never before been away from home, strapped. Of course there was only one thing to do and that was to get back to trading. I studied my failure to make good in Fullerton’s office. I was flat broke, but what was the use of getting hot with anybody? I knew there wasn’t anything wrong with me; only with my play. I don’t know whether I make myself plain, but I never lose my temper over the stock market. I never argue with the tape. Getting sore at the market doesn’t get you anywhere.
+
+“I was so anxious to resume trading that I went to old man Fullerton and said to him, ‘Say, A. R., lend me five hundred dollars.’
+
+“‘What for?’ says he.
+
+“‘I’ve got to have some money.’
+
+“‘What for?’ he says again.
+
+“‘For margin, of course,’ I said.
+
+“‘Five hundred dollars?’ he said, and frowned. ‘You know they’d expect you to keep up a 10 per cent margin, and that means one thousand dollars on one hundred shares. Much better to give you a credit——’
+
+“‘No,’ I said, ‘I don’t want a credit here. I already owe the firm something. What I want is for you to lend me five hundred dollars so I can go out and get a roll and come back.’
+
+“‘How are you going to do it?’ asked old A. R.
+
+“‘I’ll go and trade in a bucket shop,’ I told him.
+
+“‘Trade here,’ he said.
+
+“‘No,’ I said. ‘I’m not sure yet I can beat the game in this office, but I am sure I can take money out of the bucket shops. I know that game. I have a notion that I know just where I went wrong here. But what I need now is that five hundred dollars.’
+
+“He let me have it, and I went out of that office where the Boy Terror of the Bucket Shops, as you called him, had lost his pile. I knew I couldn’t go back home because not one of the shops there would take my business. New York was out of the question; there weren’t any doing business at that time. They tell me that in the 90’s Broad Street and New Street were full of them. But there weren’t any when I needed them in my business. So after some thinking I decided to go to St. Louis. I had heard of two concerns there that did an enormous business all through the Middle West. Their profits must have been huge. They had branch offices in dozens of towns. In fact I had been told that there were no concerns in the East to compare with them for volume of business. They ran openly and the best people traded there without any qualms. A fellow even told me that the owner of one of the concerns was a vice president of the Chamber of Commerce, but that couldn’t have been in St. Louis. At any rate, that is where I went with my five hundred dollars to bring back a stake to use as margin in the office of A. R. Fullerton & Co., members of the New York Stock Exchange.”
+
+Adventures in St. Louis
+
+“When I got to St. Louis I went to the hotel, washed up and went out to find the bucket shops. One was the J. G. Dolan Company, and the other was H. S. Teller & Co. I knew I could beat them. I was going to play dead safe—carefully and conservatively. My one fear was that somebody might recognize me and give me away, because the bucket shops all over had heard of the Boy Trader. They are like gambling houses and get all the gossip of the profesh.
+
+“Dolan was nearer than Teller, and I went there first. I was hoping I might be allowed to do business a few days before they told me to take my trade somewhere else. I walked in. It was a whopping big place and there must have been at least a couple of hundred people there staring at the quotations. I was glad, because in such a crowd I stood a better chance of being unnoticed. I stood and watched the board and looked them over carefully until I picked out the stock for my initial play.
+
+“I looked around and saw the order clerk at the window where you put down your money and get your ticket. He was looking at me so I walked up to him and asked, ‘Is this where you trade in cotton and wheat?’
+
+“‘Yes, sonny,’ says he.
+
+“‘Can I buy stocks too?’
+
+“‘You can if you have the cash,’ he said.
+
+“‘Oh, I got that all right, all right,’ I said, like a boasting boy.
+
+“‘You have, have you?’ he says with a smile.
+
+“‘How much stock can I buy for one hundred dollars?’ I asked, peevedlike.
+
+“‘One hundred; if you got the hundred.’
+
+“‘I got the hundred. Yes; and two hundred too!’ I told him.
+
+“‘Oh, my!’ he said.
+
+“‘Just you buy me two hundred shares,’ I said sharply.
+
+“‘Two hundred what?’ he asked, serious now. It was business.
+
+“I looked at the board again as if to guess wisely and told him, ‘Two hundred Omaha.’
+
+“‘All right!’ he said. He took my money, counted it and wrote out the ticket.
+
+“‘What’s your name?’ he asked me, and I answered ‘Horace Kent.’
+
+“He gave me the ticket and I went away and sat down among the customers to wait for the roll to grow. I got quick action and I traded several times that day. On the next day too. In two days I made twenty-eight hundred dollars, and I was hoping they’d let me finish the week out. At the rate I was going, that wouldn’t be so bad. Then I’d tackle the other shop, and if I had similar luck there I’d go back to New York with a wad I could do something with.
+
+“On the morning of the third day, when I went to the window, bashful-like, to buy five hundred B. R. T. the clerk said to me, ‘Say, Mr. Kent, the boss wants to see you.
+
+“I knew the game was up. But I asked him, ‘What does he want to see me about?’
+
+“‘I don’t know.’
+
+“‘Where is he?’
+
+“‘In his private office. Go in that way.’ And he pointed to a door.
+
+“I went in. Dolan was sitting at his desk. He swung around and said, ‘Sit down, Livingston.’
+
+“He pointed to a chair. My last hope vanished. I don’t know how he discovered who I was; perhaps from the hotel register.
+
+“‘What do you want to see me about?’ I asked him.
+
+“‘Listen, kid. I ain’t got nothin’ agin yeh, see? Nothin’ at all. See?’
+
+“‘No, I don’t see,’ I said.
+
+“He got up from his swivel chair. He was a whopping big guy. He said to me, ‘Just come over here, Livingston, will yeh?’ And he walked to the door. He opened it and then he pointed to the customers in the big room.
+
+“‘D’yeh see them?’ he asked.
+
+“‘See what?’
+
+“‘Them guys. Take a look at ’em, kid. There’s three hundred of ’em! Three hundred suckers! They feed me and my family. See? Three hundred suckers! Then yeh come in, and in two days yeh cop more than I get out of the three hundred in two weeks. That ain’t business, kid—not for me! I ain’t got nothin’ agin yeh. Yer welcome to what ye’ve got. But yeh don’t get any more. There ain’t any here for yeh!’
+
+“‘Why, I ——’
+
+“‘That’s all. I seen yeh come in day before yesterday, and I didn’t like yer looks. On the level, I didn’t. I spotted yeh for a ringer. I called in that jackass there’—he pointed to the guilty clerk—‘and asked what you’d done; and when he told me I said to him: “I don’t like that guy’s looks. He’s a ringer!” And that piece of cheese says: “Ringer my eye, boss! His name is Horace Kent, and he’s a rah-rah boy playing at being used to long pants. He’s all right!” Well, I let him have his way. That blankety-blank cost me twenty-eight hundred dollars. I don’t grudge it yeh, my boy. But the safe is locked for yeh.’
+
+“‘Look here——’ I began.
+
+“‘You look here, Livingston,’ he said. ‘I’ve heard all about yeh. I make my money coppering suckers’ bets, and yeh don’t belong here. I aim to be a sport and yer welcome to what yeh pried off’n us. But more of that would make me a sucker, now that I know who yeh are. So toddle along, sonny!’ ”
+
+What Happened at Teller’s
+
+“I left Dolan’s place with my twenty-eight hundred dollars’ profit. Teller’s place was in the same block. I had found out that Teller was a very rich man who also ran up a lot of pool rooms. I decided to go to his bucket shop. I wondered whether it would be wise to start moderately and work up to a thousand shares or to begin with a plunge, on the theory that I might not be able to trade more than one day. They get wise mighty quick when they’re losing and I did want to buy one thousand B. R. T. I was sure I could take four or five points out of it. But if they got suspicious or if too many customers were long of that stock they might not let me trade at all. I thought perhaps I’d better scatter my trades at first and begin small.
+
+“It wasn’t as big a place as Dolan’s, but the fixtures were nicer and evidently the crowd was of a better class. This suited me down to the ground and I decided to buy my one thousand B. R. T. So I stepped up to the proper window and said to the clerk, ‘I’d like to buy some B. R. T. What’s the limit?’
+
+“‘There’s no limit,’ said the clerk. ‘You can buy all you please—if you’ve got the money.’
+
+“‘Buy fifteen hundred shares,’ I says, and took my roll from my pocket while the clerk starts to write the ticket.
+
+“Then I saw a red-headed man just shove that clerk away from the counter. He leaned across and said to me, ‘Say, Livingston, you go back to Dolan’s. We don’t want your business.’
+
+“‘Wait until I get my ticket,’ I said. ‘I just bought a little B. R. T.’
+
+“‘You get no ticket here,’ he said. By this time other clerks had got behind him and were looking at me. ‘Don’t ever come here to trade. We don’t take your business. Understand?’
+
+“There was no sense in getting mad or trying to argue, so I went back to the hotel, paid my bill and took the first train back to New York. It was tough. I wanted to take back some real money, and that Teller wouldn’t let me make even one trade.”
+
+Livingston paused, possibly for sympathy. But I said, “Well, you could scarcely blame him.”
+
+“Why not?”
+
+“He had to live,” I said.
+
+“Well, I had to live too,” said Livingston, aggrievedly. It was his first show of feeling.
+
+“And then what did you do?” I said.
+
+“I got back to New York, paid back Fullerton’s five hundred, and started trading again with the St. Louis money. I had good and bad spells, but I was doing better than breaking even. After all, I didn’t have much to unlearn; only to grasp the one fact that there was more to the game of stock speculation than I had considered before I went to Fullerton’s office to trade. I was like one of those puzzle fans, doing the crossword puzzles in the Sunday supplement. He isn’t satisfied until he gets it. Well, I knew there must be a solution to my puzzle.”
+
+“Not necessarily,” I interjected controversially.
+
+Old McDevitt’s Tip
+
+Livingston stared and then he said: “If there is a reason why prices go up or down, then there is a solution to the problem of making money out of anticipating advances or declines. It may not be an easy solution to find. At all events, I was done with trading in bucket shops.”
+
+“And you never operated in a bucket shop after that?” I asked.
+
+“Oh, yes,” Livingston laughed.
+
+“Broke again?”
+
+“No. That wasn’t why. About a couple of months after I got back to New York an old jigger came into Fullerton’s office. He knew A. R. Somebody said they’d once owned a string of race horses together. It was plain he’d seen better days. I was introduced to old McDevitt. He was telling the crowd about a bunch of Western racetrack crooks who had just pulled off some skin game out in St. Louis. The head devil, he said, was a pool-room owner by the name of Teller.
+
+“‘What Teller?’ I asked him.
+
+“‘Hi Teller; H. S. Teller.’
+
+“‘I know that bird,’ I said.
+
+“‘He’s no good,’ said McDevitt.
+
+“‘He’s worse than that,’ I said, ‘and I have a little matter to settle with him.’
+
+“‘Meaning how?’
+
+“‘The only way I can hit any of these short sports is through their pocketbook. I can’t touch him in St. Louis just now, but some day I will.’ And I told McDevitt my grievance.
+
+“‘Well,’ says old Mac, ‘he tried to connect here in New York and couldn’t make it, so he’s opened a place in Hoboken. The word’s gone out that there is no limit to the play and that the house roll has got the Rock of Gibraltar faded to the shadow of a bantam flea.’
+
+“‘What sort of a place?’ I thought he meant pool room.
+
+“‘Bucket shop,’ said McDevitt.
+
+“‘Are you sure it’s open?’
+
+“‘Yes; I’ve seen several fellows who’ve told me about it.’
+
+“‘That’s only hearsay,’ I said. ‘Can you find out positively if it’s running, and also how heavy they’ll really let a man trade?’
+
+“‘Sure, sonny,’ said McDevitt. ‘I’ll go myself to-morrow morning, and come back here and tell you.’
+
+“He did. It seems Teller was already doing a big business and would take all he could get. This was on a Friday. The market had been going up all that week—this was twenty years ago, remember—and it was a cinch the bank statement on Saturday would show a big decrease in the surplus reserve. That would give the conventional excuse to the big room traders to jump on the market and try to shake out some of the weak commission-house accounts. There would be the usual reactions in the last half hour of the trading, particularly in stocks in which the public had been the most active. Those, of course, also would be the very stocks that Teller’s customers would be most heavily long, and the shop might be glad to see some short selling in them. There is nothing so nice as catching the suckers both ways; and nothing so easy—with one-point margins.
+
+“That Saturday morning I chased over to Hoboken to the Teller place. They had fitted up a big customers’ room with a dandy quotation board and a full force of clerks and a special policeman in gray. There were about twenty-five customers.
+
+“I got talking to the manager. He asked me what he could do for me and I said nothing; that a fellow could make much more money at the track on account of the odds and the freedom to bet your whole roll and stand to win thousands in minutes instead of piking for chicken feed in stocks and having to wait days, perhaps. He began to tell me how much safer the stockmarket game was, and how much some of their customers made—you’d have sworn it was a regular broker who actually bought and sold your stocks on the exchange—and how if a man only traded heavy he could make enough to satisfy anybody. He must have thought I was headed for some pool room and he wanted a whack at my roll before the ponies nibbled it away, for he said I ought to hurry up as the market closed at twelve o’clock on Saturdays. That would leave me free to devote the entire afternoon to other pursuits. I might have a bigger stake to carry to the track with me—if I picked the right stocks.
+
+“I looked as if I didn’t believe him, and he kept on buzzing me. I was watching the clock. At 11:15 I said, ‘All right,’ and I began to give him selling orders in various stocks. I put up two thousand dollars in cash, and he was very glad to get it. He told me he thought I’d make a lot of money and hoped I’d come in often.
+
+“It happened just as I figured. The traders hammered the stocks in which they figured they would uncover the most stops, and, sure enough, prices slid off. I closed out my trades just before the rally of the last five minutes on the usual traders’ covering.
+
+“There was fifty-one hundred dollars coming to me. I went to cash in.
+
+“‘I am glad I dropped in,’ I said to the manager, and gave him my tickets.
+
+“‘Say,’ he says to me, ‘I can’t give you all of it. I wasn’t looking for such a run. I’ll have it here for you, Monday morning, sure as blazes.’
+
+“‘All right. But first I’ll take all you have in the house,’ I said.
+
+“‘You’ve got to let me pay off the little fellows,’ he said. ‘I’ll give you back what you put up, and anything that’s left. Wait till I cash the other tickets.’ So I waited while he paid off the other winners. Oh, I knew my money was safe. Teller wouldn’t welsh with the office doing such a good business. And if he did, what else could I do better than to take all he had then and there? I got my own two thousand dollars and about eight hundred dollars besides, which was all he had in the office. I told him I’d be there Monday morning. He swore the money would be waiting for me.”
+
+Settling an Old Score
+
+“I got to Hoboken a little before twelve on Monday. I saw a fellow talking to the manager that I had seen in the St. Louis office the day Teller told me to go back to Dolan.
+
+“‘I came for the balance of my money,’ I said to the manager.
+
+“‘Is this the man?’ asked the St. Louis chap.
+
+“‘Yes,’ said the manager, and took a bunch of yellow backs from his pocket.
+
+“‘Hold on!’ said the St. Louis fellow to him and then turns to me. ‘Say, Livingston, didn’t we tell you we didn’t want your business?’
+
+“‘Give me my money first,’ I said to the manager, and he forked over two thousands, four five-hundreds and three hundreds.
+
+“‘What did you say?’ I said to St. Louis.
+
+“‘We told you we didn’t want you to trade in our place.’
+
+“‘Yes,’ I said; ‘that’s why I came.’
+
+“‘Well, don’t come any more. Keep away!’ he snarled at me. The private policeman in gray came over, casual-like. St. Louis shook his fist at the manager and yelled: ‘You ought to’ve known better, you poor boob, than to let this guy get into you. He’s Livingston. You had your orders.’
+
+“‘Listen, you,’ I said to the St. Louis man. ‘This isn’t St. Louis. You can’t pull off any trick here, like your boss did with Belfast Boy.’
+
+“‘You keep away from this office! You can’t trade here!’ he yells.
+
+“‘If I can’t trade here nobody else is going to,’ I told him. ‘You can’t get away with that sort of stuff here.’
+
+“Well, St. Louis changed his tune at once.”
+
+“‘Look here, old boy,’ he said, all fussed up, ‘do us a favor. Be reasonable! You know we can’t stand this every day. The old man’s going to hit the ceiling when he hears who it was. Have a heart, Livingston!’
+
+“‘I’ll go easy,’ I promised.
+
+“‘Listen to reason, won’t you? For the love of Pete, keep away! Give us a chance to get a good start. Will you?’
+
+“‘I don’t want any of this high-and-mighty business the next time I come,’ I said, and left him talking to the manager at the rate of a million a minute. I’d got some money out of them for the way they treated me in St. Louis. There wasn’t any sense in my getting hot or trying to close them up. I went back to Fullerton’s office and told McDevitt what had happened. Then I told him that if it was agreeable to him I’d like to have him go to Teller’s place and begin trading in twenty or thirty share lots, to get them used to him. Then, the moment I saw a good chance to clean up big, I’d telephone him.”
+
+Teller Trimmed Again
+
+“I gave McDevitt a thousand dollars and he went to Hoboken and did as I told him. He got to be one of the regulars. Then one day when I thought I saw a break impending I slipped Mac the word and he sold all they’d let him. I cleared twenty-eight hundred dollars that day, after giving Mac his rake-off and paying expenses, and I suspect Mac put down a little bet of his own besides. Less than a month after that, Teller closed his Hoboken branch. The police got busy. And, anyhow, it didn’t pay, though I only traded there twice. We ran into a crazy bull market when stocks didn’t react enough to wipe out even the one-point margins, and, of course, all the customers were bulls and winning and pyramiding. No end of bucket shops busted all over the country.
+
+“That was the last time I traded in a regular bucket shop. I don’t suppose there is one shop in operation anywhere today; not the old-fashioned kind.”
+
+“Their game has changed,” I said to Livingston. “Trading in the old-fashioned bucket shop had some decided advantages over speculating in a reputable broker’s office. For one thing, the automatic closing out of your trade when the margin reached the exhaustion point was the best kind of stop-loss order. You couldn’t get stung for more than you had put up, and there was no danger of rotten execution of orders, and so on. Here in New York the shops never were as liberal with their patrons as I’ve heard they were in the West. Here they used to limit the possible profit on certain stocks of the football order to two points. Sugar and Tennessee Coal and Iron were among these. No matter if they moved ten points in ten minutes you could only make two on one ticket. They figured that otherwise the customer was getting too big odds; he stood to lose one dollar and to make ten. And then there were times when all the shops, including the biggest, refused to take orders on certain stocks. In 1900, on the day before Election Day, when it was a foregone conclusion that McKinley would win, not a shop in the land let his customers buy stocks. The election odds were 3 to 1 on McKinley. By buying stocks on Monday you stood to make from three to six points or more. A man could bet on Bryan and buy stocks and make sure money. The bucket shops refused orders that day.”
+
+“They refused mine all the time,” said Livingston. “If it hadn’t been for that I never would have stopped trading in them. And then I never would have learned that there was much more to the game of stock speculation than to play for fluctuations of a few points.”
+
+“They did you a good turn, then,” I said.
+
+But Livingston merely shrugged his shoulders, as I looked about the sumptuous room.
+
+<!-- rl-section id="section-11" class="epub-section" kicker="Section 11" title="Section 11" -->
+
+## Section 11
+
+III.
+
+I Was Dead Right—I Lost Every Cent I Had
+
+The life of a stock operator had its ups and downs. At the tender age of 23, Livingston relates how he increased his legitimate brokerage account to $50,000 only to see it evaporate over a couple of days. Moving to a proper Wall Street brokerage house to do his trading certainly was different from trading at a bucket shop.
+
+Trading in the bucket shops was faster than trading on the stock exchange, although the amounts involved were smaller. The main difference between them was that the time lag at a brokerage office did not exist at a bucket shop. Regardless of what the ticker tape might have suggested about a trend, the time between the entry of the order and its execution could be lengthy and prices could change quickly in the interim. Most of Livingston’s $50,000 disappeared because of this lag and it taught him a valuable lesson.
+
+Throughout the history of the stock exchanges, time lags have been responsible for many market losses. During the Panic of 1907, money dried up at the New York banks and there was little call money to lend to brokers who necessarily had to withdraw from the market because of the lack of funds. Orders went unfilled—especially sell orders—and the problem became a first class panic as a result. Those orders that could be filled were done at prices so low that they wiped out the traders’ remaining bank balances instantly.
+
+In other cases, the lag was purely due to the slow flow of information. During the Crash of 1929, enormous record volume swamped the NYSE and many orders were lost or recorded at prices so low that investors immediately were dealt devastating losses. The order flow problem and the floor traders’ reluctance to buy stock from investors led to a serious crisis of confidence that plagued the exchange for years after the Crash. Besides putting regulations in place to control the exchanges and their traders, the Securities Exchange Act of 1934 also attempted to restore some integrity to the stock markets that had been virtually eliminated by the Crash.
+
+A similar problem arose in the late 1960s and spilled over into the early 1970s. The back offices that handled customer orders were unable to competently match orders during a period of unusually high volume. As a result, the NYSE and other exchanges agreed to a voluntary holiday so that the brokerage firms could clean up the mess. Unfortunately, the problem was compounded by theft of securities at some brokerages; untrained employees and several brokerage houses closed down as a result. The problem was so severe that Congress intervened, passing the Securities Investor Protection Corporation (SIPC) Act designed to insure accounts against brokerage house failure. The integrity issue again threatened to drive investors away unless corrective action was taken.
+
+Livingston’s problem was eventually solved. He became the same effective trader through the brokerages that he had been through the bucket shops, a transition that only helped his legend grow.
+
+C.G.
+
+<!-- rl-section id="section-12" class="epub-section" kicker="Section 12" title="Section 12" -->
+
+## Section 12
+
+> ![image](assets/00012-6ec1ef1a.jpg)
+
+Reminiscences of a Stock Operator
+
+July 1, 1922
+
+I WAS waiting in Lawrence Livingston’s office for the market to close. He made his headquarters with his principal brokers, Williamson & Brown. They had fitted out a couple of rooms for the exclusive use of their star customer. He meant commis- sions on hundreds of thousands of shares a year to them; directly through his own trading, and also through the business that the prestige of his success brought to the firm.
+
+In the larger of the rooms there was a regulation quotation board such as you see in the customers’ room of the average commission house— the record that so few can read profitably. A ticker stood at one end and a boy read the trickling tape and posted the quotations on the board—as Larry Livingston himself had done twenty-five years before in his home town. The board boy was freckle-faced, auburn-haired, agile of limb—and empty-eyed. I could see that all he saw in his job was the need of promptness, the mechanics of the work he did so mechanically. Livingston had seen much more—and it had made him a millionaire. In the middle of the room was another ticker—for Livingston’s use. On the side opposite the quotation board were high desks for his confidential clerks and three really sound-proof telephone booths.
+
+> ![image](assets/00013-e5a4ea46.jpg)
+
+The smaller room was used as a private office. The furniture there included a small flat-topped desk, on which there were two silver-framed photographs of Livingston’s family. Not a scrap of paper was to be seen. There were two chairs—one for Livingston and the other for the visitor. He played a lone hand and therefore seldom had business with more than one man at a time.
+
+By the side of the desk stood one of those squat, sawed-off tickers affected by men who watch the tape sitting—not because they are lazy or feeble but because they watch it all day long, with the devotion of a wife at the bedside of her stricken husband.
+
+But Livingston was not often in the private office. The sawed-off ticker was there so that he need never have the tape out of his sight. He found use for all three tickers if he walked about. He was accustomed from boyhood to having a quotation board before him during market hours, and so there it was for him to see, in the big room. He reduced friction by not opposing a lifelong habit.
+
+Memories of James R. Keene
+
+THE board served as his military map. He himself often compared the tape to a telescope through which he could perceive the extent of his successes—or it might be the inadequacy of his efforts. Habitually he stood by the center ticker, a cigar in his mouth, his gray eyes unblinkingly fixed on the campaign map before him. It was plain that it told him much that it did not tell the majority of men. It was very curious. I could—literally—see him reading it. From time to time he looked down at the tape—to see what was doing before the board boy could post the changes. The main movements he obviously carried in his mind.
+
+Occasionally the tape said something that made him turn abruptly about and dart into one of the telephone booths behind him. No sound came therefrom. He might be buying or selling or asking for information. No-body in the room was any the wiser.
+
+The absorption of the man in his work was complete. He did not frown, but you knew he saw every move. His face did not grow rigid, but rather gave you the impression that for the time being it had become insensitive to heat or cold. From ten to three he stood there; on the job, with all he had.
+
+I had seen many of the famous stock operators of the past during market hours, but such utter absorption never, except in James R. Keene, and that only in the memorable spring of 1901, when he was creating a world market for the untried and unproved securities of the hydrant-headed monster, as an Irishman called the United States Steel Corporation. Keene planned his effects in the London and Amsterdam markets as carefully as a dramatist, and daily laid out the work for his brokers to do in New York. He sent me word he wished to see me. The market had not yet opened when I called the next morning at his office. He raised his head and stared at me unseeingly. Then he came slowly toward me, held out his hand, mumbled something and ceased—utterly unable to bring his thoughts back to his office. Whatever it was that he wished to see me about had gone completely from him.
+
+But Livingston was not disturbed by interruptions. Clerks came in and whispered to the impassive figure by the ticker, who listened without frowning, and either nodded once—or shook his head once; returning instantly to the scrutiny of the tape.
+
+His imperturbability did not seem deliberately assumed. It struck me that his nerves were nonexistent rather than under firm control.
+
+That was a valuable asset. To test it I went up to him and said abruptly, “I want to feel your pulse.”
+
+His eyes were on the quotation board with that uncanny effect of seeing so much that was invisible to me. He did not see me approach. But when I spoke he did not even look surprised. He simply held out his left wrist. I may have made a mistake, but I counted sixty pulse beats to the minute!
+
+It would take a great deal to make this man lose his poise. Small wonder that he never argued with the tape or cherished grudges against men or market movements that had cost him money.
+
+I went back to my seat and he to his watching, without another word. His curiosity, if he felt any, was suppressed effortlessly. His concern was with the market.
+
+The window at which I sat looked out on Trinity Churchyard. To the east, through the pickets of the iron fence, I could see the Broadway sidewalks black with the gold-seeking insect hordes that inevitably suggested a dismal futility. On the west was the Elevated with its nerve-racking rumbling, and the senseless arrival and departure of trains at that hour—the epitomized vulgarity of the time and place. To the south the old brown church faced the great street where the money is—and where the money stays. And between the church and the office of the most successful stock operator of the day were the mounds and monuments of scores of men whose success in other fields had been even greater.
+
+But I did not moralize. The whirring ticker made me think of the churchyard in terms of the stock market. I thought of a story of James Fisk, Jr. The picturesque Prince of Erie was walking with a friend down Broadway on his way to the Stock Exchange.
+
+Just before they came to Wall Street the friend said, “What do you think of the market, Mr. Fisk?”
+
+“It reminds me of that,” answered Fisk, pointing to the churchyard.
+
+“Ah,” said the friend with a smile to hide his disappointment over not getting the desired tip. “So quiet, I suppose?”
+
+“Oh, no. The stock market is like that because those that are in it can’t get out and those that are out don’t want to get in.”
+
+He meant that the pools had the stocks, and the public was not in.
+
+A picturesque figure, this breezy buccaneer of boodle, flamboyantly theatrical, incredible as one of those imperial buffoons of history that always puzzle us. In his early life he was a peddler in New Hampshire. His father was in the same business, and fairly successful. James, Junior, was not only shrewder than a Connecticut Yankee but had a showman’s instinct for dramatic effects. His wagon, drawn by four prancing horses, was as gaudy as a circus, and his wit made him as welcome as the clown bringing family passes. One day a woman complained to him that his father had lied to her about some calico.
+
+“How much calico?” asked Jim sympathetically.
+
+“One yard.”
+
+“And how much was it a yard?”
+
+“Twelve and a half cents,” she replied.
+
+> ![image](assets/00014-65b6eacd.jpg)
+
+James, Junior, shook his head.
+
+“He did so! He lied to me,” persisted the woman indignantly.
+
+But he told her, gravely, “I know father mighty well. I’ve done business with him and I assure you he wouldn’t tell a lie for twelve and a half cents.” Then he added with conviction, “He’d tell eight for a dollar. But just one, no. Really, he wouldn’t.”
+
+When the Clock Struck Three
+
+THE things he and Jay Gould did fifty-odd years ago could not be done today, and never should have been done. But then, neither could J. P. Morgan and E. H. Harriman, who were of a different type, do some of the things that nobody dreamed of reproaching them for doing when they did them a few years ago. The methods of high finance have undergone salutary changes and there are more laws and restrictions designed to protect the public. And still the public loses money as easily as ever, because, though methods change and laws multiply and predatory wealth is curbed, the sucker is still the sucker. He is protected against everybody—except himself; and against everything—except the delusion of easy money.
+
+Trinity’s chimes struck three. A minute or two later the tape printed “Closing” and Lawrence Livingston ceased to be a stock operator, because there was no stock market until the next day at ten a.m. I rather expected that he would receive visits from his chief brokers—as Keene did, and most of the great stock operators of earlier days. But he didn’t. He completely ceased to concern himself with the stock market after three. It was as a race that is run or a cigarette that is smoked. Such instant submission to the inevitable is a rare accomplishment. It is necessarily possessed by all great generals who do not count their dead, by all great statesmen who must not think exclusively of today, and by all great stock operators who are more concerned with winning than with the actual dollar profit. To be sure, it wasn’t a very active market.
+
+“Come into the office,” he said. I went in and sat down in the one guest chair. The ticker was perfunctorily printing the bid-and-asked prices in a changed tone of voice.
+
+Just notice the difference the next time you are in your broker’s office.
+
+Livingston sat down at his desk and looked at me expressionlessly, but I affected to see a query in his eyes.
+
+I nodded and said, “After you got back from St. Louis with a fresh stake did you materially modify your system of trading?”
+
+“Yes, of course,” answered Livingston. Then he added: “After a while.”
+
+“What kept you from changing at once, after you saw it wasn’t successful?”
+
+“Oh, it takes a man a long time to learn all the lessons of all his mistakes. They say there are two sides to everything. But there is only one side to the stock market; and it is not the bull side or the bear side, but the right side. It took me longer to get that general principle fixed firmly in my mind than it did most of the more technical phases of the game of stock speculation.
+
+“I have heard of people who amuse themselves conducting imaginary operations in the stock market to prove with imaginary dollars how right they are. Sometimes these ghost gamblers make millions. It is very easy to be a plunger that way. It is like the old story of the man who was going to fight a duel the next day.
+
+“His second asked him, ‘Are you a good shot?’
+
+“‘Well,’ said the duelist, ‘I can snap the stem of a wineglass at twenty paces,’ and he looked modest.
+
+“‘That’s all very well,’ said the unimpressed second. ‘But can you snap the stem of the wineglass while the wineglass is pointing a loaded pistol straight at your heart?’
+
+“With me I must back my opinions with my money. My losses have taught me that I must not begin to advance until I am sure I shall not have to retreat. But if I cannot advance I do not move at all. I do not mean by this that a man should not limit his losses when he is wrong. He should. But that should not breed indecision. All my life I have made mistakes, but in losing money I have gained experience and accumulated a lot of valuable don’ts. I have been flat broke several times, but my loss has never been a total loss. Otherwise, I wouldn’t be here now. I always knew I would have another chance and that I would not make the same mistake a second time. I believed in myself.
+
+“A man must believe in himself and his judgment if he expects to make a living at this game. That is why I don’t believe in tips. If I buy stocks on Smith’s tip I must sell those same stocks on Smith’s tip. I am depending on him. Suppose Smith is away on a holiday when the selling time comes around? No, sir, nobody can make big money on what someone else tells him to do. I know from experience that nobody can give me a tip or a series of tips that will make more money for me than my own judgment.”
+
+I took advantage of Livingston’s pause to ask him: “How long was it after you came to New York before you made big money; say, your first million?”
+
+“About five years, I should say.”
+
+“That is a long time.”
+
+“It takes some people much longer,” said Livingston simply.
+
+“I meant, it is a long time for a man like you, with your natural aptitude and your remarkable start. How did it come about?”
+
+“It came about from my having to play the game intelligently. It took me five years to learn. I can’t tell you in five words, unless I say: By learning how to trade.”
+
+“Take as many words as you wish,” I told him kindly.
+
+The Test of Rightness
+
+“I DIDN’T have as many interesting experiences as you might imagine,” said Livingston. “I mean the process of learning how to speculate does not seem very dramatic at this distance. I went broke several times, and that is never pleasant, but the way I lost money is the way everybody loses money who loses money in Wall Street. Speculation is a hard and trying business, and a speculator must be on the job all the time or he’ll soon have no job to be on.
+
+“My task, as I should have known after my first reverses, was very simple: To look at speculation from another angle. But I didn’t know that there was much more to the game than I could possibly have learned in the bucket shops. There I thought I was beating the game when in reality I was only beating the shop. At the same time the tape-reading ability that trading in bucket shops developed in me and the training of my memory have been extremely valuable. Both of these things came easy to me. I owe my early success as a trader to them and not to brains or knowledge, because my mind was untrained and my ignorance was colossal. The game taught me the game. And it didn’t spare the rod while teaching.
+
+> ![image](assets/00015-0d38584e.jpg)
+
+“I remember my very first day in New York. I told you how the bucket shops, by refusing to take my business, drove me to seek a reputable commission house. One of the boys in the office where I got my first job was working for Harding Brothers, members of the New York Stock Exchange. I arrived in this city in the morning, and before one o’clock that same day I had opened an account with the firm and was ready to trade.
+
+“I didn’t explain to you how natural it was for me to trade there exactly as I had done in the bucket shops, where all I did was to bet on fluctuations and catch small but sure changes in prices. Nobody offered to point out the essential differences or set me right. If somebody had told me my method would not work I nevertheless would have tried it out to make sure for myself, for when I am wrong only one thing convinces me of it, and that is, to lose money. And I am only right when I make money. That is speculating.”
+
+Dearly Bought Experience
+
+“THEY were having some pretty lively times those days and the market was very active. That always cheers up a fellow. I felt at home right away. There was the old familiar quotation board in front of me, talking a language that I had learned before I was fifteen years old. There was a boy doing exactly the same thing I used to do in the first office I ever worked in. There were the customers—same old bunch— looking at the board or standing by the ticker calling out the prices and talking about the market. The machinery was to all appearances the same machinery that I was used to. The atmosphere was the atmosphere I had breathed since I had made my first stock-market money—$3.12 in Burlington. The same kind of ticker and the same kind of traders, therefore the same kind of game. And remember, I was only twenty-two. I suppose I thought I knew the game from A to Z. Why shouldn’t I?
+
+“I watched the board and saw something that looked good to me. It was behaving right. I bought a hundred at 84. I got out at 85 in less than a half hour. Then I saw something else I liked, and I did the same thing; took three-quarters of a point net within a very short time. I began well, didn’t I?
+
+“Now mark this: On that, my first day as a customer of a reputable Stock Exchange house, and only two hours at that, I traded in eleven hundred shares of stock jumping in and out. And the net result of the day’s operations was that I lost exactly eleven hundred dollars. That is to say, on my first attempt, nearly one-half of my stake went up the flue. And remember, some of the trades showed me a profit. But I quit eleven hundred dollars minus for the day.”
+
+> ![image](assets/00016-f1e89261.jpg)
+
+“Did it worry you?” I asked.
+
+“Oh, no,” answered Livingston. “It didn’t worry me, because I couldn’t see where there was anything wrong with me. My moves, also, were right enough, and if I had been trading in the old Cosmopolitan shop I’d have broken bet-ter than even. That the machine wasn’t as it ought to be, my eleven hundred vanished dollars plainly told me. But as long as the machinist was all right there was no need to stew. Ignorance at twenty-two isn’t a structural defect.
+
+“After a few days I said to myself, ‘I can’t trade this way here. The ticker doesn’t help as it should!’ But I let it go at that without getting down to bedrock. I kept it up, having good days and bad days, until I was cleaned out. I went to old Fullerton and got him to stake me to five hundred dollars. And I came back from St. Louis, as I told you, with money I took out of the bucket shops there—a game I could always beat.
+
+“I played more carefully and did better for a while. As soon as I was in easy circumstances I began to live pretty well. I made friends and had a good time. I was not quite twenty-three, remember; all alone in New York with easy money in my pockets and the belief in my heart that I was beginning to understand the new machine.
+
+“I was making allowances for the actual execution of my orders on the floor of the Exchange, and moving more cautiously. But I was still reading the tape—that is, I was still ignoring general principles; and as long as I did that I could not spot the exact trouble with my game.
+
+“We ran into the big boom of 1901 and I made a great deal of money—that is, for a boy. You remember those times? The prosperity of the country was unprecedented. We not only ran into an era of industrial consolidations and combinations of capital that beat anything we had had up to that time, but the public went stock mad. In previous flush times, I have heard, Wall Street used to brag of two-hundred-and-fifty-thousand-share days, when securities of a par value of twenty-five million dollars changed hands. But in 1901 we had a three-million-share day. Everybody was making money. The steel crowd came to town, a horde of millionaires with no more regard for money than drunken sailors. The only game that satisfied them was the stock market. We had some of the biggest high roll-ers the Street ever saw: John W. Gates, of ‘Bet-you-a-million’ fame, and his friends, like John A. Drake, Loyal Smith, and the rest; the Reid-Leeds-Moore crowd, who sold part of their Steel holdings and with the proceeds bought in the open market the majority of the stock of the great Rock Island system; and Schwab and Phipps and the Pittsburgh coterie; to say nothing of scores of men who were lost in the shuffle but would have been called great plungers at any other time. A fellow could buy and sell all the stock there was. Keene made a market for the U.S. Steel shares. His great manipulation and the public’s frenzied buying made them sell at 1017½8 for the preferred and 55 for the common on April 30, 1901, an appreciation in the company’s capital stocks, roughly speaking, of over one hundred million dollars and an unlimited market. A broker sold one hundred thousand shares of Steel one day in a few minutes. A wonderful time! And there were some wonderful winnings. And no taxes to pay on sales! And no day of reckoning in sight.
+
+“No, I have never dwelt on what I might have made then had I known the game or possessed the resources that I do now.
+
+What’s the good? But I will tell you with regret that I made the dreadful mistake of trading in and out instead of sitting tight and letting the market make me rich without any help from me.
+
+“Of course, after a while, I heard a lot of calamity howling, and the old stagers said everybody—except themselves—had gone crazy. But everybody except themselves was making money. I knew, of course, there must be a limit to the advances and an end to the crazy buying of A. O. T.—Any Old Thing—and I got bearish. But every time I sold I lost money, and if it hadn’t been that I ran darn quick I’d have lost a heap more. I looked for a break, but I was playing safe—making money when I bought and chipping it out when I sold short—so that I wasn’t profiting by the boom as much as you’d think when you consider how heavily I used to trade, even as a kid.
+
+“There was one stock that I wasn’t short of, and that was Northern Pacific. My tape reading came in handy. I thought most stocks had been bought to a standstill, but Little Nipper behaved as if it were going still higher. We know now that both the common and the preferred were being steadily absorbed by the Kuhn-Loeb-Harriman combination. Well, I was long a thousand shares of Northern Pacific common, and held it against the advice of everybody in the office. When it got to about 110 I had thirty points profit and I grabbed it. It made my balance at my brokers’ nearly fifty thousand dollars, the greatest amount of money I had been able to accumulate up to that time. It wasn’t so bad for a chap who had lost every cent trading in that selfsame office a few months before.
+
+“If you remember, the Harriman crowd notified Morgan and Hill of their intention to be represented in the Burlington-Great Northern-Northern Pacific combination, and then the Morgan people at first in-structed Keene to buy fifty thousand shares of N. P. to keep the control in their possession. I have heard that Keene told Robert Bacon to make the order one hundred and fifty thousand shares and the bankers did. At all events, Keene sent one of his brokers, Eddie Norton, into the N. P. crowd and he bought one hundred thousand shares of the stock. This was followed by another order, I think, of fifty thousand shares additional, and the famous corner followed. After the market closed on May 8, 1901, the whole world knew that a battle of financial giants was on. No two such combinations of capi-tal had ever before opposed each other in this country. Harriman against Morgan—an irresistible force meeting an immovable object.”
+
+Staggering Losses
+
+“There I was on the morning of May ninth with nearly fifty thousand dollars in cash and no stocks. As I told you, I had been very bearish for some days, and here was my chance at last. I knew what would happen—an awful break and then some wonderful bargains. There would be a quick recovery and big profits—for those who had picked up the bargains. It didn’t take a Sherlock Holmes to dope this out. We were going to have an opportunity to catch them coming and going for big money and for sure money.
+
+“Everything happened as I had foreseen. I was dead right and—I lost every cent I had! I was wiped out by something that was unusual. If the unusual never happened there would be no difference in people and then there wouldn’t be any fun in life. The game would become merely a matter of addition and subtraction. It would make of us a race of bookkeepers with plodding minds. It’s the guessing that develops a man’s brain power. Just consider what you have to do to guess right.
+
+“The market fairly boiled, as I had expected. The transactions were enormous and the fluctuations unprecedented in extent. I put in a lot of selling orders at the market. When I saw the opening prices I had a fit, the breaks were so awful. My brokers were on the job. They were as competent and conscientious as any; but by the time they executed my orders the stocks had broken twenty points more. The tape was way behind the mar-ket and reports were slow in coming in by reason of the awful rush of business. When I found out that the stocks I had ordered sold when the tape said the price was, say, 100 and they got mine off at 80, making a total decline of thirty or forty points from the previous night’s close, it seemed to me that I was putting out shorts at a level that made the stocks I sold the very bargains I had planned to buy. The market was not going to drop, right through to China. So I decided instantly to cover my shorts and go long.
+
+> ![image](assets/00017-d739ee0b.jpg)
+
+“My brokers bought; not at the level that had made me turn, but at the prices prevailing in the Stock Exchange when their floor man got my orders. They paid an average of fifteen points more than I had figured on. A loss of thirty-five points in one day was more than anybody could stand.
+
+“The ticker beat me by lagging so far behind the market. I was accustomed to regarding the tape as the best little friend I had because I bet according to what it told me. But this time the tape double-crossed me. The divergence between the printed and the actual prices undid me. It was the sublimation of my previous un-success, the selfsame thing that had beaten me before. It seems so obvious now that tape reading is not enough, irrespective of the brokers’ execution, that I wonder why I didn’t then see both my trouble and the remedy for it.”
+
+Defective Trading Methods
+
+“I did worse than not see it; I kept on trading in and out regardless of the execution. You see, I never could trade with a limit. I must take my chances with the market. That is what I am trying to beat—the market, not the particular price. When I think I should sell, I sell. When I think stocks will go up, I buy. My adherence to that general principle of speculation saved me. To have traded at limited prices simply would have been my old bucket-shop method inefficiently adapted for use in a reputable commission broker’s office. I would never have learned to know what stock speculation is, but would have kept on betting on what a limited experience told me was a sure thing.
+
+“Whenever I did try to limit the prices in order to minimize the disadvantages of trading at the market when the ticker lagged, I simply found that the market got away from me. This happened so often that I stopped trying. I can’t tell you how it came to take me so many years to learn that instead of placing piking bets on what the next few quotations were going to be, my game was to anticipate what was going to happen in a big way.
+
+“After my May ninth mishap I plugged along, using a modified but still defective method. If I hadn’t made money some of the time I might have acquired market wisdom quicker. But I was making enough to enable me to live well. I liked friends and a good time. I was living down the Jersey Coast that summer, like hundreds of prosperous Wall Street men. My winnings were not quite enough to offset both my losses and my living expenses.
+
+“I didn’t keep on trading the way I did through stubbornness. I simply wasn’t able to state my own problem to myself, and, of course, it was utterly hopeless to try to solve it. I harp on this topic so much to show what I had to go through before I got to where I could really make money. My old shotgun and BB shot could not do the work of a high-power repeating rifle against big game.
+
+“Early that fall I not only was cleaned out again but I was so sick of the game I could no longer beat that I decided to leave New York and try something else some other place. I had been trading since my fourteenth year. I had made my first thousand dollars when I was a kid of fifteen, and my first ten thousand before I was twenty-one. I had made and lost a ten-thousand-dollar stake more than once. In New York I had made thousands and lost them. I got up to fifty thousand dollars and two days later that went. I had no other business and knew no other game. After several years I was back where I began. No—worse, for I had acquired habits and a style of living that required money; though that part didn’t bother me as much as being wrong so consistently.
+
+> ![image](assets/00018-7f080bf1.jpg)
+
+“Well, I went home. But the moment I was back I knew that I had but one mission in life and that was to get a stake and go back to Wall Street. Oh, for many reasons! For one thing, it was the only place in the country where I could trade heavily. Some day, when my game was all right, I’d need such a place. When a man is right he wants to get all that is coming to him for being right.
+
+“I didn’t have much hope, but, of course, I tried to get into the bucket shops again. There were fewer of them and some of them were run by strangers. Those who remembered me wouldn’t give me a chance to show them whether I had gone back as a trader or not. I told them the truth, that I had lost in New York whatever I had made at home; that I didn’t know as much as I used to think I did; and that there was no reason why it should not now be good business for them to let me trade with them. But they wouldn’t. And the new places were unreliable. Their owners thought twenty shares was as much as a gentleman ought to buy if he had any reason to suspect he was going to guess right.
+
+“I needed the money and the bigger shops were taking in plenty of it from their regular customers. I got a friend of mine to go into a certain office and trade. I just sauntered in to look them over. I again tried to coax the order clerk to accept a small order, even if it was only fifty shares. Of course he said no. I had rigged up a code with this friend so that he would buy or sell when and what I told him. But that only made me chicken feed. Then the office began to grumble about taking my friend’s orders. Finally one day he tried to sell a hundred St. Paul and they shut down on him.
+
+“We learned afterward that one of the customers saw us talking together outside and went in and told the office, and when my friend went up to the order clerk to sell that hundred St. Paul the guy said:
+
+“‘We’re not taking any selling orders in St. Paul, not from you.’
+
+“‘Why, what’s the matter, Joe?’ asked my friend.
+
+“‘Nothing doing, that’s all,’ said Joe.”
+
+A New Aquaintance
+
+“‘Isn’t that money any good? Look it over. It’s all there.’ And my friend passed over the hundred—my hundred—in tens. He tried to look indignant and I was looking unconcerned; but most of the other customers were getting close to the combatants, as they always did when there was loud talking or the slightest semblance of a scrap between the shop and any customer. They wanted to get a line on the merits of the case in order to get a line on the solvency of the concern.
+
+“The clerk, Joe, who was a sort of assistant manager, came out from behind his cage, walked up to my friend, looked at him and then looked at me.
+
+“‘It’s funny,’ he said slowly—‘it’s damned funny that you never do a single thing here when your friend Livingston isn’t around. You just sit and look at the board by the hour. Never a peep. But after he comes in you get busy all of a sudden. Maybe you are acting for yourself; but not in this office any more. We don’t fall for Livingston tipping you off.’
+
+“Well, that stopped my board money. But I had made a few hundreds more than I had spent and I wondered how I could use them, for the need of making enough money to go back to New York with was more urgent than ever. I felt that I would do better the next time. I had had time to think calmly of some of my foolish plays; and then, one can see the whole better when one sees it from a little distance. The immediate problem was to make the new stake.
+
+“One day I was in a hotel lobby, talking to some fellows I knew, who were pretty steady traders. Everybody was talking stock market. I made the remark that nobody could beat the game on account of the rotten execution he got from his brokers, especially when he traded at the market, as I did.
+
+“A fellow piped up and asked me what particular brokers I meant.
+
+“I said, ‘The best in the land,’ and he asked who might they be. I could see he wasn’t going to believe I ever dealt with first-class houses.
+
+“But I said, ‘I mean, any member of the New York Stock Exchange. It isn’t that they are crooked or careless, but when a man gives an order to buy at the market he never knows what that stock is going to cost him until he gets a report from the brokers. There are more moves of one or two points than of ten or fifteen. But the trader can’t catch the small rises or drops because of the execution. I’d rather trade in a bucket shop any day in the week, if they’d only let a fellow trade big.’
+
+“The man who had spoken to me I had never seen before. His name was Roberts. He seemed very friendly disposed. He took me aside and asked me if I had ever traded in any of the other exchanges, and I said no. He said he knew some houses that were members of the Cotton Exchange and the Produce Exchange and the smaller stock exchanges. These firms were very careful and paid special attention to the execution. He said that they had confidential connections with the biggest and smartest houses on the New York Stock Exchange and through their personal pull and by guaranteeing a business of hundreds of thousands of shares a month they got much better service than an individual customer could get.
+
+“‘They really cater to the small customer,’ he said. ‘They make a specialty of out-of-town business and they take just as much pains with a ten-share order as they do with one for ten thousand. They are very competent and honest.’
+
+“‘Yes. But if they pay the Stock Exchange house the regular eighth commission where do they come in?’
+
+“‘Well, they are supposed to pay the eighth. But—you know!’ He winked.
+
+“‘Yes,’ I said. ‘But the one thing a Stock Exchange firm will not do is to split commissions. The governors would rather a member committed murder, arson and bigamy than to do business for outsiders for less than an eighth. The very life of the Stock Exchange depends upon their not violating that one rule.’
+
+“He must have seen that I had talked with Stock Exchange people, for he said: ‘Listen! Every now and then one of those pious Stock Exchange houses is suspended for a year for violating that rule, isn’t it? There are ways and ways of rebating so nobody can squeal.’ He probably saw unbelief in my face, for he went on: ‘And besides, on certain kind of business we—I mean, these wire houses—charge a thirty-second extra, in addition to the eighth commission. They are very nice about it. They never charge the extra commission except in unusual cases, and then only if the customer has an inactive account. It wouldn’t pay them, you know, otherwise. They aren’t in business exclusively for their health.’
+
+“By that time I knew he was touting for some phony brokers.
+
+“‘Do you know any reliable house of that kind?’ I asked him.
+
+“‘I know the biggest brokerage firm in the United States,’ he said. ‘I trade there myself. They have branches in seventy-eight cities in the United States and Canada. They do an enormous business. And they couldn’t very well do it year in and year out if they weren’t strictly on the level, could they?’
+
+“‘Certainly not,’ I agreed. ‘Do they trade in the same stocks that are dealt in on the New York Stock Exchange?’”
+
+Secret Bucketeers
+
+“‘Of course; and on the curb and on any other exchange in this country, or Europe. They deal in wheat, cotton, provisions; anything you want. They have correspondents everywhere and memberships in all the exchanges, either in their own name or on the quiet.’
+
+“I was wise by that time, but I thought I’d kid him along.
+
+“‘Yes,’ I said, ‘but that does not alter the fact that the orders have to be executed by somebody, and nobody living can guarantee how the market will be or how close the ticker’s prices are to the actual prices on the floor of the Exchange. By the time a man gets the quotation here and he hands in an order and it’s telegraphed to New York, some valuable time has gone. I might better go back to New York and lose my money there in respectable company.’
+
+“‘I don’t know anything about losing money; our customers don’t acquire that habit. They make money. We take care of that.’
+
+“‘Your customers?’
+
+“‘Well, I take an interest in the firm, and if I can turn some business their way I do so because they’ve always treated me white and I’ve made a good deal of money through them. If you wish I’ll introduce you to the manager.’
+
+“‘What’s the name of the firm?’ I asked.
+
+“He told me. I had heard about them. They ran ads in all the papers, calling attention to the great profits made by those customers who followed their inside information on active stocks. That was the firm’s great specialty. They were not a regular bucket shop, but bucketeers, alleged brokers who bucketed their orders but nevertheless went through an elaborate camouflage to convince the world that they were regular brokers engaged in a legitimate business. They were one of the oldest of that class of firms.
+
+“They were the prototype at that time of the same sort of brokers that went broke this year by the dozen. The general principles and methods were the same, though the particular devices for fleecing the public differed somewhat, certain details having been changed when the old tricks became too well known.
+
+“These people used to send out tips to buy or sell a certain stock—hundreds of telegrams advising the instant purchase of a certain stock and hundreds recommending other customers to sell the same stock, on the old racing-tipster plan. Then orders to buy and sell would come in. The firm would buy and sell, say, a thousand of that stock through a reputable Stock Exchange firm and get a regular report on it. This report they would show to any doubting Thomas who was impolite enough to speak about bucketing customers’ orders.
+
+“They also used to form discretionary pools in the office and as a great favor allowed their customers to authorize them, in writing, to trade with the customer’s money and in the customer’s name, as they in their judgment deemed best. That way the most cantankerous customer had no legal redress when his money disappeared. They’d bull a stock, on paper, and put the customers in and then they’d execute one of the old-fashioned bucket-shop drives and wipe out hundreds of shoestring margins. They did not spare anyone, women, school-teachers and old men being their best bet.
+
+“‘I’m sore on all brokers,’ I told the tout. ‘I’ll have to think this over.’ And I left him so he wouldn’t talk anymore to me.”
+
+Lambs Led to Slaughter
+
+“I inquired about this firm, and had considerable difficulty in finding anybody who had ever won in that office; but I did. One chap I met told me a story about seeing six hundred telegrams go out one day advising customers to get aboard a certain stock and six hundred telegrams to other customers strongly urging them to sell that same stock, at once.
+
+“‘Yes, I know the trick,’ I said to the chap who was telling me.
+
+“‘Yes,’ he said. ‘But the next day they sent telegrams to the same people advising them to close out their interest in everything and buy—or sell—another stock. I asked the senior partner, who was in the office, “Why do you do that? The first part I understand. Some of your customers are bound to make money on paper for a while, even if they and the others eventually lose. But by sending out telegrams like this you simply kill them all. What’s the big idea?”’
+
+“‘“Well,” he said, “the customers are bound to lose their money anyhow, no matter what they buy, or how or where or when. When they lose their money I lose the customers. Well, I might as well get as much of their money as I can—and then look for a new crop.”’
+
+“Well, I admit frankly that I wasn’t concerned with the business ethics of the firm. I told you I felt sore on the Teller concern and how it tickled me to get even with them. Now, I didn’t have any such feeling about this firm. They might be crooks or they might not be as black as they were painted. I did not propose to let them do any trading for me, or follow their tips or believe their lies. My one concern was with getting together a stake and returning to New York to trade in fair amounts.
+
+“Anyhow, I made up my mind that I would see what trading advantages this firm offered over what you might call the legitimate brokers. I didn’t have much money to put up as margin, and firms that bucketed orders were naturally much more liberal, so that a few hundred dollars went much further in their offices.
+
+“I went down to their place and had a talk with the manager himself. When he found out that I was an old trader and had formerly had accounts in New York with Stock Exchange houses and that I had lost all I took with me he stopped promising to make a million a minute for me if I let them invest my savings. He figured that I was a permanent sucker, the ticker-hound kind that always plays and always loses; a steady-income provider for brokers, whether they were the kind that bucket your orders or modestly content themselves with the commissions.
+
+“I just told the manager that what I was looking for was decent execution, because I always traded at the market and I didn’t want to get reports that showed a difference of a half or a whole point from the ticker price.
+
+“He assured me on his word of honor that they would do whatever I thought was right. They wanted my business because they wanted to show me what high-class brokering was. They had in their employ the best talent in the business. In fact, they were famous for their execution. If there was any difference between the ticker price and the report it was always in favor of the customer, though of course they didn’t guarantee that. If I opened an account with them I could buy and sell at the price as it came over the wire, they were so confident of their brokers.
+
+“Naturally that meant that I could trade there to all intents and purposes as though I were in a bucket shop—that is, they’d let me trade at the next quotation. I didn’t want to appear too anxious, so I shook my head and told him I guessed I wouldn’t open an account that day, but I’d let him know. He urged me strongly to begin right away as it was a good market to make money in. It was—for them; a dull market with prices seesawing slightly, just the kind to get customers in and then wipe them out with a sharp drive in the tipped stock. I had some trouble in getting away.
+
+“I had given him my name and address, and that very same day I began to get prepaid telegrams and letters urging me to get aboard of some stock or other in which they said they knew an inside pool was operating for a fifty-point rise.
+
+“I was busy going around and finding out all I could about several other brokerage concerns of the same bucketing kind. It seemed to me that if I could be sure of getting my winnings out of their clutches the only way of my getting together some real money was to trade in these near bucket shops.”
+
+The Double Cross
+
+“When I had learned all I could I opened accounts with three firms. I had taken a small office and had direct wires run to the three brokers.
+
+“I traded in a small way so they wouldn’t get frightened off at the very start. I made money on balance and they were not slow in telling me that they expected real business from customers who had direct wires to their offices. They did not hanker for pikers. They figured that the more I did the more I’d lose, and the more quickly I was wiped out the more they’d make. It was a sound enough theory when you consider that these people necessarily dealt with averages and the average customer was never long-lived, financially speaking. A busted customer can’t trade. A half-crippled customer can whine and insinuate things and make trouble of one or another kind that hurts business.
+
+“I also established a connection with a local firm that had a direct wire to its New York correspondents, who were also members of the New York Stock Exchange. I had a stock ticker put in and I began to trade conservatively. As I told you, it was pretty much like trading in bucket shops, only it was a little slower.
+
+“It was a game that I could beat, and I did. I never got it down to such a fine point that I could win ten times out of ten; but I won on balance, taking it week in and week out. I was again living pretty well, but always saving something, to increase the stake that I was to take back to Wall Street. I got a couple of wires into two more of these bucketing brokerage houses, making five in all—and, of course, my good firm.
+
+“There were times when my plans went wrong and my stocks did not run true to form, but did the opposite of what they should have done if they had kept up their regard for precedent. But they did not hit me very hard—they couldn’t, with my shoestring margins. My relations with my brokers were friendly enough. Their accounts and records did not always agree with mine, and the differences uniformly happened to be against me. Curious coincidence—not! But I fought for my own and usually had my way in the end. They always had the hope of getting away from me what I had taken from them. They regarded my winnings as temporary loans, I think.
+
+“They really were not sporty, being in the business to make money by hook or by crook instead of being content with the house percentage. Since suckers always lose money when they gamble in stocks—they never really speculate—you’d think these fellows would run what you might call a legitimate illegitimate business. But they didn’t. ‘Copper your customers and grow rich’ is an old and true adage, but they did not seem ever to have heard of it and didn’t stop at plain bucketing.
+
+“Several times they tried to double-cross me with the old tricks. They caught me a couple of times because I wasn’t looking. They always did that when I had taken on more than my usual line. I accused them of being short sports or worse, but they denied it and it ended by my going back to trading as usual. The beauty of doing business with a crook is that he always forgives you for catching him, so long as you don’t stop doing business with him. It’s all right as far as he is concerned. He is willing to meet you more than halfway. Magnanimous souls!”
+
+Mild Punishment
+
+“Well, I made up my mind that I couldn’t afford to have the normal rate of increase of my stake impaired by crooks’ tricks, so I decided to teach them a lesson. I picked out some stock that after having been a speculative favorite had become inactive. Water-logged. If I had taken one that never had been active they would have suspected my play. I gave out buying orders on this stock to my five bucketeering brokers. When the orders were taken and they were waiting for the next quotation to come out on the tape I sent in an order through my Stock Exchange house to sell a hundred shares of that particular stock at the market. I urgently asked for quick action. Well, you can imagine what happened when the selling order got to the floor of the Exchange; a dull inactive stock that a commission house with out-of-town connections wanted to sell in a hurry. Somebody got cheap stock. But the transaction as it would be printed on the tape was the price that I would pay on my five buying orders. I was long on balance four hundred shares of that stock at a low figure. The wire house asked me what I’d heard, and I said I had a bull tip on it. Just before the close of the market I sent an order to my good broker to buy back that hundred shares, and not waste any time; that I didn’t want to be short under any circumstances; and I didn’t care what they paid. So they wired to New York and the order to buy that hundred quick resulted in a sharp advance. I of course had put in selling orders for the five hundred shares that my friends had bucketed. It worked very satisfactorily.
+
+“Still, they didn’t mend their ways, and so I worked that trick on them several times. I did not dare punish them as severely as they deserved, seldom more than a point or two on a hundred shares. But it helped to swell my little hoard that I was saving for my next Wall Street venture. I sometimes varied the process by selling some stock short, without overdoing it. I was satisfied with my six or eight hundred clear for each crack.
+
+“One day the stunt worked so well that it went far beyond all calculations for a ten-point swing. I wasn’t looking for it. As a matter of fact it so happened that I had two hundred shares instead of my usual hundred at one broker’s, though only a hundred in the four other shops. That was too much of a good thing—for them. They were sore as pups about it and they began to say things over the wires. So I went and saw the manager, the same man who had been so anxious to get my account, and so forgiving every time I caught him trying to put something over on me. He talked pretty big for a man in his position.
+
+“‘That was a fictitious market for that stock, and we won’t pay you a damned cent!’ he swore.
+
+“‘It wasn’t a fictitious market when you accepted my order to buy. You let me in then, all right, and now you’ve got to let me out. You can’t get around that for fairness, can you?’
+
+“‘Yes, I can!’ he yelled. ‘I can prove that somebody put up a job.’
+
+“‘Who put up a job?’ I asked.
+
+“‘Somebody!’
+
+“‘Who did they put it up on?’ I asked.
+
+“‘Some friends of yours were in it as sure as pop,’ he said.
+
+“But I told him, ‘You know very well that I play a lone hand. Everybody in this town knows that. They’ve known it ever since I started trading in stocks. Now I want to give you some friendly advice: You just send and get that money for me. I don’t want to be disagreeable. Just do what I tell you.’
+
+“‘I won’t pay it. It was a rigged-up transaction,’ he yelled.
+
+“I got tired of his talk. So I told him: ‘You’ll pay it to me right now and here.’
+
+“Well, he blustered a little more and accused me flatly of being the guilty thimblerigger; but he finally forked over the cash. The others were not so rambunctious. In one office the manager had been studying these inactive-stock plays of mine and when he got my order he actually bought the stock for me and then some for himself in the Little Board, and he made some money. These fellows didn’t mind being sued by customers on charges of fraud, as they generally had a good technical legal defense ready. But they were afraid I’d attach the furniture—the money in the bank I couldn’t because they took care not to have any funds exposed to that danger. It would not hurt them to be known as pretty sharp, but to get a reputation for welshing was fatal. For a customer to lose money at his broker’s is no rare event. But for a customer to make money and then not get it is the worst crime on the speculators’ statute books.
+
+“I got my money from all; but that ten-point jump put an end to the pleasing pastime of skinning skinners. They were on the lookout for the little trick that they themselves had used to defraud hundreds of poor customers. I went back to my regular trading; but the market wasn’t always right for my system—that is, limited as I was by the size of the orders they would take, I couldn’t make a killing.”
+
+A Profitable Stop-Over
+
+“I had been at it over a year, during which I used every device that I could think of to make money trading in those wire houses. I had lived very comfortably, bought an automobile and didn’t limit myself about my expenses. I had to make a stake, but I also had to live while I was doing it. If my position on the market was right I couldn’t spend as much as I made, so that I’d always be saving some. If I was wrong I didn’t make any money and therefore couldn’t spend. As I said, I had saved up a fair-sized roll, and there wasn’t so much money to be made in the five wire houses; so I decided to return to New York.
+
+“I had my own automobile and I invited a friend of mine who also was a trader to motor to New York with me. He accepted and we started. We stopped at New Haven for dinner. At the hotel I met an old trading acquaintance, and among other things he told me there was a shop in town that had a wire and was doing a pretty good business.
+
+“We left the hotel on our way to New York, but I drove by the street where the bucket shop was to see what the outside looked like. We found it and couldn’t resist the temptation to stop and have a look at the inside. It wasn’t very sumptuous, but the old blackboard was there, and the customers, and the game was on.
+
+“The manager was a chap who looked as if he had been an actor or a stump speaker. He was very impressive. He’d say good morning as though he had discovered the morning’s goodness after ten years of searching for it with a microscope and was making you a present of the discovery as well as of the sky, the sun and the firm’s bank roll. He saw us come up in the sporty-looking automobile, and as both of us were young and careless—I don’t suppose I looked twenty—he naturally concluded we were a couple of Yale boys. I didn’t tell him we weren’t. He didn’t give me a chance, but began delivering a speech. He was very glad to see us. Would we have a comfortable seat? The market, we would find, was philanthropically inclined that morning; in fact, clamoring to increase the supply of collegiate pocket money, of which no intelligent undergraduate ever had a sufficiency since the dawn of historic time. But here and now, by the beneficence of the ticker, a small initial investment would return thousands. More pocket money than anybody could spend was what the stock market yearned to yield.
+
+“Well, I thought it would be a pity not to do as the nice man of the bucket shop was so anxious to have us do, so I told him I would do as he wished, because I had heard that lots of people made lots of money in the stock market.
+
+“I began to trade, very conservatively, but increasing the line as I won. My friend followed me.
+
+“We stayed overnight in New Haven and the next morning found us at the hospitable shop at five minutes to ten. The orator was glad to see us, thinking his turn would come that day. But I cleaned up a few dollars less than fifteen hundred. The next morning when we dropped in on the great orator and handed him an order to sell five hundred Sugar he hesitated, but finally accepted it—in silence! The stock broke over a point and I closed out and gave him the ticket. There was exactly five hundred dollars coming to me in profits, and my five-hundred-dollar margin. He took twenty fifties from the safe, counted them three times very slowly, then he counted them again in front of me. It looked as if his fingers were sweating mucilage the way the bills seemed to stick to him, but finally he handed the money to me. He folded his arms, bit his lower lip, kept it bit, and stared at the top of a window behind me.”
+
+Back to Wall Street
+
+“I told him I’d like to sell two hundred Steel. But he never stirred. He didn’t hear me. I repeated my wish, only I made it three hundred shares. He turned his head. I waited for the speech. But all he did was to look at me. Then he smacked his lips and swallowed—as if he was going to start an attack on fifty years of political misrule by the unspeakable grafters of the opposition.
+
+“Finally he waved his hand toward the yellow-backs in my hand and said, ‘Take away that bauble!’
+
+“‘Take away what?’ I said. I hadn’t quite understood what he was driving at.
+
+“‘Where are you going, student?’ He spoke very impressively.
+
+“‘New York,’ I told him.
+
+“‘That’s right,’ he said, nodding about twenty times. ‘That is exactly right. You are going away from here all right, because now I know two things—two, student! I know what you are not, and I know what you are. Yes! Yes! Yes!’
+
+“‘Is that so?’ I said very politely.
+
+“‘Yes. You two——’ He paused; and then he stopped being in Congress and snarled: ‘You two are the biggest sharks in the United States of America! Students? Ye-eh! You must be Freshmen! Ye-eh!’
+
+“We left him talking to himself. He probably didn’t mind the money so much. No professional gambler does. It’s all in the game and the luck’s bound to turn. It was his being fooled in us that hurt his pride.
+
+“That is how I came back to Wall Street for a third attempt. I had been studying, of course, trying to locate the exact trouble with my system that had been responsible for my defeats in A. R. Fullerton & Co.’s office. I was twenty when I made my first ten thousand, and I lost that. But I knew how and why—because I traded out of season all the time; because when I couldn’t play according to my system, which was based on study and experience, I went in and gambled. I hoped to win, instead of knowing that I ought to win on form. When I was about twenty-two I ran up my stake to fifty thousand dollars; I lost it on May ninth. But I knew exactly why and how. It was the laggard tape and the unprecedented violence of the movements that awful day. But I didn’t know why I had lost after my return from St. Louis or after the May ninth panic. I had theories—that is, remedies for some of the faults that I thought I found in my play. But I needed actual practice.
+
+“There is nothing like losing all you have in the world for teaching you what not to do. And when you know what not to do in order not to lose money, you begin to learn what to do in order to win. Did you get that? You begin to learn!”
+
+<!-- rl-section id="section-13" class="epub-section" kicker="Section 13" title="Section 13" -->
+
+## Section 13
+
+IV.
+
+The Quarter Million Dollar Hunch
+
+Technical analysts recognize much of what Lefèvre relates in this installment because it has to do with the benefits and shortcomings of reading the ticker tape and using charts. It is also interesting because it runs somewhat counter to other Livingston stories about the discipline of trading since it relays the story of a hunch that made him a killing.
+
+The ticker tape was the main mechanism for transmitting stock prices since it was invented in 1867 and then improved upon by Thomas Edison. Within several years, two types of ticker tape were in use, both transmitting NYSE prices. The first connected branch brokerage offices with the NYSE floor. This is how customers sent their orders to be executed and how they received confirmation of the price once the trade had been made. Banks and brokerages employing this type became known as “wire houses,” brokers who were connected to the exchange and each other by ticker tape. During the years following the publication of the articles, the National City Company, a subsidiary of the National City Bank of New York, became the biggest wire house in the country, selling stocks across the United States to mostly retail investors.
+
+The second type broadcast prices as they were executed on the exchange to stock brokers and other qualified subscribers around the country. It was also the one to which the bucket shops wanted access; they were denied, however, by Western Union. The printer that received the prices was known as the ticker. This second type was the one Livingston refers to in the narrative because he and other tape readers needed to gauge the strength or weakness of a stock as the trades were consummated on the exchange.
+
+Many traders also referred to charts depicting a stock’s price history, much as they do today. Technical analysis was popular because it was easier than understanding the fundamentals of a company’s business or its financial statements, especially when uniformity in financial statements was not yet established. Generally accepted accounting principles were only introduced after the Securities and Exchange Commission was established in 1934. This fact made chart reading and tape reading, by “tape worms” as Livingston calls them, sensible since much financial information could not always be trusted. A trader could trust price trends in some cases more than he could trust information divulged by a company about its own finances.
+
+Livingston also begins to relate the sort of stories that the aspiring trader delighted in reading: stories that showed that he was not constantly a winner but had to develop a discipline in the way he approached trading. Livermore would later in his career develop a system for speculation, the sort that has been used by both gamblers and traders over the years.
+
+C.G.
+
+<!-- rl-section id="section-14" class="epub-section" kicker="Section 14" title="Section 14" -->
+
+## Section 14
+
+> ![image](assets/00019-bfb2973b.jpg)
+
+Reminiscences of a Stock Operator
+
+July 15, 1922
+
+THE next time I saw Lawrence Livingston was at his home. We were sitting in his library. He offered me a cigar.
+
+“I don’t smoke,” I told him. “But I make it up by listening.”
+
+He nodded, lit a cigar and was silent. I let him alone.
+
+Presently he said: “The average ticker hound—or, as they used to call him, tape-worm—goes wrong, I suspect, as much from overspecialization as from anything else. It means a highly expensive inelasticity. After all, the game of speculation isn’t all mathematics or set rules, however rigid the main laws may be. Even in my tape reading something enters that is more than mere arithmetic or repetitions. There is what I call the behavior of a stock, actions that enable you to judge whether or not it is going to proceed in accordance with the precedents that your observation has noted. If a stock doesn’t act right don’t touch it; because, being unable to tell precisely what is wrong, you cannot tell which way it is going. No diagnosis, no prognosis. No prognosis, no profit.
+
+> ![image](assets/00020-b9761caf.jpg)
+
+“It is a very old thing, this of noting the behavior of a stock and its past performances. It is the equivalent of the dope sheets in racing. When I first came to New York there was a broker’s office where a Frenchman used to talk about his chart. At first I thought he was a sort of pet freak kept by the firm because they were good-natured. Then I learned that he was a persuasive and most impressive talker. He said that the only thing that didn’t lie, because it simply couldn’t, was mathematics. By means of his curves he could forecast market movements. Also he could analyze them, and tell, for instance, why Keene did the right thing in his famous Atchison Preferred bull manipulation, and later why he went wrong in his Southern Pacific pool. At various times one or another of the professional traders tried the Frenchman’s system—and then went back to their old unscientific methods of making a living. Their hit-or-miss system was cheaper, they said. I heard that the Frenchman said Keene admitted that the chart was 100 per cent right, but claimed that the method was too slow for use in an active market.”
+
+> ![image](assets/00021-8dc7f1c4.jpg)
+
+> ![image](assets/00022-4ee2c939.jpg)
+
+Chart Versus Tape
+
+“THEN there was one office where a chart of the daily movement of prices was kept. It showed at a glance just what each stock had done for months. By comparing individual curves with the general market curve and keeping in mind certain rules the customers could tell whether the stock on which they got an unscientific tip to buy was fairly entitled to a rise. They used the chart as a sort of complementary tipster. Today there are scores of commission houses where you find such trading charts. They come ready-made from the offices of statistical experts and include not only stocks but commodities.
+
+“I should say that a chart helps those who can read it, or rather who can assimilate what they read. I myself prefer reading the tape. The average chart reader, however, is apt to become obsessed with the notion that the dips and peaks are all there is to the game. If he pushes his con-fidence to its logical limit he is bound to go broke. There is an extremely able man, a former partner of a well-known Stock Exchange house, who is really a trained mathematician. He is a graduate of a famous technical school. He devised some charts that were not only rational but were carried out in great detail. They were based upon a very careful and minute study of the behavior of many markets—stocks, bonds, grain, cotton, money, and so on. He went back years and years and traced the correlations and seasonal movements—oh, everything. He used his charts in his stock trading for years. What he really did was to take advantage of some highly intelligent averaging. They tell me he won regularly—until the World War knocked all precedents into a cocked hat. I heard that he and his large following lost millions before they desisted. But not even a world war can keep the stock market from being a bull market when conditions are bullish, or a bear market when conditions are bearish. And all a man needs to know to make money is to appraise conditions.
+
+“I didn’t mean to get off the track like that, but I can’t help it when I think of my first few years in Wall Street. I know now what I did not know then, and I think of the mistakes of my ignorance because those are the very mistakes that the average stock speculator makes year in and year out.
+
+“After I got back to New York to try for the third time to beat the market in a Stock Exchange house I traded quite actively. I didn’t expect to do as well as I did in the bucket shops, but I thought that after a while I would do much better because I would be able to swing a much heavier line. Yet, I can see now that my main trouble was my failure to grasp the vital difference between stock gambling and stock speculation. Still, by reason of my seven years’ experience in reading the tape and a certain natural aptitude for the game, my stake was earning not indeed a fortune but a very high rate of interest. I won and lost as before, but I was winning on balance. The more I made the more I spent. This is the usual experience with most men. No, not necessarily with easy-money pickers, but with every human being who is not a slave of the hoarding instinct: Some men, like old Russell Sage, have the money-making and the money-hoarding instinct equally well developed, and of course they die disgustingly rich.
+
+“The game of beating the market exclusively interested me from ten to three every day; and after three, the game of living my life. Don’t misunderstand me. I never allowed pleasure to interfere with business. When I lost it was because I was wrong and not because I was suffering from dissipation or excesses. There never were any shattered nerves or rum-shaken limbs to spoil my game. I couldn’t afford anything that kept me from feeling physically and mentally fit. Even now I am usually in bed by ten. As a young man I never kept late hours, because I could not do business properly on insufficient sleep. I was doing better than breaking even, and that is why I didn’t think there was any need to deprive myself of the good things of life. The market was always there to supply them. I was acquiring the confidence that comes to a man from a professionally dispassionate attitude toward his own method of providing bread and butter for himself.”
+
+Reaction That Never Came
+
+“THE first change I made in my play was in the matter of time. I couldn’t wait for the sure thing to come along and then take a point or two out of it as I could in the bucket shops. I had to start much earlier if I wanted to catch the move in Fullerton’s office. In other words, I had to study what was going to happen; to anticipate stock movements. That sounds asininely commonplace, but you know what I mean. It was the change in my own attitude toward the game that was of supreme importance to me. It taught me, little by little, the essential difference between betting on fluctuations and anticipating inevitable advances and declines, between gambling and speculating.
+
+“I had to go further back than an hour in my studies of the market—which was something I never would have learned to do in the biggest bucket shop in the world. I interested myself in trade reports and railroad earnings and financial and commercial statistics. Of course I loved to trade heavily and they called me the Kid Plunger; but I also liked to study the moves. I never found anything irksome that helped me to trade more intelligently. Before I can solve a problem I must state it to myself. When I think I have found the solution I must prove I am right. I know of only one way to prove it; and that is, with my own money.
+
+“Slow as my progress seems now, I suppose I learned as fast as I possibly could, considering that I was making money on balance. If I had lost oftener perhaps it might have spurred me to more continuous study. I certainly would have had more mistakes to spot. But I am not sure of the exact value of losing, for if I had lost more I would have lacked the money to test out the improvements in my methods of trading.
+
+“Studying my winning plays in Fuller-ton’s office I discovered that although I often was 100 per cent right on the market—that is, in my diagnosis of conditions and general trend—I was not making as much money as my market rightness entitled me to. Why wasn’t I?
+
+“There was as much to learn from partial victory as from defeat.
+
+“For instance, I had been bullish from the very start of a bull market, and I had backed my opinion by buying stocks. An advance followed, as I had clearly foreseen. So far, all right. But what else did I do? Why, I listened to the elder statesmen and curbed my youthful impetuousness. I made up my mind to be wise and play carefully, conservatively. Everybody knew that the way to do that was to take profits and buy back your stocks on reactions. And that is precisely what I did, or rather what I tried to do; for I often took profits and waited for a reaction that never came. And I saw my stock go kiting up ten points more and I sitting there with my four-point profit safe in my conservative pocket. They say you never grow poor taking profits. No, you don’t. But neither do you grow rich taking a four-point profit in a bull market.
+
+“Where I should have made twenty thousand dollars I made two thousand. That was what my conservatism did for me. About the time I discovered what a small percentage of what I should have made I was getting I discovered something else, and that is that suckers differ among themselves according to the degree of experience.
+
+“The tyro knows nothing, and everybody, including himself, knows it. But the next, or second, grade thinks he knows a great deal and makes others feel that way too. He is the experienced sucker, who has studied—not the market itself but a few remarks about the market made by a still higher grade of suckers. The second-grade sucker knows how not to lose his money in some of the ways that get the raw beginner. It is this semisucker rather than the 100 percent article who is the real all-the-year-round support of the commission houses. He lasts about three and a half years on an average, as compared with a single season of from three to thirty weeks, which is the usual Wall Street life of a first offender. It is naturally the semi-sucker who is always quoting the famous trading aphorisms and the various rules of the game. He knows all the don’ts that exist—excepting the principal one, which is: Don’t be a sucker!
+
+“This semisucker is the type that thinks he has cut his wisdom teeth because he loves to buy on declines. He waits for them. He measures his bargains by the number of points it has sold off from the top. In big bull markets the plain unadulterated sucker, utterly ignorant of rules and precedents, buys blindly because he hopes blindly. He makes most of the money—until one of the healthy reactions takes it away from him at one fell swoop. But the Careful Mike sucker does what I did when I thought I was playing the game intelligently—according to the intelligence of others. I knew I needed to change my bucket-shop methods and I thought I was solving my problem with any change, particularly one that assayed high gold values according to the experienced traders among the customers.
+
+“Most—let us call ’em customers—are alike. You find very few who can truthfully say that Wall Street doesn’t owe them money. In Fullerton’s there were the usual crowd. All grades! Well, there was one old chap who was not like the others. To begin with, he was a much older man. Another thing was that he never volunteered advice and never bragged of his winnings. He was a great hand for listening very attentively to the others. He did not seem very keen to get tips—that is, he never asked the talkers what they’d heard or what they knew. But when somebody gave him one he always thanked the tipster very politely. Sometimes he thanked the tipster again—when the tip turned out O.K. But if it went wrong he never whined, so that nobody could tell whether he followed it or let it slide by. It was a legend of the office that the old jigger was rich and could swing quite a line. But he wasn’t donating much to the firm in the way of commissions; at least not that anyone could see. His name was Partridge, but they nicknamed him Turkey behind his back, because he was so thick-chested and had a habit of strutting about the various rooms, with the point of his chin resting on his breast.”
+
+Elmer Grows Indignant
+
+“THE customers who were all eager to be shoved and forced into doing things so as to lay the blame for failure on others used to go to old Partridge and tell him what some friend of a friend of an insider had advised them to do in a certain stock. They would tell him what they had not done with the tip so he would tell them what they ought to do. But whether the tip they had was to buy or to sell, the old chap’s answer was always the same.
+
+“The customer would finish the tale of his perplexity and then ask ‘What do you think I ought to do?’
+
+“Old Turkey would cock his head to one side, contemplate his fellow customer with a fatherly smile, and finally he would say very impressively, ‘You know, it’s a bull market!’
+
+“Time and again I heard him say ‘Well, this is a bull market, you know!’ as though giving a priceless talisman wrapped up in a million-dollar accident-insurance policy. And of course I did not get his meaning.
+
+“One day a fellow named Elmer Har-wood rushed into the office, wrote out an order and gave it to the clerk. Then he rushed over to where Mr. Partridge was listening politely to John Fanning’s story of the time he overheard Keene give an order to one of his brokers and all that John made was a measly three points on a hundred shares and of course the stock had to go up twenty-four points in three days right after John sold out. It was at least the fourth time that John had told him that tale of woe, but old Turkey was smiling as sympathetically as if it was the first time he heard it.
+
+“Well, Elmer made for the old man and without a word of apology to John Fanning, told Turkey, ‘Mr. Partridge, I have just sold my Climax Motors. My people say the market is entitled to a reaction and that I’ll be able to buy it back cheaper. So you’d better do likewise. That is, if you’ve still got yours.’
+
+“Elmer looked suspiciously at the man to whom he had given the original tip to buy.
+
+“The amateur, or gratuitous, tipster always thinks he owns the receiver of his tip body and soul, even before he knows how the tip is going to turn out.
+
+“‘Yes, Mr. Harwood, I still have it. Of course!’ said Turkey gratefully. It was nice of Elmer to think of the old chap.
+
+“‘Well, now is the time to take your profit and get in again on the next dip,’ said Elmer, as if he had just made out the deposit slip for the old man. Failing to perceive enthusiastic gratitude in the beneficiary’s face Elmer went on: ‘I have just sold every share I owned!’
+
+> ![image](assets/00023-dacbcd18.jpg)
+
+“From his voice and manner you would have conservatively estimated it at ten thousand shares.
+
+“But Mr. Partridge shook his head regretfully and whined, ‘No! No! I can’t do that!’
+
+“‘What?’ yelled Elmer.
+
+“‘I simply can’t!’ said Mr. Partridge. He was in great trouble.
+
+“‘Didn’t I give you the tip to buy it?’
+
+“‘You did, Mr. Harwood, and I was very grateful to you. Indeed, I am, sir. But——’
+
+“‘Hold on! Let me talk! And didn’t that stock go up seven points in ten days? Didn’t it?’
+
+“‘It did, and I am much obliged to you, my dear boy. But I couldn’t think of selling that stock.’
+
+“‘You couldn’t?’ asked Elmer, beginning to look doubtful himself. It is a habit with most tip givers to be tip takers.
+
+“‘No, I couldn’t.’
+
+“‘Why not?’ And Elmer drew nearer.
+
+“‘Why, this is a bull market!’ The old fellow said it as though he had given a long and detailed explanation.
+
+“‘That’s all right,’ said Elmer, looking angry because of his disappointment. ‘I know this is a bull market as well as you do. But you’d better slip them that stock of yours and buy it back on the reaction. You might as well reduce the cost to yourself.’
+
+“‘My dear boy,’ said old Partridge, in great distress—‘my dear boy, if I sold that stock now I’d lose my position; and then where would I be?’
+
+“Elmer Harwood threw up his hands, shook his head and walked over to me to get sympathy. ‘Can you beat it?’ he asked me in a whisper. ‘I ask you!’
+
+“I didn’t say anything. So he went on: ‘I give him a tip on Climax Motors. He buys five hundred shares. He’s got seven points’ profit and I advise him to get out and buy ’em back on the reaction that’s overdue even now. And what does he say when I tell him? He says that if he sells he’ll lose his job. What do you know about that?’
+
+“I beg your pardon, Mr. Harwood; I didn’t say I’d lose my job,’ cut in old Turkey. ‘I said I’d lose my position. And when you are as old as I am and you’ve been through as many booms and panics as I have, you’ll know that to lose your position is something nobody can afford; not even John D. Rockefeller. I hope the stock reacts and that you will be able to repurchase your line at a substantial concession, sir. But I myself can only trade in accordance with the experience of many years. I paid a high price for it and I don’t feel like throwing away a second tuition fee. But I am as much obliged to you as if I had the money in the bank. It’s a bull market, you know.’ And he strutted away, leaving Elmer dazed.”
+
+The Wisdom of Old Mr. Partridge
+
+“WHAT old Mr. Partridge said did not mean much to me until I began to think about my own numerous failures to make as much money as I ought to when I was so right on the general market. The more I studied the more I realized how wise that old chap was. He had evidently suffered from the same defect in his young days and knew his human weaknesses. He would not lay himself open to a temptation that experience had taught him was hard to resist and had always proved expensive to him, as it was to me.
+
+“I think it was a long step forward in my trading education when I realized at last that when old Mr. Partridge kept on telling the other customers ‘Well, you know this is a bull market!’ he really meant to tell them that the big money was not in the individual fluctuations but in the main movements—that is, not in reading the tape but in sizing up the entire market and its trend.
+
+“And right here let me say one thing: After spending many years in Wall Street and after making and losing millions of dollars I want to tell you this: It never was my thinking that made the big money for me. It always was my sitting. Got that? My sitting tight! It is no trick at all to be right on the market. You always find lots of early bulls in bull markets and early bears in bear markets. I’ve known many men who were right at exactly the right time, and began buying or selling stocks when prices were at the very level which should show the greatest profit. And their experience invariably matched mine—that is, they made no real money out of it. Men who can both be right and sit tight are uncommon. I found it one of the hardest things to learn. But it is only after a stock operator has firmly grasped this that he can make big money. It is literally true that millions come easier to a trader after he knows how to trade than hundreds did in the days of his ignorance.
+
+> ![image](assets/00024-57a32c26.jpg)
+
+“The reason is that a man may see straight and clearly and yet become impatient or doubtful when the market takes its time about doing as he doped out it must do. That is why so many men in Wall Street, who are not at all in the sucker class, not even in the third grade, nevertheless lose money. The game did not beat them. They beat themselves, because though they had brains they couldn’t sit tight. Old Turkey was dead right in doing and saying what he did. He had not only the courage of his convictions but the intelligent patience to sit tight.
+
+“Disregarding the big swing and trying to jump in and out was fatal to me. Nobody can catch all the fluctuations. In a bull market your game is to buy and hold until you believe that the bull market is near its end. To do this you must study general conditions and not tips or special factors affecting individual stocks. Then get out of all your stocks; get out for keeps! Wait until you see—or, if you prefer, until you think you see—the turn of the market; the beginning of a reversal of general conditions. You have to use your brains and your vision to do this; otherwise my advice would be as idiotic as to tell you to buy cheap and sell dear. One of the most helpful things that anybody can learn is to give up trying to catch the last eighth—or the first. These two are the most expensive eighths in the world. They have cost stock traders, in the aggregate, enough millions of dollars to build a concrete highway across the continent.
+
+“Another thing I noticed in studying my plays in Fullerton’s office after I began to trade less unintelligently was that my initial operations seldom showed me a loss. That naturally made me decide to start big. It gave me confidence in my own judgment before I allowed it to be vitiated by the advice of others or even by my own impatience at times. Without faith in his own judgment no man can go very far in this game. That is about all I have learned—to study general conditions, to take a position and stick to it. I can wait without a twinge of impatience. I can see a setback without being shaken, knowing that it is only temporary. I have been short one hundred thousand shares and I have seen a big rally coming. I have figured—and figured correctly—that such a rally as I felt was inevitable, and even wholesome, would make a difference of one million dollars in my paper profits. And I nevertheless have stood pat and seen half my paper profit wiped out, without once considering the advisability of covering my shorts to put them out again on the rally. I knew that if I did I might lose my position and with it the certainty of a big killing. It is the big swing that makes the big money for you.”
+
+Market Lessons
+
+“If I learned all this so slowly it was because I learned by my mistakes, and some time always elapses between making a mistake and realizing it, and more time between realizing it and exactly determining it. But at the same time I was faring pretty comfortably and was very young, so that I made up in other ways. Most of my winnings were still made in part through my tape reading because the kind of markets we were having lent themselves fairly well to my method. I was not losing either as often or as irritatingly as in the beginning of my New York experiences. It wasn’t anything to be proud of, when you think that I had been broke three times in less than two years. And being broke is a very efficient educational agency.
+
+“I was not increasing my stake very fast because I lived up to the handle all the time. I did not deprive myself of many of the things that a fellow of my age and tastes would want. I had my own automobile and I could not see any sense in skimping on living when I was taking it out of the market. The ticker only stopped Sundays and holidays, which was as it should be. Every time I found the reason for a loss or the why and how of another mistake, I added a brand-new don’t to my schedule of assets. And the nicest way to capitalize my increasing assets was by not cutting down on my living expenses. Of course I had some amusing experiences and some that were not so amusing, but if I told them all in detail I’d never finish. As a matter of fact, the only incidents that I remember without special effort are those that taught me something of definite value to me in my trading; something that added to my store of knowledge of the game—and of myself!
+
+“In the spring of 1906 I was in Atlantic City for a short vacation. I was out of stocks and was thinking only of having a change of air and a nice rest. By the way, I had gone back to my first brokers, Harding Brothers, and my account had got to be pretty active. I could swing three or four thousand shares. That wasn’t much more than I had done in the old Cosmopolitan shop when I was barely twenty years of age. But there was some difference between my one-point margin in the bucket shop and the margin required by brokers who actually bought or sold stocks for my account on the New York Stock Exchange.
+
+“Do you remember I told you about that time when I was short thirty-five hundred Sugar in the Cosmopolitan and I had a hunch something was wrong and I’d better close the trade? Well, I have often had that curious feeling. As a rule, I yield to it. But at times I have pooh-poohed the idea and have told myself that it was simply asinine to follow any of these sudden blind impulses to reverse my position. I have ascribed my hunch to a state of nerves resulting from too many cigars or insufficient sleep or a torpid liver or something of that kind. When I have argued myself into disregarding my impulse and have stood pat I have always had cause to regret it. A dozen instances occur to me when I did not sell as per hunch, and the next day I’d go downtown and the market would be strong, or perhaps even advance, and I’d tell myself how silly it would have been to follow the blind impulse to sell. But the next day there would be a pretty bad drop. Something had broken loose somewhere and I’d have made money by not being so wise and logical. The reason plainly was not physiological but psychological.”
+
+A Mysterious Hunch
+
+“I want to tell you only about one of them because of what it did for me. It happened when I was having that little vacation in Atlantic City in the spring of 1906. I had a friend with me who also was a customer of Harding Brothers. I had no interest in the market one way or another and was enjoying my rest. I can always give up trading to play, unless of course it is an exceptionally active market in which my commitments are rather heavy. It was a bull market, as I remember it. The outlook was favorable for general business and the stock market had slowed down, but the tone was firm and all indications pointed to higher prices.
+
+“One morning after we had breakfasted and had finished reading all the New York morning papers, and had got tired of watching the sea gulls picking up clams and flying up with them twenty feet in the air and dropping them on the hard wet sand to open them for their breakfast, my friend and I started up the Boardwalk. That was the most exciting thing we did in the daytime.
+
+> ![image](assets/00025-454d0844.jpg)
+
+“It was not noon yet, and we walked up slowly to kill time and breathe the salt air. Harding Brothers had a branch office on the Boardwalk and we used to drop in every morning and see how they’d opened. It was more force of habit than anything else, for I wasn’t doing anything.
+
+“The market, we found, was strong and active. My friend, who was quite bullish, was carrying a moderate line purchased several points lower. He began to tell me what an obviously wise thing it was to hold stocks for much higher prices. I wasn’t paying enough attention to him to take the trouble to agree with him. I was looking over the quotation board, noting the changes—they were mostly advances—until I came to Union Pacific. I got a feeling that I ought to sell it. I can’t tell you more. I just felt like selling it. I asked myself why I should feel like that, and I couldn’t find any reason whatever for going short of U P.
+
+“I stared at the last price on the board until I couldn’t see any figures or any board or anything else, for that matter. All I knew was that I wanted to sell Union Pacific and I couldn’t find out why I wanted to.
+
+“I must have looked queer, for my friend, who was standing alongside of me, suddenly nudged me and asked, ‘Hey, what’s the matter?’
+
+“‘I don’t know,’ I answered.
+
+“‘Going to sleep?’ he said.
+
+“‘No,’ I said. ‘I am not going to sleep. What I am going to do is to sell that stock.’ I had always made money following these hunches.
+
+“I walked over to a table where there were some blank order pads. My friend followed me. I wrote out an order to sell a thousand Union Pacific at the market and handed it to the manager. He was smiling when I wrote it and when he took it. But when he read the order he stopped smiling and looked at me.
+
+“‘Is this right?’ he asked me. But I just looked at him and he rushed it over to the operator.
+
+“‘What are you doing?’ asked my friend.
+
+“‘I’m selling it!’ I told him.
+
+“‘Selling what?’ he yelled at me. If he was a bull how could I be a bear? Something was wrong.
+
+“‘A thousand U P,’ I said.
+
+“‘Why?’ he asked me in great excitement.
+
+“I shook my head, meaning I had no reason. But he must have thought I’d got a tip, because he took me by the arm and led me outside into the hall, where we could be out of sight and hearing of the other customers and rubbering chair warmers.
+
+“‘What did you hear?’ he asked me.
+
+“He was quite excited. U P was one of his pets and he was bullish on it because of its earnings and its prospects. But he was willing to take a bear tip on it at second hand.
+
+“‘Nothing!’ I said.
+
+“‘You didn’t?’ He was skeptical and showed it plainly.
+
+“‘I didn’t hear a thing.’
+
+“‘Then why in blazes are you selling?’
+
+“‘I don’t know,’ I told him. I spoke gospel truth.
+
+“‘Oh, come across, Larry,’ he said.
+
+“He knew it was my habit to know why I traded. I had sold a thousand shares of Union Pacific. I must have a very good reason to sell that much stock in the face of the strong market.
+
+“‘I don’t know,’ I repeated. ‘I just feel that something is going to happen.’
+
+“‘What’s going to happen?’
+
+“‘I don’t know. I can’t give you any reason. All I know is that I want to sell that stock. And I’m going to let ’em have another thousand.’
+
+“I walked back into the office and gave an order to sell a second thousand. If I was right in selling the first thousand I ought to have out a little more.”
+
+The Subconscious Urge
+
+“‘What could possibly happen?’ persisted my friend, who couldn’t make up his mind to follow my lead. If I’d told him that I had heard U P was going down he’d have sold it without asking me from whom I’d heard it or why. ‘What could possibly happen?’ he asked again.
+
+“‘A million things could happen. But I can’t promise you that any of them will. I can’t give you any reasons and I can’t tell fortunes,’ I told him.
+
+“‘Then you’re crazy,’ he said. ‘Stark crazy, selling that stock without rime or reason. You don’t know why you want to sell it?’
+
+“‘I don’t know why I want to sell it. I only know I do want to,’ I said. ‘I want to, like everything.’ The urge was so strong that I sold another thousand.
+
+“That was too much for my friend. He grabbed me by the arm and said, ‘Here! Let’s get out of this place before you sell the entire capital stock.’
+
+> ![image](assets/00026-c0153cfc.jpg)
+
+“I had sold as much as I needed to satisfy my feeling, so I followed him without waiting for a report on the last two thousand shares. It was a pretty good jag of stock for me to sell even with the best of reasons.
+
+“It seemed more than enough to be short of without any reason whatever, particularly when the entire market was so strong and there was nothing in sight to make anybody think of the bear side. But I remembered that on previous occasions when I had had the same urge to sell and didn’t do it I always had reasons to regret it.
+
+“I have told some of these stories to friends, and some of them tell me it isn’t a hunch but the subconscious mind, which is the creative mind, at work. That is the mind which, makes artists do great things without their knowing how they came to do them. Perhaps with me it was the cumulative effect of a lot of little things individually insignificant but collectively powerful. Possibly my friend’s unintelligent bullishness aroused a spirit of contradiction and I picked on U P because it had been touted so much. I can’t tell you what the cause or motive for hunches may be. All I know is that I went out of the Atlantic City branch office of Harding Brothers short three thousand Union Pacific in a rising market, and I wasn’t worried a bit.
+
+“I wanted to know what price they’d got for my last two thousand shares. So after luncheon we walked up to the office. I had the pleasure of seeing that the general market was strong and Union Pacific higher.
+
+“‘I see your finish,’ said my friend. You could see he was glad he hadn’t sold any.
+
+“The next day the general market went up some more and I heard nothing but cheerful remarks from my friend. But I felt sure I had done right to sell U P, and I never get impatient when I feel I am right. What’s the sense? That afternoon Union Pacific stopped climbing, and toward the end of the day it began to go off. Pretty soon it got down to a point below the level of the average of my three thousand shares. I felt more positive than ever that I was on the right side, and since I felt that way I naturally had to sell some more. So, toward the close, I sold an additional two thousand shares.”
+
+Does the Tape Ever Lie?
+
+“There I was, short five thousand shares of U P on a hunch. That was as much as I could sell in Harding’s office with the margin I had up. There was no telling what might happen and I thought I’d better be Johnny-on-the-Spot.
+
+“That was too much stock for me to be short of, on a vacation; so I gave up the vacation and returned to New York that very night. There I could move quickly if I had to.
+
+“The next day we got the news of the San Francisco earthquake. It was an awful disaster. But the market opened down only a couple of points. The bull forces were at work, and the public wasn’t responsive. You see that all the time. If there is a solid bull foundation, for instance, whether or not what the papers call bull manipulation is going on at the same time, certain news items fail to have the effect they would have if the Street was bearish.
+
+“It is all in the state of sentiment at the time. In this case the Street did not appraise the extent of the catastrophe because it didn’t wish to. Before the day was over prices came back.
+
+“I was short five thousand shares. The blow had fallen, but my stock hadn’t. My hunch was of the first water, but my bank account wasn’t growing; not even on paper. The friend who had been in Atlantic City with me when I put out my short line in U P was glad and sad about it.
+
+“He told me: ‘That was some hunch, kid. But, say, when the talent and the money are all on the bull side what’s the use of bucking against them? They are bound to win out.’
+
+“‘Give them time,’ I said. I meant, prices. I wouldn’t cover because I knew the damage was enormous and the Union Pacific would be one of the worst sufferers. But it was exasperating to see the blindness of the Street.
+
+“‘Give ’em time and your skin will be where all the other bear hides are stretched out in the sun, drying,’ he assured me.
+
+“‘What would you do?’ I asked him. ‘Buy U P on the strength of the millions of dollars of damage suffered by the Southern Pacific and other lines? Where are the earnings for dividends going to come from after they pay for all they’ve lost? The best you can say is that the trouble may not be as bad as it is painted. But is that a reason for buying the stocks of the roads chiefly affected? Answer me that.’
+
+“But all my friend said was: ‘Yes, that listens fine. But I tell you, the market doesn’t agree with you. The tape doesn’t lie, does it?’
+
+“‘It doesn’t always tell the truth on the instant,’ I said.
+
+“‘Listen. A man was talking to Jim Fisk a little before Black Friday, giving ten good reasons why gold ought to go down for keeps. He got so encouraged by his own words that he ended by telling Fisk that he was going to sell a few million. And Jim Fisk just looked at him and said, “Go ahead! Do! Sell it short and invite me to your funeral.”’
+
+“‘Yes,’ I said; ‘and if that chap had sold it short, look at the killing he would have made! Sell some U P yourself.’
+
+“‘Not I! I’m the kind that thrives best on not rowing against wind and tide.’
+
+“On the following day, when fuller reports came in, the market began to slide off, but even then not so violently as it should. Knowing that nothing under the sun could stave off a substantial break I doubled up and sold five thousand shares. Oh, by that time it was plain to most people, and my brokers were willing enough. It wasn’t reckless of them or of me, not the way I sized up the market. On the day following, the market began to go for fair. There was the dickens to pay. Of course I pushed my luck for all it was worth. I doubled up again and sold ten thousand shares more. It was the only play possible.
+
+“I wasn’t thinking of anything except that I was right—100 percent right—and that this was a heaven-sent opportunity. It was up to me to take advantage of it. I sold more. Didn’t I think that with such a big line of shorts out, it wouldn’t take much of a rally to wipe out my paper profits and possibly my principal? I don’t know whether I thought of that or not, but if I did it didn’t carry much weight with me. I wasn’t plunging recklessly. I was really playing conservatively. I could read the tape very plainly. There was nothing that anybody could do to undo the earthquake, was there? They couldn’t restore the crumpled buildings overnight, free gratis for nothing, could they? All the money in the world couldn’t help much in the next few hours, could it?”
+
+Words of Warning
+
+“That was no plunge. I was not betting blindly. I wasn’t trading recklessly. I wasn’t a crazy bear. I wasn’t drunk with success or thinking that because Frisco was pretty well wiped off the map the entire country was headed for the scrap heap. No, indeed! I didn’t look for a panic. Well, the next day I cleaned up. I made two hundred and fifty thousand dollars. It was my biggest winnings up to that time. It was all made in a few days. The Street paid no attention to the earthquake the first day or two. They’ll tell you that it was because the first dispatches were not so alarming, but I think it was because it took so long to change the point of view of the public toward the securities markets. Even the professional traders for the most part were slow and shortsighted.
+
+“I have no explanation to give you, scientific or childish. I am telling you what I did, and why, and what came of it. I was much less concerned with the mystery of the hunch than with the fact that I got a quarter of a million out of it. It meant that I could now swing a much bigger line than ever, if or when the time came for it.
+
+“That summer I went to Saratoga Springs. It was supposed to be a vacation for me, but I kept an eye on the market. To begin with, I wasn’t so tired that it bothered me to think about it. And then, everybody I knew up there had or had had an active interest in it. We naturally talked about it. I have noticed that there is quite a difference between talking and trading. Some of these chaps remind you of the bold clerk who talks to his cantankerous employer as to a yellow dog—when he tells you about it.
+
+“Harding Brothers had a branch office in Saratoga. Many of their customers were there. But the real reason, I suppose, was the advertising value. Having a branch office in a resort is simply high-class billboard advertising. I used to drop in and sit around with the rest of the crowd. The manager was a very nice chap from the New York office who was there to give the glad hand to friends and strangers and, if possible, to get business. It was a wonderful place for tips—all kinds of tips, horserace, stock-market and waiters. The office knew I didn’t take any, so the manager didn’t come and whisper confidentially in my ear what he’d just got on the q. t. from the New York office. He simply passed over the telegrams, saying, ‘This is what they’re sending out,’ or something of the kind.
+
+“Of course I watched the market. With me, to look at the quotation board and to read the signs is one process. My good friend Union Pacific, I noticed, looked like going up. The price was high, but the stock acted as if it were being accumulated. I watched it a couple of days without trading in it, and the more I watched it the more convinced I became that it was being bought on balance by somebody who was no piker, somebody who not only had a big bank roll but knew what was what. Very clever accumulation, I thought.
+
+“As soon as I was sure of this I naturally began to buy it myself, at about 160. It kept on acting all hunky, and so I kept on buying it, at five hundred shares at a clip. The more I bought the stronger it got, without any spurt, and I was feeling very comfortable. I couldn’t see any reason why that stock shouldn’t go up a great deal more; not with what I read on the tape.
+
+“All of a sudden the manager came to me and said they’d got a telegram from the office—they had a direct wire of course—asking if I was in the office, and when they answered yes, another came saying: ‘Keep him there. Tell him Mr. Harding wants to speak to him.’
+
+“I said I’d wait, and bought five hundred shares more of U P. I couldn’t imagine what Harding could have to say to me. I didn’t think it was anything about business. My margin was more than ample for what I was buying. Pretty soon the manager came and told me that Mr. Ed Harding wanted me on the long-distance telephone.
+
+“‘Hello, Ed,’ I said.
+
+“But he said, ‘What the devil’s the matter with you? Are you crazy?’
+
+“‘Are you?’ I said.
+
+“‘What are you doing?’ he asked.
+
+“‘What do you mean?’
+
+“‘Buying all that stock.’
+
+“‘Why, isn’t my margin all right?’
+
+“‘It isn’t a case of margin, but of being a plain sucker.’
+
+“‘I don’t get you.’
+
+“‘Why are you buying all that Union Pacific?’
+
+“‘It’s going up,’ I said.
+
+“‘Going up, hell! Don’t you know that the insiders are feeding it out to you? You’re just about the easiest mark up there. You’d have more fun losing it on the ponies. Don’t let them kid you.’
+
+“‘Nobody is kidding me,’ I told him. ‘I haven’t talked to a soul about it.’
+
+“But he came back at me. ‘You can’t expect a miracle to save you every time you plunge in that stock. Get out while you’ve still got a chance,’ he said. ‘It’s a crime to be long of that stock at this level—when these highbinders are shoveling it out by the ton.’
+
+“‘The tape says they’re buying it,’ I insisted.
+
+“‘Larry, I got heart disease when your orders began to come in. For the love of Mike, don’t be a sucker. Get out! Right away. It’s liable to bust wide open any minute. I’ve done my duty. Good-by!’ And he hung up.”
+
+A Cheap Lesson
+
+“Ed Harding was a very clever chap, unusually well-informed and a real friend, disinterested and kind-hearted. And what was even more, I knew he was in position to hear things. All I had to go by, in my purchases of U P, was my years of studying the behavior of stocks and my perception of certain symptoms which experience had taught me usually preceded a substantial rise. I don’t know what happened to me, but I suppose I must have concluded that my tape reading told me the stock was being absorbed simply because very clever manipulation by the insiders made the tape tell a story that wasn’t true. Possibly I was impressed by the pains Ed Harding took to stop me from making what he was so sure would be a colossal mistake on my part. His brains and his motives were not to be questioned. Whatever it was that made me decide to follow his advice, I cannot tell you; but follow it I did.
+
+“I sold out all my Union Pacific. Of course if it was unwise to be long of it, it was equally unwise not to be short of it. So after I got rid of my long stock I sold four thousand shares short. I put out most of it around 162.
+
+“The next day the directors of the Union Pacific Company declared a 10 per cent dividend on the stock. At first nobody in Wall Street believed it. It was too much like the desperate maneuver of cornered gamblers. All the newspapers jumped on the directors. But while Wall Street hesitated to act the market boiled over. Union Pacific led, and on huge transactions made a new high-record price. Some of the room traders made fortunes in an hour and I remember later hearing about a rather dull-witted specialist who made a mistake that put three hundred and fifty thousand dollars in his pocket. He sold his seat the following week and became a gentleman farmer the following month.
+
+“Of course I realized, the moment I heard the news of the declaration of that unprecedented 10 per cent dividend, that I got what I deserved for disregarding the voice of experience and listening to the voice of a tipster. My own convictions I had set aside for the suspicions of a friend, simply because he was disinterested and as a rule knew what he was doing.
+
+“As soon as I saw Union Pacific making new high records I said to myself, ‘This is no stock for me to be short of.’
+
+“All I had in the world was up as margin in Harding’s office. I was neither cheered nor made stubborn by the knowledge of that fact. What was plain was that I had read the tape accurately and that I had been a ninny to let Ed Harding shake my own resolution. There was no sense in recriminations, because I had no time to lose; and besides, what’s done is done. So I gave an order to take in my shorts. The stock was around 165 when I sent in that order to buy in the four thousand U P at the market. I had a three-point loss on it at that figure. Well, my brokers paid 172 and 174 for some of it before they were through. I found when I got my reports that Ed Harding’s kindly intentioned butting in cost me forty thousand dollars. A low price for a man to pay for not having the courage of his own convictions! It was a cheap lesson.”
+
+Livingston’s Trading Methods
+
+“I wasn’t worried, because the tape still said higher prices. It was an unusual move and there were no precedents for the action of the directors, but I did this time what I thought I ought to do. As soon as I had given the first order to buy four thousand shares to cover my shorts I decided to profit by my own tape reading, and so I went long. I bought four thousand shares and held that stock until the next morning. Then I got out. I not only made up the forty thousand dollars I had lost but about fifteen thousand besides. If Ed Harding hadn’t tried to save me money I’d have made a killing. But he did me a very great service for it was the lesson of that episode that, I firmly believe, completed my education as a trader.
+
+“It was not that all I needed to learn was not to take tips but follow my own inclination. It was that I gained confidence in myself and I was able finally to shake off the old method of trading. That Saratoga experience was my last haphazard, hit-or-miss operation. From then on I began to think of basic conditions instead of individual stocks. I promoted myself to a higher grade in the hard school of speculation. It was a long and difficult step to take.
+
+“I never hesitate to tell a man that I am bullish or bearish. But I do not tell people to buy or sell any particular stock. In a bear market all stocks go down and in a bull market they go up. I don’t mean of course that in a bear market caused by a war, ammunition shares do not go up. I speak in a general sense. But the average man doesn’t wish to be told that it is a bull or a bear market. What he wants is to be told specifically what particular stock to buy or sell. He wants to get something for nothing. He does not wish to work. He doesn’t even wish to have to think. It is too much bother to have to count the money that he picks up from the ground.
+
+“Well, I wasn’t that lazy, but I found it easier to think of individual stocks than of the general market, and therefore of individual fluctuations rather than of general movements. I had to change and I did. The story is too long to tell tonight.”
+
+Livingston made an end of speaking and stared questioningly at me.
+
+I said: “Very well. But you once made a remark I’d like to ask you about. You said you always bought on a rising market. I think you said it was the most comfortable way of buying stocks.”
+
+“Yes. The point is not so much to buy as cheap as possible or go short at top prices, but to buy or sell at the right time. When I am bearish and I sell a stock, each sale must be at a lower level than the previous sale. When I am buying, the reverse is true. I must buy on a rising scale. I don’t buy long stock on a scale down, I buy on a scale up.”
+
+“Why?” I asked Livingston.
+
+“Let me tell you how I operate: Suppose I am buying some stock. I’ll buy two thousand shares at 110. If the stock goes up to 111 after I buy it I am, at least temporarily, right in my operation, because it is a point higher; it shows me a profit. Well, because I am right I go in and buy another two thousand shares. If the market is still rising I buy a third lot of two thousand shares. Say the price goes to 114. I think it is enough for the time being. I now have a trading basis to work from. I am long six thousand shares at an average of 111¾, and the stock is selling at 114. I won’t buy any more just then. I wait and see. I figure that at some stage of the rise there is going to be a reaction. I want to see how the market takes care of itself after that reaction. It will probably react to where I got my third lot. Say that after going higher it falls back to 112¼, and then rallies. Well, just as it goes back to 113¾ I shoot an order to buy four thousand—at the market of course. Well, if I get that 4000 at 113¾ I know something is wrong and I’ll give a testing order—that is, I’ll sell one thousand shares to see how the market takes it. But suppose that of the order to buy the four thousand shares that I put in when the price was 113¾ I get two thousand at 114 and five hundred at 114½ and the rest on the way up so that for the last five hundred I pay 115½. Then I know I am right. It is the way I get the four thousand shares that tells me whether I am right in buying that particular stock at that particular time—for of course I am working on the assumption that I have checked up general conditions pretty well and they are bullish. I never want to buy stocks too cheap or too easily.
+
+“I remember a story I heard about S. V. White when he was one of the big operators of the Street. He was a very fine old man, clever as they make them, and brave. He did some wonderful things in his day, from all I’ve heard. I think I’ve heard you say you knew him very well. I don’t have to tell you anything more about him.
+
+“It was in the old days when Sugar was one of the most continuous purveyors of fireworks in the market. H. O. Havemeyer, president of the company, was in the heyday of his power. I gather from talks with the old-timers that H. O. and his following had all the resources of cash and cleverness necessary to put through successfully any deal in their own stock. They tell me that Havemeyer trimmed more small professional traders in that stock than any other insider in any other stock. As a rule, the floor traders are more likely to gum up the insiders’ game than to help it.”
+
+Deacon White’s Tip
+
+“One day a man who knew Deacon White rushed into the office all excited and said, ‘Deacon, you told me if I ever got any good information to come to you at once with it and if you used it you’d carry me for a few hundred shares.’ He paused for breath and for confirmation.
+
+“The deacon looked at him in that meditative way he had and said: ‘I don’t know whether I ever told you exactly that or not, but I am willing to pay for information that I can use.’
+
+“‘Well, I’ve got it for you.’
+
+“‘Now, that’s nice,’ said the deacon, so mildly that the man with the info swelled up and said, ‘Yes, sir, deacon.’ Then he came closer so nobody else would hear and said, ‘H. O. Havemeyer is buying Sugar.’
+
+“‘Is he?’ asked the deacon quite calmly.
+
+“It peeved the informant, who said impressively: ‘Yes, sir. Buying all he can get, deacon.’
+
+“‘My friend, are you sure?’ asked old S. V.
+
+“‘Deacon, I know it for a positive fact. The old inside gang are buying all they can lay their hands on. It’s got something to do with the tariff and there’s going to be a killing in the common. It will cross the preferred. And that means a sure thirty points for a starter.’
+
+“‘D’you really think so?’ And the old man looked at him over the top of the old-fashioned silver-rimmed spectacles that he had put on to look at the tape.
+
+“‘Do I think so? No, I don’t think so; I know so. Absolutely! Why, deacon, when H. O. Havemeyer and his friends buy Sugar like they’re doing now they’re never satisfied with anything less than forty points net. I shouldn’t be surprised to see the market get away from them any minute and shoot up before they’ve got their full line. There ain’t as much of it kicking around the brokers’ office as there was a month ago.’
+
+“‘He’s buying Sugar, eh?’ repeated the deacon absently.
+
+“‘Buying it? Why, he’s scooping it in as fast as he can without putting up the price on himself.’
+
+“‘So?’ said the deacon. That was all.
+
+“But it was enough to nettle the tipster, and he said, ‘Yes, sir-ree! And I call that very good information. Why, it’s absolutely straight.’
+
+“‘Is it?’
+
+“‘Yes; and it ought to be worth a whole lot. Are you going to use it?’
+
+“‘Oh, yes. I’m going to use it.’
+
+“‘When?’ asked the information bringer suspiciously.
+
+“‘Right away.’ And the deacon called: ‘Frank!’ It was the first name of his shrewdest broker, who was then in the adjoining room.
+
+“‘Yes, sir,’ said Frank.
+
+“‘I wish you’d go over to the board and sell ten thousand Sugar.’
+
+“‘Sell?’ yelled the tipster. There was such suffering in his voice that Frank, who had started out at a run, halted in his tracks.
+
+“‘Why, yes,’ said the deacon mildly.
+
+“‘But I told you H. O. Havemeyer was buying it!’
+
+“‘I know you did, my friend,’ said the deacon calmly; and turning to the broker: ‘Make haste, Frank!’
+
+“The broker rushed out to execute the order and the tipster turned red.
+
+“‘I came in here,’ he said furiously,’ with the best information I ever had. I brought it to you because I thought you were my friend, and square. I expected you to act on it——’
+
+“‘I am acting on it,’ interrupted the deacon in a tranquilizing voice.
+
+“‘But I told you H. O. and his gang were buying!’
+
+“‘That’s right. I heard you.’
+
+“‘Buying! Buying! I said buying!’ shrieked the tipster.
+
+“‘Yes, buying! I understood you,’ the deacon assured him. He was standing by the ticker, looking at the tape.
+
+“‘But you are selling it.’
+
+“‘Yes; ten thousand shares.’ And the deacon nodded. ‘Selling it, of course.’”
+
+The Deacon in Action
+
+“He stopped talking to concentrate on the tape and the tipster approached to see what the deacon saw, for the old man was very foxy. While he was looking over the deacon’s shoulder a clerk came in with a slip, obviously the report from Frank. The deacon barely glanced at it. He had seen on the tape how his order had been executed.
+
+“It made him say to the clerk, ‘Tell him to sell another ten thousand Sugar.’
+
+“‘Deacon, I swear to you that they really are buying the stock!’
+
+“‘Did Mr. Havemeyer tell you?’ asked the deacon quietly.
+
+“‘Of course not! He never tells anybody anything. He would not bat an eyelid to help his best friend make a nickel. But I know this is true.’
+
+“‘Do not allow yourself to become excited, my friend.’ And the deacon held up a hand. He was looking at the tape. The tip-bringer said bitterly:
+
+“‘If I had known you were going to do the opposite of what I expected I’d never have wasted your time or mine. But I am not going to feel glad when you cover that stock at an awful loss. I’m sorry for you, deacon. Honest! If you’ll excuse me I’ll go elsewhere and act on my own information.’
+
+“‘I’m acting on it. I think I know a little about the market; not as much, perhaps, as you and your friend, H. O. Havemeyer, but still a little. What I am doing is what my experience tells me is the wise thing to do with the information you brought me. After a man has been in Wall Street as long as I have he is grateful for anybody who feels sorry for him. Remain calm, my friend.’
+
+“The man just stared at the deacon, for whose judgment and nerve he had great respect.
+
+“Pretty soon the clerk came in again and handed a report to the deacon, who looked at it and said: ‘Now tell him to buy thirty thousand Sugar. Thirty thousand!’
+
+“The clerk hurried away and the tipster just grunted and looked at the old gray fox.
+
+“‘My friend,’ the deacon explained kindly, ‘I did not doubt that you were telling me the truth as you saw it. But even if I had heard H. O. Havemeyer tell you himself, I still would have acted as I did, for there was only one way to find out if anybody was buying the stock in the way you said H. O. Havemeyer and his friends were buying it, and that was to do what I did. The first ten thousand shares went fairly easily. It was not quite conclusive. But the second ten thousand was absorbed by a market that did not stop rising. The way the twenty thousand shares were taken by somebody proved to me that somebody was in truth willing to take all the stock that was offered. It doesn’t particularly matter at this point who that particular somebody may be. So I have covered my shorts and am long ten thousand shares, and I think that your information was good as far as it went.’
+
+“‘And how far does it go?’ asked the tipster.
+
+“‘You have five hundred shares in this office at the average price of the ten thousand shares,’ said the deacon. ‘Good day, my friend. Be calm the next time.’
+
+“‘Say, deacon,’ said the tipster, ‘won’t you please sell mine when you sell yours? I don’t know as much as I thought I did.’”
+
+Livingston paused. I nodded my approval of the story. He went on.
+
+Timing Operations
+
+“That’s the theory. That is why I never buy stocks cheap. Of course I always try to buy effectively—in such a way as to help my side of the market. When it comes to selling stocks it is plain that nobody can sell unless somebody wants those stocks.
+
+“If you operate on a large scale you will have to bear that in mind all the time. A man studies conditions, plans his operations carefully and proceeds to act. He swings a pretty fair line and he accumulates a big profit—on paper. Well, that man can’t sell at will. You can’t expect the market to absorb fifty thousand shares of one stock as easily as it does one hundred. He will have to wait until he has a market there to take it. There comes the time when he thinks the requisite buying power is there. When that opportunity comes he must seize it. As a rule he will have been waiting for it. He has to sell when he can, not when he wants to. To learn the time, he has to watch and test. It is no trick to tell when the market can take what you give it. But in starting a movement it is unwise to take on your full line unless you are convinced that conditions are exactly right. Remember that stocks are never too high for you to begin buying or too low to begin selling. But after the initial transaction, don’t make a second unless the first shows you a profit. Wait and watch. That is where your tape reading comes in—to en-able you to decide as to the proper time for beginning. Much depends upon beginning at exactly the right time.
+
+“I don’t mean to be understood as advising persistent pyramiding. A man can pyramid and make big money that he couldn’t make if he didn’t pyramid of course. But what I meant to say was this: Suppose a man’s line is five hundred shares of stock. I say that he ought not to buy it all at once.
+
+“Suppose he buys his first hundred, and that promptly shows him a loss. Why should he go to work and get more stock? He ought to see at once that he is in wrong; at least temporarily.
+
+“That of course is really a method of betting your money. It is what I did in roulette at Gridley’s in Palm Beach, that I told you about. It is a matter of simple arithmetic to prove that it is a wise thing to have the big bet down when you win, and when you lose to lose only a small bet. And of course placing the bets the way I say, a man will always be in position to cash in on the big bet.”
+
+Livingston rose and said, “That’s enough. You must be bored stiff.”
+
+“Can’t you tell me what was the lesson that the Saratoga incident taught you which changed your method of trading?”
+
+“For one thing it taught me to stop piking. It paved the way for big money. I never should have made my first million if it hadn’t been for that.”
+
+“How old were you then?”
+
+“Twenty-six. Come on! Some other time.”
+
+<!-- rl-section id="section-15" class="epub-section" kicker="Section 15" title="Section 15" -->
+
+## Section 15
+
+V.
+
+My Day of Days
+
+The Panic of 1907 was one of the major financial disruptions of the new century. A liquidity crisis hit the stock market very hard, causing a bank crisis. As a result, short sellers and bulls suffered until J.P. Morgan decided to aid the market at the request of the New York Stock Exchange (NYSE) president R.H. Thomas. The market stabilized and Morgan was hailed as its savior, not for the first time.
+
+In this installment, Livingston reveals a role he played in the panic. Some of the chronology in the period preceding the panic is a bit curious, especially if Livingston and Livermore are assumed to be the same person. Livingston relates that in 1906, a year before the panic, he was nearly 27 years old, meaning that he was 26, born in 1880. Livermore was born in 1877, a discrepancy of three years. Throughout the series of articles, Livingston (and Livermore, by reputation) is described as a wizard for numbers, someone who never forgets a price or (by implication) a date. How the discrepancy of three years is explained is puzzling unless Lefèvre was not paying attention to the details of his narrative. Or perhaps he was using an old trader’s trick of confusing the numbers on purpose.
+
+During the panic, Livingston says that a friend approached him with a message from a very senior Wall Street banker, presumably J.P. Morgan himself. Since the market was in a precarious position, the request was simple—do not sell any more stocks. Many stocks needed support. Livingston had already reached the same conclusion himself, so he did not need much convincing. He supposedly ingratiated himself to the unnamed senior banker by complying with the request. The request was certainly in character because the resolution of the panic was engineered primarily by Morgan.
+
+Morgan often employed traders to assist him in his investment banking operations although there is little evidence that he actually spoke to them personally or even knew them. After United States Steel Corporation was formed in 1901, James Keene was employed to maintain an orderly market for the stock on the floor of the NYSE. Keene helped Morgan keep the stock price supported by high levels until it eventually broke some time later and made over $1 million for his efforts.
+
+Because direct connections between Morgan and the operators and speculators could not be conclusively proven, the stories that developed only added to their legend. When Livingston divulged the indirect approach by Morgan, the tale enhanced Livermore’s reputation as a force to be reckoned with in and around the NYSE. Whether it had anything to do with fact faded over the years. The reputation was made.
+
+C.G.
+
+<!-- rl-section id="section-16" class="epub-section" kicker="Section 16" title="Section 16" -->
+
+## Section 16
+
+> ![image](assets/00027-921fac46.jpg)
+
+Reminiscences of a Stock Operator
+
+August 12, 1922
+
+> ![image](assets/00028-35ffbddd.jpg)
+
+IT WAS more than mere curiosity that made me seek Lawrence Livingston. I wished to know how he had made his first million, not because it made a rich man of him but because it definitely established him as a brilliant trader. That he had at last hit upon a successful method of operating in stocks was the all-important thing. How had he hit upon it?
+
+When I saw him I asked him point-blank, “What change did you make in your methods of trading after the Union Pacific incident in Saratoga in the summer of 1906?”
+
+“Perhaps I gave you a wrong impression of what the incident did to me,” he said deprecatingly. “It merely made me more independent than ever of tips and talk—that is, of the opinions and surmises and suspicions of other people, however friendly or however able they might be personally. Events, not vanity, proved for me that I could read the tape more accurately than most of the people about me. I also was better equipped than the average customer of Harding Brothers in that I was utterly free from speculative prejudices. The bear side doesn’t appeal to me any more than the bull side, or vice versa. My one steadfast prejudice is against being wrong.
+
+“Even as a lad I always got my own meanings out of such facts as I observed. It is the only way in which the meaning reaches me. I cannot get out of facts what somebody tells me to get. They are my facts, don’t you see? If I believe something you can be sure it is because I simply must. When I am long of stocks it is because my reading of conditions has made me bullish. But you find many people, reputed to be intelligent, who are bullish because they have stocks. I do not allow my possessions—or my prepossessions either—to do any thinking for me. That is why I told you that I never argue with the tape. To be angry at the market because it unexpectedly or even illogically goes against you is like getting mad at your lungs because you have pneumonia.
+
+“I had been gradually approaching the full realization of how much more than tape reading there was to stock speculation. Old man Partridge’s insistence on the vital importance of being continuously bullish in a bull market doubtless made my mind dwell on the need above all other things of determining the kind of market a man is trading in. I began to see more definitely how the big money must necessarily be in the big swing. Whatever might seem to give a big swing its initial impulse, the fact is that its continuance is not the result of manipulation by pools or artifice by financiers, but depends upon basic conditions. And no matter who opposes it, the swing must run as far and as fast and as long as the impelling forces determine.”
+
+Preparation for Big Operations
+
+“AFTER Saratoga I began to see more clearly—perhaps I should say more maturely—that since the entire list moves in accordance with the main current there was not so much need as I had imagined to study individual plays or the behavior of this or the other stock. Also, by thinking of the swing one was not limited in his trading. He could buy or sell the entire list. In certain stocks a short line is dangerous after a man sells more than a certain percentage of the capital stock, the amount depending upon how, where and by whom the stock is held. But he could sell a million shares of the general list—if he had the price—without the danger of being squeezed. A great deal of money used to be made periodically by insiders in the old days out of the shorts and their carefully fostered fears of corners and squeezes.
+
+“Obviously the thing to do was to be bullish in a bull market and bearish in a bear market. Sounds silly, doesn’t it? But I had to grasp that general principle firmly before I saw that to put it into practice really meant to anticipate probabilities. It took me a long time to learn to trade on those lines. But in justice to myself I must remind you that up to then I had never had a big enough stake to speculate that way. A big swing will mean big money if your line is big, and to be able to swing a big line you need a big balance at your broker’s.
+
+“I always had—or felt that I had—to make my daily bread out of the stock market. It interfered with my efforts to increase the stake available for the more profitable but slower and therefore more immediately expensive method of trading on swings.
+
+“After Saratoga not only did my confidence in myself grow stronger but my brokers ceased to think of me as a sporadically lucky Kid Plunger. They had made a great deal out of me in commissions, but now I was in a fair way to become their star customer and as such to have a value beyond the actual volume of my trading. A customer who makes money is an asset to any commission house.
+
+“The moment I ceased to be satisfied with merely reading the tape I ceased to concern myself exclusively with the fluctuations in specific stocks, and when that happened I simply had to study the game from a different angle. I worked back from the quotation to first principles; from price fluctuations to basic conditions.
+
+“Of course I had been reading the daily dope for years. All traders do. But much of it was gossip, some of it deliberately false, and the rest merely the personal opinion of the writers. The reputable weekly reviews when they touched upon underlying conditions were not entirely satisfactory to me. The point of view of the financial editors was not mine as a rule. It was not a vital matter for them to marshal their facts and draw their conclusions from them, but it was for me. Also there was a vast difference in our appraisal of the element of time. The analysis of the week that had passed was less important than the forecast of the weeks that were to come.
+
+“For years I had been the victim of an unfortunate combination of inexperience, youth and insufficient capital. But now I felt the elation of a discoverer. My new attitude toward the game explained my repeated failures to make big money in New York. But now with adequate resources, experience and confidence, I was in such a hurry to try the new key that I did not notice that there was another lock on the door—a time lock! It was a perfectly natural oversight. I had to pay the usual tuition—a good whack per step.
+
+“I studied the situation in 1906 and I thought that the money outlook was particularly serious. Much actual wealth the world over had been destroyed. Everybody must sooner or later feel the pinch, and therefore nobody would be in position to help anybody. It would not be the kind of hard times that come from the swapping of a house worth ten thousand dollars for a carload of race horses worth eight thousand dollars. It was the complete destruction of the house by fire and of most of the horses by a railroad wreck. It was good hard cash that went up in cannon smoke in the Boer War, and the millions spent for feeding nonproducing soldiers in South Africa meant no help from British investors as in the past. Also, the earthquake and the fire in San Francisco and other disasters touched manufacturers, farmers, merchants, laborers and millionaires. The railroads must suffer greatly. I figured that nothing could stave off one peach of a smash. Such being the case there was but one thing to do—sell stocks!
+
+“I told you I had already observed that my initial transaction, after I made up my mind which way I was going to trade, was apt to show me a profit. And now when I decided to sell I plunged. Since we undoubtedly were entering upon a genuine bear market I was sure I should make the biggest killing of my career.
+
+“The market went off. Then it came back. It shaded off again and then it began to advance steadily. My paper profits vanished and my paper losses grew. One day it looked as if not a bear would be left to tell the tale of the strictly genuine bear market. I couldn’t stand the gaff. I covered. If I hadn’t I shouldn’t have had enough left to buy a postal card. I lost most of my fur, but it was better to live to fight another day.”
+
+Correct in Theory, Wrong in Practice
+
+“I HAD made a mistake. But where? I was bearish in a bear market. That was wise. I had sold stocks short too soon. That was proper, but also costly. My position was right, but my play was wrong. However, every day brought the market nearer to the inevitable smash. So I waited, and when the rally began to falter and pause I let them have as much stock as my sadly diminished margin permitted. I was right this time—for one whole day, for on the next there was another rally. Another big bite out of yours truly! So I read the tape and covered and waited. In due course I sold again—and again they went down promisingly and then they rudely rallied.
+
+“It looked as if the market were doing its best to make me go back to my old and simple ways of bucket-shop trading. It was the first time I had worked with a definite forward-looking plan embracing the entire market instead of one or two stocks. I figured that I must win if I held out. Of course at that time I had not developed my system of placing my bets or I would have put out my short line on a declining market, as I explained to you the last time. I should not then have lost so much of my margin. I should have been wrong, but not hurt. You see, I had observed certain facts, but had not learned to coordinate them. My incomplete observation not only did not help but actually hindered.
+
+“I have always found it profitable to study my mistakes. Thus I eventually discovered that it was all very well not to lose your bear position in a bear market, but that at all times the tape should be read to determine the propitiousness of the time for operating. If you begin right you will not see your profitable position seriously menaced; and then you will find no trouble in sitting tight.
+
+“Of course today I have greater confidence in the accuracy of my observations—in which neither hopes nor hobbies play any part—and also I have greater facilities for verifying my facts as well as for variously testing the correctness of my views. But in 1906 the succession of rallies dangerously impaired my margins.
+
+“I was nearly twenty-seven years old. I had been at the game twelve years. But the first time I traded because of a crisis that was still to come I found that I had been using a telescope. Between my first glimpse of the storm cloud and the time for cashing in on the big break the stretch was evidently so much greater than I had thought that I began to wonder whether I really saw what I thought I saw so clearly. We had had many warnings and sensational ascensions in call-money rates. Still some of the great financiers talked hopefully—at least to newspaper reporters—and the ensuing rallies in the stock market gave the lie to the calamity howlers. Was I fundamentally wrong in being bearish or merely temporarily wrong in having begun to sell short too soon?”
+
+> ![image](assets/00029-948a4724.jpg)
+
+Right, but Busted
+
+“I DECIDED that I began too soon, but that I really couldn’t help it. Then the market began to sell off. That was my opportunity. I sold all I could, and then stocks rallied again, to quite a high level.
+
+“It cleaned me out. There I was—right and busted!
+
+“I tell you it was remarkable. What happened was this: I looked ahead and saw a big pile of dollars. Out of it stuck a sign. It had ‘Help yourself’ on it, in huge letters. Beside it stood a cart with ‘Lawrence Livingston Trucking Corporation’ painted on its side. I had a brand-new shovel in my hand. There was not another soul in sight, so I had no competition in the gold-shoveling, which is one beauty of seeing the dollar heap ahead of others. The people who might have seen it if they had stopped to look were just then looking at baseball games instead, or motoring, or buying houses to be paid for with the very dollars that I saw. That was the first time that I had seen big money ahead, and I naturally started toward it on the run. Before I could reach the dollar pile my wind went back on me and I fell to the ground. The pile of dollars was still there, but I had lost the shovel, and the wagon was gone. So much for sprinting too soon! I was too eager to prove to myself that I had seen real dollars and not a mirage. I saw, and knew that I saw. Thinking about the reward for my excellent sight kept me from considering the distance to the dollar heap. I should have walked and not sprinted.
+
+> ![image](assets/00030-22aea302.jpg)
+
+“That is what happened. I didn’t wait to determine whether or not the time was right for plunging on the bear side. On the one occasion when I should have invoked the aid of my tape reading I didn’t do it. That is how I came to learn that even when one is properly bearish at the very beginning of a bear market it is well not to begin selling until there is no danger of the engine backfiring.
+
+“I had traded in a good many thousands of shares at Harding’s office in all those years, and, moreover, the firm had confidence in me and our relations were of the pleasantest. I think they felt that I was bound to be right again very shortly and they knew that with my habit of pushing my luck all I needed was a start and I’d more than recover what I had lost. They had made a great deal of money out of my trading and they would make more. So there was no trouble about my being able to trade there again as long as my credit stood high.
+
+“The succession of spankings I had received made me less aggressively cocksure; perhaps I should say less careless, for of course I knew I was just so much nearer to the smash. All I could do was wait watchfully, as I should have done before plunging. It wasn’t a case of locking the stable after the horse was stolen. I simply had to be sure, the next time I tried. If a man didn’t make mistakes he’d own the world in a month. But if he didn’t profit by his mistakes he wouldn’t own a blessed thing.
+
+“Well, sir, one fine morning I came downtown feeling cocksure once more. There wasn’t any doubt this time. I had read an advertisement in the financial pages of all the newspapers that was the high sign I hadn’t the sense to wait for before plunging. It was the announcement of a new issue of stock by the Northern Pacific and Great Northern roads. The payments were to be made on the installment plan for the convenience of the stockholders. This consideration was something new in Wall Street. It struck me as more than ominous.
+
+“For years the unfailing bull item on Great Northern preferred had been the announcement that another melon was to be cut, said melon consisting of the right of the lucky stockholders to subscribe at par to a new issue of Great Northern stock. These rights were valuable, since the market price was always way above par. But now the money market was such that the most powerful banking houses in the country were none too sure the stockholders would be able to pay cash for the bargain. And Great Northern preferred was selling at about 330!
+
+“As soon as I got to the office I told Ed Harding, ‘The time to sell is right now. This is when I should have begun. Just look at that ad, will you?’
+
+“He had seen it. I pointed out what the bankers’ confession amounted to in my opinion, but he couldn’t quite see the big break right on top of us. He thought it better to wait before putting out a very big short line by reason of the market’s habit of having big rallies. If I waited prices might be lower, but the operation would be safer.
+
+“‘Ed,’ I said to him, ‘the longer the delay in starting the sharper the break will be when it does start. That ad is a signed confession on the part of the bankers. What they fear is what I hope. This is a sign for us to get aboard the bear wagon. It is all we needed. If I had ten million dollars I’d stake every cent of it this minute.’
+
+“I had to do some more talking and arguing. He wasn’t content with the only inferences a sane man could draw from that amazing advertisement. It was enough for me, but not for most of the people in the office. I sold a little; too little.
+
+“A few days later St. Paul very kindly came out with an announcement of an issue of its own; either stock or notes, I forget which. But that doesn’t matter. What mattered then was that I noticed the moment I read it that the date of payment was set ahead of the Great Northern and Northern Pacific payments, which had been an-nounced earlier. It was as plain as though they had used a megaphone that grand old St. Paul was trying to beat the two other railroads to what little money there was floating around in Wall Street. The St. Paul’s bankers quite obviously feared that there wasn’t enough for all three and they were not saying ‘After you, my dear Alphonse!’ If money already was that scarce—and you bet the bankers knew—what would it be later? The railroads needed it desperately. It wasn’t there. What was the answer?
+
+“Sell ’em! Of course! The suckers, with their eyes fixed on the stock market, saw little—that week. The wise stock opera-tors saw much—that year. That was the difference.
+
+“For me, that was the end of doubt and hesitation. I made up my mind for keeps then and there. That same morning I began what really was my first campaign along the lines that I have since followed. I told Harding what I thought and how I stood, and he made no objections to my selling Great Northern preferred at around 330, and other stocks at high prices. I profited by my mistakes and sold more intelligently.
+
+“My reputation and my credit were reestablished in a jiffy. That is the beauty of being right in a broker’s office, whether by accident or not. But this time I was cold-bloodedly right, not because of a hunch or from skillful reading of the tape, but as the result of my analysis of conditions affecting the stock market in general. I wasn’t guessing. I was anticipating the inevitable. It did not call for any courage to sell stocks. I simply could not see anything but lower prices, and I had to act on it, didn’t I? What else could I do?”
+
+Critical Days
+
+“THE whole list was soft as mush. Presently there came a rally and people came to me to warn me that the end of the decline had been reached. The big interests, knowing the short interest to be enormous, had decided to squeeze the stuffing out of the bears, and so forth. It would set us pessimists back a few millions. It was a cinch that the big fellows would have no mercy. I used to thank these kindly counselors. I wouldn’t even argue, because then they would have thought that I wasn’t grateful for the warnings.
+
+“The friend who had been in Atlantic City with me was in agony. He could understand the hunch that was followed by the earthquake. He couldn’t disbelieve in such agencies, since I had made a quarter of a million by intelligently obeying my blind impulse to sell Union Pacific. He even said it was Providence working in its mysterious way to make me sell stocks when he himself was bullish. And he could understand my second U. P. trade in Saratoga because he could understand any deal that involved one stock on which the tip definitely fixed the movement in advance, either up or down. But this thing of predicting that all stocks were bound to go down used to exasperate him.
+
+“What good did that kind of dope do anybody? How in blazes could a gentleman tell what to do?
+
+“I recalled old Partridge’s favorite remark, ‘Well, this is a bull market, you know,’ as though that were tip enough for anybody who was wise enough; as in truth it was. It was very curious how, after suffering tremendous losses from a break of fifteen or twenty points, people who were still hanging on welcomed a three-point rally and were certain the bottom had been reached and complete recovery begun.
+
+“One day my friend came to me and asked me, ‘Have you covered?’
+
+> ![image](assets/00031-1b04faf5.jpg)
+
+“‘Why should I?’ I said.
+
+“‘For the best reason in the world.’
+
+“‘What reason is that?’
+
+“‘To make money. They’ve touched bottom and what goes down must come up. Isn’t that so?’
+
+“‘Yes,’ I answered. ‘First they sink to the bottom. Then they come up; but not right away. They’ve got to be good and dead a couple of days. It isn’t time for these corpses to rise to the surface. They are not quite dead yet.’
+
+“An old-timer heard me. He was one of those chaps that are always reminded of something. He said that William R. Travers, who was bearish, once met a friend who was bullish. They exchanged market views and the friend said, ‘Mr. Travers, how can you be bearish with the market so stiff?’ and Travers retorted, ‘Yes! Th-the s-s-stiffness of d-death!’ It was Travers who went to the office of a company and asked to be allowed to see the books. The clerk asked him, ‘Have you an interest in this company?’ and Travers answered, ‘I sh-should s-say I had! I’m sh-short t-t-twenty thousand sh-shares of the stock!’
+
+“Well, the rallies grew feebler and feebler. I was pushing my luck for all I was worth. Every time I sold a few thousand shares of Great Northern preferred the price broke several points. I felt out weak spots elsewhere and let ’em have a few. All yielded, with one impressive exception; and that was Reading.
+
+“When everything else hit the toboggan slide Reading stood like the Rock of Gibraltar. Everybody said the stock was cornered. It certainly acted like it. They used to tell me it was plain suicide to sell Reading short. There were people in the office who were now as bearish on everything as I was. But when anybody hinted at selling Reading they shrieked for help. I myself had sold some short and was standing pat on it. At the same time I naturally preferred to seek and hit the soft spots instead of attacking the strongly protected specialties. My tape reading found easier money in other stocks.”
+
+Planning an Assault on Reading
+
+“I heard a great deal about the Reading bull pool. It was a mighty strong pool. To begin with they had a lot of low-priced stock, so that their average was actually below the prevailing level, according to friends who told me. Moreover, the principal members of the pool had close connections of the friendliest character with the banks whose money they were using to carry their huge holdings of Reading. As long as the price stayed up the bankers’ friendship was staunch and steadfast. One pool member’s paper profit was upward of three millions. That allowed for some decline without causing fatalities. No wonder the stock stood up and defied the bears. Every now and then the room traders looked at the price, smacked their lips and proceeded to test it with a thousand or two. They could not dislodge a share, so they covered and went looking elsewhere for easier money. Whenever I looked at it I also sold a little more—just enough to convince myself that I was true to my new trading principles and wasn’t playing favorites.
+
+“In the old days the strength of Reading might have fooled me. The tape kept on saying, ‘Leave it alone!’ But my reason told me differently. I was anticipating a general break, and there were not going to be any exceptions, pool or no pool.
+
+“I have always played a lone hand. I began that way in the bucket shops and have kept it up. It is the way my mind works. I have to do my own seeing and my own thinking. But I can tell you after the market began to go my way I felt for the first time in my life that I had allies—the strongest and truest in the world: underlying conditions. They were helping me with all their might. Perhaps they were a trifle slow at times in bringing up the reserves, but they were dependable, provided I did not get too impatient. I was not pitting my tape-reading knack or my hunches against chance. I was following facts. The inexorable logic of events was making money for me.”
+
+Trusty Allies at Work
+
+“The thing was to be right; to know it and to act accordingly. General conditions, my true allies, said ‘Down!’ And Reading disregarded the command. It was an insult to us. It began to annoy me to see Reading holding firmly, as though everything were serene. It ought to be the best short sale in the entire list because it had not gone down and the pool was carrying a lot of stock that it would not be able to carry when the money stringency grew more pronounced. Some day the bankers’ friends would fare no better than the friendless suckers. The stock must go with the others. If Reading didn’t decline, then my theory was wrong; I was wrong; facts were wrong; logic was wrong.
+
+“I figured that the price held because the Street was afraid to sell it. So one day I gave to two brokers each an order to sell four thousand shares, at the same time.
+
+“You ought to have seen that cornered stock, that it was sure suicide to go short of, take a headlong dive when those com-petitive orders struck it. I let ’em have a few thousand more. The price was 111 when I started selling it. Within a few minutes I took in my entire short line at 92.
+
+“I had a wonderful time after that, and in February of 1907 I cleaned up. Great Northern preferred had gone down sixty or seventy points, and other stocks in proportion. I had made a good bit, but the reason I cleaned up was that I figured that the decline had discounted the immediate future. I looked for a fair recovery, but I wasn’t bullish enough to play for a turn. I wasn’t going to lose my position entirely. The market would not be right for me to trade in for a while. The first ten thousand dollars I made in the bucket shops I lost because I traded in and out of season, every day, whether or not conditions were right. I wasn’t making that mistake twice. Also, don’t forget that I had gone broke a little while before because I had seen this break too soon and started selling before it was time. Now when I had a big profit I wanted to cash in so that I could feel I had been right. The rallies had broken me before. I wasn’t going to let the next rally wipe me out. Instead of sitting tight I went to Florida. I love fishing and I needed a rest. I could get both down there. And besides, there are direct wires between Wall Street and Palm Beach.
+
+“I cruised off the coast of Florida. The fishing was good. I was out of stocks. My mind was easy. I was having a fine time. One day off Palm Beach some friends came alongside in a motor boat. One of them brought a newspaper with him. I hadn’t looked at one in some days and had not felt any desire to see one. I was not interested in any news it might print. But I glanced over the one my friend brought to the yacht, and I saw that the market had had a big rally: ten points and more.
+
+“I told my friends that I would go ashore with them. Moderate rallies from time to time were reasonable. But the bear market was not over; and here was Wall Street or the fool public or desperate bull interests disregarding monetary conditions and marking up prices beyond reason or letting somebody else do it. It was too much for me. I simply had to take a look at the market. I didn’t know what I might or might not do. But I knew that my pressing need was the sight of the quotation board.
+
+“My brokers, Harding Brothers, had a branch office in Palm Beach. When I walked in I found there a lot of chaps I knew. Most of them were talking bullish. They were of the type that trade on the tape and want quick action. Such traders don’t care to look ahead very far because they don’t need to with their style of play. I told you how I’d got to be known in the New York office as the Kid Plunger. Of course people always magnify a fellow’s winnings and the size of the line he swings. The fellows in the office had heard that I had made a killing in New York on the bear side and they expected that I would plunge on the short side. They themselves thought the rally would go a good deal further, but they sort of considered it my duty to fight it.
+
+“I had come down to Florida on a fishing trip. I had been under a pretty severe strain and I needed my holiday. But the moment I saw how far the recovery in prices had gone I no longer felt the need of a vacation. I had not thought of just what I was going to do when I came ashore. But now I knew I must sell stocks. I was right, and I must prove it in my old and only way—by saying it with money. To sell the general list would be a proper, prudent, profitable and even patriotic action.”
+
+A Hunch on Anaconda
+
+“The first thing I saw on the quotation board was that Anaconda was on the point of crossing 300. It had been going up by leaps and bounds and there was apparently an aggressive bull party in it. It was an old trading theory of mine that when a stock crosses 100 or 200 or 300 for the first time the price does not stop there but goes a good deal higher, so that if you buy it as soon as it crosses the line it is almost certain to show you a profit. Timid people don’t like to buy a stock at a new high record. But I had the history of such movements to guide me.
+
+“Anaconda was only quarter stock—that is, the par of the shares was only twenty-five dollars. It took four hundred shares of it to equal the usual one hundred shares of other stocks, the par value of which was one hundred dollars. I figured that when it crossed 300 it ought to keep on going and probably touch 340 in a jiffy.
+
+“I was bearish, remember, but I was also a tape-reading trader. I knew Anaconda, if it went the way I figured, would move very quickly. Whatever moves fast always appeals to me. I have learned patience and how to sit tight, but my personal liking is for fleet movements, and Anaconda certainly was no sluggard. My buying it because it crossed 300 was prompted by the desire, always strong in me, of confirming my observations.
+
+“Just then the tape was telling me that the buying was stronger than the selling, and therefore the general rally might easily go a bit further. It would be prudent to wait before going short. Still I might as well pay myself wages for waiting. This would be accomplished by taking a quick thirty points out of Anaconda. Bearish on the entire market and bullish on that one stock! So I bought thirty-two thousand shares of Anaconda—that is, eight thousand full shares. It was a nice little flyer but I was sure of my premises and I figured that the profit would help to swell the margin available for bear operations later on.
+
+“On the next day the telegraph wires were down on account of a storm up North or something of the sort. I was in Harding’s office waiting for news. The crowd was chewing the rag and wondering all sorts of things, as stock traders will when they can’t trade. Then we got a quotation—the only one that day: Anaconda, 292.
+
+“There was a chap with me, a broker I had met in New York. He knew I was long eight thousand full shares and I suspect that he had some of his own, for when we got that one quotation he certainly had a fit. He couldn’t tell whether the stock at that very moment had gone off another ten points or not. The way Anaconda had gone up it wouldn’t have been anything unusual for it to break twenty points. But I said to him, ‘Don’t you worry, John. It will be all right tomorrow.’ That was really the way I felt. But he looked at me and shook his head. He knew better. He was that kind. So I laughed, and I waited in the office in case some quotation trickled through. But no, sir. That one was all we got: Anaconda, 292. It meant a paper loss to me of nearly one hundred thousand dollars. I had wanted quick action. Well, I was getting it.
+
+“The next day the wires were working and we got the quotations as usual. Anaconda opened at 298 and went up to 302¾, but pretty soon it began to fade away. Also, the rest of the market was not acting just right for a further rally. I made up my mind that if Anaconda went back to 301 it was a fake movement. On a legitimate advance the price should have gone to 310 without stopping. If instead it reacted it meant that precedents had failed me and I was wrong; and the only thing to do when a man is wrong is to be right by ceasing to be wrong. I had bought eight thousand full shares in expectation of a thirty or forty point rise. It would not be my first mistake; nor my last.”
+
+Job’s Comforters
+
+“Sure enough, Anaconda fell back to 301. The moment it touched that figure I sneaked over to the telegraph operator—they had a direct wire to the New York office—and I said to him, ‘Sell all my Anaconda, thirty-two thousand shares.’ I said it in a low voice. I didn’t want anybody else to know what I was doing.
+
+“He looked up at me almost in horror. But I nodded and said, ‘All I’ve got!’
+
+“‘Surely, Mr. Livingston, you don’t mean at the market?’ and he looked as if he was going to lose a couple of millions of his own through bum execution by a careless broker. But I just told him, ‘Sell it! Don’t argue about it!’
+
+“The two Black boys, Jim and Ollie, were in the office, out of hearing of the operator and myself. They were big traders who had come originally from Chicago, where they had been famous plungers in wheat, and were now heavy traders on the New York Stock Exchange. They were very wealthy and were high rollers for fair.
+
+“As I left the telegraph operator to go back to my seat in front of the quotation board Oliver Black nodded to me and smiled.
+
+“‘You’ll be sorry, Larry’ he said.
+
+“I stopped and asked him, ‘What do you mean?’
+
+“‘Tomorrow you’ll be buying it back.’
+
+“‘Buying what back?’ I said. I hadn’t told a soul except the telegraph operator.
+
+“‘Anaconda,’ he said. ‘You’ll be paying 320 for it. That wasn’t a good move of yours, Larry.’ And he smiled again.
+
+“‘What wasn’t ?’ And I looked innocent.
+
+“‘Selling your eight thousand Anaconda at the market; in fact, insisting on it,’ said Ollie Black.
+
+“I knew that he was supposed to be very clever and always traded on inside news. But how he knew my business so accurately was beyond me. I was sure the office hadn’t given me away.
+
+“‘Ollie, how did you know that?’ I asked him.
+
+“He laughed and told me: ‘I got it from Charlie.’ That was the telegraph operator.
+
+“‘But he never budged from his place,’ I said.
+
+“‘I couldn’t hear you and him whispering,’ he chuckled. ‘But I heard every word of the message he sent to the New York office for you. I learned telegraphy years ago after I had a big row over a mistake in a message. Since then when I do what you did just now—give an order by word of mouth to an operator—I want to be sure the operator sends the message as I give it to him. I know what he sends in my name. But you will be sorry you sold that Anaconda. It’s going to 500.’
+
+“‘Not this trip, Ollie,’ I said.
+
+“He stared at me and said, ‘You’re pretty cocky about it.’
+
+“‘Not I; the tape,’ I said.
+
+“‘I’ve heard of those birds,’ he said, ‘who look at the tape and instead of seeing prices they see a railroad time-table of the arrival and departure of stocks. But they were in padded cells where they couldn’t hurt themselves.’
+
+“I didn’t answer him anything because about that time the boy brought me a memorandum. They had sold five thousand shares at 299¾. I knew our quotations were a little behind the market. The price on the board at Palm Beach when I gave the operator the order to sell was 301. I felt so certain that at that very moment the price at which the stock was actually selling on the Stock Exchange in New York was less, that if anybody had offered to take the stock off my hands at 296 I’d have been tickled to death to accept. What happened shows you that I am right in never trading at limits. Suppose I had limited my selling price to 300? I’d never have got it off. No, sir! When you want to get out, get out.”
+
+Getting Ready for the Storm
+
+“Now, my stock cost me about 300. They got off five hundred shares—full shares, of course—at 299¾. The next thousand they sold at 299⅝. Then a hundred at ½; two hundred at 3½8 and two hundred at ¼. The last of my stock went at 298¾. It took Harding’s cleverest floor man fifteen minutes to get rid of that last one hundred shares. They didn’t want to crack it wide open.
+
+> ![image](assets/00032-1e324582.jpg)
+
+“The moment I got the report of the sale of the last of my long stock I started to do what I had really come ashore to do—that is, to sell stocks. I simply had to. There was the market after its outrageous rally, begging to be sold. Why, people were beginning to talk bullish again. The tape, however, was saying that the rally had run its course. It was safe to sell them. It did not require reflection.
+
+“The next day Anaconda opened below 296. Oliver Black, who was waiting for a further rally, had come down early to be Johnny-on-the-Spot when the stock crossed 320. I don’t know how much of it he was long of or whether he was long of it at all. But he didn’t laugh when he saw the opening prices, nor later in the day when the stock broke still more and the report came back to us in Palm Beach that there was no market for it at all.
+
+“Of course that was all the confirmation any man needed. My growing paper profit kept reminding me that I was right, hour by hour. Naturally I sold some more stocks. Everything! It was a bear market. They were all going down. The next day was Friday, Washington’s Birthday. I couldn’t stay in Florida and fish because I had put out a very fair short line, for me. I was needed in New York. Who needed me? I did! Palm Beach was too far, too remote. Too much valuable time was lost telegraphing back and forth.
+
+“I left Palm Beach for New York. On Monday I had to lie in St. Augustine three hours, waiting for a train. There was a broker’s office there, and naturally I had to see how the market was acting while I was waiting. Anaconda had broken several points since the last trading day. As a matter of fact, it didn’t stop going down until the big break that fall.
+
+“I got to New York and traded on the bear side for about four months. The market had frequent rallies as before, and I kept covering and putting them out again. I didn’t, strictly speaking, sit tight. Remember, I had lost every cent of the three hundred thousand dollars I made out of the San Francisco earthquake break. I had been right, and nevertheless had gone broke. I was now playing safe—because after being down a man enjoys being up, even if he doesn’t quite make the top. The way to make money is to make it. The way to make big money is to be right at exactly the right time. In this business a man has to think of both theory and practice. A speculator must not be merely a student, he must be both a student and a speculator.
+
+“I did pretty well, even if I can now see where my campaign was tactically inadequate. When summer came the market got dull. It was a cinch that there would be nothing doing in a big way until well along in the fall. Everybody I knew had gone or was going to Europe. I thought that would be a good move for me. So I cleaned up. When I sailed for Europe I was a trifle more than three-quarters of a million to the good. To me that looked like some balance.
+
+“I was in Aix-les-Bains enjoying myself. I had earned my vacation. It was good to be in a place like that with plenty of money and friends and acquaintances and everybody intent upon having a good time. Not much trouble about having that, in Aix. Wall Street was so far away that I never thought about it, and that is more than you can say of any resort in the United States. I didn’t have to listen to talk about the stock market. I didn’t need to trade. I had enough to last me quite a long time, and besides, when I got back I knew what to do to make up much more than I could spend in Europe that summer.
+
+“One day I saw in the Paris Herald a dispatch from New York that Smelters had declared an extra dividend. They had run up the price of the stock and the entire market had come back quite strong. Of course that changed everything for me in Aix. The news simply meant that the bull cliques were still fighting desperately against conditions—against common sense and against common honesty, for they knew what was coming and were resorting to such schemes to put up the market in order to unload stocks before the storm struck them. It is possible they really did not believe the danger was as serious or as close at hand as I thought. The big men of the Street are as prone to be wishful thinkers as the politicians or the plain suckers. I myself can’t work that way. In a speculator such an attitude is fatal. Perhaps, a manufacturer of securities or a promoter of new enterprises can afford to indulge in hope jags.
+
+“At all events, I knew that all bull manipulation was foredoomed to failure in that bear market. The instant I read the dispatch I knew there was only one thing to do to be comfortable, and that was to sell Smelters short. Why, the insiders as much as begged me on their knees to do it, when they increased the dividend rate on the verge of a money panic. It was as infuriating as the old dares of your boyhood. They dared me to sell that particular stock short.”
+
+On the Right Track
+
+“I cabled some selling orders in Smelters and advised the bunch in New York to go short of it. When I got my report from the brokers I saw the price they got was six points below the quotations I had seen in the Paris Herald. It shows you what the situation was.
+
+“My plans had been to return to Paris at the end of the month and about three weeks later sail for New York, but as soon as I received the cabled reports from my brokers I went back to Paris. The same day I arrived I called at the steamship offices and found there was a fast boat leaving for New York the next day. I took it.
+
+“There I was, back in New York, almost a month ahead of my original plans, because it was the most comfortable place to be short of the market in. I had over half a million in cash available for margins. My return was due not to my being bearish but to my being logical.
+
+“I sold more stocks. As money got tighter call-money rates went higher and prices of stocks lower. I had foreseen it. At first my foresight broke me. But now I was right and prospering. But the real joy was in the consciousness that as a trader I was at last on the right track. I still had much to learn but I knew what to do. No more floundering, no more half-right methods. Tape reading was an important part of the game; so was beginning at the right time; so was sticking to your position. But my greatest discovery was that a man must study general conditions, to size them so as to be able to anticipate probabilities. In short, I had learned that I had to work for my money. I was no longer betting blindly or concerned with mastering the technic of the game, but with earning my successes by hard study and clear thinking. I also had found out that nobody was immune from the danger of making sucker plays. And for a sucker play a man gets sucker pay; for the paymaster is on the job and never loses the pay envelope that is coming to you.
+
+“Our office made a great deal of money. My own operations were so successful that they began to be talked about and, of course, were greatly exaggerated. I was credited with starting the breaks in various stocks. People I didn’t know by name used to come and congratulate me. They all thought the most wonderful thing was the money I had made. They did not say a word about the time when I first talked bearish to them and they thought I was a crazy bear with a vindictive grouch. That I had foreseen the money troubles was nothing. That my brokers’ bookkeeper had used a third of a drop of ink on the credit side of the ledger under my name was a marvelous achievement to them.
+
+“Friends used to tell me that in various offices the Kid Plunger in Harding Brothers’ office was quoted as making all sorts of d. f. threats against the bull cliques that had tried to mark up prices of various stocks long after it was plain that the market was bound to seek a much lower level. To this day they talk of my raids.
+
+“From the latter part of September on the money market was megaphoning warnings to the entire world. But a belief in miracles kept people from selling what remained of their speculative holdings. Why, a broker told me a story the first week of October that made me feel almost ashamed of my moderation.”
+
+Round the Money Post
+
+“You remember money loans used to be made on the floor of the Exchange around the Money Post. Those brokers who had received notice from their banks to pay call loans knew in a general way how much money they would have to borrow afresh. And of course the banks knew their position so far as loanable funds were concerned, and those which had money to loan would send it to the Exchange. This bank money was handled by a few brokers whose principal business was time loans. At about noon the renewal rate for the day was posted. Usually this represented a fair average of the loans made up to that time. Business was as a rule transacted openly by bids and offers, so that everyone knew what was going on. Between noon and about two o’clock there was ordinarily not much business done in money, but after delivery time—namely, 2:15 p.m.—brokers would know exactly what their cash position for the day would be, and they were either able to go to the Money Post and lend the balances that they had over or borrow what they required. This business also was done openly.
+
+“Well, sometime early in October the broker I was telling you about came to me and told me that brokers were getting so they didn’t go to the Money Post when they had money to loan. The reason was that members of a couple of well-known commission firms were on watch there, ready to snap up any offerings of money. Of course no lender who offered money publicly could refuse to lend to these firms. They were solvent and the collateral was good enough. But the trouble was that once these firms borrowed money on call there was no prospect of the lender getting that money back. They simply said they couldn’t pay it back and the lender would willy-nilly have to renew the loan. So any Stock Exchange house that had money to loan to its fellows used to send its men about the floor instead of to the Post, and they would whisper to good friends ‘Want a hundred?’ meaning ‘Do you want to borrow a hundred thousand dollars?’ The money brokers who acted for the banks presently adopted the same plan, and it was a dismal sight to watch the Money Post. Think of it!
+
+“Why, he also told me that it was a matter of Stock Exchange etiquette in those October days for the borrower to make his own rate of interest. You see, it fluctuated between 100 and 150 per cent per annum. I suppose by letting the borrower fix the rate the lender in some strange way didn’t feel so much like a usurer. But you bet he got as much as the rest. The borrower naturally did not dream of not paying a high rate. He played fair and paid whatever the others did. What he needed was the money and was glad to get it.
+
+“Things got worse and worse. Finally there came the awful day of reckoning for the bulls and the optimists and the wishful thinkers and those vast hordes that, dreading the pain of a small loss at the beginning, were now about to suffer total amputation—without anaesthetics. A day I shall never forget, October 24, 1907.
+
+“Reports from the money crowd early indicated that borrowers would have to pay whatever the lenders saw fit to ask. There wouldn’t be enough to go around. That day the money crowd was much larger than usual. When delivery time came that afternoon there must have been a hundred brokers around the Money Post, each hoping to borrow the money that his firm urgently needed. Without money they must sell what stocks they were carrying on margin—sell at any price they could get in a market where buyers were as scarce as money—and just then there was not a dollar in sight.
+
+“My friend’s partner was as bearish as I was. The firm therefore did not have to borrow, but my friend, the broker I told you about, fresh from seeing the haggard faces around the Money Post, came to me. He knew I was heavily short of the entire market.
+
+“He said, ‘My God, Larry! I don’t know what’s going to happen. I never saw anything like it. It can’t go on. Something has got to give. It looks to me as if everybody is busted right now. You can’t sell stocks, and there is absolutely no money in there.’
+
+“‘How do you mean?’ I asked.
+
+“But what he answered was, ‘Did you ever hear of the classroom experiment of the mouse in a glass bell when they begin to pump the air out of the bell? You can see the poor mouse breathe faster and faster, its sides heaving like overworked bellows, trying to get enough oxygen out of the decreasing supply in the bell? You watch it suffocate till its eyes almost pop out of their sockets, gasping, dying? Well, that is what I think of when I see the crowd at the Money Post! No money anywhere, and you can’t liquidate stocks because there is nobody to buy them. The whole Street is busted at this very moment, if you ask me!’
+
+“It made me think. I had seen a smash coming, but not, I admit, the worst panic in our history. It might not be profitable to anybody—if it went much further.
+
+“Finally it became plain that there was no use in waiting at the Post for money. There wasn’t going to be any. Then hell broke loose.
+
+“The president of the Stock Exchange, Mr. R. H. Thomas, so I heard later in the day, knowing that every house in the Street was headed for disaster, went out in search of succor. He called on the late James Stillman, president of the National City Bank, the richest bank in the United States. Its boast was that it never loaned money at a higher rate than 6 percent.”
+
+King for a Day!
+
+“Stillman heard what the president of the New York Stock Exchange had to say. Then he said, ‘Mr. Thomas, we’ll have to go and see Mr. Morgan about this.’
+
+“The two men, hoping to stave off the most disastrous panic in our financial history, went together to the office of J. P. Morgan & Co. and saw Mr. Morgan. Mr. Thomas laid the case before him. The moment he got through speaking Mr. Morgan said, ‘Go back to the Exchange and tell them that there will be money for them.’
+
+“‘Where?’
+
+“‘At the banks!’
+
+“So strong was the faith of all men in Mr. Morgan in those critical times that Thomas didn’t wait for further details but rushed back to the floor of the Exchange to announce the reprieve to his death-sentenced fellow members.
+
+“Then, before half past two in the afternoon, J. P. Morgan sent John T. Atterbury, of Van Enburgh & Atterbury, who was known to have close relations with J. P. Morgan & Co., into the money crowd. My friend said that the old broker walked quickly to the Money Post. He raised his hand like an exhorter at a revival meeting. The crowd, that at first had been calmed down somewhat by President Thomas’ announcement, was beginning to fear that the relief plans had miscarried and the worst was still to come. But when they looked at Mr. Atterbury’s face and saw him raise his hand they promptly petrified themselves.
+
+“In the dead silence that followed, Mr. Atterbury said, ‘I am authorized to lend ten million dollars. Take it easy! There will be enough for everybody!’
+
+“Then he began. Instead of giving to each borrower the name of the lender he simply jotted down the name of the borrower and the amount of the loan and told the borrower, ‘You will be told where your money is.’ He meant the name of the bank from which the borrower would get the money later.
+
+“I heard a day or two later that Mr. Morgan simply sent word to the frightened bankers of New York that they must provide the money the Stock Exchange needed.
+
+“‘But we haven’t got any. We’re loaned up to the hilt,’ the banks protested.
+
+“‘You’ve got your reserves,’ snapped J. P.
+
+“‘But we’re already below the legal limit,’ they howled.
+
+“‘Use them! That’s what reserves are for!’ And the banks obeyed and invaded the reserves to the extent of about twenty million dollars. It saved the stock market. The bank panic didn’t come until the following week. He was a man, J. P. Morgan was. They don’t come much bigger.
+
+“That was the day I remember most vividly of all the days of my life as a stock operator. It was the day when my winnings exceeded one million dollars. It marked the successful ending of my first deliberately planned trading campaign. What I had foreseen had come to pass. But more than all these things was this: A wild dream of mine had been realized. I had been king for a day!”
+
+The Market Topples
+
+“I’ll explain. Of course! After I had been in New York a couple of years I used to cudgel my brains trying to determine the exact reason why I couldn’t beat in a Stock Exchange house in New York the game that I had beaten as a kid of fifteen in a bucket shop in Boston. I knew that some day I would find out what was wrong and I would stop being wrong. I would then have not alone the will to be right but the knowledge to insure my being right. And that would mean power.
+
+“Please do not misunderstand me. It was not a deliberate dream of grandeur or a futile desire born of overweening vanity. It was rather a sort of feeling that the same old stock market that so baffled me in Fullerton’s office and in Harding’s would one day eat out of my hand. I just felt that such a day would come. And it did—October 24, 1907.
+
+“I’ll tell you what makes me say it: That morning a broker who had done a lot of business for my brokers and knew that I had been plunging on the bear side rode down in the company of one of the partners of the foremost banking house in the Street. My friend told the banker how heavily I had been trading, for I certainly pushed my luck to the limit. What is the use of being right unless you get all the good possible out of it?
+
+“Perhaps the broker exaggerated to make his story sound important. Perhaps I had more of a following than I knew. Perhaps the banker knew far better than I how critical the situation was. At all events, my friend said to me: ‘He listened with great interest to what I told him you said the market was going to do when the real selling began, after another push or two. When I got through he said he might have something for me to do later in the day.’”
+
+A Sudden Switch
+
+“When the commission houses found out there was not a cent to be had at any price I knew the time had come. I sent brokers into the various crowds. Why, at one time there wasn’t a single bid for Union Pacific. Not at any price! Think of it! And in other stocks the same thing. No money to hold stocks and nobody to buy them.
+
+“I had enormous paper profits and the certainty that all that I had to do to smash prices still more was to send in orders to sell ten thousand shares each of Union Pacific and of a half dozen other good dividend-paying stocks and what would follow would be simply hell. It seemed to me that the panic that would be precipitated would be of such an intensity and character that the board of governors would deem it advisable to close the Exchange, as was done in August, 1914, when the World War broke out.
+
+“It would mean greatly increased profits on paper. It might also mean an inability to convert those profits into actual cash. But there were other things to consider, and one was that a further break would retard the recovery that I was beginning to figure on, the compensating improvement after all that bloodletting. Such a panic would do much harm to the country generally.
+
+“I made up my mind that since it was unwise and unpleasant to continue actively bearish it was illogical for me to stay short. So I turned and began to buy.
+
+“It wasn’t long after my brokers began to buy in for me—and, by the way, I got bottom prices—that the banker sent for my friend.”
+
+The Street Begs for Mercy
+
+“‘Ihave sent for you,’ he said, ‘because I want you to go instantly to your friend Livingston and say to him that we hope he will not sell any more stocks today. The market can’t stand much more pressure. As it is, it will be an immensely difficult task to avert a devastating panic. Appeal to your friend’s patriotism. This is a case where a man has to work for the benefit of all. Let me know at once what he says.’
+
+“My friend came right over and told me. He was very tactful. I suppose he thought that having planned to smash the market I would consider his request as equivalent to throwing away the chance to make about ten million dollars. He knew I was sore on some of the big guns for the way they had acted trying to land the public with a lot of stock when they knew as well as I did what was coming.
+
+“As a matter of fact, the big men were big sufferers and lots of the stocks I bought at the very bottom were in famous financial names. I didn’t know it at the time, but it did not matter. I had practically covered all my shorts and it seemed to me there was a chance to buy stocks cheap and help the needed recovery in prices at the same time—if nobody hammered the market.
+
+“So I told my friend, ‘Go back and tell Mr. Blank that I agree with him and that I fully realized the gravity of the situation, even before he sent for you. I not only will not sell any more stocks today but I am going in and buy as much as I can carry.’ And I kept my word. I bought one hundred thousand shares that day, for the long account. I did not sell another stock short for nine months.”
+
+A Million to Lose
+
+“That is why I said to you that my dream had come true and that I had been king for a moment. The stock market at one time that day certainly was at the mercy of anybody who wanted to hammer it. I do not suffer from delusions of grandeur; in fact you know how I feel about being accused of raiding the market and about the way my operations are often exaggerated by the gossip of the Street.
+
+“I came out of it in fine shape. The newspapers said that Larry Livingston, the Kid Plunger, had made several millions. But I was worth over one million after the close of business that day. But my biggest winnings were not in dollars but in the intangibles: I had been right, I had looked ahead and followed a clear-cut plan. I had learned what a man must do in order to make big money, I was permanently out of the gambler class, I had at last learned to trade intelligently in a big way. It was a day of days for me.”
+
+Livingston ceased to speak and took a long pull at his cigar. He exhaled the smoke slowly, his eyes fixed on a spot near the ceiling.
+
+“So that is how you learned to play the game of stock speculation as it should be played?” I said.
+
+“Yes,” answered Livingston simply.
+
+“Having told me how you made your first million,” I said, “I should now like to hear how you lost it.”
+
+“Some other time!” and Livingston rose. He walked to the window and stared out a long time.
+
+“I’ll wait until tomorrow,” I told him in a kindly voice.
+
+“Huh? Sure, I lost it! And I’d lose it again if I did what I did that time. It’s an expensive luxury—for a man to make an ass of himself!”
+
+<!-- rl-section id="section-17" class="epub-section" kicker="Section 17" title="Section 17" -->
+
+## Section 17
+
+VI.
+
+No Man Living Can Beat the Stock Market
+
+Livingston reveals to Lefèvre that trading in stocks is more complicated than trading in commodity futures. In his view, commodity prices are only governed by the laws of supply and demand and this made trading in agricultural commodities more simple than trading stocks. Tape reading was the same in the futures markets as in the stock market, but the multiplicity of other factors that could affect stocks was mostly absent.
+
+In Livingston’s experience, commodity traders were very predictable while the stock market allowed no such luxuries. When the trading in one grain would quiet down, traders would simply run off to another trading pit on a commodities exchange and start trading another commodity that was experiencing more action. Jumping from one to the other was common in these markets; the clever operator recognized the trend and would be quick to use it to his own advantage.
+
+Individual traders in certain commodities who were particularly successful in corners sometimes were dubbed “the cotton king” or the “wheat king.” Livermore’s main rival in the late 1910s and early 1920s, Arthur Cutten, had already been dubbed the king of more than one commodity by the time he began using his pit profits from the CBOT to trade NYSE stocks. There was little chance that Cutten could have been the trader Lefèvre was interviewing in the articles, however. Born in Ontario in 1870, Cutten bought a seat on the CBOT in 1897 and began actively trading. He was so secretive, however, that he divulged almost nothing about himself to the newspapers. His entry in Who’s Who amounted to only two lines. If anyone was talking about being a stock operator, it certainly was not Cutten.
+
+Livingston states that he was dubbed the “cotton king” after a particularly large operation and that some of the newspapers gave him the honorary title. He makes a curious remark to Lefèvre, stating that “It is not necessary to tell you that there is not enough money in the United States to buy the columns of the New York World or enough personal pull to secure the publication of a story like that. It gave me an utterly unearned reputation that time.” That may have been true in 1922, but only a few years earlier the comment could have been itself considered a fabrication because planted news stories and articles paid for by stock operators were not unheard of in financial circles. Some newspapers were actually devoted to writing favorable articles about Wall Street and many individual companies. Frank Munsey—the owner of Munsey’s magazine, published around the turn of the twentieth century—was perhaps the most notorious. It was widely believed that he was in the indirect employ of J.P. Morgan & Company, dedicated to buying news-papers that were unfriendly to the bank and closing them down. His magazine also carried articles favorable to the Street and also had strong patriotic overtones as well. What was good for Wall Street was good for America.
+
+As Livingston finishes his installment, he opens the door for an even more intriguing prospect in the next installment—how he lost a million. For traders of that era, it was almost a badge of honor to lose it all in order to make it back again at a later date.
+
+C.G.
+
+<!-- rl-section id="section-18" class="epub-section" kicker="Section 18" title="Section 18" -->
+
+## Section 18
+
+> ![image](assets/00033-f78873b1.jpg)
+
+Reminiscences of a Stock Operator
+
+September 2, 1922
+
+THE stock market was so dull and spiritless that it reminded you of a tired old man nodding in his armchair. Stocks barely moved. The tape recorded fractional gasps rather than fluctuations. It was difficult to believe that this same lethargic creature had ever displayed demoniac activity—a positive genius for doing what was expensive to the optimists. But now whenever one stock moved up an eighth there was a pause until another stock languidly sank an eighth. Then it deprecatingly slid another eighth; but as though that were too decided a tendency to be discreet it recovered the lost quarter and resolutely rested for the day.
+
+It was the kind of market that drives nervous customers of commission houses to the verge of madness by its indecision. No gentleman can tell what to do; and to sit in front of a quotation board and not know what to do is one of the hells of a speculator. It doesn’t pay to buy or to sell or to hold on or to stay short. Anything might happen; and when that is true, nothing happens. And when nothing happens broker and customer for once meet on the plane of a common misfortune: No business, and expenses going on for the one; and no hope of something-for-nothing for the other. Dead loss all round.
+
+> ![image](assets/00034-1f2528f6.jpg)
+
+That was the one day when I did not hesitate to call on Lawrence Livingston during business hours. I never asked him questions about his market plans or intentions or even opinions, for all that our relations had become so friendly. I was not particularly interested in his calculations about the future; but I was keen to hear the story of his growth as an operator. That is why I sought him.
+
+He was studying the quotation board as intently as though the market were active and going his way. It seemed to me that he was watching the effect of some test that he had applied to the market, on the lookout for some symptomatic reaction that would convey to him the exact degree of ripeness—or unripeness—of the moment.
+
+Learning by Mistakes
+
+I WATCHED him watching the stock market’s puny spasms. Even in its dullness his eyes saw—their expression proved it—something that I for one certainly did not. Possibly I did not look far enough ahead. Perhaps I did not keep before me the recollections of similar periods of dullness that developed into bull or bear markets. For you will find differences in the quality of the dullness if you take the trouble to look for them.
+
+As usual, the moment the tape stopped trickling into the basket Livingston’s interest in the market ceased. I was eager to hear the next chapter of the reminiscences.
+
+I began it by asking him, “Speaking about mistakes in the stock market, is it your experience that a man can learn only by his own, or can he profit by the mistakes of others?” I was thinking of the readers of these articles.
+
+“I suppose that differs with the individual,” answered Livingston. “The recognition of our mistakes should not help us a bit more than the study of our successes. But there is a natural tendency in all men to avoid punishment. When you associate certain mistakes with a licking, you do not hanker for a second dose, and, of course, all stock-market mistakes wound you in two tender spots—your pocketbook and your vanity. But I will tell you something curious: A stock speculator sometimes makes mistakes and knows that he is making them. And after he makes them he will ask himself why he made them; and after thinking over it cold-bloodedly a long time after the pain of punishment is over he may learn how he came to make them, and when, and at what particular point of his trade; but not why. And then he simply calls himself names and lets it go at that.”
+
+“You mean that you have made mistakes for no particular reason, with your eyes wide open?”
+
+“Precisely,” said Livingston. “A man, if he is both wise and lucky, will not make the same mistake twice. But he will make any one of the ten thousand brothers or cousins of the original mistake. The family is so large that there is always one of them around when you want to see what you can do in the fool-play line.”
+
+“And what about the mistake that cost you a million?” I asked him.
+
+“You mean what about the first of the mistakes that cost me a million dollars,” he corrected gravely. “Do you know, it seems to me that you are rather keen about my mistakes?”
+
+“We learn chiefly by our own mistakes,” I said, “but when we do not make them we must fall back for our education on the mistakes of others.”
+
+“And you never make mistakes?” asked Livingston.
+
+“Livingston,” I said, and I am sure my voice rang with sincerity, “I give you my word that I never made a million-dollar mistake in my life. But you told me you had.”
+
+“Yes,” he admitted, “and as I look back——”
+
+“Hold on,” I interrupted. “Start where you left off right after the big break of October, 1907. You had just made your first million. How did it feel to be a millionaire?”
+
+“As far as trading went, having a million merely meant more reserves. Money does not give a trader more comfort, because, rich or poor, he can make mistakes and it is never comfortable to be wrong. And when a millionaire is right his money is merely one of his several servants. Losing money is the least of my troubles. A loss never bothers me after I take it. I forget it overnight. But being wrong—not taking the loss—that is what does the damage to the pocketbook and to the soul. You remember Dickson G. Watts’ story about the man who was so nervous that a friend asked him what was the matter.
+
+“‘I can’t sleep,’ answered the nervous one.
+
+“‘Why not?’ asked the friend.
+
+“‘I am carrying so much cotton that I can’t sleep thinking about it. It is wearing me out. What can I do?’
+
+“‘Sell down to the sleeping point,’ answered the friend.”
+
+“When I asked how it felt to be a millionaire I did not mean as a speculator but as a human being,” I explained to Livingston.
+
+Trading in Commodities
+
+HE NODDED and said: “A man as a rule adapts himself to conditions so quickly that he loses the perspective. He does not feel the difference much—that is, he does not vividly remember how it felt not to be a millionaire. He only remembers that there were things he could not do that he can do now. It does not take a reasonably young and normal man very long to lose the habit of being poor. It requires a little longer to forget that he used to be rich. I suppose that is because money creates needs or encourages their multiplication. I mean that after a man makes money in the stock market he very quickly loses the habit of not spending. But after he loses his money it takes him a long time to lose the habit of spending.
+
+“After I took in my shorts and went long in October, 1907, I decided to take it easy for a while. I bought a yacht and planned to go off on a cruise in Southern waters. I am crazy about fishing and I was due to have the time of my life. I looked forward to it and expected to go any day. But I did not. The market wouldn’t let me.”
+
+“But I thought you bought stocks at the low prices of the year. They couldn’t have shown you a loss,” I said.
+
+“No, they didn’t. But my corn did,” explained Livingston.
+
+“I didn’t know you ever traded in grain,” I said.
+
+“Oh, yes. I always traded in commodities as well as in stocks. I began as a youngster in the bucket shops. I studied those markets for years, though perhaps not so assiduously as the stock market. As a matter of fact, I would rather play commodities than stocks. There is no question about their greater legitimacy, as it were. It partakes more of the nature of a commercial venture than trading in stocks does. A man can approach it as he might any mercantile problem. It may be possible to use fictitious arguments for or against a certain trend in a commodity market; but success will be only temporary, for in the end the facts are bound to prevail, so that a trader gets dividends on study and observation, as he does in a regular business. He can watch and weigh conditions and he knows as much about it as anyone else. He need not guard against inside cliques. Dividends are not unexpectedly passed or increased overnight in the cotton market or in wheat or corn. In the long run commodity prices are governed by but one law—the economic law of demand and supply. The business of the trader in commodities is simply to get facts about the demand and the supply, present and prospective. He does not indulge in guesses about a dozen things as he does in stocks. It always appealed to me—trading in commodities.”
+
+> ![image](assets/00035-270f6050.jpg)
+
+“What essential differences are there in the tape reading?” I asked.
+
+“Do you mean between cotton or grain, and stocks? None. The same things happen in all speculative markets. The message of the tape is the same. That will be perfectly plain to anyone who will take the trouble to think. He will find if he asks himself questions and considers conditions, that the answers will supply themselves directly. But, of course, people never take the trouble to ask questions, leave alone seeking answers. The average American is from Missouri everywhere and at all times except when he goes to the brokers’ offices and looks at the tape, whether it is stocks or commodities. The one game of all games that really requires study before making a play is the one he goes into without his usual highly intelligent preliminary and precautionary doubts. He will risk half his fortune in the stock market with less reflection than he devotes to the selection of a medium-priced automobile.
+
+“This matter of tape reading is not so complicated as it appears. Of course you need experience. But it is even more important to keep certain fundamentals in mind. To read the tape is not to have your fortune told. The tape does not tell you how much you will surely be worth next Thursday at 1:35 p.m. The object of reading the tape is to ascertain, first, how and, next, when to trade—that is, whether it is wiser to buy than to sell. It works exactly the same for stocks as for cotton or wheat or corn or oats.”
+
+The Line of Least Resistance
+
+“YOU watch the market—that is, the course of prices as recorded by the tape—with one object: To determine the direction—that is, the price tendency. Prices, we know, will move either up or down according to the resistance they encounter. For purposes of easy explanation we will say that prices, like everything else, move along the line of least resistance. They will do whatever comes easiest, therefore they will go up if there is less resistance to an advance than to a decline; and vice versa.
+
+“Nobody should be puzzled as to whether a market is a bull or a bear market after it fairly starts. The trend is evident to a man who has an open mind and reasonably clear sight, for it is never wise for a speculator to fit his facts to his theories. Such a man will, or ought to, know whether it is a bull or a bear market, and if he knows that, he knows whether to buy or to sell. It is therefore at the very inception of the movement that a man needs to know whether to buy or to sell.
+
+“Let us say, for example, that the market, as it usually does in those between-swings times, fluctuates within a range of ten points; up to 130 and down to 120. It may look very weak at the bottom; or, on the way up, after a rise of eight or ten points, it may look as strong as anything. A man ought not to be led into trading by tokens. He should wait until the tape tells him that the time is ripe. As a matter of fact, millions upon millions of dollars have been lost by men who bought stocks because they looked cheap or sold them because they looked dear. The speculator is not an investor. His object is not to secure a steady return on his money at a good rate of interest, but to profit by either a rise or a fall in the price of whatever he may be speculating in. Therefore the thing to determine is the speculative line of least resistance at the moment of trading; and what he should wait for is the moment when that line defines itself, because that is his signal to get busy.
+
+“Reading the tape merely enables him to see that at 130 the selling had been stronger than the buying and a reaction in the price logically followed. Up to the point where the selling prevailed over the buying superficial students of the tape may conclude that the price is not going to stop short of 150, and they buy. But after the reaction begins they hold on, or sell out at a small loss, or they go short and talk bearish. But at 120 there is stronger resistance to the decline. The buying prevails over the selling, there is a rally and the shorts cover. The public is so often whipsawed that one marvels at their persistence in not learning their lesson.
+
+“Eventually something happens that increases the power of either the upward or the downward force and the point of greatest resistance moves up or down—that is, the buying at 130 will for the first time be stronger than the selling, or the selling at 120 be stronger than the buying. The price will break through the old barrier or movement limit and go on. As a rule, there is always a crowd of traders who are short at 120 because it looked so weak, or long at 130 because it looked so strong, and when the market goes against them they are forced, after a while, either to change their minds and turn or to close out. In either event they help to define even more clearly the price line of least resistance. Thus the intelligent trader who has patiently waited to determine this line will enlist the aid of fundamental trade conditions and also of the force of the trading of that part of the community that happened to guess wrong and must now rectify mistakes. Such corrections tend to push prices along the line of least resistance.
+
+“And right here I will say that, though I do not give it as a mathematical certainty or as an axiom of speculation, my experience has been that accidents—that is, the unexpected or unforeseen—have always helped me in my market position whenever the latter has been based upon my determination of the line of least resistance. Do you remember that Union Pacific episode at Saratoga that I told you about? Well, I was long because I found out that the line of least resistance was upward. I should have stayed long instead of letting my broker tell me that insiders were selling stocks. It didn’t make any difference what was going on in the directors’ minds. That was something I couldn’t possibly know. But I could and did know that the tape said ‘Going up!’ And then came the unexpected raising of the dividend rate and the thirty-point rise in the stock. At 164 prices looked mighty high, but as I told you before, stocks are never too high to buy or too low to sell. The price, per se, has nothing to do with establishing my line of least resistance.
+
+“You will find in actual practice that if you trade as I have indicated, any important piece of news given out between the closing of one market and the opening of another is usually in harmony with the line of least resistance. The trend has been established before the news is published, and in bull markets bear items are ignored and bull news exaggerated, and vice versa. Before the war broke out the market was in a very weak condition. There came the proclamation of Germany’s submarine policy. I was short one hundred and fifty thousand shares of stock, not because I knew the news was coming, but because I was going along the line of least resistance. What happened came out of a clear sky, as far as my play was concerned. Of course I took advantage of the situation and I covered my shorts that day.”
+
+Giving the Market a Push
+
+“IT SOUNDS very easy to say that all you have to do is to watch the tape, establish your resistance points and be ready to trade along the line of least resistance as soon as you have determined it. But in actual practice a man has to guard against many things, and most of all against himself—that is, against human nature. That is the reason why I say that the man who is right always has two forces working in his favor—basic conditions and the men who are wrong. In a bull market bear factors are ignored. That is human nature, and yet human beings profess astonishment at it. People will tell you that the wheat crop has gone to pot because there has been bad weather in one or two sections and some farmers have been ruined. When the entire crop is gathered and all the farmers in all the wheat-growing sections begin to take their wheat to the elevators the bulls are surprised at the smallness of the damage. They discover that they merely have helped the bears.
+
+“When a man makes his play in a commodity market he must not permit himself set opinions. He must have an open mind and flexibility. It is not wise to disregard the message of the tape, no matter what your opinion of crop conditions or of the probable demand may be. I recall how I missed a big play just by trying to anticipate the starting signal. I felt so sure of conditions that I thought it was not necessary to wait for the line of least resistance to define itself. I even thought I might help it arrive, because it looked as if it merely needed a little assistance.
+
+“I was very bullish on cotton. It was hanging around twelve cents, running up and down within a moderate range. It was in one of those in-between places and I could see it. I knew I really ought to wait. But I got to thinking that if I gave it a little push it would go beyond the upper resistance point.
+
+> ![image](assets/00036-4b268d25.jpg)
+
+“I bought fifty thousand bales. Sure enough, it moved up. And sure enough, as soon as I stopped buying it stopped going up. Then it began to settle back to where it was when I began buying it. I got out and it stopped going down. I thought I was now much nearer the starting signal, and presently I thought I’d start it myself again. I did. The same thing happened. I bid it up, only to see it go down when I stopped. I did this four or five times until I finally quit in disgust. It cost me about two hundred thousand dollars. It wasn’t very long after that when it began to go up and never stopped till it got to a price that would have meant a killing for me—if I hadn’t been in such a great hurry to start.
+
+“This experience has been the experience of so many traders so many times that I can give this rule: In a narrow market, when prices are not getting anywhere to speak of, but move within a narrow range, there is no sense in trying to anticipate what the next big movement is going to be—up or down. The thing to do is to watch the market, read the tape to determine the limits of the get-nowhere prices, and make up your mind that you will not take an interest until the price breaks through the limit in either direction. A speculator must concern himself with making money out of the market and not with insisting that the tape must agree with him. Never argue with it or ask it for reasons or explanations. Stock-market post-mortems don’t pay dividends.
+
+“Not so long ago I was with a party of friends. They got to talking wheat. Some of them were bullish and others bearish. Finally they asked me what I thought. Well, I had been studying the market for some time. I knew they did not want any statistics or analyses of conditions. So I said: ‘If you want to make some money out of wheat I can tell you how to do it.’
+
+“They all said they did and I told them: ‘If you are sure you wish to make money in wheat just you watch it. Wait. The moment it crosses $1.20 buy it and you will get a nice quick play in it!’”
+
+An Illustrative Case
+
+“‘Why not buy it now, at $1.14?’ one of the party asked.
+
+“‘Because I don’t know yet that it is going up at all.’
+
+“‘Then why buy it at $1.20? It seems a mighty high price.’
+
+“‘Do you wish to gamble blindly in the hope of getting a great big profit or do you wish to speculate intelligently and get a smaller but much more probable profit?’
+
+“They all said they wanted the smaller but surer profit, so I said, ‘Then, do as I tell you. If it crosses $1.20 buy.’
+
+“As I told you, I had watched it a long time. For months it sold between $1.10 and $1.20, getting nowhere in particular. Well, sir, one day it closed at above $1.19. I got ready for it. Sure enough the next day it opened at $1.20½, and I bought. It went to $1.21, to $1.22, to 1.23, to $1.25, and I went with it.
+
+“Now I couldn’t have told you at the time just what was going on. I didn’t get any explanations about its behavior during the course of the limited fluctuations. I couldn’t tell whether the breaking through the limit would be up through $1.20 or down through $1.10, though I suspected it would be up because there was not enough wheat in the world for a big break in prices.
+
+“As a matter of fact, it seems Europe had been buying quietly and a lot of traders had gone short of it at around $1.19. Owing to the European purchases and other causes, a lot of wheat had been taken out of the market, so that finally the big movement got started. The price went beyond the $1.20 mark. That was all the point I had and it was all I needed. I knew that when it crossed $1.20 it would be because the upward movement at last had gathered force to push it over the limits and something had to happen. In other words, by crossing $1.20 the line of least resistance of wheat prices was established. It was a different story then.
+
+“I remember that one day was a holiday with us and all our markets were closed. Well, in Winnipeg wheat opened up six cents a bushel. When our market opened on the following day, it also was up six cents a bushel. The price just went along the line of least resistance.
+
+“What I have told you gives you the essence of my trading system as based on studying the tape. I merely learn the way prices are most probably going to move. I check up my own trading by additional tests, to determine the psychological moment. I do that by watching the way the price acts after I begin.”
+
+Feeling Out the Trend
+
+“It is surprising how many experienced traders there are who look incredulous when I tell them that when I buy stocks for a rise I like to pay top prices and when I sell I must sell low or not at all. It would not be so difficult to make money if a trader always stuck to his speculative guns—that is, waited for the line of least resistance to define itself and began buying only when the tape said up or selling only when it said down. He should accumulate his line on the way up. Let him buy one-fifth of his full line. If that does not show him a profit he must not increase his holdings because he has obviously begun wrong; he is wrong temporarily and there is no profit in being wrong at any time. The same tape that said UP did not necessarily lie merely because it is now saying NOT YET.
+
+“In cotton I was very successful in my trading for a long time. I had my theory about it and I absolutely lived up to it. Suppose I had decided that my line would be forty to fifty thousand bales. Well, I would study the tape as I told you, watching for an opportunity either to buy or to sell. Suppose the line of least resistance indicated a bull movement. Well, I would buy ten thousand bales. After I got through buying that, if the market went up ten points over my initial purchase price, I would take on another ten thousand bales. Same thing. Then, if I could get twenty points’ profit, or one dollar a bale, I would buy twenty thousand more. That would give me my line—my basis for my trading. But if after buying the first ten or twenty thousand bales it showed me a loss, out I’d go. I was wrong. It might be I was only temporarily wrong. But as I said to you, it doesn’t pay to start wrong in anything.
+
+“What I accomplished by sticking to my system was that I always had a line of cotton in every real movement. In the course of accumulating my full line I might chip out fifty or sixty thousand dollars in these feeling-out plays of mine. This looks like a very expensive testing, but it wasn’t. After the real movement started, how long would it take me to make up the fifty thousand dollars I had dropped in order to make sure that I began to load up at exactly the right time? No time at all! It always pays a man to be right at the right time.
+
+“As I think I told you before, this describes what I may call my system for placing my bets. It is simple arithmetic to prove that it is a wise thing to have the big bet down only when you win, and when you lose to lose only a small exploratory bet, as it were. If a man trades in the way I have described, he will always be in the position of being able to cash in on the big bet.
+
+“Professional traders have always had some system or other based upon their experience and governed either by their attitude toward speculation or by their desires. I remember I met an old gentleman in Palm Beach whose name I did not catch or did not at once identify. I knew he had been in the Street for years, way back in Civil War times, and somebody told me that he was a very wise old codger who had gone through so many booms and panics that he was always saying there was nothing new under the sun and least of all in the stock market.
+
+“The old fellow asked me a lot of questions. When I got through telling him about my usual practice in trading he nodded and said, ‘Yes! Yes! You’re right. The way you’re built, the way your mind runs, makes your system a good system for you. It comes easy for you to practice what you preach, because the money you bet is the least of your cares. I recollect Pat Hearne. Ever hear of him? Well, he was a very well-known sporting man and he had an account with us. Clever chap and nervy. He made money in stocks, and that made people ask him for advice. He would never give any. If they asked him point-blank for his opinion about the wisdom of their commitments he used a favorite race-track maxim of his: “You can’t tell till you bet.” He traded in our office. He would buy one hundred shares of some active stock and when, or if, it went up 1 per cent he would buy another hundred. On another point’s advance, another hundred shares; and so on. He used to say he wasn’t playing the game to make money for others and therefore he would put in a stop-loss order one point below the price of his last purchase. When the price kept going up he simply moved up his stop with it. On a 1 per cent reaction he was stopped out. He declared he did not see any sense in losing more than one point, whether it came out of his original margin or out of his paper profits.’”
+
+> ![image](assets/00037-481252e1.jpg)
+
+Costly Carelessness
+
+“‘You know, a professional gambler is not looking for long shots, but for sure money. Of course long shots are fine when they come in. In the stock market Pat wasn’t after tips or playing to catch twenty-points-a-week advances, but sure money in sufficient quantity to provide him with a good living. Of all the thousands of outsiders that I have run across in Wall Street, Pat Hearne was the only one who saw in stock speculation merely a game of chance like faro or roulette, but, nevertheless, had the sense to stick to a relatively sound betting method.
+
+“‘After Hearne’s death one of our customers who had always traded with Pat and used his system made over one hundred thousand dollars in Lackawanna. Then he switched over to some other stock and because he had made a big stake he thought he need not stick to Pat’s way. When a reaction came, instead of cutting short his losses he let them run—as though they were profits. Of course every cent went. When he finally quit he owed us several thousand dollars.
+
+“‘He hung around for two or three years. He kept the fever long after the cash had gone; but we did not object as long as he behaved himself. I remember that he used to admit freely that he had been ten thousand kinds of an ass not to stick to Pat Hearne’s style of play. Well, one day he came to me greatly excited and asked me to let him sell some stock short in our office. He was a nice enough chap who had been a good customer in his day and I told him I personally would guarantee his account for one hundred shares.
+
+“‘He sold short one hundred shares of Lake Shore. That was the time Bill Travers hammered the market, in 1875. My friend, Roberts, put out that Lake Shore at exactly the right time and he kept selling it on the way down as he had been wont to do in the old successful days before he forsook Pat Hearne’s system and instead listened to hope’s whispers.
+
+“‘Well, sir, in four days of successful pyramiding, Roberts’ account showed him a profit of fifteen thousand dollars. Observing that he had not put in a stop-loss order I spoke to him about it and he told me that the break hadn’t fairly begun and he wasn’t going to be shaken out by any one-point reaction. This was in August. Before the middle of September he borrowed ten dollars from me for a baby carriage—his fourth. He did not stick to his own proved system. That’s the trouble with most of them,’ and the old fellow shook his head at me.
+
+“And he was right. I sometimes think that speculation must be an unnatural sort of business, because I find that the average speculator has arrayed against him his own nature. The weaknesses that all men are prone to are fatal to success in speculation— usually those very weaknesses that make him likable to his fellows or that he himself particularly guards against in those other ventures of his where they are not nearly so dangerous as when he is trading in stocks or commodities.”
+
+The Unbeatable Game
+
+“The speculator’s chief enemies are always boring from within. It is inseparable from human nature to hope and to fear. In speculation when the market goes against you you hope that every day will be the last day—and you lose more than you should had you not listened to hope—to the same ally that is so potent a success bringer to empire builders and pioneers, big and little. And when the market goes your way you become fearful that the next day will take away your profit, and you go out—too soon. Fear keeps you from making as much money as you ought to. The successful trader has to fight these two deep-seated instincts. He has to reverse what you might call his natural impulses. Instead of hoping he must fear; instead of fearing he must hope. He must fear that his loss may develop into a much bigger loss, and hope that his profit may become a big profit. It is absolutely wrong to gamble in stocks the way the average man does.
+
+“I have been in the speculative game ever since I was fourteen. It is all I have ever done. I think I know what I am talking about. And the conclusion that I have reached after nearly thirty years of constant trading, both on a shoestring and with millions of dollars back of me, is this: A man may beat a stock or a group at a certain time, but no man living can beat the stock market! A man may make money out of individual deals in cotton or grain, but no man can beat the cotton market or the grain market.”
+
+Larry Livingston made an end of speaking and looked at me. It enabled me to say to him gratefully, “Livingston, I am very glad to hear you say so. It has long been a favorite pastime of mine to shout it at the top of my voice in the public places. Coming from the most successful stock operator of the day it ought to carry more weight, and I am very grateful to you for making it. And now would you mind telling me what you did after you found yourself a millionaire in October, 1907?”
+
+Livingston nodded and effortlessly took up the narrative where he had left off.
+
+“I bought a yacht and made all preparations to leave New York for a cruise in Southern waters. I am really daffy about fishing and this was the time when I was going to fish to my heart’s content from my own yacht, going wherever I wished whenever I felt like it. Everything was ready. I had made a killing in stocks, but at the last moment corn held me back.
+
+“I must explain that before the money panic that gave me my first million I had been trading in grain at Chicago. I was short ten million bushels of wheat and ten million bushels of corn. I had studied the grain markets for a long time and was as bearish on corn and wheat as I had been on stocks.
+
+“Well, they both started down, but while wheat kept on declining the biggest of all the Chicago operators—I’ll call him Strat-ton—took it into his head to run a corner in corn. After I cleaned up in stocks and was ready to go South on my yacht I found that wheat showed me a handsome profit, but in corn Stratton had run up the price and I had quite a loss.
+
+“I knew there was much more corn in the country than the price indicated. The law of demand and supply worked as always. But the demand came chiefly from Stratton and the supply was not coming at all, because there was an acute congestion in the movement of corn. I remember that I used to pray for a cold spell that would freeze the impassable roads and enable the farmers to bring their corn into the market. But no such luck.”
+
+Saved by Strategy
+
+“There I was, waiting to go on my joyously planned fishing trip and that loss in corn holding me back. I couldn’t go away with the market as it was. Of course Stratton kept pretty close tabs on the short interest. He knew he had me, and I knew it quite as well as he did. But, as I said, I was hoping I might convince the weather that it ought to get busy and help me. Perceiving that neither the weather nor any other kindly wonder worker was paying any attention to my needs I studied how I might work out of my difficulty by my own efforts.
+
+“I closed out my line of wheat at a good profit. But the problem in corn was infinitely more difficult. If I could have covered my ten million bushels at the prevailing prices I instantly and gladly would have done so, large though the loss would have been. But, of course, the moment I started to buy in my corn Stratton would be on the job as squeezer in chief, and I no more relished running up the price on myself by reason of my own purchases than cutting my own throat with my own knife.
+
+“Strong though corn was, my desire to go fishing was even stronger, so it was up to me to find a way out at once. I must conduct a strategic retreat. I must buy back the ten million bushels I was short of and keep down my loss as much as possible.
+
+“It so happened that Stratton at that time was also running a deal in oats and had the market pretty well sewed up. I had kept track of all the grain markets in the way of crop news and pit gossip, and I heard that the powerful Armour interests were not friendly, marketwise, to Stratton. Of course I knew that Stratton would not let me have the corn I needed except at his own price, but the moment I heard the rumors about Armour being against Stratton it occurred to me that I might look to the Chicago traders for aid. The only way in which they could possibly help me was for them to sell me the corn that Stratton wouldn’t. The rest was easy.
+
+“First, I put in orders to buy five hundred thousand bushels of corn every eighth of a cent down. After these orders were in I gave to each of four houses an order to sell simultaneously fifty thousand bushels of oats, at the market. That, I figured, ought to make a quick break in oats. Knowing how the traders’ minds worked, it was a cinch that they would instantly think that Armour was gunning for Stratton. Seeing the attack opened in oats they would logically conclude that the next break would be in corn and they would start to sell it. If that corner in corn was busted, the pickings would be fabulous.
+
+“My dope on the psychology of the Chicago traders was absolutely correct. When they saw oats breaking on the scattered selling they promptly jumped on corn and sold it with great enthusiasm. I was able to buy six million bushels of corn in the next ten minutes. The moment I found that their selling of corn ceased I turned and bought the other four million bushels at the market. Of course that made the price go up again, but the net result of my maneuver was that I covered the entire line of ten million bushels within one-half cent of the price prevailing at the time I started to cover on the traders’ selling. The two hundred thousand bushels of oats that I sold short to start the traders’ selling of corn I covered at a loss of only three thousand dollars. That was pretty cheap bear bait. The profits I had made in wheat offset so much of my deficit in corn that my total loss on all my grain trades that time was only twenty-five thousand dollars. Afterwards corn went up to twenty-five cents a bushel. Stratton undoubtedly had me at his mercy.
+
+“If I had set about buying my ten million bushels of corn without bothering to think of the price there is no telling what I would have had to pay.
+
+“A man can’t spend years at one thing and not acquire a habitual attitude towards it quite unlike that of the average beginner. The difference distinguishes the professional from the amateur. It is the way a man looks at things that makes or loses money for him in the speculative markets. The public has the dilettante’s point of view toward his own effort. The ego obtrudes itself unduly and the thinking therefore is not deep, or exhaustive. The professional concerns himself with doing the right thing rather than with making money, knowing that the profit takes care of itself if the other things are attended to. A trader gets to play the game as the professional billiard player does—that is, he looks far ahead instead of considering the particular shot before him. It gets to be an instinct to play for position.”
+
+Inside Information
+
+“I remember hearing a story about Addison Cammack that illustrates very nicely what I wish to point out. From all I have heard, I am inclined to think that Cammack was one of the ablest stock traders the Street ever saw. He was not a chronic bear as many believe, but he felt the greater appeal of trading on the bear side, of utilizing in his behalf the two great human factors of hope and fear. He is credited with coining the warning: ‘Don’t sell stocks when the sap is running up the trees!’ and the old-timers tell me that his biggest winnings were made on the bull side so that it is plain he did not play prejudices but conditions. At all events, he was a consummate trader. It seems that once—this was way back at the tag end of a bull market—Cammack was bearish, and J. Arthur Joseph, the financial writer and raconteur, knew it. The market, however, was not only strong but still rising, in response to prodding by the bull leaders and optimistic reports by the newspapers. Knowing what use a trader like Cammack could make of bearish information, Joseph rushed to Cammack’s office one day with glad tidings:
+
+“‘Mr. Cammack, I have a very good friend who is a transfer clerk in the St. Paul office and he has just told me something which I think you ought to know.’
+
+“‘What is it?’ asked Cammack listlessly.
+
+“‘You’ve turned, haven’t you? You are bearish now?’ asked Joseph, to make sure. If Cammack wasn’t interested he wasn’t going to waste precious ammunition.
+
+“‘Yes. What’s the wonderful information?’
+
+“‘I went around to the St. Paul office today, as I do in my news-gathering rounds two or three times a week, and my friend there said to me: “The Old Man is selling stock.” He meant William Rockefeller.” “Is he really, Jimmy?” I said to him, and he answered, “Yes; he is selling fifteen hundred shares every three-eighths of a point up. I’ve been transferring the stock for two or three days now.” I didn’t lose any time, but came right over to tell you.’
+
+“Cammack was not easily excited, and, moreover, was so accustomed to having all manner of people rush madly into his office with all manner of news, gossip, rumors, tips and lies that he had grown distrustful of them all. He merely said now, ‘Are you sure you heard right, Joseph?’
+
+“‘Am I sure? Certainly I am sure! Do you think I am deaf?’ said Joseph.
+
+“‘Are you sure of your man?’
+
+“‘Absolutely!’ declared Joseph. ‘I’ve known him for years. He has never lied to me. He wouldn’t! No object! I know he is absolutely reliable and I’d stake my life on what he tells me. I know him as well as I know anybody in this world—a great deal better than you seem to know me, after all these years.’
+
+“‘Sure of him, eh?’ And Cammack again looked at Joseph. Then he said, ‘Well, you ought to know.’ He called his broker, W. B. Wheeler. Joseph expected to hear him give an order to sell at least fifty thousand shares of St. Paul. William Rockefeller was disposing of his holdings in St. Paul, taking advantage of the strength of the market. Whether it was investment stock or speculative holdings was irrelevant. The one important fact was that the best stock trader of the Standard Oil crowd was getting out of St. Paul. What would the average man have done if he had received the news from a trustworthy source? No need to ask.
+
+“But Cammack, the ablest bear operator of his day, who was bearish on the market just then, said to his broker, ‘Billy, go over to the board and buy fifteen hundred St. Paul every three-eighths up.’ The stock was then in the nineties.”
+
+The Tactics of Genius
+
+“‘Don’t you mean sell?’ interjected Joseph hastily. He was no novice in Wall Street, but he was thinking of the market from the point of view of the newspaper man and, incidentally, of the general public. The price certainly ought to go down on the news of inside selling. And there was no better inside selling than Mr. William Rockefeller’s. The Standard Oil getting out and Cammack buying! It couldn’t be!
+
+“‘No,’ said Cammack; ‘I mean, buy!’
+
+“‘Don’t you believe me?’
+
+“‘Yes!’
+
+“‘Don’t you believe my information?’
+
+“‘Yes.’
+
+“‘Aren’t you bearish?’
+
+“‘Yes.’
+
+“‘Well, then?’
+
+“‘That’s why I’m buying. Listen to me now: You keep in touch with that reliable friend of yours and the moment the scaled selling stops, let me know. Instantly! Do you understand?’
+
+“‘Yes,’ said Joseph, and went away, not quite sure he could fathom Cammack’s motives in buying William Rockefeller’s stock. It was the knowledge that Cammack was bearish on the entire market that made his maneuver so difficult to explain. However, Joseph saw his friend the transfer clerk and told him he wanted to be tipped off when the Old Man got through selling. Regularly twice a day Joseph called on his friend to inquire.
+
+“One day the transfer clerk told him, ‘There isn’t any more stock coming from the Old Man.’ Joseph thanked him and ran to Cammack with the information.
+
+“Cammack listened attentively, turned to Wheeler and asked, ‘Billy, how much St. Paul have we got in the office?’ Wheeler looked it up and reported that they had accumulated about sixty thousand shares.
+
+“Cammack, being bearish, had been putting out short lines in the other Grangers as well as in various other stocks, even before he began to buy St. Paul. He was now heavily short of the market. He promptly ordered Wheeler to sell the sixty thousand shares of St. Paul that they were long of, and more besides. He used his long holdings of St. Paul as a lever to depress the general list and greatly benefit his operations for a decline.
+
+“St. Paul didn’t stop on that move until it reached forty-four and Cammack made a killing in it. He played his cards with consummate skill and profited accordingly. The point I would make is his habitual attitude toward trading. He didn’t have to reflect. He saw instantly what was far more important to him than his profit on that one stock. He saw that he had providentially been offered an opportunity to begin his big bear operations not only at the proper time but with a proper initial push. The St. Paul tip made him buy instead of sell because he saw at once that it gave him a vast supply of the best ammunition for his bear campaign.
+
+“To get back to myself. After I closed my trade in wheat and corn I went South in my yacht. I cruised about in Florida waters, having a grand old time. The fishing was great. Everything was lovely. I didn’t have a care in the world and I wasn’t looking for any.
+
+“One day I went ashore at Palm Beach. I met a lot of Wall Street friends and others. They were all talking about the most picturesque cotton speculator of the day. A report from New York had it that Percy Thomas had lost every cent. It wasn’t a commercial bankruptcy; merely the rumor of the world-famous operator’s second Waterloo in the cotton market.
+
+“You doubtless know him. Yes? Well, then you won’t wonder that I think him the most brilliant and persuasive talker I ever met. I had always felt a great admiration for him. The first I ever heard of him was through the newspapers at the time of the failure of the Stock Exchange house of Sheldon & Thomas, when Thomas tried to corner cotton. Sheldon, who did not have the vision or the courage of his partner, got cold feet on the very verge of success. At least, so the Street said at the time. At all events, instead of making a killing they made one of the most sensational failures in years. I forget how many millions. The firm was wound up and Thomas went to work alone. He devoted himself exclusively to cotton and it was not long before he was on his feet again. He paid off his creditors in full with interest—debts he was not legally obliged to discharge—and withal had a million dollars left for himself. His comeback in the cotton market was in its way as remarkable as Deacon S. V. White’s famous stock-market exploit of paying off one million dollars in one year, Thomas’ pluck and brains made me admire him immensely.”
+
+A Deal in July Cotton
+
+“Everybody in Palm Beach was talking about the collapse of Thomas’ deal in March cotton. You know how the talk goes—and grows; the amount of misinformation and exaggeration and improvements that you hear. Why, I’ve seen a rumor about myself grow so that the fellow who started it did not recognize it when it came back to him in less than twenty-four hours, swollen with new and picturesque details.
+
+“The news of Percy Thomas’ latest misadventure turned my mind from the fishing to the cotton market. I got files of the trade papers and read them to get a line on conditions. When I got back to New York I gave myself up to studying the markets. Everybody was bearish and everybody was selling July cotton. You know how people are. I suppose it is the contagion of example that makes a man do something because everybody around him is doing the same thing. Perhaps it is some phase or variety of the herd instinct. In any case it was, in the opinion of hundreds of traders, the wise and proper thing to sell July cotton—and so safe too! You couldn’t call that general selling reckless; the word is too conservative. The traders simply saw one side to the market and a great big profit. They certainly expected a collapse in prices.
+
+“I saw all this, of course, and it struck me that the chaps who were short didn’t have a terrible lot of time to cover in. The more I studied the situation the clearer I saw this, until I finally decided to buy July cotton. I went to work and quickly bought one hundred thousand bales. I experienced no trouble in getting it because it came from so many sellers. It seemed to me that I could have offered a reward of one million dollars for the capture, dead or alive, of a single trader who was not selling July cotton and nobody would have claimed it.
+
+“I should say this was in the latter part of May. I kept buying more and they kept on selling it to me until I had picked up all the floating contracts and I had one hundred and twenty thousand bales. A couple of days after I had bought the last of it it began to go up. Once it started, the market was kind enough to keep on doing very well indeed—that is, it went up from forty to fifty points a day.
+
+“One Saturday—this was about ten days after I began operations—the price began to creep up. I did not know whether there was any more July cotton for sale. It was up to me to find out, so I waited until the last ten minutes. At that time, I knew, it was usual for those fellows to be short and if the market closed up for the day they would be safely hooked. So I sent in four different orders to buy five thousand bales each, at the market, at the same time. That ran the price up thirty points and the shorts were doing their best to wriggle away. The market closed at the top. All I did, remember, was to buy that last twenty thousand bales.
+
+“The next day was Sunday. But on Monday, Liverpool was due to open up twenty points to be on a parity with the advance in New York. Instead, it came fifty points higher. That meant that Liverpool had exceeded our advance by 100 per cent. I had nothing to do with the rise in that market. This showed me that my deductions had been sound and that I was trading along the line of least resistance. At the same time I was not losing sight of the fact that I had a whopping big line to dispose of. A market may advance sharply or rise gradually and yet not possess the power to absorb more than a certain amount of selling.
+
+“Of course the Liverpool cables made our own market wild. But I noticed the higher it went the scarcer July cotton seemed to be. I wasn’t letting go any of mine. Altogether that Monday was an exciting and not very cheerful day for the bears; but for all that, I could detect no signs of an impending bear panic; no beginnings of a blind stampede to cover. And I had one hundred and forty thousand bales for which I must find a market.
+
+“On Tuesday morning as I was walking to my office I met a friend at the entrance of the building.
+
+“‘That was quite a story in the World this morning,’ he said with a smile.
+
+“‘What story?’ I said.
+
+“‘What? Do you mean to tell me you haven’t seen it?’
+
+“‘I never see the World,’ I said. ‘What is the story?’
+
+“‘Why, it’s all about you. It says you’ve got July cotton cornered.’
+
+“‘I haven’t seen it,’ I told him and left him. I don’t know whether he believed me or not. He probably thought it was highly inconsiderate of me not to tell him whether it was true or not.
+
+“When I got to the office I sent out for a copy of the paper. Sure enough, there it was, on the front page, in big headlines:
+
+> JULY COTTON CORNERED BY LARRY LIVINGSTON
+
+“Of course I knew at once that the article would play the dickens with the market. If I had deliberately studied ways and means of disposing of my one hundred and forty thousand bales to the best advantage I couldn’t have hit upon a better plan. It would not have been possible to find one. That article at that very moment was being read all over the country either in the World or in other papers quoting it. It had been cabled to Europe. That was plain from the Liverpool prices. That market was simply wild. No wonder, with such news.”
+
+Time for Quick Action
+
+“Of course I knew what New York would do, and what I ought to do. The market here opened at ten o’clock. At ten minutes after ten I did not own any cotton. I let them have every one of my one hundred and forty thousand bales. For most of my line I received what proved to be the top prices of the day. The traders made the market for me. All I really did was to see a heaven-sent opportunity to get rid of my cotton. I grasped it because I couldn’t help it. What else could I do?
+
+“The problem that I knew would take a great deal of hard thinking to solve was thus solved for me by an accident. If the World had not published that article I never would have been able to dispose of my line without sacrificing the greater portion of my paper profits. Selling one hundred and forty thousand bales of July cotton without sending the price down was a trick beyond my powers. But the World story turned it for me very nicely.
+
+“Why the World published it I cannot tell you. I never knew. I suppose the writer was tipped off by some friend in the cotton market and he thought he was printing a scoop. I didn’t see him or anybody from the World. I didn’t know it was printed that morning until after nine o’clock; and if it had not been for my friend calling my attention to it I would not have known it then.
+
+“Without it I wouldn’t have had a market big enough to unload in. That is one trouble about trading on a large scale. You cannot sneak out as you can when you pike along. You cannot always sell out when you wish or when you think it wise. You have to get out when you can; when you have a market that will absorb your entire line. Failure to grasp the opportunity to get out may cost you millions. You cannot hesitate. If you do you are lost. Neither can you try stunts like running up the price on the bears by means of competitive buying, for you may thereby reduce the absorbing capacity. And I want to tell you that perceiving your opportunity is not as easy as it sounds. One must be on the lookout so alertly that when his chance sticks in its head at the door he must grab it.
+
+“Of course not everybody knew about my fortunate accident. In Wall Street, and, for that matter, everywhere else, any accident that makes big money for a man is regarded with suspicion. Always when the accident is unprofitable it is not considered an accident, but the logical outcome of hoggishness or of the swelled head. But when there is a profit they call it loot and talk about how well unscrupulousness fares, and how ill conservatism and decency.”
+
+A Case of Sheer Luck
+
+“It was not only the evil-minded shorts smarting under punishment brought about by their own recklessness who accused me of having deliberately planned the coup. Other people thought the same thing.
+
+“One of the biggest men in cotton in the entire world met me a day or two later and said, ‘That was certainly the slickest deal you ever put over, Livingston. I was wondering how much you were going to lose when you came to market that line of yours. You knew this market was not big enough to take more than fifty or sixty thousand bales without selling off, and how you were going to work off the rest and not lose all your paper profits was beginning to interest me. I didn’t think of your scheme. It certainly was slick.’
+
+“‘I had nothing to do with it,’ I assured him as earnestly as I could.
+
+“But all he did was to repeat: ‘Mighty slick, my boy. Mighty slick! Don’t be so modest!’
+
+“It was after that deal that some of the papers referred to me as the cotton king. But, as I have told you, I really was not entitled to that crown. It is not necessary to tell you that there is not enough money in the United States to buy the columns of the New York World or enough personal pull to secure the publication of a story like that. It gave me an utterly unearned reputation that time.
+
+“But I have not told you this story to moralize on the crowns that are sometimes pressed down upon the brows of undeserving traders or to emphasize the need of seizing the opportunity, no matter when or how it comes. My object merely was to account for the vast amount of newspaper notoriety that came to me as the result of my deal in July cotton. If it hadn’t been for the newspapers I never would have met that remarkable man, Percy Thomas, and I am sure you will wish me to tell you how I met him and what came of that meeting.”
+
+Lawrence Livingston ceased talking and looked at me as though he would have me confirm his suspicions. But I said to him:
+
+“I am not interested so much in Percy Thomas as I am in Lawrence Livingston.”
+
+“But you said you wanted to hear how I lost my first million.”
+
+“So I did,” I said.
+
+“Well, that is what I am going to tell you about, but not today. We’ll go for a sail now.”
+
+“Did you lose everything?” I asked hopefully.
+
+“Not today. Come along!” And Lawrence Livingston put on his hat.
+
+“But did you lose everything?”
+
+“Everything, and over a million besides,” answered Livingston.
+
+“Fine!” I said. “I’ll come!”
+
+And I went cheerfully, for two reasons: First, any man will wait cheerfully for a good story; the story of how Livingston lost all his money and more, too, was bound to be interesting. Second, he had made up his loss and come back stronger than ever; that is to say, there would be still another good story.
+
+<!-- rl-section id="section-19" class="epub-section" kicker="Section 19" title="Section 19" -->
+
+## Section 19
+
+VII.
+
+Playing Another Man’s Game
+
+In this installment, Livingston relates how it feels to lose a small fortune playing another man’s game. Much of what he relates is psychological but it also gives some insight into how brokerages of the day operated.
+
+Something curious about this part of the interview is that Livingston relates how he bought some books from a traveling salesman, something he rarely, if ever, did before. He agreed to the purchase because of the salesman’s slick insistence more than a need for reading material. The moral of the story is that sometimes even an accomplished trader can be diverted from his usual habits and the diversion undoubtedly will cost him money in the end.
+
+Contemporary readers will be surprised to learn how graceful Livingston’s colleagues and even competitors were when he ran into bad luck. In this and the next chapter, he tells of brokerages more than willing to offer him lines of credit and their facilities even though he was down on his luck. Behind the generous offers were commissions. Not being a member of an exchange, he traded in brokers’ offices when he first went to New York after trading in the bucket shops. The brokers were all eager to offer their services, hoping that big traders would earn them a handsome living through the commissions generated by their trading. It did not matter whether a trader won or lost as long as he played the game frequently.
+
+Livingston never says whether a discount was offered for frequent trading, although the suspicion is that the amount of margin credit offered by the brokerage house was the real lure. Since margin requirements depended on the broker, the best deal would win the trader’s business. Uniform margin requirements were not set until the Securities Exchange Act of 1934 gave the Federal Reserve the power to set the rate of margin. During the years preceding World War I, margin rates varied from about 10 to 25 percent of the amount of the trade. Better brokers required more than those with lesser reputations because they wanted to attract a better class of speculator.
+
+The story here is a perfect example of Mark Twain’s classic remark about indebtedness: “If you owe a bank a dollar and can’t pay, you have a problem. If you owe them a million and can’t pay, they have a problem.” Brokers realized that a trader down on his luck could trade his way out of it if he were good at the game. Granting credit to a trader clearly depended upon his reputation.
+
+C.G.
+
+<!-- rl-section id="section-20" class="epub-section" kicker="Section 20" title="Section 20" -->
+
+## Section 20
+
+> ![image](assets/00038-da823ecd.jpg)
+
+Reminiscences of a Stock Operator
+
+September 16, 1922
+
+AT HIS house one night Lawrence Livingston took up the narrative of his career where he had left off: “Not long after I closed my July cotton deal more successfully than I had expected I received by mail a request for an interview. The letter was signed by Percy Thomas. Of course I immediately answered that I’d be glad to see him at my office at any time he cared to call. The next day he came. Since you know him there is no need to tell you what an interesting man he is.
+
+“Thomas, I always thought, went about his business scientifically. He was a true speculator, a thinker with the vision of a dreamer and the courage of a fighting man—an unusually well-informed man, who knew both the theory and the practice of trading in cotton. He loved to hear and to express ideas and theories and abstractions, and at the same time there was mighty little about the practical side of the cotton market or the psychology of cotton traders that he did not know, for he had been trading for years and had made and lost vast sums.
+
+> ![image](assets/00039-cb2a9dc9.jpg)
+
+“Within a few years after the failure of his old Stock Exchange firm of Sheldon & Thomas he came back, almost spectacularly. I remember reading in the Sun that the first thing he did when he got on his feet financially was to pay off his old creditors in full, and the next was to hire an expert to study and determine for him how he had best invest a million dollars. This expert examined the properties and analyzed the reports of several companies and then recommended the purchase of Delaware & Hud-son stock.
+
+“Well, after having failed for millions and having come back with more millions, Thomas was cleaned out as the result of his deal in March cotton. There wasn’t much time wasted after he came in. He proposed that we form a working alliance. He explained that he had developed a marvelous organization for the collection of cotton-crop information and statistics, and also—and this he emphasized—for the dissemination of market news and views. He had a large number of correspondents who grew cotton or dealt with the staple in its raw condition; also he was in close touch with the cotton mills and the exporters. He believed his crop reports to be more accurate than the Government’s, and he kept tabs on the world’s consumption as well as on this country’s production.”
+
+A Lone Hand in Wall Street
+
+“HE SUGGESTED that he should continue to collect information bearing on the cotton crop as well as send out his opinions, estimates and predictions. Whatever information he got he would immediately turn over to me before passing it on to the public. My part would be to do the actual trading, for which he saw I had a special genius and he hadn’t. His information and the influence of his market letters, he thought, would be immensely valuable to me in my trading.
+
+“That did not appeal to me for a number of reasons. I told him frankly that I did not think I could run in double harness and wasn’t keen about trying to learn. But he insisted that it would be an ideal combination until I said flatly that I did not want to have anything to do with influencing other people to trade.
+
+“‘If I fool myself,’ I told him, ‘I alone suffer and I pay the bill at once. There are no drawn-out payments or unexpected annoyances. I play a lone hand by choice and also because it is the wisest and cheapest way to trade. I get my pleasure out of matching my brains against the brains of other traders—men whom I have never seen and never talked to and never advised to buy or sell and never expect to meet or know. When I make money I make it backing my own opinions. I don’t sell them or capitalize them. If I made money in any other way I would imagine I had not earned it. Your proposition does not interest me because I am interested in the game only as I play it for myself and in my own way.’
+
+“He said he was sorry I felt the way I did, and tried to convince me that I was wrong in rejecting a plan that was no more or less than the average merchant follows when he advertises his wares. But I stuck to my views. The rest was a pleasant talk. I told him I knew he would come back and that I would consider it a privilege if he would allow me to be of financial assistance to him. But he said he could not accept any loans from me. Then he asked me about my July deal and I told him all about it; how I had gone into it and how much cotton I bought and the price and other details. We chatted a little more and then he left.
+
+“When I said to you some time ago that a speculator has a host of enemies, many of whom successfully bore from within, I had in mind my many mistakes. I have learned that a man may possess an original mind and a lifelong habit of independent thinking and withal be vulnerable to attacks by a persuasive personality. I am fairly immune from the commoner speculative ailments, such as fear and hope. But being an ordinary man I find I can err with great ease.
+
+“I ought to have been on my guard at this particular time, because not long before that I had had an experience that proved how easily a man may be talked into doing something against his judgment and even against his wishes. It happened in Harding’s office. I had a sort of private office—a room that they let me occupy by myself—and nobody was supposed to get to me during market hours without my consent. I didn’t wish to be bothered, and as I was trading on a large scale and my account was profitable I was well guarded.
+
+“One day just after the market closed I heard somebody say, ‘Good afternoon, Mr. Livingston.’
+
+“I turned and saw an utter stranger—a chap of about thirty or thirty-five. I could not understand how he’d got in, but there he was. I concluded his business with me had passed him. But I didn’t say anything. I just looked at him and pretty soon he said, ‘I came to see you about that Walter Scott,’ and he was off.
+
+“He was a book agent. Now, he was not particularly pleasing of manner or skillful of speech. Neither was he especially attractive to look at. But he certainly had personality. He talked and I thought I listened. But I do not know what he said. I don’t think I ever knew, not even at the time. When he finished his monologue he handed me first his fountain pen and then a blank form, which I signed. It was a contract to take a set of Scott’s works for five hundred dollars.
+
+“The moment I signed I came to. But he had the contract safe in his pocket. I did not want the books. I had no place for them. They weren’t of any use whatever to me. I had nobody to give them to. Yet I had agreed to buy them for five hundred dollars.”
+
+Capitalizing Mistakes
+
+“I AM so accustomed to losing money that I never think first of that phase of my mistakes. It is always the play itself, the reason why. In the first place I wish to know my own limitations and habits of thought. Another reason is that I do not wish to make the same mistake a second time. A man can excuse his mistakes only by capitalizing them to his subsequent profit.
+
+“Well, having made a five-hundred-dollar mistake but not yet having localized the trouble, I just looked at the fellow to size him up as a first step. I’ll be hanged if he didn’t actually smile at me—an understanding little smile! He seemed to read my thoughts. I somehow knew that I did not have to explain anything to him; he knew it without my telling him. So I skipped the explanations and the preliminaries and asked him, ‘How much commission will you get on that five-hundred-dollar order?’
+
+“He promptly shook his head and said, ‘I can’t do it! Sorry!’
+
+“‘How much do you get?’ I persisted.
+
+“‘A third. But I can’t do it!’ he said.
+
+“‘A third of five hundred dollars is one hundred and sixty-six dollars and sixty-six cents. I’ll give you two hundred dollars cash if you give me back that signed contract.’ And to prove it I took the money out of my pocket.
+
+“‘I told you I couldn’t do it,’ he said.
+
+“‘Do all your customers make the same offer to you?’ I asked.
+
+“‘No,’ he answered.
+
+“‘Then why were you so sure that I was going to make it?’
+
+> ![image](assets/00040-90a973aa.jpg)
+
+“‘It is what your type of sport would do. You are a first-class loser, and that makes you a first-class business man. I am much obliged to you, but all the same I can’t do it.’
+
+“‘Now tell me why you do not wish to make more than your commission?’”
+
+Signing on the Dotted Line
+
+“‘IT ISN’T that, exactly,’ he said. ‘I am not working just for the commission.’
+
+“‘What are you working for then?’
+
+“‘For the commission and the record,’ he answered.
+
+“‘What record?’
+
+“‘Mine.’
+
+“‘What are you driving at?’
+
+“‘Do you work for money alone?’ he asked me.
+
+“‘Yes,’ I said.
+
+“‘No.’ And he shook his head. ‘No, you don’t. You wouldn’t get enough fun out of it. You certainly do not work merely to add a few more dollars to your bank account, and you are not in Wall Street because you like easy money. You get your fun some other way. Well, same here.’
+
+“I did not argue but asked, ‘How do you get your fun?’
+
+“‘Well,’ he confessed, ‘we’ve all got a weak spot.’
+
+“‘And what’s yours?’
+
+“‘Vanity,’ he said.
+
+“‘Well,’ I told him, ‘you succeeded in getting me to sign on. Now I want to sign off, and I am paying you two hundred dollars for ten minutes’ work. Isn’t that enough for your pride?’
+
+“‘No,’ he answered. ‘You see, all the rest of the bunch have been working Wall Street for months and failed to make expenses. They said it was the fault of the goods and the territory. So the office sent for me to prove that the fault was with their salesmanship and not with the books or the place. They were working on a twenty-five per cent commission. I was in Cleveland, where I sold eighty-two sets in two weeks. I am here to sell a certain number of sets not only to people who did not buy from the other agents but to people they couldn’t even get to see. That’s why they give me thirty-three and a third percent.’
+
+“‘I can’t quite figure out how you sold me that set.’
+
+“‘Why,’ he said consolingly, ‘I sold J. P. Morgan a set.’
+
+“‘No, you didn’t,’ I said.
+
+“He wasn’t angry. He simply said, ‘Honest, I did!’
+
+“‘A set of Walter Scott to J.P. Morgan, who not only has some fine editions but probably the original manuscripts of some of the novels as well?’
+
+“‘Well, here’s his John Hancock.’ And he promptly flashed on me a contract signed by J. P. Morgan himself. It might not have been Mr. Morgan’s signature, but it did not occur to me to doubt it at the time. Didn’t he have mine in his pocket? All I felt was curiosity. So I asked him, ‘How did you get past the librarian?’
+
+“‘I didn’t see any librarian. I saw the old man himself. In his office.’
+
+“‘That’s too much!’ I said. Everybody knew that it was much harder to get into Mr. Morgan’s private office empty handed than into the White House with a parcel that ticked like an alarm clock.
+
+“But he declared, ‘I did.’
+
+“‘But how did you get into his office?’
+
+“‘How did I get into yours?’
+
+“‘I don’t know. You tell me,’ I said.
+
+“‘Well, the way I got into Morgan’s office and the way I got into yours are the same. I just talked to the fellow at the door whose business it was not to let me in. And the way I got Morgan to sign was the same way I got you to sign. You weren’t signing a contract for a set of books. You just took the fountain pen I gave you and did what I asked you to do with it. No difference. Same as you.’
+
+“‘And is that really Morgan’s signature?’ I asked him, about three minutes late with my skepticism.
+
+“‘Sure! He learned how to write his name when he was a boy.’
+
+“‘And that’s all there’s to it?’
+
+“‘That’s all,’ he answered, rising to leave. ‘I know exactly what I am doing. That’s all the secret there is. I am much obliged to you. Good day, Mr. Livingston.’ And he picked up his hat and started for the door.
+
+“‘Hold on,’ I said. ‘I’m bound to have you make an even two hundred dollars out of me.’ And I handed him thirty-five dollars.
+
+“He shook his head. Then: ‘No,’ he said. ‘I can’t do that. But I can do this!’ And he took the contract from his pocket, tore it in two and gave me the pieces.
+
+“I counted two hundred dollars and held the money before him, but he again shook his head.
+
+“‘Isn’t that what you meant?’ I said.
+
+“‘No.’
+
+“‘Then why did you tear up the contract?’
+
+“‘Because you did not whine, but took it as I would have taken it in your place.’
+
+“‘But I offered you the two hundred dollars of my own accord,’ I said.
+
+“‘I know; but money isn’t everything.’
+
+“Something in his voice made me say, ‘You’re right; it isn’t. And now what do you want me to do for you?’
+
+“‘You’re quick, aren’t you?’ he said. ‘Do you really want to do something for me?’
+
+“‘Yes,’ I told him, ‘I do. But whether I will or not depends upon what it is you have in mind.’
+
+“‘Take me with you into Mr. Ed Harding’s office and tell him to let me talk to him three minutes by the clock. Then leave me alone with him.’
+
+“I shook my head and said, ‘He is a good friend of mine.’
+
+“‘He’s fifty years old and a stock broker,’ said the book agent.
+
+“That was perfectly true, so I took him into Ed’s office. I did not hear anything more from or about that book agent. But one evening some weeks later when I was going uptown I ran across him in a Sixth Avenue L train. He raised his hat very politely and I nodded back. He came over and asked me, ‘How do you do, Mr. Livingston? And how is Mr. Harding?’”
+
+The High Cost of Personality
+
+“‘HE’S well. Why do you ask?’ I felt he was holding back a story.
+
+“‘I sold him two thousand dollars’ worth of books that day you took me in to see him.’
+
+“‘He never said a word to me about it,’ I said.
+
+“‘No; that kind doesn’t talk about it.’
+
+“‘What kind doesn’t talk?’
+
+“‘The kind that never makes mistakes on account of its being bad business to make them. That kind always knows what he wants and nobody can tell him different. That is the kind that’s educating my children and keeps my wife in good humor. You did me a good turn, Mr. Livingston. I expected it when I gave up the two hundred dollars you were so anxious to present to me.’
+
+“‘And if Mr. Harding hadn’t given you an order?’
+
+“‘Oh, but I knew he would. I had found out what kind of man he was. He was a cinch.’
+
+“‘Yes. But if he hadn’t bought any books?’ I persisted.
+
+“‘I’d have come back to you and sold you something. Good day, Mr. Livingston. I am going to see the mayor.’ And he got up.
+
+“‘I hope you sell him ten sets.’ His Honor was a Tammany man.
+
+“‘I’m a Republican too,’ he said, and went out, not hastily but leisurely, confident that the train would wait. And it did.
+
+“I have told you this story in such detail because it concerned a remarkable man who made me buy what I did not wish to buy. He was the first man who did that to me. There never should have been a second, but there was. You can never bank on there being but one remarkable personality in the world or on complete immunization from the influence of personality.
+
+“When Percy Thomas left my office, after I had pleasantly but definitely declined to enter into a working alliance with him, I would have sworn that our business paths would never cross. I was not sure I’d ever even see him again. But on the very next day he wrote me a letter thanking me for my offers of help and inviting me to come and see him. I answered that I would. He wrote again. I called.
+
+“I got to see a great deal of him. It was always a pleasure for me to listen to him, he knew so much and he expressed his knowledge so interestingly. I think he is the most magnetic man I ever met.
+
+“We talked of many things, for he is a widely read man with an amazing grasp of many subjects and a remarkable gift for interesting generalization. The wisdom of his speech is impressive. I have heard many people accuse Percy Thomas of many things, including insincerity, but I sometimes wonder if his remarkable plausibility does not come from the fact that he first convinces himself so thoroughly as to acquire thereby a greatly increased power to convince others.
+
+“Of course we talked about market matters at great length. I was not bullish on cotton, but he was. I could not see the bull side at all, but he did. He brought up so many facts and figures that I ought to have been overwhelmed, but I wasn’t. I couldn’t disprove them because I could not deny their authenticity, but they did not shake my belief in what I read for myself. But he kept at it until I no longer felt sure of my own information as gathered from the trade papers and the dailies. That meant I couldn’t see the market with my own eyes. A man cannot be convinced against his own convictions, but he can be talked into a state of uncertainty and indecision, which is even worse, for that means that he cannot trade with confidence.
+
+“I cannot say that I got all mixed up, exactly, but I lost my poise; or rather, I ceased to do my own thinking. I cannot give you in detail the various steps by which I reached the state of mind that was to prove so costly to me. I think it was his assurances of the accuracy of his figures, which were exclusively his, and the undependability of mine, which were not exclusively mine, but public property. In the end I came to read conditions as he himself read them—because we were both reading from the same page of the same book, held by him before my eyes. He has a logical mind. Once I accepted his facts it was a cinch that my own conclusions, derived from his facts, would agree with his own.
+
+> ![image](assets/00041-c7a78542.jpg)
+
+“When he began his talks with me about the cotton situation I not only was bearish but I was short of the market. Gradually, as I began to accept his facts and figures, I began to fear I had been basing my previous position on misinformation. Of course I could not feel that way and not cover; and once I had covered because Thomas made me think I was wrong, I simply had to go long. It is the way my mind works. You know, I have done nothing in my life but trade in stocks and commodities. I naturally think that if it is wrong to be bearish it must be right to be a bull. And if it is right to be a bull it is imperative to buy. As my old Palm Beach friend said Pat Hearne used to say, ‘You can’t tell till you bet!’ I must prove whether I am right on the market or not; and the proofs are to be read only in my brokers’ statements at the end of the month.
+
+“I started in to buy cotton and in a jiffy I had my usual line, about sixty thousand bales. It was the most asinine play of my career. Instead of standing or falling by my own observation and deductions I was merely playing another man’s information. It was eminently fitting that my sucker plays should not end with that. I not only bought when I had no business to be bullish but I didn’t accumulate my line in accordance with the promptings of experience. I wasn’t trading right. Having listened, I was lost.
+
+“The market was not going my way. I am never afraid or impatient when I am sure of my position. But the market didn’t act the way it should have acted had Thomas been right. Having taken the first wrong step I took the second and the third, and of course it muddled me all up. I allowed myself to be persuaded not only into not taking my loss but into holding up the market. That is a style of play foreign to my nature and contrary to my trading principles and theories. Even as a boy in the bucket shops I had known better.
+
+“I not only was long of cotton but I was carrying a heavy line of wheat. That was doing famously and showed me a handsome profit. My fool efforts to bolster up cotton had increased my line to about one hundred and fifty thousand bales. I may tell you that about this time I was not feeling very well. I don’t say this to furnish an excuse for my blunders, but merely to state a pertinent fact. I remember I went to Bayshore for a rest.
+
+“While there I did some thinking. It seemed to me that my speculative commitments were overlarge. I am not timid as a rule, but I got to feeling nervous and that made me decide to lighten my load. To do this I must clean up either the cotton or the wheat.
+
+“It seems incredible that knowing the game as well as I did and with an experience of twelve or fourteen years of speculating in stocks and commodities I did precisely the wrong thing. The cotton showed me a loss and I kept it. The wheat showed me a profit and I sold it out. It was an utterly foolish play. Of all speculative blunders there are few greater than trying to average a losing game. My cotton deal proved it to the hilt a little later. Always sell what shows you a loss and keep what shows you a profit. That was so obviously the wise thing to do and was so well known to me that even now I marvel at my doing the reverse.
+
+“And so I sold my wheat, deliberately cut short my profit in it. After I got out of it the price went up twenty cents a bushel without stopping. If I had kept it I might have taken a profit of about eight million dollars. And having decided to keep on with the losing proposition I bought more cotton!
+
+“I remember very clearly how every day I would buy cotton, more cotton. And why do you think I bought it? To keep the price from going down! If that isn’t a supersucker play, what is? I simply kept on putting up more and more money—more money to lose eventually. My brokers and my intimate friends could not understand it; and they don’t to this day. Of course if the deal had turned out differently I would have been a wonder. But I kept on buying cotton to keep it from going down. I was even buying it in Liverpool. I accumulated four hundred and forty thousand bales before I realized what I was doing. And then it was too late. So I sold out my line.
+
+“I lost nearly all that I had made out of all my other deals in stocks and commodities. I was not completely cleaned out, but I had left fewer hundreds of thousands than I had millions before I violated all the laws that experience had taught me to observe in order to prosper.
+
+“To learn that a man can make foolish plays for no reason whatever was a valuable lesson. It cost me millions to learn that another dangerous enemy to a trader is his susceptibility to the urgings of a magnetic personality when plausibly expressed by a brilliant mind. It has always seemed to me, however, that I might have learned my lesson quite as well if the cost had been only one million. But Fate does not always let you fix the tuition fee. She delivers the educational wallop and presents her own bill, knowing you have to pay it, no matter what the amount may be. Having learned what folly I was capable of I closed that particular incident. Percy Thomas went out of my life. Oh, yes, there are details, but if I told them all you would have to write a book about him.”
+
+Fleet-Winged Fortune
+
+“There I was, with more than nine-tenths of my stake, as Jim Fisk used to say, gone where the woodbine twineth—up the spout. I had been a millionaire rather less than a year. My millions I had made by using brains, helped by luck. I had lost them by reversing the process. I sold my two yachts and was decidedly less extravagant in my manner of living.
+
+“But that one blow wasn’t enough. Luck was against me. I ran up against illness in my family and troubles and annoyances that did not tend to make me more philosophical. My troubles culminated in the urgent need of two hundred thousand dollars in cash to help a member of my family. A few months before, that sum would have been nothing at all; but now it meant almost the entire remnant of my fleet-winged fortune. I had promised to supply the money and I had to keep my word. The question was: Where could I get it? I didn’t want to take it out of the balance I kept at my brokers’ because if I did I wouldn’t have much of a margin left for my own trading; and I needed trading facilities more than ever if I was to win back my millions quickly. There was only one alternative that I could see, and that was to take it out of the stock market!
+
+“I think that of all the mistakes I made after coming to New York that decision was the biggest, the least excusable, the most asinine. I decided to make the stock market pay for it!
+
+“Just think of it! If you know much about the average customer of the average commission house you will agree with me that the hope of making the stock market pay your bills is one of the most prolific sources of loss in Wall Street. You will chip out all you have if you adhere to your determination.
+
+“Why, in Harding’s office one winter a little bunch of high flyers spent thirty or forty thousand dollars for an overcoat—and not one of them lived to wear it. It so happened that a prominent floor trader—who since has become world-famous as one of the dollar-a-year men—came down to the Exchange wearing a fur overcoat lined with sea otter. In those days, before furs went up sky high, that coat was valued at only ten thousand dollars. Well, one of the chaps in Harding’s office, Bob Keown, decided to get a coat lined with Russian sable. He priced one. The cost was about the same, ten thousand dollars.
+
+“‘That’s the devil of a lot of money,’ objected one of the fellows.
+
+“‘Oh, fair! Fair!’ admitted Bob Keown amiably. ‘About a week’s wages—unless you guys promise to present it to me as a slight but sincere token of the esteem in which you hold the nicest man in the office. Do I hear the presentation speech? No? Very well. I shall let the stock market buy it for me!’
+
+“‘Why do you want a sable coat?’ asked Ed Harding.
+
+“‘It would look particularly well on a man of my inches,’ replied Bob, drawing himself up.
+
+“‘And how did you say you were going to pay for it?’ asked Jim Murphy, who was the star tip chaser of the office.”
+
+Wall Street Hoodoos
+
+“‘By a judicious investment of a temporary character, James. That’s how,’ answered Bob, who knew that Murphy merely wanted a tip.
+
+“Sure enough, Jimmy asked, ‘What stock are you going to buy?’
+
+“‘Wrong as usual, friend. This is no time to buy anything. I propose to sell five thousand Steel. It ought to go down ten points at the least. I’ll just take two and a half points net. That is conservative, isn’t it?’
+
+“‘What do you hear about it?’ asked Murphy eagerly. He was a tall thin man with black hair and a hungry look, due to his never going out to lunch for fear of missing something on the tape.
+
+“‘I hear that coat’s the most becoming I ever planned to get.’ He turned to Harding: ‘Ed, sell five thousand U.S. Steel common at the market. Today, darling!’
+
+“He was a plunger, Bob was, and liked to indulge in humorous talk. It was his way of letting the world know that he had an iron nerve. He sold five thousand Steel, and the stock promptly went up. Not being half as big an ass as he seemed when he talked, Bob stopped his loss at one and a half points and confided to the office that the New York climate was too benign for fur coats. They were unhealthy and ostentatious. The rest of the fellows jeered. But it was not long before one of them bought some Union Pacific to pay for the coat. He lost eighteen hundred dollars and said sables were all right for the outside of a woman’s wrap, but not for the inside of a garment intended to be worn by a modest and intelligent man.
+
+“After that, one after another of the fellows tried to coax the market to pay for that coat. One day I said I would buy it to keep the office from going broke. But they all said that it wasn’t a sporting thing to do; that if I wanted the coat for myself I ought to let the market give it to me. But Ed Harding strongly approved of my intention and that same afternoon I went to the furrier’s to buy it. I found out that a man from Chicago had bought it the week before.
+
+“That was only one case. There isn’t a man in Wall Street who has not lost money trying to make the market pay for an automobile or a bracelet or a motor boat or a painting. I could build a huge hospital with the birthday presents that the tight-fisted stock market has refused to pay for. In fact, of all hoodoos in Wall Street I think the resolve to induce the stock market to act as a fairy godmother is the busiest and most persistent.
+
+“Like all well-authenticated hoodoos this has its reason for being. What does a man do when he sets out to make the stock market pay for a sudden need? Why, he merely hopes. He gambles. He therefore runs much greater risks than he would if he were speculating intelligently, in accordance with opinions or beliefs logically arrived at after a dispassionate study of underlying conditions. To begin with, he is after an immediate profit. He cannot afford to wait. The market must be nice to him at once if at all. He flatters himself that he is not asking more than to place an even-money bet. Because he is prepared to run quick—say, stop his loss at two points when all he hopes to make is two points—he hugs the fallacy that he is merely taking a fifty-fifty chance. Why, I’ve known men to lose thousands of dollars on such trades, particularly on purchases made at the height of a bull market just before a moderate reaction. It certainly is no way to trade.
+
+“Well, that crowning folly of my career as a stock operator was the last straw. It beat me. I lost what little my cotton deal had left me. It did even more harm, for I kept on trading—and losing. I persisted in thinking that the stock market must perforce make money for me in the end. But the only end in sight was the end of my resources. I went into debt, not only to my principal brokers but to other houses that accepted business from me without my putting up an adequate margin. I not only got in debt but I stayed in debt from then on.
+
+“There I was, once more broke, which was bad, and dead wrong in my trading, which was a sight worse. I was sick, nervous, upset and unable to reason calmly. That is, I was in the frame of mind in which no speculator should be when he is trading. Everything went wrong with me. Indeed, I began to think that I could not recover my departed sense of proportion. Having grown accustomed to swinging a big line—say, more than a hundred thousand shares of stock—I feared I would not show good judgment trading in a small way. It scarcely seemed worth while being right when all you carried was a hundred shares of stock. After the habit of taking a big profit on a big line I wasn’t sure I would know when to take my profit on a small line. I can’t describe to you how weaponless I felt. I surely was in a bad way.
+
+“Broke again and incapable of assuming the offensive vigorously. In debt and wrong! After all those long years of successes, tempered by mistakes that really served to pave the way for greater successes, I was now worse off than when I began in the bucket shops. I had learned a great deal about the game of stock speculation, but I had not learned quite so much about the play of human weaknesses. There is no mind so machinelike that you can depend upon it to function with equal efficiency at all times. I now learned that I could not trust myself to remain equally unaffected by men and misfortunes at all times.”
+
+Beaten by the Game
+
+“Money losses have never worried me in the slightest. But other troubles could and did. I studied my disaster and of course found no difficulty in seeing just where I had been silly. I spotted the exact time and place. A man must know himself thoroughly if he is going to make a good job out of trading in the speculative markets. To know what I was capable of in the line of folly was a long educational step. I sometimes think that no price is too high for a speculator to pay to learn that which will keep him from getting the swelled head. A great many smashes by brilliant men can be traced directly to the swelled head—an expensive disease everywhere to everybody, but particularly to a speculator.
+
+“I was not happy in New York, feeling the way I did. I didn’t want to trade, because I wasn’t in good trading trim. I decided to go away and seek a stake elsewhere. The change of scene could help me to find myself again, I thought. So once more I left New York, beaten by the game of speculation. I was worse than broke, since I owed over one hundred thousand dollars spread among various brokers.
+
+“I went to Chicago and there found a stake. It was not a very substantial stake, but that merely meant that I would need a little more time to win back my fortune. A house that I had done business with once had faith in my ability as a trader and they were willing to prove it by allowing me to trade in their office in a small way.
+
+“I began very conservatively. I don’t know how I might have fared had I stayed there. But one of the most remarkable experiences in my career cut short my stay in Chicago. It is an almost incredible story.
+
+“One day I got a telegram from Lucius Tucker. I had known him when he was the office manager of a Stock Exchange firm that I had at times given some business to, but I had lost track of him. The telegram read:
+
+Come to New York at once.
+
+L. Tucker.
+
+“I knew that he knew from mutual friends how I was fixed and therefore it was certain he had something up his sleeve. At the same time I had no money to throw away on an unnecessary trip to New York; so instead of doing what he asked me to do, I got him on the long distance.
+
+“‘I got your telegram,’ I said. ‘What does it mean?’
+
+“‘It means that a big banker in New York wants to see you,’ he answered.
+
+“‘Who is it?’ I asked. I couldn’t imagine who it could be.
+
+“‘I’ll tell you when you get to New York. No use otherwise.’
+
+“‘You say he wants to see me?’
+
+“‘He does.’
+
+“‘What about?’
+
+“‘He’ll tell you that in person if you give him a chance’, said Lucius.
+
+> ![image](assets/00042-7d3e2fbe.jpg)
+
+“‘Can’t you write me?’
+
+“‘No.’
+
+“‘Then tell me more plainly,’ I said.
+
+“‘I don’t want to.’
+
+“‘Look here, Lucius,’ I said, ‘just tell me this much: Is this a fool trip?’
+
+“‘Certainly not. It will be to your advantage to come.’
+
+“‘Can’t you give me an inkling?’
+
+“‘No,’ he said. ‘It wouldn’t be fair to him. And besides, I don’t know just how much he wants to do for you. But take my advice: Come, and come quick.’
+
+“‘Are you sure it is I that he wishes to see?’
+
+“‘Nobody else but you will do. Better come, I tell you. Telegraph me what train you take and I’ll meet you at the station.’
+
+“‘Very well,’ I said and hung up.”
+
+Back to New York
+
+“I didn’t like quite so much mystery, but I knew that Lucius was friendly and that he must have a good reason for talking the way he did. I wasn’t faring so sumptuously in Chicago that it would break my heart to leave it. At the rate I was trading it would be a long time before I could get together enough money to operate on the old scale.
+
+“I came back to New York, not knowing what would happen. Indeed, more than once during the trip I feared nothing at all would happen and that I’d be out my railroad fare and my time. I could not guess that I was about to have the most curious experience of my entire life.
+
+“Lucius met me at the station and did not waste any time in telling me that he had sent for me at the urgent request of Mr. Daniel Williamson, of the well-known Stock Exchange house of Williamson & Brown. Mr. Williamson told Lucius to tell me that he had a business proposition to make to me that he was sure I would accept, since it would be very profitable for me. Lucius swore he didn’t know what the proposition was. The character of the firm was a guaranty that nothing improper would be demanded of me.
+
+“Dan Williamson was the senior member of the firm, which was founded by Egbert Williamson way back in the ‘70’s. There was no Brown and hadn’t been one in the firm for years. The house had been very prominent in Dan’s father’s time and Dan had inherited a considerable fortune and didn’t go after much outside business. They had one customer who was worth many average customers, and that was Alvin Marquand, who in addition to being a director in several large corporations was heavily interested in the Chesapeake and Atlantic Railroad system.
+
+“Lucius told me he had just accepted a position with Williamson & Brown—one that was made for him. He was supposed to be a sort of circulating general business getter. The firm was after a general commission business and Lucius had induced Mr. Williamson to open a couple of branch offices, one in one of the big hotels uptown and the other in Chicago. I rather gathered that I was going to be offered a position in the latter place, possibly as office manager, which was something I would not accept. I didn’t jump on Lucius because I thought I’d better wait until the offer was made before I refused it.
+
+“Lucius took me into Mr. Williamson’s private office, introduced me to his chief and left the room.
+
+“Mr. Williamson was very pleasant. He was a thorough gentleman, with polished manners and a kindly smile. I could see that he made friends easily and kept them. Why not? He was healthy and therefore good-humored. He had slathers of money and therefore could not be suspected of sordid motives. These things, together with his education and social training, made it easy for him to be not only polite but friendly, and not only, friendly but helpful.
+
+“I said nothing. I had nothing to say and, besides, I always let the other man have his say in full before I do any talking. Somebody told me that the late James Stillman, president of the National City Bank, made it his practice to listen in silence, with an impassive face, to anybody who brought a proposition to him. After the man got through Mr. Stillman continued to look at him, as though the man had not finished. So the man, feeling urged to say something more, did so. Simply by looking and listening Stillman often made the man offer terms much more advantageous to the bank than he had meant to offer when he began to speak.
+
+“I don’t keep silent just to induce people to offer a better bargain, but because I like to know all the facts of the case. By letting a man have his say in full you are able to decide at once. It is a great timesaver. It averts debates and prolonged discussions that get nowhere. Nearly every business proposition that is brought to me can be settled, as far as my participation in it is concerned, by my saying yes or no. But I cannot say yes or no right off unless I have the complete proposition before me.”
+
+A Chance to Come Back
+
+“Dan Williamson did the talking and I did the listening. He told me he had heard a great deal about my operations in the stock market and how he regretted that I had gone outside of my bailiwick and come a cropper in cotton. Still it was to my bad luck that he owed the pleasure of that interview with me. He thought my forte was the stock market, that I was born for it and that I should not stray from it.
+
+“‘And that is the reason, Mr. Livingston,’ he concluded pleasantly, ‘why we wish to do business with you.’
+
+“‘Do business how?’ I asked him.
+
+“‘Be your brokers,’ he said. ‘My firm would like to do your stock business.’
+
+“‘I’d like to give it to you,’ I said, ‘but I can’t.’
+
+“‘Why not?’ he asked.
+
+“‘I haven’t any money,’ I answered.
+
+“‘That part is all right,’ he said with a friendly smile. ‘I’ll furnish it.’ He took out a pocket check book, wrote out a check for twenty-five thousand dollars to my order, and gave it to me.
+
+“‘What’s this for?’ I asked.
+
+“‘For you to deposit in your own bank. You will draw your own checks. I want you to do your trading in our office. I don’t care whether you win or lose. If that money goes I will give you another personal check. So you don’t have to be so very careful with this one. See?’
+
+“I knew that the firm was too rich and prosperous to need anybody’s business, much less to give a fellow the money to put up as margin. And then he was so nice about it! Instead of giving me a credit with the house he gave me the actual cash, so that he alone knew where it came from, the only string being that if I traded I should do so through his firm. And then the promise that there would be more if that went! Still, there must be a reason.
+
+“‘What’s the idea?’ I asked him.
+
+“‘The idea is simply that we want to have a customer in this office who is known as a big active trader. Everybody knows that you swing a big line on the short side, which is what I particularly like about you. You are known as a plunger.’
+
+“‘I still don’t get it,’ I said.
+
+“‘I’ll be frank with you, Mr. Livingston. We have two or three very wealthy customers who buy and sell stocks in a big way. I don’t want the Street to suspect them of selling long stock every time we sell ten or twenty thousand shares of any stock. If the Street knows that you are trading in our office it will not know whether it is your short selling or the other customers’ long stock that is coming on the market.’
+
+“I understood at once. He wanted to cover up Marquand’s operations with my reputation as a plunger! It so happened that I had made my biggest killing on the bear side a year and a half before, and, of course, the Street gossips and the stupid rumor mongers had acquired the habit of blaming me for every decline in prices. To this day when the market is very weak they say I am raiding it.
+
+“I didn’t have to reflect. I saw at a glance that Dan Williamson was offering me a chance to get back and get back quick. I took the check, banked it, opened an account with his firm and began trading. It was a good active market, broad enough for a man not to have to stick to one or two specialties. I had begun to fear, as I told you, that I had lost the knack of hitting it right. But it seems I hadn’t. In three weeks’ time I had made a profit of one hundred and twelve thousand dollars out of the twenty-five thousand that Dan Williamson lent me.
+
+“I went to him and said, ‘I’ve come to pay you back that twenty-five thousand dollars.’
+
+“‘No, no!’ he said and waved me away exactly as if I had offered him a castor-oil cocktail. ‘No, no, my boy. Wait until your account amounts to something. Don’t think about it yet. You’ve only got chicken feed there.’
+
+“I should have insisted on his taking the money. I was on my way to a bigger fortune than I had lost and walking pretty fast. For three weeks my average profit was 150 per cent per week. From then on my trading would be on a steadily increasing scale. But instead of freeing myself from all obligation I let him have his way and did not compel him to accept the twenty-five thousand dollars.’ Of course, since he didn’t draw out the twenty five thousand dollars he had advanced me I felt I could not very well draw out my profit. I was very grateful to him, but I am so constituted that I don’t like to owe money or favors. I can pay the money back with money, but the favors and kindnesses I must pay back in kind—and you are apt to find these moral obligations mighty high priced at times. Moreover there is no statute of limitations.
+
+“I left the money undisturbed and resumed my trading. I was getting on very nicely. I was recovering my poise and I was sure it would not be very long before I should get back into my 1907 stride. Once I did that, all I’d ask for would be for the market to hold out a little while and I’d more than make up my losses. But making or not making the money was not bothering me much. What made me happy was that I was losing the habit of being wrong, of not being myself. It had played havoc with me but I had learned my lesson.
+
+“Just about that time I turned bear and began to sell short several railroad stocks. Among them was Chesapeake & Atlantic. I think I put out a short line in it; about eight thousand shares.”
+
+Tied Up by Gratitude
+
+“One morning when I got downtown Dan Williamson called me into his private office before the market opened and said to me: ‘Larry, don’t do anything in Chesapeake & Atlantic just now. That was a bad play of yours, selling eight thousand short. I covered it for you this morning in London and went long.’
+
+“I was sure Chesapeake & Atlantic was going down. My tape reading told it to me quite plainly; and besides I was bearish on the whole market, not violently or insanely bearish, but enough to feel comfortable with a moderate short line out. I said to Williamson, ‘What did you do that for? I am bearish on the whole market and they are all going lower.’
+
+“But he just shook his head and said, ‘I did it because I happen to know something about Chesapeake & Atlantic that you couldn’t know. My advice to you is not to sell that stock short until I tell you it is safe to do so.’
+
+“What could I do? That wasn’t an asinine tip. Dan was not only Alvin Marquand’s closest friend but he had been kind and generous to me. He had shown his faith in me and confidence in my word. I couldn’t do less than to thank him. And so my feelings again won over my judgment and I gave in. To subordinate my judgment to his desires was the undoing of me. Gratitude is something a decent man can’t help feeling, but it is for a fellow to keep it from completely tying him up. The first thing I knew I not only had lost all my profit but I owed the firm one hundred and fifty thousand dollars besides. I felt pretty badly about it, but Dan told me not to worry.
+
+“‘I’ll get you out of this hole,’ he promised. ‘I know I will. But I can only do it if you let me. You will have to stop doing business on your own hook. I can’t be working for you and then have you completely undo all my work in your behalf. Just you lay off the market and give me a chance to make some money for you. Won’t you Larry?’
+
+“Again I ask you: What could I do? I thought of his kindliness and I could not do anything that might be construed as lacking in appreciation. I had grown to like him. He was very pleasant and friendly. I remember that all I got from him was encouragement. He kept on assuring me that everything would come out O.K. One day, perhaps six months later, he came to me with a pleased smile and gave me some credit slips.
+
+“‘I told you I would pull you out of that hole,’ he said, ‘and I have.’ And then I discovered that not only had he wiped out the debt entirely but I had a small credit balance besides.
+
+“I think I could have run that up without much trouble, for the market was right, but he said to me, ‘I have bought you ten thousand shares of Central Atlantic.’ I happened to know that that was another road in which Marquand was interested.
+
+“When a man does for you what Dan Williamson did for me you can’t say anything but ‘Thank you’—no matter what your market views may be. You may be sure you’re right, but as Pat Hearne used to say: ‘You can’t tell till you bet!’ and Dan Williamson had bet for me—with his money.
+
+“Well, Central Atlantic went down and stayed down and I lost, I forget how much, on my ten thousand shares before Dan sold me out. I owed him more than ever. But you never saw a nicer or less importunate creditor in your life. Never a whimper from him. Instead, encouraging words and admonitions not to worry about it. In the end the loss was made up for me in the same generous way.”
+
+Lessons From Losses
+
+“He gave no details whatever. They were all numbered accounts. Dan Williamson would just say to me, ‘We made up your Central Atlantic loss with profits on this other deal,’ and he’d tell me how he had sold seventy-five hundred shares of some other stock and made a nice thing out of it. I can truthfully say that I never knew a blessed thing about those trades of mine until I was told that the indebtedness was wiped out.
+
+“After that happened several times I began to think, and I got to look at my case from a different angle. Finally I tumbled. It was plain that I had been used by Dan Williamson. As soon as I had gone over the whole thing in my mind I went to Dan Williamson, told him I was through, and I quit the office of Williamson & Brown. I had no words with him or any of his partners. What possible good would that have done me? But I will admit that I was sore—at myself quite as much as at Williamson & Brown.
+
+“The loss of the money didn’t bother me. Whenever I have lost money in the stock market I have always considered that I have learned something; that if I have lost money I have gained experience, so that the money really went for a tuition fee. A man has to have experience and he has to pay for it. But there was something that hurt a whole lot in that experience of mine in Dan Williamson’s office, and that was the loss of a great opportunity. The money a man loses is nothing; he can make it up. But opportunities such as I had then do not come every day.
+
+“The market, you see, had been a fine trading market. I was right; I mean, I was reading it accurately. The opportunity to make millions was there. But I allowed my gratitude to interfere with my play. I tied my own hands. I had to do what Dan Williamson in his kindness wished done. Altogether it was more unsatisfactory than doing business with a relative. Bad business!
+
+“And that wasn’t the worst thing about it. It was that after that there was practically no opportunity for me to make big money. The market flattened out. It wasn’t there. Things drifted from bad to worse. I not only lost all I had but got into debt again—more heavily than ever. Those were long lean years, 1911, 1912, 1913 and 1914. There was no money to be made. The opportunity simply wasn’t there and so I was worse off than ever.”
+
+Five Lean Years
+
+“It isn’t so uncomfortable to lose when the loss is not accompanied by a poignant vision of what might have been. That was precisely what I could not keep my mind from dwelling on, and of course it unsettled me further. I learned that the weaknesses to which a speculator is prone are almost numberless. It was proper for me as a man to act the way I did in Dan Williamson’s office, but it was improper and unwise for me as a speculator to allow my-self to be influenced by any consideration to act against my own judgment. Noblesse oblige—but not in the stock market, because the tape is not chivalrous and moreover does not reward loyalty. I realize that I couldn’t have acted differently. I couldn’t make myself over just because I wished to trade in the stock market. But business is business always, and my business as a speculator is to back my own judgment always.
+
+“It was a very curious experience. I’ll tell you what I think happened. Dan Williamson was perfectly sincere in what he told me when he first saw me. Every time his firm did a few thousand shares in any one stock the Street jumped at the conclusion that Alvin Marquand was buying or selling. He was the big trader of the office, to be sure, and he gave this firm all his business; and he was one of the best and biggest traders in Wall Street. Well, I was to be used as a smoke screen, particularly for Marquand’s selling.
+
+“It was much cheaper for them to let me get into debt and then to pay off the debt than to have me in some other office operating actively on the bear side. That is precisely what I would have been doing but for my feeling that I must not allow myself to be outdone in decency by Dan Williamson.
+
+“I have always considered this the most interesting and most unfortunate of all my experiences as a stock operator. As a lesson it cost a disproportionately high price. It put off the time of my recovery several years.
+
+“I was young enough to wait with patience for the strayed millions to come back. But five years is a long time for a man to be poor. Young or old, it is not to be relished. I could do without the yachts a great deal easier than I could without a market to come back on. The greatest opportunity of a lifetime was holding before my very nose the purse I had lost. I could not put out my hand and reach for it.”
+
+Livingston finished talking and looked at me.
+
+“Are you friendly?” I asked.
+
+“Certainly we are friendly,” he answered. “Why not?”
+
+I looked at him.
+
+“Certainly you are friendly,” I echoed.
+
+There wasn’t any Wall Street reason why they shouldn’t be.
+
+<!-- rl-section id="section-21" class="epub-section" kicker="Section 21" title="Section 21" -->
+
+## Section 21
+
+VIII.
+
+$1 Million in Debt; $1 Million Repaid
+
+Getting out of debt was more humane in the twentieth century than in previous years. Until the first bankruptcy laws were introduced in Congress in 1800, debtors’ prison was the norm for those who could not pay their debts. The first stock market debacle occurred when the market was conducted outdoors on Wall Street. William Duer, a former Treasury official and patriot during the Revolution, helped bring down the market by becoming vastly overextended in his borrowings and finally going bankrupt. He was sent to debtors’ prison where he died in 1799. A year later Congress passed the first bankruptcy law.
+
+Livingston recalls how his indebtedness was finally paid off by shrewd trading. The stocks he bought and sold were the large cap stocks such as Bethlehem Steel and Anaconda Copper, the ones in which good liquid markets existed. He also reveals how he was short at the time Woodrow Wilson’s peace overtures were reported and how he made strong profits by covering at lower prices because, as he noted, “peace was a bear item.” When the smoke cleared, his long and short positions netted him about $3 million. Being long and then short was part of the strategy, because “a man does not have to marry one side of the market till death do them part.”
+
+The profits helped him pay back his $1 million debt in 1917, although he does allude to the fact that the market did know about the peace overtures before they were made public. The last creditor he paid was the one who had bothered him the most about the unpaid debt: one who was owed only $800. With all debts paid, he was back in the speculation business, with one slight difference from the past.
+
+Using some of his profits, Livingston told Lefèvre that he bought annuities for his family. The old trader’s instincts had matured a bit. If the worst happened again, at least his family would be comfortable.
+
+When Lefèvre asked him why he did it, the answer was simple and somewhat prescient. “But by doing what I did, my wife and child are safe from me,” he admitted. Ironically, Jesse Livermore committed suicide in 1940 in a New York hotel cloakroom. He left a suicide note describing his life as a “failure.” The psychology of the marketplace could exact its toll over a career of speculation.
+
+C.G.
+
+<!-- rl-section id="section-22" class="epub-section" kicker="Section 22" title="Section 22" -->
+
+## Section 22
+
+> ![image](assets/00043-0e312bb2.jpg)
+
+Reminiscences of a Stock Operator
+
+October 7, 1922
+
+AN OLD Wall Street friend, who had guessed right two out of seven times that week, insisted on my dining with him in the grill room of an uptown hotel much frequented by expert guessers. By dwelling on the two and not on the five he had begun to encourage in himself delusions of financial genius and I had to listen. A man walked past our table, nodded at me and stopped.
+
+> ![image](assets/00044-9619de85.jpg)
+
+I said, “How—d’ye—do?”
+
+He answered, “Tiptop!”
+
+I suspected that I had known him in my Wall Street life, but I could not recall his name.
+
+My loquacious host who had that week landed twice out of seven times, but remembered only the two, saw the stranger and cried, “Hello, Charlie! Dining alone?”
+
+“Yes.”
+
+“Sit down.”
+
+Charlie sat down.
+
+I knew I was safe in remarking, “I haven’t seen you in years.”
+
+“No,” acquiesced Charlie. “What are you doing these days?”
+
+“Trying to keep awake while listening to this man here,” I answered.
+
+I could see that he remembered my face as I remembered his, and no more. The waiter brought him the bill of fare and while he studied it I turned to my friend and soundlessly made my lips ask, “Who is he?”
+
+“Charlie Wade!” whispered my friend, and made a motion with his hands that meant “wiped!”
+
+I had known Wade. He was a broker in my time—one of hundreds. And now he was broke—one of thousands.
+
+Sitting in with the Insiders
+
+MY HOST, who had been speaking of a certain Mexican oil stock, went on:
+
+“It wasn’t luck at all. It was a cinch—because I used my bean. That profit didn’t walk into my pocket of its own accord. The moment I saw that stock cross 160 I knew it wasn’t on covering by pikers, but some big fish about to be harpooned. I preferred sitting in the boat with the impaling insiders to being in the sea doing my little turn as target. That’s all.”
+
+He looked at me, a modest man compelled to listen to the applause of the intelligent audience.
+
+“Was that your first bull’s-eye this year?” I asked.
+
+“The second killing this week,” he retorted with dignity.
+
+But I said pleasantly: “Two hits out of two times at the bat. One hundred per cent sagacious. John W. Gates remarked once in my hearing that all he asked was to be right three out of five times, or 60 percent.”
+
+“And all I ask,” said my friend, “is to be right once out of five times. One in five. Because why? Because when I am wrong I run quick, and when I’m right I push my luck. Each time I’m wrong costs me five thousand at the most. That is, a maximum of twenty thousand for the four wrong times. But when I’m right I do not call it a day’s work this side of a hundred thousand. That’s the reason.”
+
+“A very good reason,” I said.
+
+But I should not have smiled, because he said tartly, “That’s what your friend Larry Livingston does.”
+
+Charlie Wade had finished giving his order to the waiter. He asked me, “Have you read those articles in The Saturday Evening Post about him?”
+
+> ![image](assets/00045-affe49be.jpg)
+
+“He’s the bird that wrote them,” broke in my friend, vindictively pointing at me.
+
+“Oh, did you?” said Charlie.
+
+“You know, he had an account in our office.”
+
+“When?” I asked.
+
+“Oh, that’s more than fifteen years ago. But I’ll never forget how he came to us.”
+
+“I’d like to hear the story,” I said, and meant it.
+
+Charlie looked grateful and spoke.
+
+“My father had been talking of retiring for some time, and while I didn’t want him to think I’d be glad to get rid of him, at the same time I was anxious for a chance to show him what I could do if I was boss. If you remember my father at all you’ll remember that he was a mighty good broker, if I say so myself. It was all he knew how to do, but there weren’t many much better than he. He did a lot of two-dollar business on the floor but he was no man to turn loose on a lot of customers in an office. So I asked nothing better than a chance to run our shop the way it ought to be run, without any grumbling from him. I was doing fairly well, but I had too many handicaps. Think of it! The old gentleman wouldn’t allow me to put in a quotation board in the office! He thought it was too common, too much like a bucket shop!
+
+“I had for an office manager a chap named Giddings. One day I was talking to him about the desirability of having a few really active trading accounts, to enable us to smile gratefully on the hundred-shares-a-month birds we had. I knew that he was a friend of Larry Livingston, the Boy Plunger in Harding’s office. So I said to Giddings, ‘Why don’t you try to get Livingston’s account?’
+
+“‘I have,’ said Giddings.
+
+“‘What did he say?’
+
+“‘Nothing!’
+
+“‘You mean that he didn’t say either yes or no?’
+
+“‘I mean that I haven’t got his business.’
+
+“‘Did you ask him for a part of it?’ I asked.
+
+“‘Not in so many words,’ said Giddings.
+
+“‘Well, then,’ I said, ‘in how many words did you ask him?’
+
+“‘I didn’t ask him in any words. But he knows I’m with this firm and he knows we are members of the New York Stock Exchange and do a stock-commission business. If he wanted to trade through us he’d do it. He doesn’t need to be asked.’
+
+“‘But if you would ask him you’d know if there was any chance of our ever getting any of his business,’ I said.
+
+“‘Charlie, I couldn’t and I wouldn’t,’ said Giddings. ‘He and I are very friendly. But the only way he’ll ever come into this office will be of his own free will and accord. I have never talked stock market with him, nor he with me. I have always felt it would be unwise.’
+
+“I wasn’t convinced, but I couldn’t very well insist. As I told you, my father wouldn’t let us put in a quotation board. He thought that two tickers in the room were enough to keep gentlemen posted on the market, and the other kind he didn’t want hanging around. Well, I was standing beside one of the tickers a few days after my talk with Giddings, when a chap walked in. He was tall and straight, smooth-shaven and very fair-haired.
+
+“He nodded to Giddings, said ‘Hello!’ shortly, and walked over to the other ticker. There wasn’t anybody else in the room at the time. Giddings said ‘Good morning, Larry. How are you?’ very cordially; but Livingston paid no attention whatever to him. He was looking at the tape.
+
+“Pretty soon he looked up and asked abruptly, ‘What sort of execution do you give here?’
+
+“‘As good as you can get from anybody,’ answered Giddings.
+
+“Instantly Livingston put his left hand into his trousers pocket and took out some bills. He counted out five and handed them to Giddings. They were for one thousand dollars each. He began to study the tape again. Pretty soon he put his right hand in his fob pocket, took out a stop watch and said, ‘Buy me five hundred Amalgamated!’
+
+“Giddings shot the order over to the board room. He must have told the old gentleman to get a hustle on, for in a jiffy we got his report. Giddings rushed in and told Livingston what we had got the five hundred Amalgamated for.
+
+“Livingston stopped the watch, looked at it, put it back in his pocket without a word and resumed his reading of the tape. Pretty soon he put his hand into his trousers pocket, fished up some more bills and held them out towards Giddings without taking his eyes off the tape. Then he took out his stop watch again and said, ‘Buy another five hundred!’”
+
+The Boy Plunger at Work
+
+“WHEN we got his report he looked at the stop watch, saw exactly how long it had taken us to get his stock, and doubtless compared prices. Apparently he was satisfied, for he took off his hat and tossed it to Giddings, who hung it on the rack.
+
+“Livingston didn’t speak. He just looked at the tape and smoked one cigar after another without intermission. Before the market closed that day he bought and sold between three and four thousand shares, and was ahead, as I remember, a couple of thousand dollars net on the day’s trading. As soon as the market closed he walked to the hatrack near the door, took his derby and put it on with extreme care, almost as if he had a headache and didn’t wish to make it worse. From the door he spoke to Giddings:
+
+“‘Got a private office you can give me?’
+
+“‘Yes,’ answered Giddings promptly.
+
+“Livingston nodded. ‘Good night,’ he said, and walked out.
+
+“I arranged to have another ticker put in my father’s private office, which we seized for Larry. We had it cleaned up and straightened out, and when Livingston came to trade the next day he found everything ready for him.
+
+“He came in at 9:50. Giddings took him into the private office. Livingston sat down and read all the news slips and bulletins, but made no comments whatever. The moment the ticker began to whir he got up to stand beside it and said, ‘You ought to put in a quotation board.’
+
+“‘We’ll do it,’ said Giddings, who explained to me that Livingston simply had to have both a quotation board and the tape to look at when he traded.
+
+“Well, sir, Livingston bought and sold seventy thousand shares the first week he was in our office. I don’t remember exactly how long he stayed with us, but it was a matter of months. He seemed satisfied with the execution. Then one afternoon without any warning or preamble he said, ‘I’m going away!’ and asked for a check for his balance. He closed his account and never again came into our office. Giddings never knew why he quit us and I never asked Giddings to ask him for an explanation. I saw enough of Livingston to know that he was the kind of man who never did anything without a good reason or mixed business with sentiment. I felt it was useless to ask him to come back to us, so I never even tried. While it lasted it was a mighty profitable business. One day we took in over five thousand dollars in commissions. He sure was the Boy Plunger. We liked him. I never saw him display either anger or impatience—or, for that matter, pleasure. But Giddings used to tell me that he was full of fun and good-natured—outside of Wall Street. It was doubtless his habit of intense concentration that made him so silent in our office.”
+
+“Your soup’s getting cold,” said my friend, and Charlie Wade ceased his reminiscences.
+
+It was not until the next afternoon after the close of the market that I saw Larry Livingston. I told him I wanted more reminiscences, and without appreciable effort he resumed his narrative:
+
+“It has always rankled in my mind that after I left Williamson & Brown’s office the cream was off the market. We ran smack into a long moneyless period; four mighty lean years. There was not a penny to be made. As Billy Henriquez once said, ‘It was the kind of market in which not even a skunk could make a scent.’”
+
+In Dutch with Destiny
+
+“IT LOOKED to me as though I was in Dutch with destiny. It might have been the plan of Providence to chasten me, but really I had not been filled with such pride as called for a fall. I had not committed any of those speculative sins which a trader must expiate on the debtor side of the account. I was not guilty of a typical sucker play. What I had done, or, rather, what I had left undone, was something for which I would have received praise and not blame—north of Forty-second Street. In Wall Street it was absurd and costly. But by far the worst thing about it was the tendency it had to make a man a little less inclined to permit himself human feelings in the ticker district.
+
+> ![image](assets/00046-2bd96cff.jpg)
+
+“I left Williamson’s and tried other brokers’ offices. In every one of them I lost money. It served me right, because I was trying to force the market into giving me what it didn’t have to give—to wit, opportunities for making money. I did not find any trouble in getting credit, because those who knew me had faith in me. You can get an idea of how strong their confidence was when I tell you that when I finally stopped trading on credit I owed well over one million dollars.
+
+“The trouble was not that I had lost my grip, but that during those four wretched years the opportunities for making money simply didn’t exist. Still I plugged along, trying to make a stake and succeeding only in increasing my indebtedness. After I ceased trading on my own hook because I wouldn’t owe my friends any more money I made a living handling accounts for people who believed I knew the game well enough to beat it even in a dull market. For my services I received a percentage of the profits—when there were any. That is how I lived. Well, say that is how I sustained life.
+
+“All this that I have told you took time. I didn’t always lose, but I never made enough to allow me materially to reduce what I owed. Finally, as things got worse, I felt the beginnings of discouragement for the first time in my life.
+
+“Everything seemed to have gone wrong with me. I did not go about bewailing the descent from millions and yachts to debts and the simple life. I didn’t enjoy the situation, but I did not fill up with self-pity. I did not propose to wait patiently for time and Providence to bring about the cessation of my discomforts. I therefore studied my problem. It was plain that the only way out of my troubles was to make money. To make money I needed merely to trade successfully. I had so traded before and I must do so once more. More than once in the past I had run up a shoe string into hundreds of thousands. Sooner or later the market would offer me an opportunity.
+
+“I convinced myself that whatever was wrong was wrong with me and not with the market. Now, what could be the trouble with me? I asked myself that question in the same spirit in which I always study the various phases of my trading problems. I thought about it calmly and came to the conclusion that my main trouble came from worrying over the money I owed. I was never free from the mental discomfort of it. I must explain to you that it was not the mere consciousness of my indebtedness. Any business man contracts debts in the course of his regular business. Most of my debts were really nothing but business debts, due to what were unfavorable business conditions for me, and no worse than a merchant suffers from, for instance, when there is an unusually prolonged spell of unseasonable weather.
+
+“Of course as time went on and I could not pay I began to feel less philosophical about my debts. I’ll explain: I owed over a million dollars—all of it stock-market losses, remember. Most of my creditors were very nice and didn’t bother me; but there were two who did bedevil me. They used to follow me around. Every time I made a winning each of them was Johnny-on-the-spot, wanting to know all about it and insisting on getting theirs right off. One of them, to whom I owed eight hundred dollars, threatened to sue me, seize my furniture, and so forth. I can’t conceive why he thought I was concealing assets, unless it was that I didn’t quite look like a stage hobo about to die of destitution.
+
+“As I studied the problem I saw that it wasn’t a case that called for reading the tape, but for reading my own self. I quite cold-bloodedly reached the conclusion that I would never be able to accomplish anything useful so long as I was worried, and it was equally plain that I should be worried so long as I owed money. I mean, as long as any creditor had the power to vex me or to interfere with my coming back by insisting upon being paid before I could get a decent stake together. This was all so obviously true that I said to myself, ‘I must go through bankruptcy.’ What else could relieve my mind?
+
+“It sounds both easy and sensible, doesn’t it? But it was more than unpleasant, I can tell you. I hated to do it. I hated to put myself in a position to be misunderstood or misjudged. I myself never cared much for money. I never thought enough of it to consider it worth while lying for. But I knew that everybody didn’t feel that way. Of course I also knew that if I got on my feet again I’d pay everybody off, for the obligation would remain. But unless I was able to trade in the old way I’d never be able to pay back that million.”
+
+A Million-Dollar Debt
+
+“I NERVED myself and went to see my creditors. It was a mighty difficult thing for me to do, for all that most of them were personal friends or old acquaintances.
+
+“I explained the situation quite frankly to them. I said: ‘I am not going to take this step because I don’t wish to pay you, but because, in justice to both myself and you, I must put myself in a position to make money. I have been thinking of this solution off and on for over two years but I simply didn’t have the nerve to come out and say so frankly to you. It would have been infinitely better for all of us if I had. It all simmers down to this: I positively cannot be my old self while I am harassed or upset by these debts. I have decided to do now what I should have done a year ago. I have no other reason than the one I have just given you.’
+
+“What the first man said was to all intents and purposes what all of them said. He spoke for his firm.
+
+“‘Livingston,’ he said, ‘we understand. We realize your position perfectly. I’ll tell you what we’ll do: We’ll just give you a release. Have your lawyer prepare any kind of paper you wish, and we’ll sign it.’
+
+“That was in substance what all my big creditors said. That is one side of Wall Street for you. It wasn’t merely careless good nature or sportsmanship. It was also a mighty intelligent decision, for it was clearly good business. I appreciated both the good will and the business ability.
+
+“These creditors gave me a release on debts amounting to over a million dollars. But there were the two minor creditors who wouldn’t sign off. One of them was the eight-hundred-dollar man I told you about. I also owed sixty thousand dollars to a brokerage firm which had gone into bankruptcy, and the receivers, who didn’t know me from Adam, were on my neck early and late. Even if they had been disposed to follow the example set by my largest creditors I don’t suppose the court would have let them sign off. At all events my schedule of bankruptcy amounted to only about one hundred thousand dollars, though, as I said, I owed well over a million.”
+
+> ![image](assets/00047-c7bc9f95.jpg)
+
+A Fresh Start
+
+“IT WAS extremely disagreeable to see the story in the newspapers. I had always paid my debts in full and this new experience was most mortifying to me. I knew I’d pay off everybody some day if I lived, but everybody who read the article wouldn’t know it. I was ashamed to go out after I saw the report in the newspapers. But it all wore off presently and I cannot tell you how intense was my feeling of relief to know that I wasn’t going to be harried any more by people who didn’t understand how a man must give his entire mind to his business—if he wishes to succeed in stock speculation.
+
+“My mind now being free to take up trading with some prospect of success, unvexed by debts, the next step was to get another stake. The Stock Exchange had been closed from July thirty-first to the middle of December, 1914, and Wall Street was in the dumps. There hadn’t been any business whatever in a long time. I owed all my friends. I couldn’t very well ask them to help me again just because they had been so friendly to me, when I knew that nobody was in a position to do much for anybody.
+
+“It was a mighty difficult task, getting a decent stake, for with the closing of the Stock Exchange there was nothing that I could ask any broker to do for me. I tried in a couple of places. No use.
+
+“Finally I went to see Dan Williamson. This was in February, 1915. I told him that I had rid myself of the mental incubus of debt and I was ready to trade as of old. You will recall that when he needed me he offered me the use of twenty-five thousand dollars without my asking him.
+
+“Now that I needed him he said, ‘When you see something that looks good to you and you want to buy five hundred shares go ahead and it will be all right.’
+
+“I thanked him and went away. He had kept me from making a great deal of money and the office had lost a lot in commissions. I admit I was a little sore to think that Williamson & Brown didn’t give me a decent stake. I intended to trade conservatively at first. It would make my financial recovery easier and quicker if I could begin with a line a little better than five hundred shares. But, anyhow, I realized that, such as it was, there was my chance to come back.
+
+“I left Dan Williamson’s office and studied the situation in general and my own problem in particular. It was a bull market. That was as plain to me as it was to thousands of traders. But my stake consisted merely of an offer to carry five hundred shares for me. That is, I had no leeway, limited as I was. I couldn’t afford even a slight setback at the beginning. I must build up my stake with my very first play. That initial purchase of mine of five hundred shares must be profitable. I had to make real money. I knew that unless I had sufficient trading capital I would not be able to use good judgment. Without adequate margins it would be impossible to take the cold-blooded, dispassionate attitude toward the game that comes from the ability to afford a few minor losses such as I often incurred in testing the market before putting down the big bet.
+
+“I think now that I found myself then at the most critical period of my career as a speculator. If I failed this time there was no telling where or when, if ever, I might get another stake for another try. It was very clear that I simply must wait for the exact psychological moment.
+
+“I didn’t go near Williamson & Brown’s. I mean, I purposely kept away from them for six long weeks of steady tape reading. I was afraid that if I went to the office, knowing that I could buy five hundred shares, I might be tempted into trading at the wrong time or in the wrong stock. A trader, in addition to studying basic conditions, remembering market precedents and keeping in mind the psychology of the sucker public as well as the limitations of his brokers, must also know himself and provide against his own weaknesses. There is no need to feel anger over being human. I have come to feel that it is as necessary to know how to read myself as to know how to read the tape. I have studied and reckoned on my own reactions to given impulses or to the inevitable temptations of an active market, quite in the same mood and spirit as I have considered crop conditions or analyzed reports of earnings.”
+
+Watching and Waiting
+
+“So day after day, broke and anxious to resume trading, I sat in front of a quotation board in another broker’s office where I couldn’t buy or sell as much as one share of stock, studying the market, not missing a single transaction on the tape, watching for the psychological moment to ring the full-speed-ahead bell.
+
+“By reason of conditions known to the whole world the stock I was most bullish on in those critical days of early 1915 was Bethlehem Steel. I was morally certain it was going way up, but in order to make sure that I would win on my very first play, as I must, I decided to wait until it crossed par.
+
+“I think I have told you it has been my experience that whenever a stock crosses 100 or 200 or 300 for the first time, it nearly always keeps going up for 30 to 50 points—and after 300 faster than after 100 or 200. One of my first big coups was in Anaconda, which I bought when it crossed 200 and sold a day later at 260. My practice of buying a stock just after it crossed par dated back to my early bucket-shop days. It is an old trading principle.
+
+“You can imagine how keen I was to get back to trading on my old scale. I was so eager to begin that I could not think of anything else; but I held myself in leash. I saw Bethlehem Steel climb, every day, higher and higher, as I was sure it would, and yet there I was, checking my impulse to run over to Williamson & Brown’s office and buy five hundred shares. I knew I simply had to make my initial operation as nearly a cinch as was humanly possible.
+
+“Every point that stock went up meant five hundred dollars I had not made. The first ten points’ advance meant that I would have been able to pyramid, and instead of five hundred shares I might now be carrying one thousand shares that would be earning for me one thousand dollars a point. But I sat tight and instead of listening to my loud-mouthed hopes or to my clamorous beliefs I heeded only the level voice of my experience and the counsel of common sense. Once I got a decent stake together I could afford to take chances. But without a stake, taking chances, even slight chances, was a luxury utterly beyond my reach. Six weeks of patience—but, in the end, a victory for common sense over greed and hope!
+
+“I really began to waver and sweat blood when the stock got up to 90. Think of what I had not made by not buying, when I was so bullish! Well, when it got to 98 I said to myself, ‘Bethlehem is going through 100, and when it does the roof is going to blow clean off!’ The tape said the same thing more than plainly. In fact, it used a megaphone. I tell you, I saw 100 on the tape when the ticker was only printing 98. And I knew that wasn’t the voice of my hope or the sight of my desire, but the assertion of my tape-reading instinct. So I said to myself, ‘I can’t wait until it gets through 100. I have to get it now. It is as good as gone through par.’”
+
+Bethlehem Goes Kiting
+
+“I rushed to Williamson & Brown’s office and put in an order to buy five hundred shares of Bethlehem Steel. The market was then 98. I got my five hundred shares at 98 to 99. After that she shot right up, and closed that night, I think, at 114 or 115. I bought five hundred shares more.
+
+“The next day Bethlehem Steel was 145 and I had my stake. But I earned it. Those six weeks of waiting for the right moment were the most strenuous and wearing six weeks I ever put in. But it paid me, for I now had enough capital to trade in fair-sized lots. I never would have got anywhere just on five hundred shares of stock.
+
+“There is a great deal in starting right, whatever the enterprise may be, and I did very well after my Bethlehem deal—so well, indeed, that you would not have believed it was the selfsame man trading. As a matter of fact I wasn’t the same man, for where I had been harassed and wrong I was now at ease and right. There were no creditors to annoy and no lack of funds to interfere with my thinking or with my listening to the truthful voice of experience, and so I was winning right along.
+
+“All of a sudden, as I was on my way to a sure fortune, we had the Lusitania break. Every once in a while a man gets a crack like that in the solar plexus, probably that he may be reminded of the sad fact that no human being can be so uniformly right on the market as to be beyond the reach of unprofitable accidents. I have heard people say that no professional speculator need have been hit very hard by the news of the torpedoing of the Lusitania, and they go on to tell how they had it long before the Street did. I was not clever enough to escape by means of advance information, and all I can tell you is that on account of what I lost through the Lusitania break and one or two other reverses that I wasn’t wise enough to foresee, I found myself at the end of 1915 with a balance at my brokers’ of about one hundred and forty thousand dollars. That was all I actually made, though I was consistently right on the market throughout the greater part of the year.
+
+“I did much better during the following year. I was very lucky. I was rampantly bullish in a wild bull market. Things were certainly coming my way so that there wasn’t anything to do but to make money. It made me remember a saying of the late H. H. Rogers, of the Standard Oil Company, to the effect that there were times when a man could no more help making money than he could help getting wet if he went out in a rainstorm without an umbrella. It was the most clearly defined bull market we ever had. It was plain to everybody that the Allied purchases of all kinds of supplies here made the United States the most prosperous nation in the world. We had all the things that no one else had for sale, and we were fast getting all the cash in the world. I mean that the wide world’s gold was pouring into this country in torrents. Inflation was inevitable, and, of course, that meant rising prices for everything.
+
+“All this was so evident from the first that little or no manipulation for the rise was needed. That was the reason why the preliminary work was so much less than in other bull markets. And not only was the war-bride boom more naturally developed than all others but it proved unprecedentedly profitable for the general public. That is, the stock-market winnings during 1915 were more widely distributed than in any other boom in the history of Wall Street. That the public did not turn all their paper profits into good hard cash or that they did not long keep what profits they actually took was merely history repeating itself. Nowhere does history indulge in repetitions so often or so uniformly as in Wall Street. When you read contemporary accounts of booms or panics the one thing that strikes you most forcibly is how little either stock speculation or stock speculators today differ from yesterday. The game does not change and neither does human nature.
+
+“I went along with the rise in 1916. I was as bullish as the next man, but of course I kept my eyes open. I knew, as everybody did, that there must be an end, and I was on the watch for warning signals. I wasn’t particularly interested in guessing from which quarter the tip would come and so I didn’t stare at just one spot. I was not, and I never have felt that I was, wedded indissolubly to one or the other side of the market. That a bull market has added to my bank account or a bear market has been particularly generous I do not consider sufficient reason for sticking to the bull or the bear side after I get the get-out warning. A man does not swear eternal allegiance to either the bull or the bear side. His concern lies with being right.”
+
+Early Signs of a Bear Market
+
+“And there is another thing to remember, and that is that a market does not culminate in one grand blaze of glory. Neither does it end with a sudden reversal of form. A market can and does often cease to be a bull market long before prices generally begin to break. My long expected warning came to me when I noticed that, one after another, those stocks which had been the leaders of the market reacted several points from the top and—for the first time in many months—did not come back. Their race evidently was run, and that clearly necessitated a change in my trading tactics.
+
+“It was simple enough. In a bull market the trend of prices, of course, is decidedly and definitely upward. Therefore whenever a stock goes against the general trend you are justified in assuming that there is something wrong with that particular stock. It is enough for the experienced trader to perceive that something is wrong. He must not expect the tape to become a lecturer. His job is to listen for it to say ‘Get out!’ and not wait for it to submit a legal brief for approval.
+
+“As I said before, I noticed that stocks which had been the leaders of the wonderful advance had ceased to advance. They dropped six or seven points and stayed there. At the same time the rest of the market kept on advancing under new standard bearers. Since nothing wrong had developed with the companies themselves, the reason had to be sought elsewhere. Those stocks had gone with the current for months. When they ceased to do so, though the bull tide was still running strong, it meant that for those particular stocks the bull market was over. For the rest of the list the tendency was still decidedly upward.
+
+“There was no need to be perplexed into inactivity, for there were really no cross-currents. I did not turn bearish on the market then, because the tape didn’t tell me to do so. The end of the bull market had not come, though it was within hailing distance. Pending its arrival there was still bull money to be made. Such being the case, I merely turned bearish on the stocks which had stopped advancing; and as the rest of the market had rising power behind it I both bought and sold.
+
+“The leaders that had ceased to lead I sold. I put out a short line of five thousand shares in each of them; and then I went long of the new leaders. The stocks I was short of didn’t do much, but my long stocks kept on rising. When finally these, in turn, ceased to advance I sold them out and went short—five thousand shares of each. By this time I was more bearish than bullish, because obviously the next big money was going to be made on the down side. While I felt certain that the bear market had really begun before the bull market had really ended, I knew the time for being a rampant bear was not yet. There was no sense in being more royalist than the king; especially in being so too soon. The tape merely said that patroling parties from the main bear army had dashed by. Time to get ready.”
+
+A Chance to Cover
+
+“I kept on both buying and selling until after about a month’s trading I had out a short line of sixty thousand shares—five thousand shares each in a dozen different stocks which earlier in the year had been the public’s favorites because they had been the leaders of the great bull market. It was not a very heavy line; but don’t forget that neither was the market definitely bearish.
+
+“Then one day the entire market became quite weak and prices of all stocks began to fall. When I had a profit of at least four points in each and every one of the twelve stocks that I was short of, I knew that I was right. The tape told me it was now safe to be bearish, so I promptly doubled up.
+
+“I had my position. I was short of stocks in a market that now was plainly a bear market. There wasn’t any need for me to push things along. The market was bound to go my way, and, knowing that, I could afford to wait. After I doubled up I didn’t make another trade for a long time. About seven weeks after I put out my full line we had the famous leak, and stocks broke badly. It was said that somebody had advance news from Washington that President Wilson was going to issue a message that would bring back the dove of peace to Europe in a hurry. Of course the war-bride boom was started and kept up by the World War, and peace was a bear item. When one of the cleverest traders on the floor was accused of profiting by advance information he simply proved he had sold stocks not on any news but because he considered that the bull market was over-ripe. I myself had doubled my line of shorts seven weeks before.
+
+“On the news the market broke badly and I naturally covered. It was the only play possible. When something happens on which you had not counted when you made your plans it behooves you to utilize the opportunity that a kindly fate offers you. For one thing, on a bad break like that you have a big market, one that you can turn around in, and that is the time to turn your paper profits into real money. Even in a bear market a man cannot always buy one hundred and twenty thousand shares of stock without putting up the price on himself. He must wait for the market that will allow him to buy that much at no damage to his profit as it stands him on paper.
+
+“I should like to point out to you that I was not counting on that particular break at that particular time for that particular reason. But, as I have told you before, my experience of thirty years as a trader is that such accidents are usually along the line of least resistance on which I base my operations in the market. Another thing to bear in mind is this: Never try to sell at the top. It isn’t wise. Sell after a reaction if there is no rally.
+
+“I cleared about three million dollars in 1916 by being bullish as long as the bull market lasted and then by being bearish when the bear market started. As I said before, a man does not have to marry one side of the market till death do them part.
+
+“That winter I went South, to Palm Beach, as I usually do for a vacation, because I am very fond of salt-water fishing. I was short of stocks and wheat, and both lines showed me a handsome profit. There wasn’t anything to annoy me and I was having a good time. Of course unless I go to Europe I cannot really be out of touch with the stock or commodities markets. For instance, in the Adirondacks I have a direct wire from my broker’s office to my house.
+
+“In Palm Beach I used to go to my broker’s branch office regularly. I noticed that cotton, in which I had no interest, was strong and rising. About that time—this was in 1917—I heard a great deal about the efforts that President Wilson was making to bring about peace. The reports came from Washington, both in the shape of press dispatches and private advices to friends in Palm Beach. That is the reason why one day I got the notion that the course of the various markets reflected confidence in Mr. Wilson’s success. With peace supposedly close at hand, stocks and wheat ought to go down and cotton up. I was all set as far as stocks and wheat went, but I had not done anything in cotton in some time.
+
+“At 2:20 that afternoon I did not own a single bale, but at 2:25 my belief that peace was impending made me buy fifteen thousand bales as a starter. I proposed to follow my old system of trading—that is, of buying my full line—which I have already described to you.
+
+“That very afternoon, after the market closed we got the unrestricted-warfare note. There wasn’t anything to do except to wait for the market to open the next day. I recall that at Gridley’s that night one of the greatest captains of industry in the country was offering to sell any amount of United States Steel at five points below the closing price that afternoon. There were several Pittsburgh millionaires within hearing. Nobody took the big man’s offer. They knew there was bound to be a whopping big break at the opening.
+
+“Sure enough, the next morning the stock and commodity markets were in an uproar, as you can imagine. Some stocks opened eight points below the previous night’s close. To me that meant a heaven-sent opportunity to cover all my shorts profitably. As I said before, in a bear market it is always wise to cover if complete demoralization suddenly develops. That is the only way, if you swing a good-sized line, of turning a big paper profit into real money both quickly and without regrettable reductions. For instance, I was short fifty thousand shares of United States Steel alone. Of course I was short of other stocks, and when I saw I had the market to cover in, I did. My profits amounted to about one and a half million dollars. It was not a chance to disregard.”
+
+A Matter of Bookkeeping
+
+“Cotton, of which I was long fifteen thousand bales, bought in the last half hour of the trading the previous afternoon, opened down five hundred points. Some break! It meant an overnight loss of three hundred and seventy-five thousand dollars. While it was perfectly clear that the only wise play in stocks and wheat was to cover on the break I was not so clear as to what I ought to do in cotton. There were various things to consider, and while I always take my loss the moment I am convinced I am wrong, I did not like to take that loss that morning. Then I reflected that I had gone South to have a good time fishing instead of perplexing myself over the course of the cotton market. And moreover, I had taken such big profits in my wheat and in stocks that I decided to take my loss in cotton, I would figure that my profit had been a little more than one million instead of over a million and a half. It was all a matter of bookkeeping, as promoters are apt to tell you when you ask too many questions.
+
+“When I returned to New York early in 1917 I paid back all the money I owed, which was over a million dollars. It was a great pleasure to me to pay my debts. I might have paid it back a few months earlier, but I didn’t for a very simple reason. I was trading actively and successfully and I needed all the capital I had. I owed it to myself as well as to the men I considered my creditors to take every advantage of the wonderful markets we had in 1915 and 1916. I knew that I would make a great deal of money and I wasn’t worrying because I was letting them wait a few months longer for money many of them never expected to get back. I did not wish to pay off my obligations, in driblets or to one man at a time, but in full to all at once. So as long as the market was doing all it could for me I just kept on trading on as big a scale as my resources permitted.
+
+“I wished to pay interest, but all those creditors who had signed releases positively refused to accept it. The man I paid off the last of all was the chap I owed the eight hundred dollars to, who had made my life a burden and had upset me until I couldn’t trade. I let him wait until he heard that I had paid off all the others. Then he got his money. I wanted to teach him to be considerate the next time somebody owed him a few hundreds.
+
+“And that is how I came back,” finished Lawrence Livingston, looking at me meditatively, as though he were not quite certain whether he had forgotten to tell me some important details.
+
+Paying for Dead Horses
+
+As I looked at him I thought of his great discovery: That he couldn’t trade successfully while his debts were hanging over him. He went through bankruptcy in order to be free from the disturbing interference of a thought, to rid himself of an unprofitable state of mind—all the time urged by the wish to succeed in order to discharge those self-same harassing obligations. To me his recognition of his need was much more of a feat than his clairvoyant reading of the tape. To be greatly successful in any business a man must know not only his own business but his own self. And this man certainly knew both.
+
+I asked him, “And was it before or after you paid off the money you owed that you salted away the millions your friends talk about?”
+
+“It was after I paid off my debts in full. I put a pretty fair amount into annuities,” answered Livingston.
+
+One of his friends told me he gets 4 per cent on five millions. I didn’t ask him about the amount because it didn’t interest me so much as his reasons.
+
+“Why?” I asked.
+
+And he answered, “I made up my mind I wasn’t going to be strapped and uncomfortable and minus a stake ever again.”
+
+“But,” I objected, “annuities cease with your death, and you have a family.”
+
+“Yes,” said Livingston, “but after I married I put some money in trust for my wife. And after the boy came I put some in trust for him.”
+
+“And why did you do that?” I asked.
+
+“It is the only thing to do,” he said.
+
+“Is it because you think the stock market might take it away from you?”
+
+“I know this,” said Livingston earnestly: “that a man will spend anything he can lay his hands on; and also that he can lose every cent. But by doing what I did my wife and child are safe from me.”
+
+I smiled. He frowned. I explained my smile.
+
+“Livingston, you are right, and you confirm a pet theory of mine. But I remember how an old friend of ours married right after his first failure. When he made another fortune in the cotton market I said to him: ‘When you went broke before, you were single. It didn’t matter how you lived. But now you have others dependent upon you. Are you absolutely certain that you will never go broke again or are you going to provide against such a possibility?’ I remember that our friend smiled to think that I should believe him a cross between a conceited ass and a selfish pig, and told me that he had put away eight hundred thousand dollars in trust for his wife. I don’t know what happened to that money.”
+
+Lawrence Livingston’s face flushed with obvious anger. But it was not directed against me, as I perceived when he spoke.
+
+“Yes,” he said with feeling; “but that man coaxed his wife to sign off when he needed the money, and he lost it. But I have fixed it up so that no matter what I want or what my wife wants, that trust holds. It is absolutely safe from all attacks by either of us; safe from my market needs; safe even from a devoted wife’s love. I’m taking no chances!”
+
+“You are a wise man,” I quite unnecessarily assured him.
+
+He said nothing, but the expression on his face was very curious. It was an amazing blending of a smile and a sneer—as though I thought he didn’t know all the enemies that a stock operator has to reckon with.
+
+<!-- rl-section id="section-23" class="epub-section" kicker="Section 23" title="Section 23" -->
+
+## Section 23
+
+IX.
+
+Black Cats and Irresistible Impulses
+
+In this installment, Livingston relates how most of his hunches were based upon his reading of the ticker tape rather than upon an idea out of the blue sky. The few trades that he admitted were done on hunches were really quick reactions to directions he read in the ticker tape. But there was more to some of the tales than simply the tape.
+
+One stock described by Livingston—Guiana Gold—was listed on the NYSE after trading in the curb market for some time. The New York Times and other newspapers more politely referred to the group of al fresco stocks as the “Outside Market.” According to Livingston, when the stock became listed on the NYSE its price broke sharply and short sellers profited. His account of the break involves the company striking barren rock rather than gold and incidents concerning its directors and other fundamentals. But a part of the story was omitted.
+
+About the same time that the articles were published in the Saturday Evening Post, at least one market operator was being charged with rigging the market. In this case, the market operator took payment from a company to ensure that the NYSE would list it after it traded on the curb. The NYSE had listing requirements then as now and he agreed to make sure that the company met the criteria. One important criterion was the stock’s price. The NYSE did not trade stocks with low nominal prices so the price of the newly listed ones would have to be at a high dollar figure. The operator agreed to rig the price of the stock at high levels and keep them there until the exchange was satisfied.
+
+Anyone familiar with the technique practiced by this operator could have felt relatively certain that a newly listed stock would indeed break once more information was known about the company after it was listed on the Big Board, especially if the price had appreciated substantially since leaving the curb market. As Livingston put it, he looked for inside buying on the stock and did not find any. “It was enough that their market plans plainly did not include further manipulation for the rise,” he re-called, indicating that he knew quite a bit about the technique that otherwise was not well known outside the group of professional operators.
+
+C.G.
+
+<!-- rl-section id="section-24" class="epub-section" kicker="Section 24" title="Section 24" -->
+
+## Section 24
+
+> ![image](assets/00048-ffe2e88b.jpg)
+
+Reminiscences of a Stock Operator
+
+October 21, 1922
+
+ONE night at my club when I was in a listening mood a man who had known Lawrence Livingston for years suddenly asked me, “Did Larry ever tell you about Nanny Martindale?”
+
+> ![image](assets/00049-5b8236bd.jpg)
+
+“No,” I answered, and prepared to endure.
+
+“Get him to tell you.”
+
+His name was Tucker and he was a model stockbroker. He had a kindly smile, remembering eyes and a very well-shaped head. His face suggested much more than amiable intelligence; it told instantly and unmistakably of a quick understanding and loyalty—the kind that turns all clients into friends and is never too tired to serve for the love of it.
+
+“No; you tell me if it isn’t indiscreet. Was Nanny a chorus lady or merely a pet goat?”
+
+“Neither. My hesitation comes from the consciousness that I have to bring myself into the story. What I wish to make plain is that Livingston not only is the most diligent student of stock speculation operating today and one of the most expert tape readers that ever lived, but, in addition to all that, he possess powers that defy analysis. You can call him psychic or anything you please, but all I can say is that the way that man gets hunches is the most extraordinary thing I ever saw. He acts in accordance with his mysterious impulses and in nine cases out of ten he gets out of the market at exactly the right moment: almost to the very second. It is more than skill and more than knowledge. He just senses it. There is a heap more to it than I can explain.”
+
+The Black Mascot
+
+ICOULD see that Tucker had long since given up all attempts to explain the utterly inexplicable, also that he considered my efforts quite hopeless—in advance. So I said, “The late Norman B. Ream, who was one of the wisest speculators I ever met, used to tell me that he never did anything because he felt it in his bones. He said that feeling might be only rheumatism. He could not see the wisdom of acting in accordance with a hunch.”
+
+“Maybe he didn’t have——” began Tucker, and caught himself as if he would not be impolite.
+
+> ![image](assets/00050-255581ef.jpg)
+
+“He had enough to leave more millions than I have fingers,” I said. “But I am willing to admit that he was deaf to ghostly tips. Tell me about Livingston.”
+
+“I’ve got to tell you about myself, first,” said Tucker, looking so apologetic that I feared he was going to bore me.
+
+But I said encouragingly, “No price is too high for a good story.”
+
+“Here goes, then. I went to work in a broker’s office as a boy and I’ve never been in any other business. By the time I was twenty-three I was the Washington manager of a New York Stock Exchange house. We had some pretty good customers and did a mighty good business, so I didn’t need to encourage gratuitous delusions. At the same time facts are facts, even if they sound ridiculous when you tell them to people who don’t believe them because they were not on the spot at the time.”
+
+He paused and I hastened to assure him, “I believe them. What happened?”
+
+“One day I ran across a black cat. It was lame and looked like a broken-down hobo cat. I coaxed it home because I felt so sorry for it, and I bandaged its broken leg and fed it and made it comfortable. Well, sir, I give neither reason nor explanation and I abstain from expressing opinions. All I say is that from that day my luck, which always had been pretty fair, became much more than flat. I made money hand over fist and I spent it as though I owned the mint. When money comes easy it is apt to go easy. Stock-market pickings don’t stick to your fingers; there isn’t enough sweat to them for stickiness. I ought to have known enough to salt away the surplus, but I didn’t think of the future. It seemed as if I couldn’t lose money in any of my deals. Of course I was very careful, and I thought that so long as I wasn’t reckless in my operations I didn’t have to save. You see, I always had made money. When I had more than enough for all needs I got married. I bought a fine house and had it decorated and furnished expensively. I’ll cut the story short. One day the black cat died and the luck turned. I simply couldn’t lose before. Well, after the cat died I simply couldn’t win. No matter what I did, I lost. Tips I played went wrong. Tips I disregarded made good. I lost not only money but business. Some of the most outlandish things in the world happened to me—and always expensive. Bull markets petered out on me; customers died who ought to have lived to a hundred; a man who had never given me a wrong steer told me a marvelous and detailed story of a merger, and three days later when I thought I’d be a millionaire my friend was taken to an insane asylum. It wasn’t long before I lost every dollar I owned. And not long after that I lost one hundred and fifty thousand dollars I didn’t own.
+
+“There I was, my credit exhausted, down to hardpan. It got so I couldn’t pay the rent of the modest house to which I had moved after I sold the beautiful house I had bought during the lifetime of the black cat. The first thing I knew I owed three months’ rent and the landlord ceased to be a gentleman. I felt pretty blue when I got a notice to vacate if I didn’t pay. I went downtown to try raise money to keep the landlord from carrying out his threat. I tried everybody and every place; friends and foes; rich men and poor men and men in government employ. Not a cent!
+
+“Of course my wife didn’t know how desperate our situation was. I had been telling her that business was rotten and that we’d have to go easy with our expenses. She felt so sorry to see me worried that she got the habit of walking on tiptoe when I sat brooding in my chair.”
+
+The Scratching at the Door
+
+“FINALLY, they served a dispossess notice on me and I went out to make my last desperate effort. I was going to try to raise it in dimes and quarters if I couldn’t do any other way. That night when I got home with empty pockets I felt for the first time that I was down and out. I sat down at the table and forced myself to eat, so my poor wife wouldn’t know that on the next day we’d have to find a furnished room somewhere.
+
+“Suddenly I heard a sort of scratching at the front door and then a puny meowing. My wife had just brought in a broiled bluefish. Well, I jumped to my feet.
+
+“‘What’s the matter?’ yelled my wife.
+
+“And I yelled back, ‘That’s a black cat that wants to come in!’ With that I grabbed the bluefish by the tail and ran to the front door. I opened it. Sure enough, there stood a forlorn little black kitten. I held the nice broiled bluefish in front of her and she approached it, sniffing. I retreated slowly and she followed me inch by inch into the dining room. There I fed her.
+
+“I told my wife that the kitten was going to bring us good luck, and though she smiled incredulously she let me have my way. So I fixed up a sleeping place and everything. The next morning when I left the house I particularly told my wife not to let the cat get away. I went downtown. I got a tip on Marlindale preferred. I was able to buy one hundred shares at the opening. You remember the deal and the way both the common and the preferred went up when they won the big patent suit, don’t you? Well, that was the day. I made one thousand six hundred dollars before noon by pyramiding twice; at that I was conservative and ran quick. That night I went home a winner for the first time in seven weary months—a winner in money and in recovered morale. I took mighty good care of that cat, you bet. We christened her Nanny, and in honor of the first lucky deal since the death of her predecessor we gave her Martindale for a surname, Nanny Martindale she is to this day.
+
+“She is not only the household mascot but is beyond question the greatest stock-market barometer in captivity. She is 100 per cent accurate. Every time she has kittens the market turns. I mean that an increase in her family invariably signalizes the end of the bull market or of the bear market, whichever it might be. It is my one infallible tip to turn. She has been on the job several years and I have yet to record her first failure to tip me off straight.”
+
+He looked at me, sincerely desirous of impressing me with the absolute veracity of his statistics, so I assured him earnestly, “That is what I call the most rational method thus far devised for beating an otherwise unbeatable game.”
+
+“What I have told you,” he asserted emphatically, “is exactly what happened. But let me get Larry Livingston into this story before you die. He came to Washington at the time Congress had about made up its mind to tax our business nearly to death. Larry came to Washington to try to convince some of our congressmen of the short sightedness of some of the proposed taxes. He was naturally interested. His income tax was huge, but he was really thinking along broader and less selfish lines. I introduced him to a score of representatives and senators. He himself was one of the star customers of our main office and I had known him intimately for years. I knew he was bullish, but I knew it only because I knew he was heavily long of stocks; and, mind you, he was staying in my house. He used to go with me to the office every morning, but he barely glanced at the quotation board and I never heard him say a word about his market views. His mind was occupied exclusively with the proposed taxes and I respected my guest’s silence.”
+
+Livingston’s Strange Behavior
+
+“ONE morning when he came into the breakfast room I saw that he was cross, but I could not imagine why. He didn’t say a word and so I kept my own mouth shut. He sat down, frowning. Pretty soon the cat, Nanny Martindale, came in. If you know Larry at all well you must know that he is just crazy about children and that he is fond of domestic animals. At that time he had no child of his own and he had made friends with Nanny. This morning I noticed that the cat went up to him, got up on her hind legs and began to claw at Larry’s knee. He fed Nanny, but she kept on clawing.
+
+“I thought from the look on his face that he was annoyed, so I got up from the table and said. ‘Larry, I’ll take the cat out of the room.’
+
+“But he snapped at me, ‘Leave her alone! She is talking to me!’
+
+“His face was tense and I observed that he was absently stroking his nose with his forefinger as he does whenever he is thinking hard. I’ve noticed that tenseness and that nose stroking more than once when the market’s behavior puzzled him. Knowing what that look meant I never said another word, and he didn’t. After breakfast we went out together as usual, but without speech. One of his motors was outside in the street, waiting—he had brought a couple of them to Washington with him.
+
+“I walked toward it, but he called out to me ‘Let’s walk!’
+
+“I said ‘All right!’ and so we walked down the street.
+
+“We had barely gone a couple of blocks when he suddenly cried ‘Let’s ride!’
+
+“So we hailed a street car and got on. We rode a little while and then he got up and signaled the conductor to stop at the next corner. We got off and walked in silence toward my office. You know, he is an inveterate smoker. I offered him a cigar, the kind he likes. He’d smoked dozens like it. He shook his head.
+
+“I must have looked surprised, for he said shortly, ‘You smoke cabbage!’ I may have smiled. He added, ‘I’ll get some good ones!’
+
+“We walked on. Pretty soon he stopped at one of the hotels, thought a moment, and then went in and bought a cigar at the stand in the lobby. We arrived at the office. There, instead of a casual look around and then hiking off to keep a date with some congressman, as he had done on every other morning of his stay in Washington, he sat down and stared at the blackboard. The market hadn’t opened yet, and he waited. It was the first time that week that he had sat down to wait for the opening. Ten o’clock came and the ticker began to click. He got up and walked over to the ticker. He stood there, as I’ve seen him in his own office, glancing from the tape as it came out, to the blackboard, and back again, tapping his nose with his forefinger as he does when he has not made up his mind as to what to do. Pretty soon he turned to me and began to give me selling orders.
+
+> ![image](assets/00051-4f11ec02.jpg)
+
+“The market was strong as the deuce. The end of the bull market seemed far away. I knew he had a big profit, so, of course, I did not blame him, but I felt like asking him if he thought the end of the big rise had come. He kept on until he had sold out over seventy thousand shares of U.S. Steel at a profit of a million and a quarter, and thirty-five thousand shares of other stocks. In all, he cleaned up about two millions.
+
+“The market took the first fifty thousand shares of Steel as if nothing had happened. He got almost the top prices of the bull movement for his stocks. Now what do you call that? If he had been in his own office in New York in touch with market affairs, listening to inside dope or even to rumors, I wouldn’t have wondered, for all that I myself failed to see any indication of the culmination of the bull market. But all that week there in Washington he had not shown the slightest interest in any of our telegrams from the New York office; he had not once discussed market matters with anybody. He was bullish when he arrived and he had done or seen nothing that could have made him turn. In fact, I had never seen him less interested in the course of the market. All he seemed to care to talk about was the folly of some of the proposed measures for taxing stock sales. Then all of a sudden, for no reason whatever, before he had seen a single quotation, he wanted to get out. It made him cross and fidgety, and he simply had to sell every share he was carrying. I call that a hunch—a curious psychical phenomenon. What do you call it?”
+
+> ![image](assets/00052-89a9e40b.jpg)
+
+“I call it a good story,” I said.
+
+“It is as true as the Gospel,” averred Tucker. “Every word of it.”
+
+“I know it,” I said.
+
+Some friends came in and we ceased talking about Larry Livingston and his trading impulses.
+
+What Really Happened
+
+THAT night in his home I spoke to Larry Livingston about hunches. In all the stories that he himself had told me I could perceive but one real hunch—one really inexplicable impulse to do the right thing in the market in the face of actual conditions— and that was when he sold Union Pacific short before the news of the San Francisco earthquake was known. The rest of the so-called hunches were merely the result of a series of ticker observations—of experience lessons, each rather slight but in the aggregate powerful enough to motivate him.
+
+He nodded his acquiescence. Then I told him the story I had heard from his Washington friend. According to Tucker, all that Livingston did was to play the lucky black-cat hunch and cash in a couple of millions.
+
+“Oh, that’s one of Tucker’s yarns,” said Livingston impatiently. “Nothing to that! I do get irresistible impulses at times to do certain thing in the market. It doesn’t matter whether I am long or short of stocks. I must get out. I am uncomfortable until I do. I myself think it is as you say. I see a lot of warning signals. Perhaps not a single one may be sufficiently clear or powerful to afford me a positive definite reason for doing what I suddenly feel like doing. That, I think, is all there is to what you have called the ticker sense, which you say James R. Keene had so strongly developed, and other operators before him. Usually, I admit, the warning turns out to be not only sound but timed to the minute. But the particular story he told you was not about a hunch. I didn’t have any that time; not as he has described it. The cat had nothing to do with it. What he says about my getting up so grumpy that morning I suppose can be explained—if I really was grouchy—by my disappointment. I knew I was not convincing the congressmen I talked to and the committee did not view the problem of taxing Wall Street as I did. I wasn’t trying to arrest or evade taxation on stock transactions, but to suggest a tax that I as an experienced stock operator felt was neither unfair nor unintelligent. I didn’t want Uncle Sam to kill the goose that could lay so many golden eggs with fair treatment. Possibly my lack of success not only irritated me but made me pessimistic over the future of an unfairly taxed business. But I’ll tell you exactly what happened.
+
+“At the beginning of the bull market I thought well of the outlook in both the steel trade and the copper market, and I therefore felt bullish on stocks of both groups. So I started to accumulate some of them. I began by buying five thousand shares of Utah Copper, and stopped because it didn’t act right. That is, it did not behave as it should have behaved to make me feel I was wise in buying it. I think the price was around 114. I also started to buy U. S. Steel at almost the same price. I bought in all twenty thousand shares the first day because it did act right. I followed the method I have described to you.
+
+“Steel continued to act right and I therefore continued to accumulate it until I was carrying seventy-two thousand shares of it in all. But my holdings of Utah Copper consisted of my initial purchase. I never got above the five thousand shares. Its behavior did not encourage me to do more with it.
+
+> ![image](assets/00053-4f14677d.jpg)
+
+“You know what happened. We had a big bull movement. I knew the market was going up. General conditions were favorable. Even after stocks had gone up considerable and my paper profit was not to be sneezed at, the tape kept trumpeting ‘Not yet! Not yet! Not yet!’ When I arrived in Washington the tape was still saying that to me. Of course I had no intention of increasing my line at that late day, even though I was still bullish. At the same time, the market was plainly going my way and there was no occasion for me to sit in front of a quotation board all day in hourly expectation of getting a tip to get out. Before the clarion call to retreat came—barring an utterly unexpected catastrophe, of course—the market would hesitate or otherwise prepare me for a reversal of the speculative situation. That was the reason why I went blithely about my business with congressmen.
+
+“At the same time, prices kept going up, and that meant that the end of the bull market was drawing nearer. I did not look for the end on any fixed date. That was something quite beyond my power to determine. But I needn’t tell you that I was on the watch for the tip-off. I always am anyhow. It has become a matter of business habit with me.”
+
+Turning Paper Profits into Money
+
+“I cannot swear to it, but I rather suspect that the day before I sold out, seeing the high prices made me think of the magnitude of my paper profit as well as of the line I was carrying, and, later on, of my vain efforts to induce our legislators to deal fairly and intelligently by Wall Street. That was probably the way and the time the seed was sown within me. The subconscious mind worked on it all night. In the morning I thought of the market and began to wonder how it would act that day. I naturally went down to the office, and there I saw not so much that prices were still higher and that I had a satisfying profit, but that there was a great big market with a tremendous power of absorption. I could sell any amount of stock in that market; and, of course, when a man who is carrying his full line of stocks has a big profit he must be on the watch for an opportunity to change his paper profit into actual cash. He should try to lose as little of the profit as possible during the swap. As I have told you several times, experience has taught me that a man can always find an opportunity to make his profits real and that this opportunity usually comes at the end of a move. That isn’t tape reading or a hunch.
+
+“Of course when I found that morning a market in which I could sell out all my stocks without any trouble I did so. When you are selling out it is no wiser or braver to sell fifty shares than fifty thousand; but fifty shares you can sell in the dullest market without breaking the price, and fifty thousand shares of a single stock is a different proposition. And though seventy-two thousand shares of U. S. Steel may not seem a colossal line to sell, you can’t always sell that much without losing some of that profit that looks so nice on paper when you figure it out, and that hurts as much to lose as if you actually had it safe in bank.
+
+“I had a profit of about one million five hundred thousand dollars and I grabbed it while the grabbing was good. But that wasn’t the principal reason for thinking that I did the right thing in selling out when I did. The market proved it for me, and that was indeed a source of satisfaction to me. How? This way: I succeeded in selling my entire line of seventy-two thousand shares of U. S. Steel at a price which averaged me just one point from the top of the day and of the movement. It proved that I was right to the minute. But when, on the very same hour of the very same day, I came to sell my five thousand Utah Copper, the price broke five points. Please recall that I began buying both stocks at the same time and that I acted wisely in increasing my line of U. S. Steel from twenty thousand shares to fifty thousand and equally wisely in not increasing my line of Utah from the original five thousand shares. The reason why I didn’t sell out my Utah Copper before was that I was bullish on the copper trade and it was a bull market in stocks and I didn’t think that Utah would hurt me much, even if I didn’t make a killing in it. But as for hunches, there weren’t any. I sold out for a reason that I have always found to be a mighty good reason. My entire business career has been nothing but education—that is, training to fit me for doing some of the very things that my friends call hunches and find so difficult to explain because they think they come out of a clear sky.”
+
+Cashing in on Experience
+
+“The training of a stock trader is like a medical education. The physician has to spend long years learning anatomy, physiology, materia medica and collateral subjects by the dozen. He learns the theory, and then proceeds to devote his life to the practice. He observes and classifies all sorts of pathological phenomena. He learns to diagnose. If his diagnosis is correct—and that depends upon the accuracy of his observation—he ought to do pretty well in his treatment, always keeping in mind, of course, that human fallibility and the utterly unforeseen will keep him from scoring 100 per cent of bull’s-eyes. And then, as he gains in experience, he learns not only to do the right thing but to do it instantly, so that many people will think he does it instinctively. It really isn’t automatism. It is that he has diagnosed the case according to his observations of such cases during a period of many years; and naturally, after he has diagnosed it, he can only treat it in the way that experience has taught him is the proper treatment. You can transmit knowledge—that is, your particular collection of card-indexed facts—but not your experience. A man may know what to do, and lose money—if he doesn’t do it quickly enough.
+
+“Observation, experience, memory and mathematics—these are what the successful trader must depend on. He must not only observe accurately but remember at all times what he has observed. He cannot bet on the unreasonable or on the unexpected, however strong his personal convictions may be about man’s unreasonableness or however certain he may feel that the unexpected happens very frequently. He must bet always on probabilities—that is, try to anticipate them. Years of practice at the game, of constant study, of always remembering enable the trader to act on the instant, both when the unexpected happens and when the expected comes to pass.
+
+“A man can have great mathematical ability and an unusual power of accurate observation and yet fail in speculation unless he also possesses the experience and the memory. And then, like the physician who keeps up with the advances of science, the wise trader never ceases to study general conditions, to keep track of developments everywhere that are likely to affect or influence the course of the various markets. After years at the game it becomes a habit to keep posted. He acts almost automatically. He acquires the invaluable professional attitude, and that enables him to beat the game—at times! This difference between the professional and the amateur or occasional trader cannot be overemphasized. I find, for instance, that memory and mathematics help me very much. Wall Street makes its money on a mathematical basis. I mean, it makes its money by dealing with facts and figures.
+
+“When I told you that a trader has to keep posted to the minute and that he must take a purely professional attitude toward all markets and all developments, I merely meant to emphasize again that hunches and the mysterious ticker sense haven’t very much to do with success. Of course it often happens that an experienced trader acts so quickly that he hasn’t time to give all his reasons in advance—but, nevertheless, they are good and sufficient reasons, because they are based on facts collected by him in his years of working and thinking and seeing things from the angle of the professional, to whom everything that comes to his mill is grist. Let me illustrate what I mean by the professional attitude.
+
+“I keep track of the commodities markets always. It is a habit of years. As you know, the government reports indicated a winter-wheat crop about the same as last year, and a bigger spring-wheat crop than in 1921. The condition was much better and we probably will have an earlier harvest than usual. When I got the figures of condition and I saw what we might expect in the way of yield—mathematics—I also thought at once of the coal miners’ strike and the railroad shopmen’s strike. I couldn’t help thinking of them because my mind always thinks of all developments that have a bearing on the markets. It instantly struck me that the strike, which had already affected the movement of freight everywhere, must affect wheat prices adversely. I figured this way: There was bound to be considerable delay in moving winter wheat to market by reason of the strike-crippled transportation facilities, and by the time those improved the spring-wheat crop would be ready to move. That meant that when the railroads were able to move wheat in quantity they would be bringing in both crops together—the delayed winter and the early spring wheat—and that would mean a vast quantity of wheat pouring into the market at one fell swoop. Such being the facts of the case—the obvious probabilities—the traders, who would know and figure as I did, would not bull wheat for a while. They would not feel like buying it unless the price declined to such figures as made the purchase of wheat a good investment. With no buying power in the market the price ought to go down. Thinking the way I did I must find whether I was right or not. As old Pat Hearne used to remark, ‘You can only tell after you bet.’ Between being bearish and selling there is no need to waste time.”
+
+> ![image](assets/00054-9e980b05.jpg)
+
+Market Symptoms
+
+“Experience has taught me that the way a market behaves is an excellent guide for an operator to follow. It is like taking a patient’s temperature and pulse or noting the color of the eyeballs and the coating of the tongue.
+
+“Now ordinarily a man ought to be able to buy or sell a million bushels of wheat within ¼ cent. On this day I sold 250,000 bushels to test the market for timeliness. The price went down ¼ cent. Then, since the reaction did not definitely tell me all I wished to know, I sold another quarter of a million bushels. I noticed that it was taken in driblets—that is, the buying was in lots of ten or fifteen thousand bushels instead of being taken in two or three transactions, which would have been the normal way. In addition to the homeopathic buying the price went down 1¼ cents on my selling. Now I need not waste time pointing out that the way in which the market took my wheat, and the disproportionate decline on my selling, told me that there was no buying power there. Such being the case, what was the only thing to do? Of course, to sell a lot more. Following the dictates of experience may possibly fool you now and then. But not following them invariably makes an ass of you. So I sold two million bushels, and the price went down some more. A few days later the market’s behavior practically compelled me to sell an additional two million bushels, and the price declined further. Still a few days later wheat started to break badly and slumped off six cents a bushel. And it didn’t stop there. It has been going down, with short-lived rallies.
+
+> ![image](assets/00055-fdbaf2e3.jpg)
+
+“Now, I didn’t follow a hunch. Nobody gave me a tip. It was my habitual or professional mental attitude toward the commodities markets that gave me the profit, and that attitude came from my years at this business. I study because my business is to trade. The moment the tape told me that I was on the right track my business duty was to increase my line. I did. That is all there is to it.
+
+“I have found that experience is apt to be a steady dividend payer in this game, and that observation gives you the best tips of all. The behavior of a certain stock is all you need at times. You observe it. Then experience shows you how to profit by variations from the usual—that is, from the probable. For example, we know that all stocks do not move one way together, but that all the stocks of a group will move up in a bull market and down in a bear market. This is a common place of speculation. It is the commonest of all self-given tips, and the commission houses are well aware of it and pass it on to any customer who has not thought of it himself; I mean the advice to trade in those stocks which have lagged behind other stocks of the same group. Thus, if U.S. Steel goes up, it is logically assumed that it is only a matter of time when Crucible or Republic or Bethlehem will follow suit. Trade conditions and prospects should work equally with all stocks of a group and the prosperity should be shared by all. On the theory, corroborated by experience times without number, that every dog has his day in the market, the public will buy A.B. Steel because it has not advanced while C.D. Steel and X.Y. Steel have gone up.
+
+“I never buy a stock, even in a bull market, if it doesn’t act as it ought to act in that kind of market. I have sometimes bought a stock during an undoubted bull market and found out that other stocks in the same group were not acting bullishly, and I have sold out my stock. Why? Experience tells me that it is not wise to buck against what I may call the manifest group tendency. I cannot expect to play certainties only. I must reckon on probabilities—and anticipate them. An old broker once said to me: ‘If I am walking along a railroad track and I see a train coming toward me at sixty miles an hour, do I keep on walking on the ties? Friend, I sidestep. And I do not even pat myself on the back for being so wise and prudent.’”
+
+The Lame Duck among the Motors
+
+“Last year, after the general bull movement was well under way, I noticed that one stock in a certain group was not going with the rest of the group, though the group with that one exception was going with the rest of the market. I was long a very fair amount of Blackwood Motors. Everybody knew that the company was doing a very big business. The price was rising from one to three points a day and the public was coming in more and more. This naturally centered attention on the motor group, and one after another the various motor stocks began to go up. One of them, however, persistently held back, and that was Chester. It lagged behind the others so that it was not long before it made people talk. The low price of Chester and its apathy were contrasted with the strength and activity in Blackwood and other motor stocks, and the public, logically enough, listened to the touts and tipsters and wise-acres and began to buy Chester on the theory that it must presently move up with the rest of the group.
+
+“Instead of going up on this moderate public buying Chester actually declined. Now it would have been no job to put it up in that bull market, considering that Blackwood, a stock of the same group, was one of the sensational leaders of the general advance. The other motor stocks were following Blackwood and we heard of nothing but the wonderful improvement in the demand for automobiles of all kinds, and the record output.
+
+“It was thus plain that the inside clique in Chester were not doing any of the things that inside cliques invariably do in a bull market. For this failure to do the usual thing there might be two reasons. Perhaps the insiders did not put it up because they wished to accumulate more stock before advancing the price, but this was an untenable theory if you analysed the volume and character of the trading in Chester. The other reason was that they did not put it up because they were afraid of getting stuck if they tried and therefore would not buy it at prevailing prices, notwithstanding the upward tendency of the entire list in general and of the motor group in particular.
+
+“When the men who ought to want a stock don’t want it, why should I want it? I figured that no matter how prosperous other automobile companies might be, it was a cinch to sell Chester short. Experience has taught me to beware of buying a stock that refuses to follow the group leader.
+
+“I easily established the fact that not only there was no inside buying but that there was actually inside selling. There were other symptomatic warnings against buying Chester, though all I required was its inconsistent market behavior. It was again the tape that tipped me off, and that was why I sold Chester short. One day not very long afterward the stock broke wide open. Later on we learned—officially, as it were—that insiders had indeed been selling it, knowing full well that the condition of the company was not good. The reason, as usual, was disclosed after the break. But the warning came before the break. I don’t look out for breaks; I look out for the warnings. I didn’t know what was the trouble with Chester, but neither did I follow a hunch. I merely knew that something must be wrong because the tape said, ‘Sell it!’”
+
+Ups and Downs of Guiana Gold
+
+“Only the other day we had what the newspapers called a sensational movement in Guiana Gold. After selling on the curb at 50 or close to it, it was listed on the Stock Exchange. It started there at around 35, began to go down and finally broke 20.
+
+“Now I’d never have called that break sensational, because it was fully to be expected. If you had asked you would have learned the history of the company. No end of people knew it. It was told to me as follows: A syndicate was formed consisting of half a dozen extremely well-known capitalists and a prominent banking house. One of the members was the head of the Belle Isle Exploration Company, which advanced over ten million dollars cash and received in return bonds and two hundred and fifty thousand shares out of a total of one million shares of the Guiana Gold Mine Company. The stock went on a dividend basis and it was mighty well advertised. The Belle Isle people thought it well to cash in, and gave a call on their two hundred and fifty thousand shares to the bankers, who arranged to try to market that stock and some of their own holdings as well. They thought of intrusting the market manipulation to a professional, whose fee was to be one-third of the profits from the sale of the two hundred and fifty thousand shares above 36. I understand that the agreement was drawn up and ready to be signed, but at the last moment the bankers decided to undertake the marketing themselves and save the fee. So they organized an inside pool. The bankers had a call on the Belle Isle holdings of two hundred and fifty thousand at 36. They put this in at 41. That is, insiders paid their own banking colleagues a five-point profit to start with. I don’t know whether they knew it or not.
+
+“It is perfectly plain that to the bankers the operation had every semblance of a cinch. We had run into a bull market and the stock of the group to which Guiana Gold belonged was among the market leaders. The company was making big profits and paying regular dividends. This together with the high character of the sponsors made the public regard Guiana almost as an investment stock. I was told that about four hundred thousand shares were sold to the public all the way up to 47.
+
+“The gold group was very strong. But presently Guiana began to sag. It declined ten points. That was all right if the pool was marketing stock. But pretty soon the Street began to hear that things were not altogether satisfactory and the property was not bearing out the high expectations of the promoters. Then of course, the reason for the decline became plain. But before the reason was known I had the warning and had taken steps to test the market for Guiana. The stock was acting pretty much as Chester Motors did. I sold Guiana. The price went down. I sold more. The price went still lower. The stock was repeating the performance of Chester and of a dozen other stocks whose clinical history I remembered. The tape plainly told me that there was something wrong—something that kept insiders from buying it—insiders who knew exactly why they should not buy their own stock in a bull market. On the other hand, outsiders, who did not know, were now buying because, having sold at 45 and higher, the stock looked cheap at 35 and lower. The dividend was still being paid. The stock was a bargain.
+
+“Then the news came. It reached me as important market news often does, before it reached the public. But the confirmation of the reports of striking barren rock instead of rich ore merely gave me the reason for the earlier inside selling. I myself didn’t sell on the news. I had sold long before on the stock’s behavior. My concern with it was not philosophical. I am a trader and therefore looked for one sign—inside buying. There wasn’t any, I didn’t have to know why the insiders did not think enough of their own stock to buy it on the decline. It was enough that their market plans plainly did not include further manipulation for the rise. That made it a cinch to sell the stock short. The public had bough almost a half million shares, and the only change in ownership possible was from one set of ignorant outsiders who would sell in the hope of stopping losses to another set of ignorant outsiders who might buy in the hope of making money.
+
+“I am not telling you this to moralize on the public’s losses through their buying of Guiana or on my profit through my selling of it, but to emphasize how important the study of group behavior is and how its losses are disregarded by inadequately equipped traders, big and little. And it is not only in the stock market that the tape warns you. It blows the whistle quite as loudly in grain or cotton.
+
+“I had an interesting experience in cotton. I was bearish on stock and put out a moderate short line. At the same time I sold cotton short, fifty thousand bales. My stock deal proved profitable and I neglected my cotton. The first thing I knew I had a loss of two hundred and fifty thousand dollars on my fifty thousand bales. As I said, my stock deal was so interesting and I was doing so well in it that I did not wish to take my mind off it. Whenever I thought of cotton I just said to myself, ‘I’ll wait for a reaction and cover.’ The price would react a little, but before I could decide to take my loss and cover, the price would rally again and go higher than ever. So I’d decide again to wait a little, and I’d go back to my stock deal and confine my attention to that. Finally, I closed out my stocks at a very handsome profit and went away to Hot Springs for a rest and a holiday.”
+
+A Million to the Bad
+
+“That really was the first time that I had my mind free to deal with the problem of my losing deal in cotton. The trade had gone against me. There were times when it almost looked as if I might win out. I noticed that whenever anybody sold heavily there was a good reaction. But, almost instantly the price would rally and make a new high for the move.
+
+“Finally, by the time I had been in Hot Springs a few days, I was a million to the bad and no let-up in the rising tendency. I thought over all I had done and had not done and I said to myself, ‘I must be wrong!’ With me, to feel that I am wrong and to decide to get out are practically one process. So I covered, at a loss of about one million.
+
+“The next morning I was playing golf and not thinking of anything else. I had made my play in cotton. I had been wrong. I had paid for being wrong and the receipted bill was in my pocket. I had no more concern with the cotton market than I have at this moment. When I went back to the hotel for luncheon I stopped at the broker’s office and took a look at the quotations. Just habit. I saw that cotton had gone off fifty points. That wasn’t anything. But I also noticed that it had not rallied as it had been in the habit of doing for weeks. I think I told you how, when I was short of it, it would react only to rally as soon as the pressure of the particular selling that had depressed it eased up. It indicated that the line of least resistance was upward. That was true for weeks and it had cost me a million to shut my eyes to it.
+
+“Now, however, the reason that had made me take my big loss and cover was no longer a good reason, since there had not been the usual prompt and vigorous rally. So I sold ten thousand bales and waited. Pretty soon the market went off fifty points. I waited a little while longer. There was no rally. I had got pretty hungry by now, so I went into the dining room and ordered my luncheon. Before the waiter could serve it I jumped up, went to the broker’s office, saw that there had been no rally and so sold ten thousand bales more. I waited a little and had the pleasure of seeing the price decline forty points more. That showed me I was trading correctly, so I returned to the dining room, ate my luncheon and went back to the broker’s. There was no rally in cotton that day. That very night I left Hot Springs.
+
+“It was all very well to play golf, but I had been wrong in cotton in selling when I did and in covering when I did. I simply had to get back on the job and be where I could trade in comfort. The way the market took my first ten thousand bales made me sell the second ten thousand, and the way the market took the second made me certain the turn had come. It was the difference in behavior.
+
+“Well, I reached Washington, went to my brokers’ office, which was in charge of my friend Tucker. While I was there the market went down some more. I was more confident of being right now than I had been of being wrong before. So I sold forty thousand bales, and the market went off seventy-five points. It showed that there was no support there. That night the market closed still lower. The old buying power was plainly gone. There was no telling at what level that power would again develop, but I felt confident of the wisdom of my position. The next morning I left Washington for New York by motor. There was no need to hurry.
+
+“When we got to Philadelphia I drove to a broker’s office. I saw that there was the very dickens to pay in the cotton market. Prices had broken badly and there was a small-sized panic on. I didn’t wait to get to New York. I called up my brokers on the long distance and covered my shorts. As soon as I got my reports and found that I had practically made up my previous loss I motored on to New York without having to stop on route to see any more quotations.”
+
+Milking the Market
+
+“Some friends who were with me in Hot Springs talk to this day of the way I jumped up from the luncheon table to sell that second lot of ten thousand bales. But again, that clearly was not a hunch, it was an impulse that came from the conviction that the time to sell cotton had now come, however great my mistake had been before. I had to take advantage of it. It was my chance. The subconscious mind probably went on working, reaching conclusions for me. The decision to sell in Washington was the result of my observation. My years of experience in trading told me that the line of least resistance had changed from up to down.
+
+“I bore the cotton market no grudge for taking a million dollars out of me and I did not hate myself for making a mistake of that caliber any more than I felt proud of covering in Philadelphia and making up my loss. My trading mind concerns itself with trading problems, and I think I am justified in asserting that I made up my first loss because I had the experience and the memory.
+
+“History repeats itself all the time in Wall Street. Do you remember a story I told you about covering my shorts at the time Stratton had corn cornered? Well, I used practically the same tactics in the stock market. The stock was Tropical Trading. I have made money bulling it and also bearing it. It always was an active stock and a favorite with adventurous traders. The inside coterie has been accused time and again by the newspapers of being more concerned over the fluctuations in the stock than with encouraging permanent investment in it. The other day one of the ablest brokers I know asserted that not even Daniel Drew, in Erie, or H. O. Havemayer, in Sugar, developed so perfect a method for milking the market for a stock as President Mulligan and his friends have done in Tropical Trading. Many times they have encouraged the bears to sell T. T. short and then have proceeded to squeeze them with business-like thoroughness. There was no more vindictiveness about the process than is felt by a buzz saw—and no more squeamishness either.
+
+“Why do the room traders who have suffered so often from the loaded dice of the insiders continue to go up against the game? Well, for one thing they like action, and they certainly get it in Tropical Trading. No prolonged spells of dullness. No reasons asked and none given. No time wasted. No patience strained by waiting for the tipped movement to begin. Always enough stock to go around—except when the short interest is enough to make it worth while. One born every minute!
+
+“It so happened sometime ago that I was in Florida on my usual winter vacation. I was fishing and enjoying myself without any thought of the markets excepting when we received a batch of newspapers. One morning, when the semiweekly mail came in, I looked at the stock quotations and saw that Tropical Trading was selling at 155. The last time I’d seen a quotation in it, I think, was around 140. My opinion was that we were going into a bear market and I was biding my time before going short of stocks. But there was no mad rush. That was why I was fishing and out of hearing of the ticker. I knew that I’d be back home when the real call came and that nothing that I did or failed to do would hurry matters a bit.”
+
+The Bear Raid on T. T.
+
+“The behavior of Tropical Trading was the outstanding feature of the market according to the newspapers I got that morning. It served to crystallize my general bearishness because I thought it particularly asinine for the T. T. insiders to run up the price in the face of the heaviness of the general list. There are times when the milking process must be suspended. What is abnormal is seldom a desirable factor in a trader’s calculations, and it looked to me as if the marking up of that stock were a capital blunder. Nobody can make blunders of that magnitude with impunity; at least in the stock market.
+
+“After I got through reading the newspapers I went back to my fishing, but I kept thinking of what the insiders in Tropical Trading were trying to do. That they were bound to fail was as certain as that a man is bound to smash himself if he jumps from the roof of a twenty-story building without a parachute. I couldn’t think of anything else, and finally I gave up trying to fish and sent off a telegram to my brokers to sell two thousand shares of T. T. at the market. After that I was able to go back to my fishing. I did pretty well.
+
+“That afternoon I received the reply to my telegram by a special courier. My brokers reported that they had sold the two thousand shares of Tropical Trading at 153. So far so good. I was selling short on a declining market, which was as it should be. But I could not fish any more. It was too far away from a quotation board after I began to think of all the reasons why Tropical Trading should go down instead of going up on inside manipulation. It was worse than useless for me to stay in my fishing camp, so I returned to Palm Beach; or, rather, to the direct wire to New York.
+
+“The moment I got to Palm Beach and saw what the misguided insiders were still trying to do, I let them have a second lot of two thousand T. T. Back came the report and I shot another two-thousand-shares selling order at them. The market behaved excellently—that is, it declined on my selling. Everything being satisfactory I went out and had a chair ride. But I wasn’t happy. The more I thought the unhappier it made me to think that I hadn’t sold more. So back I went to the broker’s office and sold another two thousand shares.
+
+“I was happy only when I was selling that stock. Presently I was short ten thousand shares. Then I decided to return to New York. I had business to do now. My fishing I would do some other time.
+
+“When I arrived in New York I made it a point to get a line on the company’s business, actual and prospective, and I was thereby strengthened in my belief that the insiders had been worse than reckless in jacking up the price at a time when such an advance was justified neither by the tone of the general market nor by the company’s earnings. I had begun to sell the stock short because experience told me that the insiders were doing an unwise thing. I continued my short selling because the company’s condition must make the price go down.
+
+“The rise, illogical and ill-timed though it was, had developed some public following and this doubtless encouraged the insiders to pursue their unwise tactics. Therefore I sold more stock. The insiders ceased their folly. So I tested the market again and again, in accordance with my trading methods, until finally I was short thirty thousand shares of the stock of the Tropical Trading Company. By then the price was 133.
+
+“I had been warned that the T. T. insiders knew the exact whereabouts of every stock certificate and the precise dimensions and identity of the short interest, as well as other facts of tactical importance. They were able men and shrewd to advise. Altogether it was a dangerous combination to go up against. But facts are facts and the strongest of all allies are conditions.
+
+“Of course, on the way down from 153 to 133 the short interest had grown, and the public that buys on reactions began to argue as usual: That stock had been considered a good buy at 153 and higher. Now twenty points lower, it was necessarily a much better buy. Same stock, same dividend rate, same offers, same business. Bargain!
+
+“The public’s purchases reduced the floating supply, and the insiders, knowing that a lot of room traders were short, thought the time propitious for a squeezing. The price was duly run up to 160. I dare say there was plenty of covering, but I stayed pat. Why shouldn’t I? The insiders might know that a short line of thirty thousand shares had not been taken in, but why should that frighten me? The reasons that had impelled me to begin selling at 153 and keep at it on the way down to 133 not only still existed but were stronger than ever. The insiders might desire to force me to cover, but they adduced no convincing arguments. Fundamental conditions were fighting for me. It was not difficult to be both fearless and patient. I have told you that a speculator must have faith in himself and in his judgement. The late Dickson G. Watts, ex-president of the New York Cotton Exchange and famous author of Speculation as a Fine Art, says that courage in a speculator is merely confidence to act on the decision of his mind. With me, I cannot fear to be wrong because I never think I am wrong until I am proved wrong. In fact, I am uncomfortable unless I am capitalizing my experience. The course of the market does not necessarily prove me wrong. It is the character of the advance—or of the decline—that determines for me the correctness or the fallacy of my market position. I can only rise by knowledge. If I fall it must be by my own blunders.”
+
+Livingston’s Tactics Analyzed
+
+“There was nothing in the character of the rally from 133 to 150 to frighten me into covering, and presently the stock, as was to be expected, began to decline. It broke 140 before the inside clique began to give it support. Their buying was coincident with a flood of bull rumors about the stock. The company, we heard, was making perfectly fabulous profits, and the earnings justified an increase in the regular dividend rate. Also, the short interest was said to be perfectly huge and the squeeze of the century was about to be inflicted on the bear party in general and in particular on a certain operator who was more than overextended. I couldn’t begin to tell you all I heard as they ran the price up ten points.
+
+“The manipulation was not particularly alarming to me, but when the price touched 149 I decided that it was not wise to let the Street accept as true all the bull statements that were floating around. Of course there was nothing that I or any other rank outsider could say that would carry conviction either to the frightened shorts or to those credulous customers of commission houses that trade on hearsay tips. The most effective retort courteous is that which the tape alone can print. People will believe that when they will not believe an affidavit from any living man, much less one from a chap who is short thirty thousand shares. So I used the same tactics that I did at the time of the Stratton corner in corn, when I sold oats to make the traders bearish on corn. Experience and memory again.
+
+“When the insiders jacked up the price of Tropical Trading with a view to frightening the shorts I didn’t try to check the rise by selling that stock. I was already short thirty thousand shares of it, which was as big a percentage of the floating supply as I thought it wise to be short of. I did not propose to put my head into the noose so obligingly held open for me; the second rally was really an urgent invitation. What I did when T. T. touched 149 was to sell about ten thousand shares of Equatorial Commercial Corporation. This company owned a large block of Tropical Trading stock.
+
+“Equatorial Commercial, which was not as active a stock as T. T., broke badly on my selling, as I had foreseen, and of course my purpose was achieved. When the traders—and the customers of the commission houses who had listened to the uncontradicted bull dope on T. T.—saw that the rise in Tropical synchronized with heavy selling and a sharp break in Equatorial, they naturally concluded that the strength of T. T. was merely a blind, a smoke screen, a manipulated advance obviously designed to facilitate inside liquidation in Equatorial Commercial, which was the largest holder of T. T. stock. It must be both long stock and inside stock in Equatorial, because no outsider would dream of selling so much short stock at the very moment when Tropical Trading was so very strong. So the wise traders seeing the significant inside selling in Equatorial Commercial promptly sold Tropical Trading and checked the rise in that stock, the insiders very properly not wishing to take all the stock that was pressed for sale. The moment the insiders took away their support the price of T. T. declined. The traders and principal commission houses now sold some Equatorial also, and I took in my short line in that at a small profit. I hadn’t sold it to make money out of the operation, but to check the rise in T. T.
+
+“Time and again the Tropical Trading insiders and their hard-working publicity man flooded the street with all manner or bull items and tried to put up the price. And every time they did I sold Equatorial Commercial short and covered it when T. T. reacted and carried E. C. with it. It took the wind out of the manipulators’ sails. The price of T. T. finally went down to 125 and the short interest really grow so big that the insiders were enabled to run it up twenty or twenty-five points. This time it was a legitimate enough drive against an overextended short interest; but though I foresaw the rally I did not cover, not wishing to lose my position. Before Equatorial Commercial could advance in sympathy with the rise in T. T. I sold a raft of it short—with the usual results, and gave the lie to the bull talk in T. T., which had got quite boisterous after the latest sensational rise.
+
+“By this time the general market had grown quite weak. As I told you, it was the conviction that we were in a bear market that started me selling T. T. short in the fishing camp in Florida. I was short of quite a few other stocks, but T. T. was my pet. Finally, general conditions proved too much for the inside clique to defy, and T. T. hit the toboggan slide. It went below 120 for the first time in years, then below 110, below par; and still I did not cover. One day when the entire market was extremely weak Tropical Trading broke 90, and on the demoralization I covered. Same old reason! I had the opportunity—the big market and the weakness and the excess of sellers over buyers. I may tell you, even at the risk of appearing to be monotonously bragging of my clevernes that I took in my thirty thousand shares of T. T. at practically the lowest price of the movement. But I wasn’t thinking of covering at the bottom. I was intent on turning my paper profits into cash without losing much of the profit in the changing.
+
+“I stood pat throughout, because I knew my position was sound. I wasn’t bucking the trend of the market or going against basic conditions, but the reverse; and this was what made me so sure of the failure of an overconfident inside clique. What they tried to do, others had tried before and had always failed. The frequent rallies, even when I knew as well as anybody that they were due, could not frighten me. I knew I’d do much better in the end by staying pat than by trying to cover to put out a new short line at a higher price. By sticking to the position that I felt was right, I made over a million dollars. I was not indebted to hunches or to skillful tapereading or to stubborn courage. It was a dividend declared by my faith in my judgment not on my cleverness or on my vanity. Knowledge is power, and power need not fear lies—not even when the tape prints them. The retraction follows pretty quickly.
+
+“A year later T. T. was jacked up against to 150 and hung around there for a couple of weeks. The entire market was entitled to a good reaction, for it had risen uninterruptedly and it did not bull any longer. I know because I tested it. Now the ground to which T. T. belonged had been suffering from very poor business and I couldn’t see anything to bull those stocks on anyhow even if the rest of the market were due for a rise, which it wasn’t. So I began to sell Tropical Trading. I intended to put out ten thousand shares in all. The price broke on my selling. I couldn’t see that there was any support whatever. Then suddenly the character of the buying changed.
+
+“I am not trying to make myself out wizard when I assure you that I could tell the moment support come in. It instantly struck me that if the insiders in that stock who never felt a moral obligation to keep the price up, were now buying the stock in the face of a declining general market there must be a reason. They were not ignorant asses, nor philanthropists, nor yet bankers concerned with keeping the price up to see more securities over the counter. The price rose, notwithstanding my selling and the selling of others. At 153 I covered my ten thousand shares and at 156 I actually went long, because by that time the tape told me the line of least resistance was upward. I was bearish on the general market, but I was confronted by a trading condition in a certain stock and not by a speculative theory in general. The price went out of sight, above 200. It was the sensation of the year. I was flattered by reports spoken and printed that I had been squeezed out of eight or nine millions of dollars. As a matter of fact, instead of being short I was long of T. T. all the way up. In fact, I held on a little too long and let some of my paper profits get away from me. Do you wish to know why I did? Because I thought the T. T. insiders would naturally do what I would have done had I been in their place. But that was something I had no business to think, because my business is to trade—that is, to stick to the facts before me, and not to what I think other people ought to do.”
+
+<!-- rl-section id="section-25" class="epub-section" kicker="Section 25" title="Section 25" -->
+
+## Section 25
+
+X.
+
+The Coffee Corner and the Price Fixing Committee
+
+Part of the popularity of Reminiscences of a Stock Operator comes from its stories about the passing of inside information and stock tipsters before those practices were proscribed by the SEC. While the practices were known to be ruses of smart operators who wanted others to follow suit, the government also had a trick or two up its own sleeve during World War I.
+
+Livingston reveals that he became quite interested in trading commodities during World War I. Prices skyrocketed because of heavy demand for foods and grains, especially from Europe, and farmers and traders had some of their best years in memory.
+
+Sensing that prices would rise thanks to all this extraordinary demand, buyers did well and short sellers changed their ways to be long. But one commodity did not fare well: coffee. Wartime shipping patterns changed and the delivery of South American coffee became very confused. Making matters worse, the War Industries Board announced that a trader was long coffee in an attempt to force its price up and that the price rise would be considered profiteering in time of war. For a trader, it was not a good market in which to be long.
+
+Since the Board also announced that the trader was “Livingston,” he was forced to close his positions without profit. The price of coffee, like that of other commodities, was fixed and further speculation and profit became difficult. While some other commodities showed a profit over the prewar prices, coffee did not and the anticipated big profits amounted to nothing. No one could have foreseen what happened.
+
+An even better story is revealed when Livingston’s wife takes $500 and invests it on the basis of a tip she received from the CEO of a large company. Using information given “only to her,” she puts down $500 for 100 shares of a $108 stock. The brokerage extended her margin of less than five percent. Naturally, the stock declined shortly after she purchased it. The person who “tipped” her clearly wanted her husband to buy the stock in an effort to support its price; approaching her was an indirect way of approaching him. However, the strat-egy did not work as anticipated. Although revenge was not mentioned, Livingston does recall that he became very interested in this particular stock after the incident.
+
+Livingston states that “fiction writers, clergymen, and women are fond of alluding to Wall Street’s daily business as a boodler’s battlefield and Wall Street’s daily business as a fight. It is quite dramatic but utterly misleading.” After reading some of his accounts in this installment, his readers may wonder whether he included guerilla warfare in his personal definition.
+
+C.G.
+
+<!-- rl-section id="section-26" class="epub-section" kicker="Section 26" title="Section 26" -->
+
+## Section 26
+
+> ![image](assets/00056-7050a88b.jpg)
+
+Reminiscences of a Stock Operator
+
+December 16, 1922
+
+THE stock market was suffering from what financial reporters love to call a reversal of form. It had been a bull market for so long that optimism had grown chronic and therefore undiscriminating, and the victims were even then seeking not reasons but excuses, as usual.
+
+> ![image](assets/00057-d8f76d3f.jpg)
+
+I had business in the financial district and on my way to my destination I met several friends who nodded and hurried away. I was thereby made aware that the inexplicable declines were proceeding ruthlessly.
+
+I began to wonder whether the day’s break was as severe as the facial indications betokened when I ran across one of my oldest Wall Street acquaintances—a former summer neighbor of mine who had gone in for Malay games when I was getting over my Barred Plymouth Rock attack. He not only stopped and shook hands but actually insisted upon my accompanying him.
+
+“Come on over to the office,” he urged, “and we’ll have a nice chat over old times.”
+
+I was so glad to think that he was unaffected by the healthy reaction then in progress that I said, “Delighted! You miss them, eh?”
+
+“Miss who?”
+
+“Old times.”
+
+“Oh, this is one hell of a business!” he said. “You were mighty wise to retire.” He looked at me not at all admiringly; rather with a sort of vindictive envy, and I easily gathered that when he said “retire” he really accused me of having made an unexpected killing. Through the accident of not having figured in advance on how to spend the profits of that particular deal, I was able to develop a highly intelligent case of cold feet and forsake the Street.
+
+Costly Eighths
+
+IT WAS not necessary for a man to be a Sherlock Holmes to get all this from the tone of voice, if he knew the type of broker who is not content with his commissions but trades semioccasionally and frequently makes almost enough to retire on. If it hadn’t been for “Just another hundred thousand and then I’ll quit,” hundreds of members of the New York Stock Exchange wouldn’t be envying wiser fellows who “retired.” The last eighth is mighty expensive.
+
+My former fellow financier repeated with a sort of self-accusing bitterness, “You certainly were wise to quit when you did.”
+
+Not knowing of which deal of his he was thinking, I asked him sympathetically, “Which stock was it?”
+
+He had grown quite gray since our last meeting and I remembered that I had always liked him. Having forgotten everything else, my sympathy was sincere.
+
+“How do you mean—which stock?” he frowned.
+
+“The stock that cost you the money you yourself should have retired on.”
+
+“Oh, it isn’t any one stock. It’s—it’s the life. The Street isn’t what it used to be.”
+
+“Oh, yes, it is,” I said.
+
+“It is not!” he denied indignantly.
+
+“Old chap,” I said soothingly, “you needn’t throw bricks at yourself; at least, not for the last lost opportunity. It was logical enough. But as for the Street not being what it used to be, you are wrong. The Street has always been what it used to be. It began as it now is and it will end as it began. The change is in you. Apparently you are commencing to realize that the game down here is unbeatable and that the time for a man to quit is after a boom when he has a profit of about twice as much as he would be glad to retire on in dull times. You can’t deny that you yourself for years have had in mind a quiet comfortable old age, but every time you have a big profit in some deal your retiring price goes up, so you stick—and call yourself names later on.”
+
+> ![image](assets/00058-1b012b83.jpg)
+
+“Oh, bosh!” he denied. “If had enough today——”
+
+“Oh, bosh!” I denied. “If you had enough today to quit today you’d wait till tomorrow because you’d think it was your duty to have a greater margin of safety in case the cost of living advanced during the next war. Your trouble is the trouble of most elderly brokers who have made easy money all their lives but never quite enough at one fell swoop. You are suffering from arrested suckeritis. You know too much to be a downright sucker and not enough to be an intelligent man. I mean, you find yourself afraid to plunge when the market moves violently one way or another, and you don’t realize that old age is coming on fast. As a matter of fact, the easiest way of making enough money in Wall Street to quit on is precisely to be a sucker—that is, to be a sucker at the right time. Don’t look so bored. Just think of who it is that makes the biggest money in booms. The suckers. But they are not suckers because they make big money during booms by plunging with all the courage of ignorance. They become suckers when they become so wise that they overstay the bull market. You’ve overstayed yours thirty years at least.”
+
+“It’s very easy to talk,” he sneered.
+
+“No; it is very difficult to talk to chaps like you. You are only half cured because you only half know. You think of this game here as being hard to beat. You don’t realize that it is unbeatable. You remember the money that Dick or Bill took out, forgetting that lots of people have gone to Monte Carlo and quit winners of an evening. When they brag of their beating the roulette you know they may have won two hundred francs. But you also know that nobody ever beat the roulette game. But the stock market is different. You know your customers don’t beat it, but you think you are going to. Wise guy!”
+
+“I see you are still at it!” he said with his first smile. The persistence of my hobby amused him.
+
+“What’s so funny about it?” I asked.
+
+“The inconsistency of it. People have taken money out of Wall——”
+
+“One evening at Monte Carlo,” I interrupted. “If they had gone back the next night they’d have lost it.”
+
+“That’s all very well, but I’ve been reading your articles about Larry Livingston,” he retorted. “You say the game is unbeatable and then you proceed to print a series of articles telling how he has made millions at it. It’s all he’s ever done and he has yachts and horses and everything.”
+
+“But he himself says the game down here cannot be beaten,” I persisted.
+
+“But he’s a millionaire,” and my friend smiled, quite good-naturedly.
+
+“If you had read those articles with any degree of either native or borrowed intelligence you would have perceived that his very success proves that a man cannot beat the stock market.”
+
+“If not beating the stock market will give me Livingston’s pile, I’m willing not to beat it,” he said pleasantly.
+
+“And you have been in Wall Street about thirty years!”
+
+“Thirty-nine,” he corrected proudly. There comes a time in the life of the average man when he is as vain over having lasted in business as the old French aristocrat was of having kept his head on his own neck during the years of the Terror.
+
+“It takes most men longer than that to learn to generalize accurately about their business,” I told him consolingly. “After all, what’s thirty-nine years to a man as well preserved as you? And besides, one hobby is as good as another.”
+
+Following Livingston
+
+WE REACHED his office. I shook hands with the senior partner—whom I knew fairly well—and with a junior whom I had never before met. It was for the latter’s benefit that my friend said, not quite apologetically, “This is the man who wrote those articles in The Saturday Evening Post.”
+
+“Oh, yes,” said the junior partner with a quite flattering increase in interest. “What does Livingston think about the market now? He talks bullish, but he is selling stocks.”
+
+“I don’t know what he thinks and I never ask him what he’s doing. I’m much more interested in what he has done. The past is history and there we may deal with facts. The future is guesswork and that isn’t what I want to print these days.”
+
+The junior partner stared at me, obviously puzzled. It was sheer politeness that kept him from registering incredulity. But presently he nodded brightly.
+
+“Oh, I see!” he said. “You are right. That’s the trouble with him. Anybody who tried to follow him would go broke.”
+
+“I don’t quite get that,” I confessed.
+
+“I know several fellows who know him quite well. Intimately! They are as close to him as anybody. Well, time and again when they’ve bought something that he was bullish on or sold something that they knew he was short of, they’ve lost money. His friends don’t accuse him of misleading them, but they have given up trying to follow him. He is liable to change in a jiffy. He’ll cover his shorts while you are still looking for a twenty-point break. And then, they say that he is often wrong—so wrong that he must lose millions.”
+
+“He runs quickly,” I said. “He reads the tape and he hasn’t any prejudices.”
+
+“It isn’t always million-dollar profits with him,” said the junior.
+
+“He makes no effort to hide the fact that every time he makes a sucker play he pays dearly for it,” I assured him.
+
+“If he is often wrong and you can’t follow him when he is right, what’s the answer?” asked the junior partner.
+
+I laughed. The junior partner frowned. He was very young, very earnest and very wise.
+
+I explained humbly: “My boy, all old people laugh at times. They can’t help it. I told your aged partner here a while ago that Livingston wasn’t beating the game and he wouldn’t believe me, though he’s been in Wall Street longer than you’ve been on earth. And now the way you speak about Livingston and those of his friends who would follow him in the market reminds me about James R. Keene’s confidential brokers who used to swear at the way they chipped out money trying to follow him. In the heat of the loss-taking some of them would even accuse him—always behind his back—of double-crossing them, when as a matter of fact Keene was blissfully unaware that they were doing him the honor of following him in the market.”
+
+> ![image](assets/00059-39d1383f.jpg)
+
+The Bewildered Followers
+
+THE junior partner, I could see, was thinking that today and yesterday were not one and the same. He said, politely enough, “Of course in Livingston’s case I have only the word of his friends to go by. I never spoke to him in my life.”
+
+“It wouldn’t make any difference if you spoke to him a thousand times a day,” I said. “There are many reasons why no man can make money following supertraders of the Livingston class, not even if he heard or read every order Livingston gave his broker. I don’t recall a single instance where a big operator did not cost his dearest friends money. I have heard them talk about it jokingly—after the deed. A close relative of the late H. O. Havemeyer told him in my hearing once that the cheapest place in which to operate in sugar was in a bucket shop, where a Christian gentleman was wiped out on one point’s decline instead of trying to do on the Stock Exchange what the president of the sugar trust was believed to do. One of the cleverest stock brokers I ever knew told me once that Mr. Keene was so friendly with me that I ought to go broke inside of six months. I said, ‘I don’t have to take his tips, do I?’ and he answered, ‘Oh, it isn’t his tips. Or, rather, it is the supertip that no living man can resist. The Old Man won’t tell you to buy or sell a certain stock. He will merely admit in the course of a talk that he is long sixty thousand Baltimore and Ohio, on which he figures to make ten points net before Christmas. How in blazes can you or any living being resist the impulse to be long of that stock, knowing what Keene can do to any stock he’s bullish on? You can’t help following, I tell you. There is only one way to make money out of Keene. And that is to go up to him, get him to accept some money and then tell him to buy or sell anything that looks good to him and not to tell you a word about it until he is through with it. At that, he may lose your stake for you; but if he does, it doesn’t feel so much like suicide.’ I laughed, but he said, very seriously, ‘He doesn’t do it on purpose. But he goes wrong, like anybody else. I remember one year when he traded in hundreds of thousands of shares and all that kept him from being flat broke was Domino’s earnings on the race track. What happens is that plungers like him make so much when they are right that it takes quite a succession of mistakes to make a dent in their pile.’ The chap who told me that was one of the shrewdest brokers of his day. That is why I laughed when you, who only go back eight or ten years, began to tell me a story as old as the Street.”
+
+The junior partner nodded with an excruciatingly polite cheerfulness. It was plain that he was unconvinced. The repetitions of history serve but to annoy youth. All he could see clearly was that Livingston was a big winner on balance. It stood to reason that a follower, if persistent enough, must also win on balance. It was useless to argue or analyze or cite extenuating circumstances.
+
+The junior and the senior partners, as well as those of the customers that I met that day, shared the same views about Livingston—that is, they all regarded the extent of his winnings as the only measure of his victories. He had beaten the game, therefore the game was beatable by blind gamblers. The requisites—the knowledge of basic conditions, the experience in all the speculative markets, the combination of sagacity, logic, courage, and the power to coordinate instantly—all these things were not considered when speaking of Livingston’s success.
+
+I may say here that in my own experiences of years I have always found that generalizations about speculation or about the philosophy of trading are listened to hopefully—in the hope of hearing later, as a reward for their optimism, exactly what to do to make money. Even the professional traders, and, of course, to an immeasurably greater degree the average customer of the average broker, will yawn if they have to listen to analyses of why men like Keene or Woerishoffer or Livingston have made millions—at times. But the moment you begin to tell them concretely how a man began with one hundred shares of a stock at 66 and pyramided till he was carrying ten thousand shares on which he finally made twenty-three points’ profit in seven weeks, they will listen with all the ears the Lord gave them as well as with those the ticker has fastened on their souls. And if you tell them how a man got stuck in an office-building elevator while he was on his way to his broker’s to sell out some stock he had been carrying for months and the delay kept him from giving the selling order until one minute before the close on the very day somebody cornered the stock, so that the intelligent elevator victim made thirty-eight thousand dollars instead of losing twelve thousand, every one of your listeners inaudibly but visibly asks Providence to do as much for him some day. I know that when I discuss Livingston’s maxims and rules for trading in the abstract the listener is not interested. When I tell how he took a thirty-five-point profit on a line of two hundred thousand shares of stocks, the listeners get it all with gasps of admiration—and they resolve to do likewise.
+
+After I left my friend’s office I ran across a number of Livingston’s intimates, all of whom were anxious to tell me about certain exploits that Larry had not told me. It was not that they wished to shine by reflected glory, but to prove to the world—and to themselves!—that there were prizes to be won at the game they, as well as he, were engaged in playing.
+
+It should be plain to readers of these articles that they were intended to prove that the stock-market game cannot be beaten. The most successful stock operator of his time believes, as I do, that no man can beat it. His experience has convinced him that he is right. His very millions confirm it. In his reminiscences he has told only of such of his successes and failures as possessed educational value—that is, those that proved how apt the average man is to go wrong in his trading. He studies all commodities markets. One of his friends one day asked me if I knew about the time he made a big profit bulling silver—the metal—the time it went up. I asked Livingston about his experience in that market and he said, “Oh, there wasn’t anything to that. Of course it was plain that the price of silver was bound to rise and I merely bought a lot of it. There is nothing to be learned from that trade; nothing of any value to your readers. It was more of a commercial transaction than a speculation.”
+
+Similarly he asked me not to publish the details of sundry other deals. They were both picturesque and profitable, and as adventures in fortune winning they were very interesting. But he insisted that the educational element was lacking and hence there was no valid reason for publishing them.
+
+I asked him to take up the narrative of his stock-market experiences where he had left off.
+
+“What did you do in 1917, after you paid your creditors in full?”
+
+“Wait a minute,” he said. “Let me talk generalities first. Among the hazards of speculation the happening of the unexpected—I might even say of the unrespectable—ranks high. There are certain chances that the most prudent man is justified in taking—chances that he must take if he wishes to be more than a mercantile mollusk.”
+
+No Protection Against Welshers
+
+“NORMAL business hazards are no worse than the risks a man runs when he goes out of his house into the street or sets out on a railroad journey. When I lose money by reason of some development which nobody could foresee I think no more vindictively of it than I do of an inconveniently timed storm. Life itself from the cradle to the grave is a gamble, and what happens to me because I do not possess the gift of second sight I can bear undisturbed. But there have been times in my career as a speculator when I have both been right and played square and nevertheless I have been cheated out of my earnings by the sordid unfairness of unsportsmanlike opponents.
+
+“Against misdeeds by crooks, cowards and crowds a quick-thinking or far-sighted business man can protect himself. I have never gone up against downright dishonesty except in a bucket shop or two, because even there honesty was the best policy. The big money was in being square and not in welshing. I have never thought it good business to play any game in any place where it was necessary to keep an eye on the dealer because he was likely to cheat if unwatched. But against the whining welsher the decent man is powerless. Fair play is fair play. I could tell you a dozen instances where I have been the victim of my own belief in the sacredness of the pledged word or of the inviolability of a gentlemen’s agreement. I shall not do so because no useful purpose can be served thereby.
+
+> ![image](assets/00060-f54fe4b8.jpg)
+
+“Fiction writers, clergymen and women are fond of alluding to the floor of the Stock Exchange as a boodlers’ battlefield and to Wall Street’s daily business as a fight. It is quite dramatic but utterly misleading. I do not think that my business is strife and contest. I never fight either individuals or speculative cliques. I merely differ in opinion—that is, in my reading of basis conditions. What playwrights call battles of business are not fights between human beings. They are merely tests of business vision. I try to stick to facts and facts only, and govern my actions accordingly. That is Bernard M. Baruch’s recipe for success in wealth winning. Sometimes I do not see the facts—all the facts—clearly enough or early enough; or else I do not reason logically. Whenever any of these things happen I lose. I am wrong. And it always costs me money to be wrong.
+
+“No reasonable man objects to paying for his mistakes. There are no preferred creditors in mistake making and no exceptions or exemptions. But I object to losing money when I am right. I do not mean, either, those deals that have cost me money because of sudden changes in the rules of some particular exchange. I have in mind certain hazards of speculation that from time to time remind a man that no profit should be counted safe until it is deposited in your bank to your credit.
+
+“After the Great War broke out in Europe there began the rise in the prices of commodities that was to be expected. It was as easy to foresee that as to foresee war inflation. Of course the general advance continued as the war prolonged itself. As you may remember, I was busy coming back in 1915. The boom in stocks was there and it was my duty to utilize it. My safest, easiest and quickest big play was in the stock market, and I was lucky, as you know.
+
+“By July, 1917, I not only had been able to pay off all my debts but was quite a little to the good besides. This meant that I now had the time, the money and the inclination to consider trading in commodities as well as in stocks. For many years I have made it my practice to study all the markets. The advance in commodity prices over the prewar level ranged from 100 to 400 per cent. There was only one exception, and that was coffee. Of course there was a reason for this. The breaking out of the war meant the closing up of European markets and huge cargoes were sent to this country, which was the one big market. That led in time to an enormous surplus of raw coffee here, and that, in turn, kept the price low. Why, when I first began to consider its speculative possibilities coffee was actually selling below prewar prices. If the reasons for this anomaly were plain, no less plain was it that the active and increasingly efficient operation by the German and Austrian submarines must mean an appalling reduction in the number of ships available for commercial purposes. This eventually in turn must lead to dwindling imports of coffee. With reduced receipts and an unchanged consumption the surplus stocks must be absorbed, and when that happened the price of coffee must do what the prices of all other commodities had done, which was, go way up.”
+
+Livingston’s Coffee Trade
+
+“It didn’t require a Sherlock Holmes to size up the situation. Why everybody did not buy coffee I cannot tell you. When I decided to buy it I did not consider it a speculation. It was much more of an investment. I knew it would take time to cash in, but I knew also that it was bound to yield a good profit. That made it a conservative investment operation—a banker’s act rather than a gambler’s play.
+
+“I started my buying operations in the winter of 1917. I took quite a lot of coffee. The market, however, did nothing to speak of. It continued inactive and as for the price, it did not go up as I had expected. The outcome of it all was that I simply carried my line to no purpose for nine long months. My contracts expired then and I sold out all my options. I took a whopping big loss on that deal and yet I was sure my views were sound. I had been clearly wrong in the matter of time, but I was confident that coffee must advance as all commodities had done, so that no sooner had I sold out my line than I started in to buy again. I bought three times as much coffee as I had so unprofitably carried during those nine disappointing months. Of course I bought deferred options—for as long a time as I could get.
+
+“I was not so wrong now. As soon as I had taken on my trebled line the market began to go up. People everywhere seemed to realize all of a sudden what was bound to happen in the coffee market. It began to look as if my investment was going to return me a mighty good rate of interest.
+
+“The sellers of the contracts I held were roasters, many of German names and affiliations, who had bought the coffee in Brazil confidently expecting to bring it to this country. But there were no ships to bring it, and presently they found themselves in the uncomfortable position of having no end of coffee down there and being heavily short of it to me up here.
+
+“Please bear in mind that I first became bullish on coffee while the price was practically at a prewar level, and don’t forget that after I bought it I carried it the greater part of a year and then took a big loss on it. The punishment for being wrong is to lose money. The reward for being right is to make money. Being clearly right and carrying a big line, I was justified in expecting to make a killing. It would not take much of an advance to make my profit satisfactory to me, for I was carrying several hundred thousand bags. I don’t like to talk about my operations in figures because sometimes they sound rather formidable and people might think I was boasting. As a matter of fact I trade in accordance to my means and always leave myself an ample margin of safety. In this instance I was conservative enough. The reason I bought options so freely was because I couldn’t see how I could lose. Conditions were in my favor. I had been made to wait a year, but now I was going to be paid both for my waiting and for being right. I could see the profit coming—fast. There wasn’t any cleverness about it. It was simply that I wasn’t blind.”
+
+The Unexpectable
+
+“Coming sure and fast, that profit of millions. But it never reached me. No; it wasn’t side-tracked by a sudden change in conditions. The market did not experience an abrupt reversal of form. Coffee did not pour into the country. What happened? The unexpectable! What had never happened in anybody’s experience; what I therefore had no reason to guard against. I added a new one to the long list of hazards of speculation that I must always keep before me. It was simply that the fellows who had sold me the coffee knew what was in store for them, and rushed to Washington for help, and got it.
+
+“Perhaps you remember that the Government had evolved various plans for preventing further profiteering in necessities. You know how most of them worked. Well, the coffee men appeared before the Price Fixing Committee of the War Industries Board—I think that was the official designation—and made a patriotic appeal to that body to protect the American breakfaster. They asserted that a professional speculator, one Lawrence Livingston, had cornered, or was about to corner, coffee. If his speculative plans were not brought to naught he would take advantage of the conditions created by the war and the American people would be forced to pay exorbitant prices for their daily coffee. They represented the coffee trade, not the coffee gamblers, and they were willing to help the Government curb profiteering actual or prospective.
+
+“Now I have a horror of whiners and I do not mean to intimate that the Price Fixing Committee was not doing its honest best to curb profiteering and wastefulness. But that need not stop me from expressing the opinion that the committee could not have gone very deeply into the particular problem of the coffee market. They fixed on a maximum price for raw coffee and also fixed a time limit for closing out all existing contracts. This decision meant, of course, that the Coffee Exchange would have to go out of business. There was only one thing for me to do and I did it, and that was to sell out all my contracts. Those profits of millions that I had deemed as certain to come my way as any I ever made failed completely to materialize. I was and am as keen as anybody against the profiteer in the necessaries of life, but at the time the Price Fixing Committee made their ruling on coffee all other commodities were selling at from 250 to 400 per cent above prewar prices, while raw coffee was actually below the average prevailing for some years before the war. I can’t see that it made any real difference who held the coffee. The price was bound to advance; and the reason for that was not the operations of conscienceless speculators, but the dwindling surplus for which the diminishing importations were responsible, and they in turn were affected exclusively by the appalling destruction of the world’s ships by the German submarines. The committee did not wait for coffee to start; they clamped on the brakes.
+
+> ![image](assets/00061-016405f9.jpg)
+
+“As a matter of policy and of expediency it was a mistake to force the Coffee Exchange to close just then. If the committee had let coffee alone the price undoubtedly would have risen for the reasons I have already stated, which had nothing to do with any alleged corner. But the high price—which need not have been exorbitant—would have been an incentive to attract supplies to this market. I have heard Mr. Bernard M. Baruch say that the War Industries Board took into consideration this factor—the insuring of a supply—in fixing prices, and for that reason some of the complaints about the high limit on certain commodities were unjust. When the Coffee Exchange resumed business, later on, coffee sold at twenty-three cents. The American people paid that price because of the small supply, and the supply was small because the price had been fixed too low.
+
+“I have always thought that my coffee deal was the most legitimate of all my trades in commodities. I considered it more of an investment than a speculation. I was in it over a year. If there was any gambling it was done by the patriotic roasters. They had coffee in Brazil and they sold it to me in New York. The Price Fixing Committee fixed the price of the only commodity that had not advanced. They protected the public against profiteering before it started, but not against the inevitable higher prices that followed. Not only that, but even when green coffee hung around nine cents a pound, roasted coffee went up with everything else. It was only the roasters who benefited. If the price of green coffee had gone up two or three cents a pound it would have meant several millions for me. And it wouldn’t have cost the public as much as the later advance did.”
+
+Blamed for Bear Raids
+
+“Post-mortems in speculation are a waste of time. They get you nowhere. But this particular deal has a certain educational value. It was as pretty as any I ever went into. The rise was so sure, so logical, that I figured that I simply couldn’t help making several millions of dollars. But I didn’t.
+
+“On two other occasions I have suffered from the action of exchange committees making rulings that changed trading rules without warning. But in that case my own position, while technically right, was not quite so commercially sound as in my coffee trade. You cannot be dead sure of anything in a speculative operation. It was the experience I have just told you that made me add the unexpectable to the unexpected in my list of hazards.
+
+“After the coffee episode I was so successful in other commodities and on the short side of the stock market that I began to suffer from silly gossip. The professionals in Wall Street and the newspaper writers got the habit of blaming me and my alleged raids for the inevitable breaks in prices. At times my selling was called unpatriotic—whether I was really selling or not. The reason for exaggerating the magnitude and the effect of my operations, I suppose, was the need to satisfy the public’s insatiable demand for reasons for each and every price movement.
+
+“As I have said a thousand times, no manipulation can put stocks down and keep them down. There is nothing mysterious about this. The reason is plain to everybody who will take the trouble to think about it half a minute. Suppose an operator raided a stock—that is, put the price down to a level below its real value—what would inevitably happen? Why, the raider would at once be up against the best kind of inside buying. The people who know what a stock is worth will always buy it when it is selling at bargain prices. If the insiders are not able to buy, it will be because general conditions are against their free command of their own resources, and such conditions are not bull conditions. When people speak about raids the inference is that the raids are unjustified; almost criminal. But selling a stock down to a price much below what it is worth is mighty dangerous business. It is well to bear in mind that a raided stock that fails to rally is not getting much inside buying and where there is a raid—that is, unjustified short selling—there is usually apt to be inside buying; and when there is that, the price does not stay down. I should say that in ninety-nine cases out of a hundred, so-called raids are really legitimate declines, accelerated perhaps but not primarily caused by the operations of a trader, however big a line he may be able to swing.”
+
+The Story of Borneo Tin
+
+“The theory that most of the sudden declines or particularly sharp breaks are the results of some plunger’s operations probably was invented as an easy way of supplying reasons to those speculators who being nothing but blind gamblers will believe anything that is told them rather than do a little thinking. The raid excuse for losses that unfortunate speculators so often receive from brokers and financial gossipers is really an inverted tip. The difference lies in this: A bear tip is distinct, positive advice to sell short. But the inverted tip—that is, the explanation that does not explain—serves merely to keep you from wisely selling short. The natural tendency when a stock breaks badly is to sell it. There is a reason—an unknown reason but a good reason; therefore get out. But it is not wise to get out when the break is the result of a raid by an operator, because the moment he stops the price must rebound. Inverted tips!
+
+“Tips! How people want tips! They crave not only to get them but to give them. There is greed involved, and vanity. It is very amusing, at times, to watch really intelligent people fish for them. And the tip giver need not hesitate about the quality, for the tip seeker is not really after good tips, but after any tip. If it makes good, fine! If it doesn’t, better luck with the next. I am thinking of the average customer of the average commission house. There is a type of promoter or manipulator that believes in tips first, last and all the time. A good flow of tips is considered by him as a sort of sublimated publicity work, the best merchandising dope in the world, for, since tip seekers and tip takers are invariably tip passers, tip broadcasting becomes a sort of endless-chain advertising. The tipster promoter labors under the delusion that no human being breathes who can resist a tip if properly delivered. He studies the art of handing them out artistically. Why, I have had——”
+
+Livingston paused and suddenly began to laugh. I naturally asked him, “Who was it that gave you that tip?”
+
+“I get them by the hundreds every day from all sorts of people,” he answered.
+
+“But the one that made you laugh when you remembered it?” I persisted.
+
+“They didn’t give it to me. It is one Mrs. Livingston got.”
+
+“Does she speculate?” I asked.
+
+“I’ll tell you the story,” said Livingston. “The stock was Borneo Tin. You remember when it was brought out? It was at the height of the boom. The promoter’s pool had taken the advice of a very clever banker and decided to float the new company in the open market at once instead of letting an underwriting syndicate take its time about it. It was good advice. The only mistake the members of the pool made came from inexperience. They did not know what the stock market was capable of doing during a crazy boom and at the same time they were not intelligently liberal. They were agreed on the need of marking up the price in order to market the stock, but they started the trading at a figure at which the traders and the speculative pioneers could not buy it without misgivings.
+
+“By rights the promoters ought to have got stuck with it, but in the wild bull market their hoggishness turned out to be rank conservatism. The public was buying anything that was adequately tipped. Investments were not wanted. The demand was for easy money; for the sure gambling profit. Gold was pouring into this country through the huge purchases of war material. They tell me that the promoters, while making their plans for bringing out Borneo stock, marked up the opening price three different times before their first transaction was officially recorded for the benefit of the public.
+
+“I had been approached to join the pool and I had looked into it but I didn’t accept the offer because if there is any market maneuvering to do, I like to do it myself. I trade on my own dope and follow my own methods. When Borneo Tin was brought out, knowing what the pool’s resources were and what they had planned to do, and also knowing what the public was capable of, I bought ten thousand shares during the first hour of the first day. Its market debut was successful at least to that extent. As a matter of fact the promoters found the demand so active that they decided it would be a mistake to lose so much stock so soon. They found out that I had acquired my ten thousand shares about at the same time that they found out that they would probably be able to sell every share they owned if they merely marked up the price twenty-five or thirty points. They therefore concluded that the profit on my ten thousand shares would take too big a chunk out of the millions they felt were already as good as banked. So they actually ceased their bull operations and tried to shake me out. But I simply sat tight. They gave me up as a bad job because they didn’t want the market to get away from them, and then they began to put up the price, without losing any more stock than they could help.
+
+“They saw the crazy height that other stocks rose to and they began to think in billions. Well, when Borneo Tin got up to 120 I let them have my ten thousand shares. It checked the rise and the pool managers let up on their jacking-up process. On the next general rally they again tried to make an active market for it and disposed of quite a little, but the merchandising proved to be rather expensive. Finally they marked it up to 150. But the bloom was off the bull market for keeps so the pool was compelled to market what stock it could on the way down to those people who love to buy after a good reaction, on the fallacy that a stock that has once sold at 150 must be cheap at 130 and a great bargain at 120. Also, they passed the tip first to the floor traders, who often are able to make a temporary market, and later to the commission houses. Every little helped and the pool was using every device known. The trouble was that the time for bulling stocks had passed. The suckers had swallowed other hooks. The Borneo bunch didn’t or wouldn’t see it.”
+
+The Dinner-Table Tip
+
+“I was down in Palm Beach with my wife. One day I made a little money at Gridley’s and when I got home I gave Mrs. Livingston a five-hundred-dollar bill out of it. It was a curious coincidence, but that same night she met at a dinner the president of the Borneo Tin Company, a Mr. Wisenstein, who had become the manager of the stock pool. We didn’t learn until some time afterward that this Wisenstein deliberately maneuvered so that he sat next to Mrs. Livingston at dinner.
+
+“He laid himself out to be particularly nice to her and talked most entertainingly. In the end he told her, very confidentially, ‘Mrs. Livingston, I’m going to do something I’ve never done before. I am very glad to do it because you know exactly what it means.’ He stopped and looked at Mrs. Livingston anxiously, to make sure she was not only wise but discreet. She could read it on his face, plain as print. But all she said was ‘Yes.’
+
+“‘Yes, Mrs. Livingston. It has been a very great pleasure to meet you and your husband, and I want to prove that I am sincere in saying this because I hope to see a great deal of both of you. I am sure I don’t have to tell you that what I am going to say is strictly confidential!’ Then he whispered, ‘If you will buy some Borneo Tin you will make a great deal of money.’
+
+“‘Do you think so?’ she asked.
+
+“‘Just before I left the hotel,’ he said, ‘I received some cables with news that won’t be known to the public for several days at least. I am going to gather in as much of the stock as I can. If you get some at the opening tomorrow you will be buying it at the same time and at the same price as I. I give you my word that Borneo Tin will surely advance. You are the only person that I have told this to. Absolutely the only one!’
+
+“She thanked him and then she told him that she didn’t know anything about speculating in stocks. But he assured her it wasn’t necessary for her to know any more than he had told her. To make sure she heard it correctly he repeated his advice to her:
+
+“‘All you have to do is to buy as much Borneo Tin as you wish. I can give you my word that if you do you will not lose a cent. I’ve never before told a woman—or a man, for that matter—to buy anything in my life. But I am so sure the stock won’t stop this side of 200 that I’d like you to make some money. I can’t buy all the stock myself, you know, and if somebody besides myself is going to benefit by the rise I’d rather it was you than some stranger. Much rather! I’ve told you in confidence because I know you won’t talk about it. Take my word for it, Mrs. Livingston, and buy Borneo Tin!’
+
+“He was very earnest about it and succeeded in so impressing her that she began to think she had found an excellent use for the five hundred dollars I had given her that afternoon. That money hadn’t cost me anything and was outside of her allowance. In other words, it was easy money to lose if the luck went against her. But he had said she would surely win. It would be nice to make money on her own hook—and tell me all about it afterwards.”
+
+Wisenstein’s Slip
+
+“Well, sir, the very next morning before the market opened she went into Hardings’ office and said to the manager:
+
+“‘Mr. Haley, I want to buy some stock, but I don’t want it to go in my regular account because I don’t wish my husband to know anything about it until I’ve made some money. Can you fix it for me?’
+
+“Haley, the manager, said, ‘Oh, yes. We can make it a special account. What’s the stock and how much of it do you want to buy?’
+
+“She gave him the five hundred dollars and told him, ‘Listen, please. I do not wish to lose more than this money. If that goes I don’t want to owe you anything; and remember, I don’t want Mr. Livingston to know anything about this. Buy me as much Borneo Tin as you can for the money, at the opening.’
+
+“Haley took the money and told her he’d never say a word to a soul, and bought her a hundred shares at the opening. I think she got it at 108. The stock was very active that day and closed at an advance of three points. Mrs. Livingston was so delighted with her exploit that it was all she could do to keep from telling me all about it.
+
+“It so happened that I had been getting more and more bearish on the general market. The unusual activity in Borneo Tin drew my attention to it. I didn’t think the time was right for any stock to advance, much less one like that. I had decided to begin my bear operations that very day, and I started by selling about ten thousand shares of Borneo. If I had not I rather think the stock would have gone up five or six points instead of three.
+
+“On the very next day I sold two thousand shares at the opening and two thousand shares just before the close, and the stock broke to 102.
+
+“Haley, the manager of Harding Brothers’ Palm Beach Branch, was waiting for Mrs. Livingston to call there on the third morning. She usually strolled in about eleven to see how things were, if I was doing anything.
+
+“Haley took her aside and said, ‘Mrs. Livingston, if you want me to carry that hundred shares of Borneo Tin for you you will have to give me more margin.’
+
+“‘But I haven’t any more,’ she told him.
+
+“‘I can transfer it to your regular account,’ he said.
+
+“‘No,’ she objected, ‘because that way L. L. would learn about it.’
+
+“‘But the account already shows a loss of——’ he began.
+
+“‘But I told you distinctly I didn’t want to lose more than the five hundred dollars. I didn’t even want to lose that,’ she said.
+
+“‘I know, Mrs. Livingston, but I didn’t want to sell it without consulting you, and now unless you authorize me to hold it I’ll have to let it go.’
+
+“‘But it did so nicely the day I bought it,’ she said, ‘that I didn’t believe it would act this way so soon. Did you?’
+
+“‘No,’ answered Haley, ‘I didn’t.’ They have to be diplomatic in brokers’ offices.
+
+“‘What’s gone wrong with it, Mr. Haley?’
+
+“Haley knew, but he could not tell her without giving me away, and a customer’s business is sacred. So he said, ‘I don’t hear anything special about it, one way or another. There she goes! That’s low for the move!’ and he pointed to the quotation board.
+
+“Mrs. Livingston gazed at the sinking stock and cried: ‘Oh, Mr. Haley! I didn’t want to lose my five hundred dollars! What shall I do?’
+
+“‘I don’t know, Mrs. Livingston, but if I were you I’d ask Mr. Livingston.’
+
+“‘Oh, no! He doesn’t want me to speculate on my own hook. He’s told me so. He’ll buy or sell stock for me, if I ask him, but I’ve never before done trading that he did not know all about. I wouldn’t dare tell him.’
+
+“‘That’s all right,’ said Haley soothingly. ‘He is a wonderful trader and he’ll know just what to do.’ Seeing her shake her head violently he added devilishly: ‘Or else you put up a thousand or two to take care of your Borneo.’
+
+“The alternative decided her then and there. She hung about the office, but as the market got weaker and weaker she came over to where I sat by the ticker and told me she wanted to speak to me. We went into the private office and she told me the whole story. So I just said to her: ‘You foolish little girl, you keep your hands off this deal.’
+
+“She promised that she would, and so I gave her back her five hundred dollars and she went away happy. The stock was par by that time.
+
+“I saw what had happened. Wisenstein was an astute person. He figured that Mrs. Livingston would tell me what he had told her and I’d study the stock. He knew that activity always attracted me and I was known to swing a pretty fair line. I suppose he thought I’d buy ten or twenty thousand shares.
+
+“It was one of the most cleverly planned and artistically propelled tips I’ve ever heard of. But it went wrong. It had to. In the first place, the lady had that very day received an unearned five hundred dollars and was therefore in a much more venturesome mood than usual. She wished to make some money all by herself, and womanlike dramatized the temptation so attractively that it was irresistible. She knew how I felt about stock speculation as practiced by outsiders, and she didn’t dare mention the matter to me. Wisenstein didn’t size up her psychology right.”
+
+Periodical Hope Sprees
+
+“He also was utterly wrong in his guess about the kind of trader I was. I never take tips and I was bearish on the entire market. The tactics that he thought would prove effective in inducing me to buy Borneo—that is, the activity and the three-point rise—were precisely what made me pick Borneo as a starter when I decided to sell the entire market.
+
+“After I heard Mrs. Livingston’s story I was keener than ever to sell Borneo. Every morning at the opening and every afternoon just before closing I let him have some stock regularly, until I saw a chance to take in my shorts at a handsome profit.
+
+“It has always seemed to me the height of damfoolishness to trade on tips. I suppose I am not built the way a tip taker is. I sometimes think that tip takers are like drunkards. There are some who can’t resist the craving and always look forward to those jags which they consider indispensable to their happiness. It is so easy to open your ears and let the tip in. To be told precisely what to do to be happy in such a manner that you can easily obey is the next nicest thing to being happy—which is a mighty long first step toward the fulfillment of your heart’s desire. It is not so much greed made blind by eagerness as it is hope bandaged by the unwillingness to do any thinking.
+
+“And it is not only among the sucker public that you find inveterate tip takers. The professional trader on the floor of the New York Stock Exchange is quite as bad. I am definitely aware that no end of them cherish mistaken notions of me because I never give anybody tips. If I told the average man ‘Sell yourself five thousand Steel!’ he would do it on the spot. But if I tell him I am quite bearish on the entire market and give him my reasons in detail, he finds trouble in listening and after I’m done talking he will glare at me for wasting his time expressing my views on general conditions instead of giving him a direct and specific tip, like a real philanthropist of the type that is so abundant in Wall Street—the sort who loves to put millions into the pockets of friends, acquaintances and utter strangers alike.
+
+“The belief in miracles that all men cherish is born of immoderate indulgence in hope. There are people who go on hope sprees periodically and we all know the chronic hope drunkard that is held up before us as an exemplary optimist. Tip takers are all they really are.
+
+“I have an acquaintance, a member of the New York Stock Exchange, who was one of those who thought I was a selfish, cold-blooded pig because I never gave tips or put friends into things. One day—this was some years ago—he was talking to a newspaper man who casually mentioned that he had had it from a good source that G. O. H. was going up. My broker friend promptly bought a thousand shares and saw the price decline so quickly that he was out thirty-five hundred dollars before he could stop his loss. He met the newspaper man a day or two later, while he still was sore.
+
+“‘That was a hell of a tip you gave me,’ he complained.
+
+“‘What tip was that?’ asked the reporter, who did not remember.
+
+“‘About G. O. H. You said you had it from a good source.’
+
+“‘So I did. A director of the company who is a member of the finance committee told me.’
+
+“‘Which of them was it?’ asked the broker vindictively.
+
+“‘If you must know,’ answered the newspaper man, ‘it was your own father-in-law, Mr. Westlake.’”
+
+Grateful John Gates
+
+“‘Why in Hades didn’t you tell me you meant him!’ yelled the broker. ‘You cost me thirty-five hundred dollars!’ He didn’t believe in family tips. The farther away the source the purer the tip.
+
+“Old Westlake was a rich and successful banker and promoter. He ran across John W. Gates one day. Gates asked him what he knew. ‘If you will act on it I’ll give you a tip. If you won’t I’ll save my breath,’ answered old Westlake grumpily.
+
+“‘Of course I’ll act on it,’ promised Gates cheerfully.
+
+“‘Sell Reading! There is a sure twenty-five points in it, and possibly more. But twenty-five absolutely certain,’ said Westlake impressively.
+
+“‘I’m much obliged to you,’ and Bet-you-a-million Gates shook hands warmly and went away in the direction of his broker’s office.
+
+“Westlake had specialized on Reading. He knew all about the company and stood in with the insiders so that the market for the stock was an open book to him and everybody knew it. Now he was advising the Western plunger to go short of it.
+
+“Well, Reading never stopped going up. It rose something like one hundred points in a few weeks. One day old Westlake ran smack up against John W. in the Street but he made out he hadn’t seen him and was walking on. John W. Gates caught up with him, his face all smiles, and held out his hand. Old Westlake shook it dazedly.
+
+“‘I want to thank you for that tip you gave me on Reading,’ said Gates.
+
+“‘I didn’t give you any tip,’ said Westlake, frowning.
+
+“‘Sure you did. And it was a Jim Hickey of a tip too. I made sixty thousand dollars.’
+
+“‘Made sixty thousand dollars?’
+
+“‘Sure! Don’t you remember? You told me to sell Reading; so I bought it! I’ve always made money coppering your tips, Westlake,’ said John W. Gates pleasantly. ‘Always!’
+
+“Old Westlake looked at the bluff Westerner and presently remarked admiringly, ‘Gates, what a rich man I’d be if I had your brains!’
+
+“The other day I met Mr. W. A. Rogers, the famous cartoonist, whose Wall Street drawings brokers so greatly admire. His daily cartoons in the New York Herald for years gave pleasure to thousands. Well, he told me a story. It was just before we went to war with Spain. He was spending an evening with a broker friend. When he left he picked up his derby hat from the rack, at least he thought it was his hat, for it was the same shape and fitted him perfectly.
+
+“The Street at that time was thinking and talking of nothing but war with Spain. Was there to be one or not? If it was to be war, the market would go down; not so much on our own selling as on pressure from European holders of our securities. If peace, it would be a cinch to buy stocks, as there had been considerable declines prompted by the sensational clamorings of the yellow papers. Mr. Rogers told me the rest of the story as follows:
+
+“‘My friend, the broker, at whose house I had been the night before, stood in the Exchange the next day anxiously debating in his mind which side of the market to play. He went over the pros and cons, but it was impossible to distinguish which were rumors and which were facts. There was no authentic news to guide him. At one moment he thought war was inevitable, and on the next he almost convinced himself that it was utterly unlikely. His perplexity must have caused a rise in his temperature, for he took off his derby to wipe his fevered brow. He couldn’t tell whether he should buy or sell.
+
+“‘He happened to look inside of his hat. There in gold letters was the word WAR. That was all the hunch he needed. Was it not a tip from Providence via my hat? So he sold a raft of stock, war was duly declared, he covered on the break and made a killing.’ And then W. A. Rogers finished, ‘I never got back that hat!’
+
+“But the prize tip story of my collection concerns one of the most popular members of the New York Stock Exchange. You know him—J. T. Hood. One day another floor trader, Bert Walker, told him that he had done a good turn to a prominent director of the Atlantic and Southern. In return the grateful insider told him to buy all the A. & S. he could carry. The directors were going to do something that would put the stock up at least twenty-five points. All the directors were not in the deal, but the majority would be sure to vote as wanted.
+
+“Bert Walker concluded that the dividend rate was going to be raised. He told his friend, Hood, and they each bought a couple of thousand shares of A. & S. The stock was very weak, before and after they bought, but Hood said that was obviously intended to facilitate accumulation by the inside clique, headed by Bert’s grateful friend.
+
+“On the following Thursday, after the market closed, the directors of the Atlantic and Southern met and passed the dividend. The stock broke six points in the first six minutes of trading on the next day.”
+
+Whipsawed Again
+
+“Bert Walker was sore as a pup. He called on the grateful director, who was broken-hearted about it and very penitent. He said that he had forgotten that he had told Walker to buy. That was the reason he had neglected to call him up to tell him of a change in the plans of the dominant faction in the board. The remorseful director was so anxious to make up that he gave Bert another tip. He kindly explained that a couple of his colleagues wanted to get cheap stock and against his judgment resorted to coarse work. He had to yield to win their votes. But now that they all had accumulated their full lines there was nothing to stop the advance. It was a double-riveted, lead-pipe cinch to buy A. & S. now.
+
+“Bert not only forgave him but shook hands warmly with the high financier. Naturally he hastened to find his friend and fellow victim, Hood, to impart the glad tidings to him. They were going to make a killing.
+
+“The stock had been tipped for a rise before and they bought. But now it was fifteen points lower. That made it a cinch. So they bought five thousand shares joint account.
+
+“As if they had rung a bell to start it, the stock broke badly on what quite obviously was inside selling. Two specialists cheerfully confirmed the suspicion. Hood sold out their five thousand shares. When he got through Bert Walker said to him, ‘If that blankety-blank blanker hadn’t gone to Florida day before yesterday I’d lick the stuffing out of him. Yes, I would. But you come with me.’
+
+“‘Where to?’ asked Hood.
+
+“‘To the telegraph office. I want to send that skunk a telegram that he’ll never forget. Come on.’
+
+“Hood went on. Bert led the way to the telegraph office. There, carried away by his feelings—they had taken quite a loss on the five thousand shares—he composed a masterpiece of vituperation. He read it to Hood and finished, ‘That will come pretty near to showing him what I think of him.’
+
+“He was about to slide it toward the waiting clerk when Hood said, ‘Hold on, Bert!’
+
+“‘What’s the matter?’
+
+“‘I wouldn’t send it,’ advised Hood.
+
+“‘Why not?’ snapped Bert.
+
+“‘It will make him sore as the dickens.’
+
+“‘That’s what we want, isn’t it?’ said Bert, looking at Hood in surprise.
+
+“But Hood shook his head disapprovingly and said in all seriousness, ‘We’ll never get another tip from him if you send that telegram!’
+
+“A professional trader actually said that. Now what’s the use of talking about sucker tip takers? Men do not take tips because they are bally asses but because they like those hope cocktails I spoke of. Old Baron Rothschild’s recipe for wealth winning applies with greater force than ever to speculation. Somebody asked him if making money in the Bourse was not a very difficult matter, and he replied that on the contrary he thought it was very easy.”
+
+Sizing Up Atchison
+
+“‘That is because you are so rich,’ objected the interviewer.
+
+“‘Not at all. I have found an easy way and I stick to it. I simply cannot help making money. I will tell you my secret if you wish. It is this: I never buy at the bottom and I always sell too soon.’
+
+“Investors are a different breed of cats. Most of them go in strong for inventories and statistics of earnings and all sorts of mathematical data, as though that meant facts and certainties. The human factor is minimized as a rule. Very few people like to buy into a one-man business. But the wisest investor I ever knew was a man who began by being a Pennsylvania Dutchman and followed it up by coming to Wall Street and seeing a great deal of Russell Sage.
+
+“He was a great investigator, an indefatigable Missourian. He believed in asking his own questions and in doing his seeing with his own eyes. He had no use for another man’s spectacles. This was years ago. It seems he held quite a little Atchison. Presently he began to hear disquieting reports about the company and its management. He was told that Mr. Reinhart, the president, instead of being the marvel he was credited with being, in reality was a most extravagant manager whose recklessness was fast pushing the company into a mess. There would be the deuce to pay on the inevitable day of reckoning.
+
+“This was precisely the kind of news that was as the breath of life to the Pennsylvania Dutchman. He hurried over to Boston to interview Mr. Reinhart and ask him a few questions. The questions consisted of repeating the accusations he had heard and then asking the president of the Atchison, Topeka and Santa Fe Railroad if they were true.
+
+“Mr. Reinhart not only denied the allegations emphatically but said even more: He proceeded to prove by figures that the allegators were malicious liars. The Pennsylvania Dutchman had asked for exact information and the president gave it to him, showing him what the company was doing and how it stood financially, to a cent.
+
+“The Pennsylvania Dutchman thanked President Reinhart, returned to New York and promptly sold all his Atchison holdings. A week or so later he used his idle funds to buy a big lot of Delaware, Lackawanna and Western.
+
+“Years afterward we were talking of lucky swaps and he cited his own case. He explained what prompted him to make it.
+
+“‘You see,’ he said, ‘I noticed that President Reinhart, when he wrote down figures, took sheets of letter paper from a pigeonhole in his mahogany roll-top desk. It was fine heavy linen paper with beautifully engraved letterheads in two colors. It was not only very expensive but worse—it was unnecessarily expensive. He would write a few figures on a sheet to show me exactly what the company was earning on certain divisions or to prove how they were cutting down expenses or reducing operating costs, and then he would crumple up the sheet of the expensive paper and throw it into the wastebasket. Pretty soon he would want to impress me with the economies they were introducing and he would reach for a fresh sheet of the beautiful notepaper with the engraved letterheads in two colors. A few figures—and bingo, into the wastebasket! More money wasted without a thought. It struck me that if the president was that kind of a man he would scarcely be likely to insist upon having or rewarding economical assistants. I therefore decided to believe the people who had told me the management was extravagant instead of accepting the president’s version and I sold what Atchison stock I held.
+
+“‘It so happened that I had occasion to go to the offices of the Delaware, Lackawanna and Western a few days later. Old Sam Sloan was the president. His office was the nearest to the entrance and his door was wide open. It was always open. Nobody could walk into the general offices of the D. L. & W. in those days and not see the president of the company seated at his desk. Any man could walk in and do business with him right off, if he had any business to do. The financial reporters used to tell me that they never had to beat about the bush with old Sam Sloan, but would ask their questions and get a straight yes or no from him, no matter what the stock-market exigencies of the other directors might be.’”
+
+Sam Sloan’s Thrift
+
+“‘When I walked in I saw the old man was busy. I thought at first that he was opening his mail, but after I got inside close to the desk I saw what he was doing. I learned afterwards that it was his daily custom to do it. After the mail was sorted and opened instead of throwing away the empty envelopes he had them gathered up and taken to his office. In his leisure moments he would rip the envelope all around. That gave him two bits of paper, each with one clean blank side. He would pile these up and then he would have them distributed about, to be used in lieu of scratch pads for such figuring as Reinhart had done for me on engraved notepaper. No waste of empty envelopes and no waste of the president’s idle moments. Everything utilized.
+
+“‘It struck me that if that was the kind of man the D. L. & W. had for president, the company was managed economically in all departments. The president would see to that! Of course I knew the company was paying regular dividends and had a good property. I bought all the D. L. & W. stock I could. Since that time the capital stock has been doubled and quadrupled. My annual dividends amount to as much as my original investment. I still have my D. L. & W. And Atchison went into the hands of a receiver a few months after I saw the president throwing sheet after sheet of linen paper with engraved letterheads in two colors into the wastebasket to prove to me with figures that he was not extravagant.’
+
+“And the beauty of that story,” finished Larry Livingston, “is that it is true and that no stock that the Pennsylvania Dutchman could have bought would have proved to be so good an investment as D. L. & W.”
+
+<!-- rl-section id="section-27" class="epub-section" kicker="Section 27" title="Section 27" -->
+
+## Section 27
+
+XI.
+
+Why the Public Always Loses
+
+The stock market of the past was not an easy place to make money, especially for the small, uninformed investor. Too many bumps in the road blocked his way to fame and fortune in the stock market, including insufficient knowledge of how the market operated and inappropriate trading strategies. Were things better in 1922 than in the nineteenth century?
+
+Lefèvre confesses that the reason he wrote the articles in the first place was to prove that “no man can beat the game of stock speculation.” Smart traders like Livingston sometimes had to lose everything in order to appreciate that a successful trader won more than he lost on balance, but only by adhering to a tight strategy that allowed no exceptions. True suckers thought they could actually beat the game by winning consistently; the reality was that they lost everything in a short time and never came back to a market that they never understood in the first place.
+
+The most revealing part of this installment is the change in the marketplace between the late nineteenth century and the early 1920s. As Livingston relates, the NYSE had increased its listings threefold between 1901, when U.S. Steel was first created, and 1922 when these stories begin. The marketplace was more liquid, had more breadth, and was a better place to invest without the old traders and their manipulative techniques. When compared with the modern marketplace, however, it was still the stock market’s version of the Wild West. Traders routinely used techniques that later would bring prison sentences.
+
+One of the notable quotes from this installment confirms the point that Livingston had been making less directly throughout the articles. It concerned uses of the press and media by stock operators. “Wholesale dealers in securities, manipulators, pools, and individuals who own more stock than they desire to hold for permanent investment,” he noted, “resort to various devices to aid them in disposing of their surplus holdings at the best possible prices. The most pernicious of all is the circulation of bullish items by the newspapers and the news tickers.” Rumors and indirect tips were a good way for an operator to unload shares at high prices on an unsuspecting and poorly informed investing public eager for hot information. The 1920s would be no different than the years preceding. But the excesses of the decade would bring about more reform for Wall Street than had ever been experienced in 130 years of market history.
+
+C.G.
+
+<!-- rl-section id="section-28" class="epub-section" kicker="Section 28" title="Section 28" -->
+
+## Section 28
+
+> ![image](assets/00062-ca9af991.jpg)
+
+Reminiscences of a Stock Operator
+
+May 19, 1923
+
+THE other day I deliberately went to an exhibition of portraits by a foreign painter who was being boomed by a Fifth Avenue dealer. I felt sure that within those precincts dedicated to a noble art I should not have to listen to sordid discussions of investments. But the dealer was so bullish on his latest find that he unconsciously fell back upon the jargon of the market place to express his philanthropy. He wanted me to have my portrait done by his man so that my heirs would have an asset that would increase 20 per cent in value each year. As a business man, a sure 20 per cent investment ——
+
+> ![image](assets/00063-69cf165f.jpg)
+
+At that point I left him. My place as auditor was taken by two of those creatures that go to picture exhibitions in order to listen, so they can repeat what they heard to people who never go to see paintings.
+
+I was about to leave when there walked in a famous marine painter with whom I have managed to remain on speaking terms for over thirty years. I could see that he knew exactly what he was going to find in that gallery: Punk! He was expectorating on each of the twenty-eight canvases; not actually, of course, but as a gentleman and painter often does. By looking it.
+
+When he saw me the disgust vanished. He walked quickly towards me with outstretched hand.
+
+Compliments
+
+“I AM very glad to see you, old top!” He said it with such enthusiasm, not to say vehemence, that I could not doubt his sincerity. It made me feel at once gratified and guilty. I knew we were not splitting the joy of our meeting fifty-fifty. He saw the guilty look but must have deemed it incredulity, for he hastened to assure me: “Indeed, I am! I was going to look you up. I’ve only been back a week. I wanted to tell you about a couple of friends I met on my cruise. You know, I went down to Cuba from Newport News on a destroyer. Those friends were officers on her. They were very enthusiastic about your articles in The Saturday Evening Post. They are both of them Annapolis men; graduated with honors. One of them has been reading your Wall Street stuff for years. And your Wall Street books too.” The marine painter looked at me proudly, on behalf of his friends. He added: “He said they were the real thing.”
+
+“He ought to know,” I observed modestly. “And as he was going away from Wall Street, he was wise indeed.”
+
+The painter was not listening. He said:
+
+“Why, the day we sailed, a kid came along selling papers and magazines. It was on a Thursday, and both my friends asked him for The Post. They looked to see if that issue had an installment of your series.
+
+“When they found that it had, each of them bought a copy and each went off to read it right away!”
+
+Here I began to get suspicious. I believe in preparedness, so I smiled good-naturedly, as if I enjoyed that kind of joke.
+
+The painter went on earnestly: “Later on, these officers told me that they not only read each article with intense interest but reread it and studied it like a textbook. They verified your statements, point by point, and worked out problems in stock speculation for all the world as though they were at the Naval Academy at a class in Math. They used to clip and save the Stock Exchange quotation lists, while they waited for the next Post article. Why, they made me quite proud of you. I told them I had known you for years. When I left the destroyer at Guantánamo, the last thing they told me was that they were going to put into actual practice what Livingston preached. They said that reading your dope made them decide to resign from the Navy and go into Wall Street. They don’t expect millions, but they say they know they can do considerably better financially than they are doing now.”
+
+“Heavens!” I cried.
+
+“Oh, naval officers’ pay is not such wonderful graft.”
+
+“I didn’t mean that. But their leaving what they were educated for to go into another game is not such a wonderfully wise move.”
+
+The Right Time Being Never
+
+“OH, THEY are no d. f.’s. They are men of trained minds who know their mathematics and have gone into the theory of speculation as they might have gone into navigation or astronomy. They told me they had not found a flaw in your demonstrations or arguments. They have gone into this in a cold-blooded, scientific spirit. They are very far removed from the boob class. I can tell you, old man, that you sure were some guy in that destroyer, on account of those articles.”
+
+“Do you know why I wrote them?” I asked him.
+
+“What do you mean?”
+
+“Do you know what my one object was in writing those articles?”
+
+“Yes. To sell them to The Post.”
+
+“No. I wrote them to prove a favorite thesis of mine— that no man can beat the game of stock speculation.”
+
+“Oh, but these are no ordinary men. They are Annapolis graduates.”
+
+“The smarter they are the easier it fools them,” I asserted.
+
+“Don’t you worry about these fellows. I’ll let you know how they make out,” he promised with a smile.
+
+“Don’t bother. I know how they’ll make out.”
+
+“How?”
+
+“Did you read the articles?”
+
+“Yes.”
+
+“And nevertheless you did not urge your friends to let the stock market alone?”
+
+“No. Why should I?”
+
+“Then they were not your friends.”
+
+“Sure they were.”
+
+“Then you did not read the articles.”
+
+“Sure I did. They were very good.”
+
+“They could not be very good if they did not convince you that nobody could beat the game. I said that as often as I could, as strongly as I knew how.”
+
+“Oh, these chaps are not going to try to beat it every day in every way. They are too clever for that. They understand that they’ve got to pick the right time.”
+
+“The right time is never,” I said, “because no beginner knows enough to trade only at the right time. The only way to learn to pick the right time is by first losing everything you’ve got. You accomplish this by trading at the wrong time.”
+
+“Don’t you worry about these birds,” said the painter. “They are as smart as they make them, and ——”
+
+“What do you think of these paintings?” I asked him.
+
+Of course it killed his interest in the unbeatable game. The genial expression vanished from his face, and in its place came the combination of frown and sneer that told exactly what he thought about a certain type of clever artist. It left me free to think of the points on which I have harped for years, one of them being the futility of writing about the unbeatability of the game of stock speculation.
+
+Just a few days later, in the smoking compartment of a Pullman, I overheard a discussion of Wall Street methods and the stock market that confirmed my fears. It was a typical Pullman-smoking-room crowd. They were all business men, three middle-aged, two young, and one very young, who, alone of the crowd, smoked cigarettes. I gathered that they were in different lines, but they were obviously of the same genus. If they were not brothers they certainly were closer than third cousins.
+
+The chief orator was one of those shrewd-looking fat men in whom the mind is quick-gaited and the bodily motions leisurely. He said: “I never speculated; not because I was too busy nor because I agree that there’s no such thing as easy money, but because I used my bean. The other man’s game is never a game for an outsider to play. My own business I knew. Stock speculation I didn’t. And moreover, I never heard anybody talk in or out of Wall Street as if they knew much about it. The outsiders were suckers like me, and couldn’t teach me anything. And the wisenheimers in the brokers’ offices couldn’t know such a lot or they’d have copped some of that easy money themselves. The real insiders, who were in the know, didn’t go about spreading information in my hearing. They might give tips, but they never passed around chunks of knowledge. So I just kept away. I didn’t know exactly where the average man went wrong. But now I see plainly how this Larry Livingston made his millions. He gives reasons for everything he does, and they are good reasons. I don’t have to know the game as well as he does to know he has a thinkpiece. I don’t know how much my doctor knows about medicine, but if he talks to me about the shipping board or about the bonus or reparations I can tell what sort of head he has and what sort of man he is. I never looked at the financial page before, but lately I have been studying conditions. I have a pretty good line on general business. I’ve got to do a little guessing about what my own business is likely to be, and I ought to see far enough ahead to know when to buy or sell stocks. I wouldn’t be going it blind if I went in now.”
+
+> ![image](assets/00064-fd34358e.jpg)
+
+“You may make money at first,” sagely observed the man next to him. “Most beginners do. But they’ll take it away from you.”
+
+The Man Who Missed the Moral
+
+“YOU don’t know me, brother,” contradicted the fat one. “They won’t take it away from me, because they won’t get the chance. If I ever make money in a broker’s office I am going to keep it. It’s being a hog and trying to beat the game all the time, whether the market is right or not, that crabs the average man’s play. That holds good in every business I know. These articles show that it is all a matter of knowledge and common sense. And that’s how I know that the guy that wrote them knows what he’s talking about.”
+
+Here I couldn’t help saying: “But the articles insist that nobody can beat the game. It seems to me that is what the author tries to prove.”
+
+“Yes, but Livingston beat it, didn’t he?”
+
+Three of them said it at once. I swear it! Three out of the six.
+
+“Well, Livingston himself says no man can beat the game. He has made his money by exercising an ability to read conditions that is very rare, but every time he has set out to beat the game he has lost money. It was a boob play and he paid a big price. His ability, natural aptitude and vast experience didn’t help him whenever he worked on the theory that the game was beatable. I happen to know a lot of Wall Street men, and I never knew any who consistently beat the market. Livingston himself emphasizes that point. And the only reason those articles were written was to prove that one point. Livingston’s very success proves it—when you consider his losses.”
+
+“Have you read all the articles?” asked a man who was smoking a pipe. He was the saturnine kind that tells the world what he thinks of you by the simple expedient of asking questions that answer themselves. It’s the tone of voice in combination with the eyebrows.
+
+“ I couldn’t very well help reading them,” I answered.
+
+“All of them?” And he now smiled.
+
+I smiled back and told him, “I had to read every single word three times.”
+
+“How’s that?” I could see he did not believe me.
+
+I was forced to confess. “I wrote them.”
+
+“You did?”
+
+“Don’t shoot, colonel,” I said. “I only wanted to tell The Post’s readers how easy it was even for an expert like Livingston to lose.”
+
+“Yes, but you also showed how he made money when he did not make fool plays. A man doesn’t have to be a boob with his eyes wide open, does he?” said the fat man.
+
+I saw his finish. No words of mine could stave it off. So I said: “Gentlemen, I’m sorry I spoke. Brokers have to live. Go to it.” And I went back to my chair inside.
+
+I don’t think they accepted the authorship of the articles on my say-so, and I suspect that they asked the old porter about me because they heard him call me by name. At all events, it was not long before the fat man passed by me on his way to his own chair.
+
+He stopped to say pleasantly: “Those are darn good articles.”
+
+“I am sure they are particularly punk,” I said.
+
+“Everybody that I’ve seen——” he began.
+
+“Excuse me,” I interrupted, “but take your own case. You never have speculated, because you have sense enough not to play the other man’s game. You read these articles and you promptly decide to cease being wise. I think Livingston’s career, as you heard it from his own lips, proves conclusively that no man can get something for nothing, that easy money is a delusion. Of course a hodcarrier may think a great corporation lawyer’s fee is easy money, but you know better. All that my articles seem to have succeeded in doing is to arouse in you a desire to prove yourself the one exception out of a million cases. I call that a pretty sad performance, don’t you, really?”
+
+He ignored my last question and said, “Well, now, as a matter of fact, isn’t ignorance the principal source of loss in speculation—I mean, ignorance of the game itself, of the causes of the big swings? And haven’t your articles dispelled much of that ignorance? If I follow in Larry Livingston’s footsteps—not when he plays like a sucker, but when his game is right—won’t I make money?”
+
+I could see that he had already answered himself. Nevertheless I went to the trouble of telling him: “My friend, you may have eliminated ignorance, but you have not eliminated greed. You are not guilty of criminal hoggishness; only of hoping to get something for nothing. It is like thinking you can learn to be a doctor by reading a textbook. To dispel ignorance at one fell swoop is rather difficult. Experience does a lot for you, but that is not a quick method. If the articles haven’t convinced you, they can’t be good, can they?”
+
+“They are really very interesting,” he assured me.
+
+“Well, I wish you luck anyhow,” I said.
+
+He hesitated. Then: “I am not going to speculate.” He sounded to me like taking the pledge for the tenth time.
+
+I said, “It wouldn’t surprise me if you have already begun. It may interest you to hear that Livingston is bearish.”
+
+“Is he? Why, I heard he was buying them.”
+
+“I thought so!” I said, and laughed.
+
+He also laughed—not very heartily—and passed on.
+
+What Larry Livingston Said
+
+SINCE then I have continued to meet wise outsiders almost everywhere, and all of them confessed to having profited by the articles to such an extent that they felt certain they would not make the usual mistakes of the average trader, and all of them ended by asking me whether the rise was the beginning of a big bull market or merely a rally that would not go much further.
+
+The next time I met Larry Livingston I told him about my experiences. I knew that he was quite as keen as I about making plain to the public that the game of stock speculation cannot be beaten.
+
+He was not surprised.
+
+“I don’t suppose,” he said, “that anybody can say anything that will stop all men from taking chances in a game they don’t know. Speculation will never disappear. It isn’t desirable that it should. It certainly cannot be abolished by statute law or by warnings as to its dangers, and since there will be speculation there will be losses.
+
+“You cannot prevent people from guessing wrong, no matter how able or how experienced they may be, because every man has many enemies within himself as well as on the outside.
+
+“Carefully laid plans will miscarry and the unexpected—and even the unexpectable—can and does happen. Disaster may come from a convulsion of the earth or from the weather; from your own greed or from some man’s vanity, from senseless fear or from uncontrolled hope.
+
+“But apart from what one might call his natural and inevitable foes, a speculator in stocks has to contend also with certain adverse factors that can or should be eliminated.
+
+“I refer to practices or abuses that are indefensible morally as well as commercially. It will be said that the suppression of these evils is not possible. That is what has always been said of every effort to safeguard the interests of the public—that is, of Wall Street’s own best customers!
+
+“Most losses in the stock market can be traced to the average speculator’s persistent disregard of the lessons of the past, of the experience of himself and of others; in short, of the fundamentals of stock speculation. The sources of such losses I have made plain by telling of my own experiences, for I have lost money whenever I have deserved to lose it, and sometimes when I didn’t deserve it. But in the main those were not the losses that have hurt Wall Street. The kind I’m going to tell you about cost the public a great deal of money every year. And they are a losing proposition for Wall Street as well.”
+
+Wholesome Regulations
+
+“As I look back and consider what were common practices twenty-five years ago, when I first came to the Street, I have to admit that there have been many changes for the better. There are no more old-fashioned bucket shops, where anybody could walk in and buy two shares of stock or two hundred and put up a one-point margin. But I must admit also that within the past two or three years there have been enough bucketeers, or modified new-style bucket shops, to mulct the public out of a good many millions of dollars. It is difficult to compare these losses with what the public lost in the old way. You must remember that in those days the big bucket shops depended for their profits upon the game itself. The customers had no chance whatever, trading on a shoe string. The authorities got after the bucketeers, and the exchanges helped.
+
+Sitting Pretty
+
+![image](assets/00065-9d04b423.jpg)
+
+“It appears to be useless to tell people to patronize only reliable brokers. The postal and local police authorities try to put an end to the schemers and shysters, but all sorts of men and women continue to lose money at the game of trying to get rich quick. The Stock Exchange is doing a lot of good work, not only in getting after these out-and-out swindlers but in insisting upon strict adherence to its rules by its own members. Many wholesome regulations and restrictions are now rigidly enforced.
+
+“Our national prosperity has always grown so rapidly that the dominant few more than once have been overwhelmed by their own good luck and lost their sense of proportion. To have profits grow ten times faster than anticipated does not make very rich men more rapacious, as some people assert, but less clear-sighted, so that they fail to distinguish what one might call the public’s natural protective barriers. This happened in 1901. The big money really came too quickly. It went to their heads. In the end the big fellows were brought to a halt by the Supreme Court’s decision in the Northern Securities case.
+
+“On the floor of the New York Stock Exchange things were done when I first came to Wall Street that could not happen today; and at that they used to tell me of the great improvement from the days of Daniel Drew and Jacob Little and Jim Fisk.
+
+“I mention this in order to explain my optimism over still further improvement in conditions calculated to reduce the chances of the public to lose their money today. The old fellows used to brag of the way the Exchange had put an end to abuses.
+
+“Do you remember that old story about Tom Ochiltree? One night at the Waldorf the colonel was complaining bitterly of the hard luck that had pursued him all that month.
+
+“‘Why, last night I lost twenty-seven thousand dollars at poker.’
+
+“‘That’s a whole lot, Tom,’ admitted a crony sympathizingly.
+
+“‘Yes, and the worst of it was that eleven dollars of it was in cash!’ exploded Ochiltree.
+
+“I tell this story because of its analogy to one that was told me many years ago in my broker’s office. The manager of a pool was bragging about the activity displayed by his specialty that day. The official list showed transactions amounting to twenty-five thousand shares.
+
+“Well, one of the firm’s floor men, who heard him, came over to where the pool manager was, and asked, ‘Now, Bill, on the level, just between ourselves, how much of that business would you say was not laundry work?’ He meant washed sales.
+
+“‘Oh, over a thousand!’ declared Bill earnestly. That is, he frankly admitted that out of the twenty-five thousand shares officially reported to have been dealt in, nearly twenty-four thousand shares represented fake transactions. But all that the broker said was ‘Like hell!’ and everybody laughed. It did not occur to anyone there to express indignation. Why should it? Such things always had been. They always would be, everyone supposed.”
+
+The Multiplication of Issues
+
+“Today the speculative public doesn’t go up against any such raw practices as that. Nevertheless, it continues to lose money with the same regularity as of old. Many of these losses may be traced to certain practices that should not be permitted any more than washing sales. The Stock Exchange authorities can and do check such thimblerigging as is possible only on the floor of the Exchange by Exchange members. But I believe that the Exchange’s efforts to obtain better conditions should not stop with or at the Exchange.
+
+“Before I pass on to the things I would like to see abolished, I will say that, hard to beat as the game always was, it is becoming more difficult every day. Knowledge is power. The trader ought to know what he is trading in. When a man is long or short of a certain stock he certainly ought to be informed about that stock—that is, about the actual business and prospects of the company and of the trade in general. It was not so long ago when a real trader could have a good working knowledge of practically every stock on the list. In 1901, when J. P. Morgan brought out the United States Steel Corporation, which was merely a consolidation of lesser consolidations most of which were less than two years old, the Stock Exchange had two hundred and seventy-five stocks on its list and about one hundred in its unlisted department. And, of course, this included a lot that a chap didn’t have to know anything about, because they were small issues or inactive by reason of being minority or guaranteed stocks, and therefore lacking in speculative attractions. In fact, an overwhelming majority were dead ones, in which there had not been a sale in years. Today there are about nine hundred stocks on the regular list, and in our recent active markets about six hundred separate issues were traded in.
+
+“Moreover, the old groups or classes of stocks were easier to keep track of. They not only were fewer but the capitalization was smaller. We used to have the coalers, meaning the anthracite roads, like Reading, or Delaware and Hudson, and so on; the grangers, like St. Paul, Burlington or Rock Island; the tractions, with only three or four; the industrials, with less than a dozen active issues, including Steel. By reason of the limited numbers and varieties of active stocks the news that a trader had to be on the lookout for did not cover so wide a field. But today just consider the number of groups, let alone the number of stocks. You are trading in everything; in almost every industry in the world. It certainly takes more time, more work and more knowledge to keep posted, and to that extent the legitimate game has become much more difficult. I mean, of course, for those who operate intelligently. Even if you obtain reliable information or if strictly trustworthy reports are issued by the companies themselves, it still is a difficult matter to keep tabs on all the stocks the public today is asked to trade in.”
+
+Unsigned Statements
+
+“There are many thousands of people who buy and sell stocks speculatively. We know that the number of those who speculate profitably is small. The aggregate losses of the unsuccessful are large. They wax and wane as the transactions on the exchanges increase or decrease. But as the public is in the market to some extent all the time, it, of course, follows that there are losses by the public all the time.
+
+“Of the more common sources of loss by the average outsider, trading on tips probably comes first. But there remains to consider acting on deliberate misinformation as distinguished from ordinary tips. And because it is apt to come to a stock trader variously disguised and camouflaged, it is the more insidious and dangerous.
+
+“Against ordinary tips you cannot guard. For instance, a lifelong friend sincerely desires to make you rich by telling you what he has done—that is, bought or sold a certain stock. His intent is good. If the tip goes wrong, what can you do? Also against the professional or crooked tipster the public is protected to about the same extent that he is against gold bricks or wood alcohol. Persistent publicity is the only friend. Of course there are always superfools who will bite anyhow; but the average trader, I take it, knows enough to check up the veracity, motives and general reliability of a tip giver who isn’t a personal friend. Moreover, if the tipster lies or is mistaken—that is, after he establishes his unreliability—the victim need bite only once.
+
+“But against the more typical Wall Street rumors the speculating public has neither protection nor redress. Please bear that in mind. The fact that the speculator who accepts a rumor at par and interest is an ass does not give him back his money. He has parted with it, and nobody is punished because nobody is held responsible, although the rumor’s beneficiaries are known.
+
+“Wholesale dealers in securities, manipulators, pools and individuals who own more stock than they desire to hold for permanent investment, resort to various devices to aid them in disposing of their surplus holdings at the best possible prices. The most pernicious of all is the circulation of bullish items by the newspapers and the news tickers.
+
+“Now, the items on the financial pages do not jump in and get themselves printed while the editor is looking the other way. The financial reporters presumably publish what is given to them by people who ought to know what they are talking about. What happens? Why, the public is often victimized by an old and vicious system that makes of the Wall Street rumor monger the worst kind of germ carrier.
+
+“Get the slips of the financial news agencies any day and it will surprise you to see how many statements of an implied semiofficial nature they print. Apparently there is no end of well-informed people who are willing to talk and tell the public what it ought to do in the stock market and in the investment field—some leading insider or a prominent director or a high official or someone in authority who presumably knows what he is talking about. Here are today’s slips. I pick an item at random. Listen to this: ‘A leading banker says it is too early yet to expect a declining market.’
+
+“There are many things that I as a trader should like to know. Did a leading banker really say that; and, if he said, it, why did he say it? Who was that leading banker? Why does he not allow his name to be printed? If the giving out of that statement was legitimate banking business or real philanthropy, why should he remain anonymous? Is he afraid that people will believe him if he allows his name to be used or does he feel the exact opposite?
+
+“Here is another one, about a company the stock of which has been active this week. This time the man who makes the statement is a prominent director. Now, which one of the company’s dozen directors is doing the talking? The questions I asked about the banker will do in this case also. Of course it is plain that the reason why official titles are used instead of names is that somebody is desirous of producing on the public mind an impression of both authority and veracity. By remaining anonymous, who can be blamed for whatever damage may be done by the statement? Nobody.
+
+“Quite apart from the intelligent study of speculation everywhere, the trader in stocks must consider certain facts in connection with the game in Wall Street. In addition to trying to determine how to make money he must also try to keep from losing money. It is almost as important to know what not to do as to know what should be done. For instance, it is well to remember that manipulation of some sort enters into practically all advances in individual stocks and that such advances are engineered by insiders with one object in view and one only, and that is to sell at the greatest profit possible.
+
+“As a matter of fact, there is a constant demand for explanations of market movements. I suspect that the average broker’s customer believes himself to be a business man from Missouri if he insists upon being told why a certain stock goes up. It does not seem to matter so much what he is told. Such being the case, the manipulators deem it their duty to explain the advance. The explanation makes possible the distribution of stocks on a large scale.”
+
+Anonymous Tipsters
+
+“I have been operating in stocks in Wall Street pretty constantly for over twenty years. I have traded in typical commission brokers’ offices and mingled with the customers, so that I have seen the actual workings of the rumor system. As a result of my observations I am firmly convinced that the public’s losses would be greatly reduced if no anonymous statements of a bullish nature were allowed to be printed. I mean statements calculated to make the public buy or hold stocks. The public should be protected by having every such article signed. The signing would fix the responsibility. This might not make the manipulators inveterately truthful, but it surely would make them more careful about their stock-market propaganda.
+
+“The overwhelming majority of the bullish articles printed on the authority of unnamed directors and anonymous insiders convey unreliable and misleading impressions to the public. It is a fact that the public that trades in stocks loses a great many millions of dollars every year by accepting such statements as semiofficial and therefore trustworthy. Of course what the public ought to do is to pay no attention whatever to these unsigned bullish items. Let the prominent insiders and leading bankers and influential directors be quoted by name. Let us know at least who is speaking, especially when the items purport to be statements of fact and not expressions of opinion. A man may err in his opinions and be honest. But when he says he states facts he must be truthful or suffer the consequences, whatever they may be. The trader who takes advice does so at his peril. But when he acts in accordance with his interpretation of the effect of stated facts on stock prices, the facts must be right or else he knows whom to blame.
+
+“Let us take as an example the case of a company that has gone through a period of depression in its particular line of business. The stock is inactive. The price represents the general and presumably accurate belief of its actual value. If the stock were too cheap at that level somebody would know it and buy it, and it would advance. If too dear, somebody would know enough to sell it, and the price would decline. But as nothing happens one way or another, nobody talks about it and nobody does anything.
+
+“Well, the turn comes in the line of business the company is engaged in. Improvement sets in. Who are the first to know that the turn has come, the insiders or the public? You can bet it isn’t the public. Now what happens next? Why, if the improvement in business continues, the earnings naturally improve. If the improvement in earnings continues, the company will be in position to resume dividends on the stock; or if dividends were not discontinued, to pay a higher rate or do something to distribute the company’s growing profits. These things naturally enhance the value of the stock.
+
+“Say that the improvement has kept up. Does the management make public that glad fact? Does the president then and there tell the stockholders? Does a philanthropic director come out with a signed statement for the benefit of that part of the public that reads the financial page of the newspapers and the slips and tickers of the news agencies?
+
+“Does some modest insider, pursuing his usual policy of anonymity, come out with a statement to the effect that the company’s future is most promising? Not this time. Not a word is said by anyone and no statement whatever, signed or unsigned, is printed by newspapers or tickers.”
+
+Loading Up for a Rise
+
+“The value-making information is carefully kept from the public so as to give the now silent prominent insiders a chance to act on it. They go into the market and buy all the cheap stock they can lay their hands on. Of course the price begins to pick up a little. As the unostentatious inside buying keeps on, the stock rises. Now the financial reporters know that the insiders ought to know the reason, if any, for the rise. Well, the insiders do. Their buying was the reason; and the reason for their buying was that the company’s business is better and the outlook brighter. But when the financial reporters ask for information the unanimously anonymous insiders declare that they have no news to give out. They do not know what warrant there is for the rise. Sometimes they even state that they are not particularly interested in the vagaries of the stock market or the actions of irresponsible stock speculators.
+
+“The rise continues and there comes a happy day when those in the know have all the stock they want or can carry. The Street at once begins to hear all kinds of rumors. The news is all bullish. The tickers tell the traders, on good authority, that the company has definitely turned the corner. The same modest director who did not wish his name used when he said he knew no warrant for the rise in the stock is now quoted—still anonymously—saying that the stockholders have every reason to feel greatly encouraged over the outlook. And sometimes they even refer to this as a conservative statement.
+
+“Stimulated and encouraged by the deluge of bullish news items, the public begins to buy the stock. These purchases help to put the price still higher. In due course the predictions of the uniformly unnamed directors come true and the company resumes dividend payments or increases the rate, as the case may be. With that the bullish items not only become more numerous than ever but much more enthusiastic. A leading director, asked point-blank for a statement about conditions, informs the world that the improvement not only is keeping up but is at a rate unexpected by the most optimistic officer of the company. A prominent insider, after much coaxing, is finally induced by a news agency to confess that the earnings are nothing short of phenomenal. A banker who is affiliated in a business way with the company says that the expansion in the volume of sales is simply unprecedented in the history of the trade. If not another order came in the company would run night and day for heaven knows how many months. A member of the finance committee, in a double-leaded manifesto, expresses his astonishment at the public’s astonishment over the stock’s rise. The astonishment should be over the stock’s moderation in the climbing line. ‘Anybody who will analyze the forthcoming annual report can easily figure for himself how much more than the market price the book value of the stock is.’
+
+“Everything is thus done to make the public buy still more stock at the high level. And in no instance is the name of the talkative philanthropist given.
+
+“As long as the earnings continue good and the insiders do not discern any sign of a let-up in the company’s prosperity, they sit on the stock they bought at the low prices. There is nothing to put the price down, so why should they sell? But the moment there is a turn for the worse in the company’s business, what happens? Do they come out with statements or warnings or the faintest of hints? Not much. The trend is now downward. Just as they bought without any flourish of trumpets when the company’s business turned for the better, they now quietly sell. On this inside selling the stock naturally declines. Then the public begins to get explanations. These are quite familiar. There has been no change in them in years. A leading insider asserts that everything is O.K. and the decline is merely the result of short selling by bears who are trying to depress the general market.
+
+“Suppose that one fine day, after the stock has been declining for some time, there should be a sharp and substantial break. The demand for reasons or explanations becomes clamorous. Somebody in position to know has to say something or the public will fear the worst. So the news tickers will print something like this: ‘When we asked a prominent director of the company to explain the weakness in the stock he replied that the only conclusion he could arrive at was that the decline today was caused by a bear drive against the stock. Underlying conditions are unchanged. The business of the company was never better than at present and the probabilities are that unless something entirely unforeseen happens in the meanwhile, the directors will authorize an increase in the dividend rate at the next meeting. The bear party in the market has become aggressive and the softness in the stock was clearly a drive intended to dislodge weakly held stock.’ The news tickers, wishing to reassure the more timid, as likely as not will go on to state that they are reliably informed that most of the stock bought on the day’s decline was taken by inside interests and that when the bears get through they will find that they have sold themselves into a trap. There will be some painful moments before they settle.”
+
+Inside Selling
+
+“In addition to the losses sustained by the public through believing bullish statements and buying stocks, there are the losses that come through being dissuaded from selling out.
+
+“For a prominent insider the next best thing to having people buy the stock he wishes to sell, is to keep people from selling the same stock when he does not wish to support or accumulate it.
+
+“What is the public to believe after reading the statement of the prominent director? What can the average outsider think? Of course, that the stock should never have gone down; that it was forced down by bear selling, and that, as soon as the bears stop, the insiders will engineer an advance during which the shorts will be driven to cover at high prices. The public believes this because it is exactly what would happen if the decline had in truth been caused by the bear selling. Instead it was caused by genuine inside selling, which is the kind of selling that always puts stocks down in that kind of market.
+
+“The stock in question, notwithstanding all the threats or promises of a tremendous squeeze of the overextended short interest, does not rally. It keeps on going down. It can’t help it. The market has had too much fed to it from the inside to be digested. It presently becomes a football among the professional traders. There seems to be no bottom for it. The insiders who know the new conditions that will affect the company’s future earnings are not going to support that stock; they do not dare. Support will therefore not be forthcoming until the next turn for the better in the company’s business. Then there will be inside buying and inside silence.
+
+“I have done my share of trading and have kept fairly well posted on the stock market for many years, and I can say that I do not recall an instance when a bear raid caused a stock to decline extensively. What was called bear raiding was in reality nothing but selling, based on accurate knowledge of the real condition. Of course it would not do to tell the truth and admit that the stock declined on inside selling or on inside nonbuying. Everybody would hasten to sell, and when everybody sells and nobody buys there is the dickens to pay.
+
+“The public therefore ought to grasp firmly this one point: That the real reason for a protracted decline is never bear raiding. When a stock keeps on going down you can bet there is something wrong with it, either with the market for it or with the company. If the decline were unjustified the stock would soon sell below its real value, and that would bring in buying that would check a further decline. As a matter of fact, the only time a bear can make big money selling a stock is when that stock is too high. And you can gamble your last cent on the certainty that insiders will not proclaim that fact to the world.
+
+“Of course the classic example is the New Haven. Everybody knows today what only a few knew at the time. The stock sold at 255 in 1902 and was the premier investment railroad stock of New England. A man in that part of the country measured his respectability and standing in the community by his holdings of it. If a man had said that the company was on the road to insolvency he would not have been sent to jail for saying it. They would have clapped him in an insane asylum with other lunatics. A new and aggressive president was placed in charge, and the debacle began.
+
+“It was not clear from the first that the new policies would land the road where it did. But as property after property began to be saddled on the Consolidated Road at inflated prices, a few clear-sighted observers began to doubt the wisdom of the Mellen policies. A trolley system was bought for $2,000,000 and sold to the New Haven for about $20,000,000. There were other such deals. A man or two committed lese majesty by saying that the management was acting recklessly. But hinting that the New Haven could not stand such financiering was like impugning the strength of Gibraltar.”
+
+The Case of New Haven
+
+“Of course the first to see breakers ahead were the insiders. They became aware of the real condition and reduced their holdings. On their selling, as well as on their nonsupport, the price of New England’s gilt-edged railroad stock began to yield. Of course questions were asked, and explanations were demanded, as usual, and were promptly forthcoming. Prominent insiders declared that there was nothing wrong that they knew of and that the decline was due to reckless bear selling. As the price kept on going down, explanations kept on being given out for publication. The bears were raiding it. Some day the gamblers would go too far and they would find no stock in the market, and then they would get what they deserved. So the investors of New England kept their holdings of New York, New Haven & Hartford stock. Why shouldn’t they? Didn’t insiders say there was nothing wrong? Didn’t dividends continue to be declared and paid?
+
+“In the meantime the stock had struck the toboggan slide. The promised squeeze of the shorts did not come, but new low records did. When anybody intimated that insiders were unloading, his voice was drowned by the clamor of the indignant denials. The selling became more urgent, less disguised. Nevertheless, I used to hear public-spirited men in Boston denounced as stock jobbers and demagogues for demanding a genuine explanation for the stock’s deplorable decline. Bear drives were still the stock excuse until the public had suffered appalling losses. It was not the speculating public that lost, but practically everybody in New England who had wanted a safe investment and a steady dividend payer. Eventually the dividend was passed, and in 1921 the stock sold at twelve dollars a share. The authorized explanation was always untrue and misleading. If there had been no inside, semiofficial statements blaming the decline on the bear drives, insiders would not have been able to dispose of their holdings so easily as they did. And if something had not been radically wrong the stupendous decline could not have continued as it did.
+
+“That historic break from $255 to $12 a share was not and never was and never could have been a bear drive. It was neither started nor kept up by bear operations. The insiders sold right along and always at higher prices than they could have obtained if they had told the truth or allowed the truth to be told.
+
+“It seems to me that the public that trades in stocks might profitably stop and consider the disadvantages under which it labors when it tries to make money buying and selling the stock of a company concerning whose affairs only a few men are in position to know the whole truth. If the public did a little thinking about that proposition it is difficult to see how it could help concluding that it stood as much of a chance to make money and to keep it as it would have if it sat down to a poker game with professionals who could read the backs of the marked cards and thus knew exactly what sort of hand the public held.”
+
+Livingston the Scapegoat
+
+“The case of the Metropolitan Street Railway would have been just as bad if it also had been a widely held investment stock. The insiders ran the price up to nearly 300. The bears were said at the time to have received the worst punishment inflicted upon reckless sellers since the second Harlem Corner of old Commodore Vanderbilt. Later you heard that the rise was not caused by the shorts covering, but by inside buying clear up to the top. It was a wonderful stock and there was no limit to what the virtual monopoly of the surface transit facilities of Manhattan would return in the way of income. There were going to be economies in operating as well as increases in income. Well, when the stock started to break, it was not on selling by wicked bears. It was due to unloading by those who knew the most about the company’s business and its prospects.
+
+“As I said before, the stocks that have had the worst breaks in the past twenty years did not decline on bear raiding. The easy acceptance of that form of explanation has been responsible for losses by the public amounting to millions upon millions of dollars because it has kept people from selling who did not like the way a stock was acting and would have liquidated if they had not expected the price to go right back after the bears stopped their raiding.
+
+“I recall the case of a stock I’ll call Intervale Oil. There was a pool in it that worked with some success. The stock was put up and found some buyers in the advance. The pool was encouraged and ran the price up to 50. From there it went down. It was a quick break. The pool sold, of course. But there was the usual demand for explanations: Why was Intervale so weak? Enough people asked this question to make the answer important news. One of the financial tickers called up the brokers who knew the most about Intervale Oil’s advance and ought to be equally well posted as to the decline. What did these brokers, members of the bull pool, say when the ticker agency asked them for a reason that could be printed and sent broadcast over the country? Why, that Larry Livingston was raiding the market! And that wasn’t enough: They added that they were going to get him good and plenty. They would put him out of business for keeps. They meant the business, I suppose, of raiding the market every time an explanation had to be given to keep the public from selling. Of course the Intervale pool continued to sell the stock. It only stood them about $12 a share and they could sell it down to 10 or lower at a profit, for their average selling price would still be above cost.
+
+“Now I do not deny that it was wise and proper for insiders to sell on the decline. But for those outsiders who had bought Intervale in the 40’s, it was a different matter. So the outsiders, reading what the tickers printed, held on and waited for Larry Livingston to get what was coming to him at the hands of the indignant inside pool. That explanation cost the public a lot of money. It would not have been made if the ticker agency had demanded that the brokers sign the explanation.
+
+“In a bull market, and particularly in booms, the public at first makes money which it later loses simply by overstaying the bull market. Well, this talk of bear raids helps them to overstay. The public should beware of explanations that explain only what unnamed insiders wish the public to believe.”
+
+<!-- rl-section id="section-29" class="epub-section" kicker="Section 29" title="Section 29" -->
+
+## Section 29
+
+XII.
+
+Kings, Paupers, and the Hazards of the Game
+
+Like a good fiction writer, Lefèvre saved the best part of his narrative for last. In his final installment, he bids goodbye to Livingston and recounts some of the great operators of the past, some familiar and some obscure. Throughout the narrative, the reader becomes acutely aware that the author had a great deal of respect for these market operators who won more than they lost and managed to stay ahead of the game.
+
+Lefèvre discusses issues that were as pertinent in the post—World War I years as they are today, notably stock valuation and stock splits. He emphasizes the importance of future earnings versus the present condition of a stock; he also notes how good brokers emphasize the future expected value while the non-thinking commission broker simply encourages his customers to buy and sell for the sake of the commissions generated. The discussion has as much relevance today as it did then. It proves that nothing new can really occur on Wall Street that had not been experienced in the past.
+
+There also is the impression that fact and fiction may be closely intertwined in this final installment. Clearly, the author wants to put his interview subject in the pantheon of the great traders he mentions at the end of his article. Some of them were well known on Wall Street. Traders like Charles Woerishoffer and Jacob Little were mentioned in the same vein as bankers and entrepreneurs such as J.P. Morgan, Jay Gould, and Jim Fisk. Others like Jacob Barker and Anthony Morse were less known although Lefèvre’s account makes them giants of the market in their own time. Although his account was necessarily short, the tales of the old traders began a small cottage industry in the 1920s.
+
+The bull market that began in the mid-1920s was accompanied by many books about the legendary traders of Wall Street along with memoirs of those who wanted to be included in the group. Like all markets that bloated into bubbles, legend and myth sprang up quickly to justify the high prices in the market and to embolden the men who apparently made a living trading stocks that would soon collapse in price. Most owe their inspiration to Lefèvre’s articles, which made Jesse Livermore more famous than he was before. Reminiscences of a Stock Operator lived on long after its principal characters were gone. It is a testimony to the aspiring trader who thinks he can make a living within a unique system and who is willing to absorb more than a few defeats.
+
+C.G
+
+<!-- rl-section id="section-30" class="epub-section" kicker="Section 30" title="Section 30" -->
+
+## Section 30
+
+> ![image](assets/00066-7eee820f.jpg)
+
+Reminiscences of a Stock Operator
+
+May 26, 1923
+
+“THE public wants to be told,” Larry Livingston began when I asked him one day recently about Wall Street information and misinformation. “This is true in Wall Street as everywhere else, and this is what makes tip giving and tip taking almost universal practices. It is proper that brokers should give their customers what they want—that is, trading advice. This the brokers do through the medium of their market letters as well as by word of mouth. But brokers should not dwell too strongly on present-day conditions or speak about stocks being cheap or recommend purchases on reactions because earnings warrant higher than prevailing prices.
+
+“The reason they should not do this is simply that they know from their own experience that the course of the market is always traveling from six to nine months ahead of actual conditions. Present earnings do not justify brokers in advising their customers to buy stocks unless there is some assurance that six or nine months later the business outlook will still warrant the belief that the same rate of earnings can be maintained. If on looking that far ahead you can see reasonably clearly that conditions are developing which will change the present actual power, the argument about stocks being cheap will disappear. When that time comes the same broker will be advising sales because conditions are no longer favorable. The trader must see the trend of prices and he can do this only by looking far ahead, whereas the broker is concerned with getting commissions now; hence the inescapable fallacy of the advice of the average market letter. Without the counsel so freely given to the general public by market letters and news agencies to buy at the peak of a boom because the present looks good, the insiders and the wise few would find it more difficult to pass on their goods to the public at high-price levels.”
+
+> ![image](assets/00067-b56c8b4d.jpg)
+
+How Brokers Help Insiders
+
+“IT HAS always been a curious thing to me that although brokers make their living out of the commissions the public pays them, nevertheless in order to get a few commissions from pool manipulators or insiders, so many of them will try to induce that same public through their market letters or by word of mouth to buy the same stocks in which they have received selling orders from the insiders or manipulators. ‘Commissions at any cost’ may prove to be too costly a policy.
+
+“And, then, it is impossible to find any justification for that occasional broker who advises his customers to buy a certain stock, thereby creating a market for a block of it, just because some overloaded insider has given him a call on it way below the market. In such a case the broker not only makes money out of his commissions on the buying orders he receives and executes from his customers but gets a nice profit on the side from the call.
+
+“The way it is done is this: An insider goes to the head of a brokerage concern and tells him, ‘I wish you’d make a market in which to dispose of fifty thousand shares of my stock.’
+
+“The broker asks for further details. Let us say that the quoted price of that stock is 50. The insider says, ‘I will give you calls on five thousand shares at 45, and on five thousand shares every point up for the entire fifty thousand shares.’ That looks good to the broker, and then the insider adds, ‘I also will give you a put on fifty thousand shares at the market.’
+
+> ![image](assets/00068-9202db13.jpg)
+
+“Now, this is pretty easy money for the broker if he has a large following, and of course this is precisely the kind of broker the insider would go to because he himself could not dispose of that stock. He is obliged to make a proposition of that sort. Some big brokerage houses with direct wires to branches and correspondents and connections in various parts of the country at all times have or can get a large following in a deal of that kind. You must remember that in any event the broker is playing absolutely safe by reason of the put. If he is successful in getting his public to follow he will be able to dispose of his entire line at a big profit in addition to his regular commissions.
+
+“I have in mind the exploits of one particular insider who is very well known in Wall Street. In order to create a market for some of the numerous issues in which he is interested, he resorts to this method:
+
+“He will call up the head customers’ man of a certain brokerage house. At times he goes even further und calls up one of the junior partners of the firm and says, ‘Say, old man, I want to show you that I appreciate what you have done for me at various times, and I am going to give you a chance to make some real money. We are forming a new company to take over the assets of one of our companies, and we’ll take over that stock at a big advance over present quotations. You have been very kind to me, telling your people about my stocks, and I have never forgotten it. I’ve got a chance to do something for you now. I’m going to send in to you five hundred shares of Bantam Shops at $65. The stock is now quoted at 72.’
+
+“The grateful insider gives the same song and dance to some other picked head office men in various big brokerage houses. Now, since these recipients of the insider’s bounty are human and are working in Wall Street, what are they going to do when they get that stock that already shows them a profit? Just one thing: They will advise every man and woman they can reach to buy that stock. The kind donor knew this. That is why he was so grateful to these chaps, in advance. They will help to create a market in which he can sell his good things at high prices to the dear public.
+
+“There are other devices of stock-selling promoters that should be barred from the game. The exchanges should not let themselves be used. For example, I think the Stock Exchange should not allow trading in stocks that are listed if those same stocks are offered for sale to the public on the partial-payment plan. The officially quoted price gives a sort of sanction to any stock that is listed. And when the official sales lists of the Stock Exchange are studied by people all over the country who are asked to become partial-payment buyers by promoters, the evidence of a free market in the stock or the difference in prices is all the inducement needed.
+
+“Another common selling device that costs the unthinking public many millions of dollars and sends nobody to jail because it is perfectly legal is that of increasing the capital stock exclusively by reason of market exigencies.”
+
+Melons
+
+“IN MANY cases where two or more shares of new stock are issued for each share of the old, the process does not really amount to much more than changing the color of the stock certificates. In the old days the capital stock of a corporation was sometimes increased unnecessarily, if one merely considered strict capital requirements. But there were apt to be other reasons. For example, when James J. Hill cut a melon in Great Northern he issued a lot of new stock at par. The market price was $200 or more, so that every stockholder was glad to buy a $200 share at $100. The reason was well understood. The stock paid 7 percent, but earned much more. However, it wasn’t politic to have a railroad company pay more than 7 percent on its capital stock. If it did, there would be a loud demand for reductions of rates, and so on. So Jim Hill did not raise the dividend rate. He disguised the real earnings.
+
+“The juggling whereby two or four or even ten shares of new stock are given in exchange for one of old is often prompted by a desire to make the old stock more easily vendible. The color of the wrapper is changed. The new package is only a quarter of the size of the old, which wasn’t moving freely. The old price was one dollar per pound package and it was hard to sell. At twenty-five cents for a quarter-pound box it might go better: perhaps even at twenty-seven or thirty cents. Usually it has happened that promoters or market manipulators have marked up the price to a level that discourages buying. The change is then resorted to, and in that way more stock is disposed of. The undiscriminating public is thus loaded up with issues that later on may show huge losses.
+
+> ![image](assets/00069-833aaedd.jpg)
+
+“Why does not the public ask why the stock is made so easy to buy by modest purses? And why was it made so easy to buy at that particular time? Certainly it was not when the public had a chance to profit. The wise trader should beware of the Greeks bearing gifts. It is all the warning needed. Of course, it is a form of advertising, and the public finds it so persuasive that every year it has to take losses of millions. The invitations are generously extended to one and all by the insiders who do not give their names.
+
+“There is a law—a good and proper law—which punishes whoever originates or circulates rumors calculated to affect adversely the credit or business of individuals or corporations—that is, that tend to depress the values of securities by influencing the public to sell. Originally the chief intention may have been to reduce the danger of panic by punishing anyone who doubted aloud the solvency of banks in times of stress. But, of course, it serves also to protect the public against selling stocks below their real value. In other words, the law of the land punishes the disseminator of bearish items of that nature.
+
+“Now, how is the public protected against the danger of buying stocks above their real value? Who punishes the distributor of equally unjustified bullish news items? Nobody; and yet the public loses many more millions by buying stocks on anonymous inside advice when they are too high than by selling out stocks below their value as a consequence of bearish talk during the so-called raids.”
+
+Signed Statements by Insiders
+
+“IF A LAW were passed that would punish bullish liars as the law now punishes bearish liars, I believe the public would save millions. But think of the howl that would come from promoters, who would find it very difficult to get a market for their stocks if anonymous optimism were not allowed to be printed by newspapers or the financial news bureaus.
+
+“Naturally these men and other beneficiaries will tell you that anyone who trades on rumors and unsigned statements has only himself to blame for his losses. One might as well agree that anyone who is silly enough to be a drug addict is not entitled to protection.
+
+“The Stock Exchange should help to end such methods. It is vitally interested in protecting the public against unfair practices. If a man in position to know wishes to make the public accept his statements of fact or even his opinions, let him sign his name. The signing of all bullish items would not necessarily make them true. But it would make the insiders and directors more careful. The public would remember what happened, and the next time that man issued another statement it would know whether or not to believe it.
+
+“Moreover, the public ought always to keep in mind the elementals of stock trading. When a stock is going up no elaborate or detailed explanation is needed as to why it is going up. It takes continuous buying to make a stock keep on going up. As long as it goes that way, with only small and natural reactions from time to time, it is a pretty safe proposition to trail along with it. But after the stock has had a long continuous rise and then turns and gradually begins to go down, with only occasional small rallies, it is obvious that the line of least resistance has changed from an upward to a downward course. Such being the case, why should anyone ask for explanations? There are probably very good reasons why it should go down, but these reasons are generally known to only a few, who keep those reasons to themselves. In fact, they are more likely to tell the public that the stock looks cheap, if for no other reason because they need a market for what they themselves wish to sell. In other words, the nature of the game as it is played is such that the public should realize that the truth cannot be frankly told by the few who know. Otherwise they could not benefit by their knowledge.
+
+> ![image](assets/00070-704dcace.jpg)
+
+“I don’t believe that many of the so-called statements that are attributed to insiders or officials have any basis in fact. I don’t think that any directors are often quoted. Sometimes the insiders are not even asked to make a statement, anonymous or signed. These stories are invented by somebody or other who has a large interest in the market. At a certain stage of an advance in the market price of a security the big insiders are not averse to getting the help of the professional element to trade in that stock. But though the insider might tell the big plunger the right time to buy, you can bet he will never tell when is the time to sell. That puts the big professional in the same position as the public. He is hooked up with a lot of stock that he wants to get out of, and he has to have a market big enough for him to do so in. I believe that then is when you get the most misleading information. Of course, there is no denying that certain insiders cannot be trusted at any stage of the game; but as a rule it is not the men who are at the head of big corporations who stoop to the deliberate falsification of facts that the public suffers from. These men may net in the market upon their inside knowledge, but they don’t actually tell lies. They merely say nothing, for they have discovered that when there is competition silence is golden. And there is certainly the hardest kind of competition in the stock market.
+
+“I have said many times, and cannot say it too often, that the experience of years as a stock operator has convinced me that no man can consistently and continuously beat the stock-market game. He may make money in individual stocks on certain occasions, but he cannot beat the market invariably. I have tried to make clear how I have made money and how I have lost it, and why. No matter how experienced a trader is, the possibility of his making losing plays is always present because speculation cannot be made 100 per cent safe. But I do not think it is necessary to increase the hazards of the game unnecessarily. It is not asking too much to demand that the responsibility for bullish statements be fixed. Wall Street professionals know that action on so-called inside tips will break a man more quickly than famine, pestilence, crop failures, political readjustments and what might be called normal accidents. There is no asphalt boulevard to success in Wall Street. But why additionally block traffic?”
+
+I left Larry Livingston’s office wondering whether his warnings would keep the public from trying to get something for nothing. His conclusions as to the reasons why the average man loses money trading in stocks were the conclusions that every man reaches who has studied the subject dispassionately. His own successes, in my opinion, proved quite as convincingly as his failures that the game was unbeatable; for if his failures were the failures of every man, his successes were the successes of one man in a million.
+
+That nameless thousands repeatedly tried to beat the game and were as repeatedly beaten by it was not an interesting fact, because of its antiquity and its inevitableness. Wall Street victims are kin to the thousands that die of an epidemic. They cease to be fellow men and become statistics. Mortality tables are not poignant tragedies. The fact that all men must die arouses no pity. Everybody knows stock speculators lose. Old stuff.
+
+But if one never ceases to wonder why so many men will so stupidly persist in pursuing the unattainable, one is always exasperated by the uniformity with which all of them dwelt on the fact that money is made in Wall Street more easily, more quickly and in greater volume than anywhere else. They invariably point to the successes of ticker millionaires like Larry Livingston. They usually have a list of names that they squelch you with—plungers all, who have made millions, in the Sunday supplements. Larry Livingston himself told the public that no man could beat the game, and all the good it did was to drive home the suspicion that Wall Street is the place where the many lose, but also the place where the few win. They argue that it is from the few that no intelligent man must learn. The greater the losses of the many, the bigger the winnings of the few! They do not see the sufferings and the misery, the wrecks and the suicides, because they have eyes only for the glitter of the kings of the Street.
+
+The Ticker Taketh Away
+
+AH, BUT the reign of these kings was short! They were human, brothers to the sucker and they erred, and in Wall Street to err means abdication. I do not recall a single king that died with his crown on. I refer to those wizards of the tape who reigned in the stock market and not, of course, to financiers like J. P. Morgan, or empire builders like James J. Hill, or railroad condottieri like Jay Gould.
+
+I thought of Larry Livingston as a great stock operator. He had everything that a successful man needs to establish the fact of his success in the minds of his admiring fellows. He certainly earned his millions. There was no blind guessing in their making. He paid millions for his education. His Wall Street life contained as many chapters about losing as about making money. He was still young. There would be more chapters. What would the last chapter be? He has most intelligently provided against a possible Waterloo by buying annuities and trusteeing a few millions, as uneasy foreign potentates send treasure for safe-keeping to the Bank of England.
+
+Well, my study of the history of Wall Street justifies a belief that the same ticker which giveth also taketh away. The only kings that were not ignominiously dethroned were those who abdicated in time and ran away from the danger of destitution. There have been quite a number of these market monarchs. I have known some of them. Their history was identical with the history of their predecessors.
+
+The first great leader the stock market had was Jacob Barker, a truly remarkable man, whose career reads more like a great American romance than like the story of a business man. He was born in Maine in 1779 of Quaker parents. Historians are agreed that his was one of the keenest business minds that America has ever produced. If anyone could beat the stock market, surely it would be such a man as Barker. Before he was twenty-one he owned a fleet of trading vessels and controlled enormous credits, no mean feat in Yankeeland at that time. He failed in 1801, but through some contacts for supplying the Government with oil he made another fortune. During the War of 1812 he was intrusted with the task of raising a five-million-dollar loan for Uncle Sam. He established his headquarters in New York, where he was one of the founders of the Tammany Society. In 1815 he established the States Bank, which failed in 1819. He became largely interested in life and fire insurance companies and also operated in the stock market, of which he became the undisputed leader. His financial methods were condemned when some of his enterprises failed. His market operations were also attacked when he was no longer making money, and he was even indicted. On his first trial the jury convicted him. He appealed, and the second jury disagreed. Finally the indictment was quashed. He had made a great fortune in the stock market and with all his unusual abilities he was not able to keep it. He went to New Orleans in l835, studied law, was admitted to the bar, made an enormous fortune, and lost it during the Civil War. In I867 Louisiana elected him United States senator, but he was not allowed to take his seat. He was adjudged a bankrupt in 1869. He died in Philadelphia in 1871. He was the first of the Wall Street kings, and he did not die with his crown on. Think of the span of life of this sailor, ship owner, trader, merchant, banker, politician, stock speculator, promoter, lawyer, United States senator; successful in Maine, in New York, in Louisiana, in Pennsylvania, at various times a millionaire, and finally dying a nonagenarian bankrupt.
+
+> ![image](assets/00071-85146e7e.jpg)
+
+As a financier he was of the first rank. As a lawyer, it is on record that as a member of the Court of Errors one of his decisions was sustained against the opinion of Chancellor Kent; a remarkable man indeed. Well, he could not beat the game!
+
+Jacob Little’s Spectacular Career
+
+Since Barker’s day there have been mighty men whose market opinions were valued more highly than the opinions of preachers or teachers or statesmen. Their lightest word thrilled gold-stricken men. They counted devoted followers by the hundreds or even by the thousands; and yet one looks in vain in the biographical dictionaries for their names. Who today remembers Jacob Little? Yet what a life was his! He made and lost nine fortunes. Nine! He was Jacob Barker’s successor in the stock-market leadership. He received his early training in Barker’s office, but did not begin trading on his own account till 1835. Two years later, following a period of incredible inflation due to divers causes, came the famous panic of ‘37. It was a terrible time. In New York City alone the failures amounted to one hundred million dollars. A billion today would not be so bad. Out of eight hundred and fifty banks in the country, three hundred and fifty closed their doors permanently. There was more than merely acute deflation or profound depression. There was a state of mind that was responsible for amazing things; for example, the insane contest of merchants against banks. The banks would not discount their depositors’ paper, so the depositors withdrew their deposits. The banks shut their doors, and so did the depositors.
+
+It was then that Jacob Little began his bear operations that made his name a household word throughout the land. The panic was so severe and so extensive, and it was followed by so long a period of depression, that Jacob Little’s bearishness became chronic. It crowned him in panic times, but it dethroned him in booms. One of his enemies referred to him as a distributor of distrust, a prophet of failure; but that sort of distribution paid during the decade following the panic. By 1845 he was worth two million dollars. A scholarly banker told me this would be equivalent to about thirty million dollars today. But he was more than an enormously rich man: He was the great Jacob Little, the king of the stock market. He was one of the fortunate few whose success was an inspiration to those who wished to take the short cut to great wealth.
+
+In 1846 he joined some Boston operators in an attempt to secure the control of the Norwich and Worcester Railroad. They bought large quantities of the stock and each man put up a twenty-five thousand-dollar bond, to be forfeited if any of them were guilty of selling any of his stock below 90. The clique ran the price up, but Little found that it bulled hard. Foreseeing the inevitable decline, he sent selling orders to his brokers in Boston. His associate there took all the offerings, and then discovered that the stock came from Little. Before they could accuse him of treachery they received from him a check for twenty-five thousand dollars—his forfeited bond. This was the deal that cost Little his first million-dollar loss. It also was his first and only bull operation. It taught him, he said, to stay on the bear side. In this connection it may be said that though the big money in the United States has always been made by upbuilders and optimists who had faith in the future, the big stock operators have always been more partial to the bear side even though some of them made millions on the bull side. Jacob Little, Daniel Drew, Bill Travers, Addison Commack, Charles Woerishoffer, Jim Keene and the big roof traders all have confessed to their partiality for the short side of an account. And it is easy for a stock trader to understand this.
+
+Jacob Little made up his Worcester loss by his famous coup in Erie, later plagiarized by Daniel Drew. I give it in detail to show that Wall Street did business then with the same carelessness that it does today. A pool was formed to bull Erie. On heavy purchases the price rose until it looked as though all high records were going to be smashed on that movement. This made it pie for Jacob Little, who began to put out his short line. The higher the price went the more Erie he sold. But the pool took all his offerings and bid for more so confidently that presently the street began to talk of a corner and all the bears—accepting one—stopped selling it. The pool whopped it up a little more and all the shorts covered, with the single exception of Jacob Little. Finally it became clear that the stock was virtually cornered and the Street excitedly made estimates of the amount that Little was going to be parted from by the pool. No guess placed the loss at less than one million dollars. Everybody waited for the news of the settlement in order to begin saying “I told you so.” But Jacob stood pat until even the hardened traders began to feel sorry. It was going to be the squeeze of the century, and the great operator undoubtedly would be eliminated for good. Wall Street would know him no more.
+
+The Scene at the Captain’s Office
+
+The curtain went up on the last act. The pool put up the price a few points. It was positively the last chance. But instead of rushing into the board room to buy in his shorts, Little called at the Erie transfer office, presumably to find out who held the outstanding stock. When he came out he was sneering sourly at the entire world. Humanity, according to his face, was a aggregation to curs and asses. Some of his cronies saw him, and being expert face readers—much depends upon whether broker can guess what other brokers have in the way of orders—they decided that the old man was going to drop about three million dollars at the very least. The triumphant bull pool in Erie had made plain to all bears that pigheadedness is not courage, nor obstinacy wisdom. But the great operator walked on, his face more sardonic than ever.
+
+“Where are you going, Jacob?” asked an old friend.
+
+Little stopped.
+
+“Do you want to know?” he said.
+
+“Yes.”
+
+“Really interested, are you?”
+
+“Why—er—yes!”
+
+“Well, I am going to see those damn fools that have cornered Erie. Does that make you happy?”
+
+“No, Jacob.”
+
+“Oh, yes! They made you cover, and you felt sore until they put the price up seven points higher. And now one of your fellow men has got to buy in his shorts and pay seven points more than you did or seventy times more stock than you covered. You are ready to explode with joy. Well, come along and get ready to laugh.”
+
+Jacob stalked grimly on to the office of the principal member of the bull clique.
+
+“I’ve come to see about delivering some Erie shares I sold you fellows real cheap,” he announced. There wasn’t anything disagreeable about him now. Even his voice sounded deferential.
+
+“We are glad to see you, Mr. Little,” the smiling bull leader assured him. “Yes, we bought quite a little from you. We think it is about——”
+
+“No need to guess how much,” interrupted Little. “I know exactly. I’ve brought it.”
+
+“What?”
+
+“I say, here is your stock. Every share of it!”
+
+And Jacob Little produced a bundle of stock certificates. He had that very morning got them from the Erie office in exchange for a lot of convertible bonds he had bought in London. The bull clique did not know about the convertible clause of those bonds, but Jacob did.
+
+He was the greatest plunger that ever operated in Wall Street up to the time of the Civil War. I have heard old-timers assert that no individual before or since swung a bigger line than Jacob Little, and it was their opinion that not even the winnings of James R. Keene, including the nine-million-dollar profits of his 1879 campaign, could compare with the aggregate winnings of Jacob Little. And if one considers the relative value of the dollar then and now it is safe to predict that Little’s record of stock-market profits will never be equaled. I make this statement with all due deliberation.
+
+He was a born speculator—one of the greatest that ever lived. He had an amazingly quick mind, resourceful, bold, ingenious. He improved the technic of the game incredibly. There was scarcely a rule or regulation of the Stock Exchange that he did not take advantage of, for he devised methods for profiting by conditions created by the rules. It would take too long to trace in detail the effect of his operations on the technic of trading on the New York Stock Exchange.
+
+Paid in Full
+
+He had the amazing arithmetical memory that all the great stock operators seem to possess, which is not unlike the card memory of professional players. At the close of the market he could remember without difficulty the exact amount and price of every one of his hundred or more transactions, every detail of all his sales and purchases. He did not have to keep books. Incidentally, neither Commodore Vanderbilt nor Daniel Drew ever kept books. Both used to declare that they did not believe in them.
+
+It was all one to Jacob Little whether he won or lost. He loved the game as a game. His pleasure he found in playing it. “I don’t care what happens, so long as I am in it,” he declared more than once, and yet he was not a blind gambler—no great speculator ever is—but a genuine trader. That he made eight great fortunes and lost nine in his forty years of trading was the fault of circumstances. His first sensational success really destroyed his perspective. He began in 1835, and for the next ten years the big money was on the bear side. The habit, unconsciously formed, of associating personal prosperity with national adversity was bad for him, because it gave him a pessimistic outlook, and to the speculator a permanent bias is fatal. His study of condition must be impartial if it is to be accurate, just as it must be accurate if it is to be profitable.
+
+For twenty-five years Jacob Little was the foremost stock operator in the United States. He had one desire, one ambition: To control the stock market. They all have it—that ambition to be king. Possibly these men feel that as absolute monarchs they can accumulate a stake big enough to withstand what one might call normal disasters— which is a speculative fallacy that many experienced traders do not consider a fallacy. Or else the monarchical dream is at bottom merely a dream of revenge for past reverses. After all, it is a logical enough impulse, that all dollar dynasts should wish to make permanent their rule. But if every one of the Napoleons of Wall Street, from Jacob Barker’s day, over a hundred years ago, has had his Waterloo after his Austerlitz, the knowledge of it has not kept Barker’s successors from dreaming Napoleonically, in terms of an enduring empire. With Jacob Little this ambition made him take greater chances than he should have taken. He had to arrive quickly if he was to arrive at all. It made him the greatest of all Wall Street plungers, but it also broke him nine times. Eight times he came back and resumed his rule. After the ninth dethronement he did what all men eventually do: he died.
+
+He had a habit, when he failed, of insisting on giving notes to his creditors. These, when he came back, he used to take up. He avoided intimate intercourse with those to whom he owed money. When he had repaid them the old relations were resumed. Once, when he had won back his fortune, he went to a big brokers’ office and told them he wished to take up the notes they held. The brokers told him pleasantly that they had long since written off those debts, that they hadn’t wanted his notes, that he could have them duly canceled, and that they were glad he had come back and wished him the best of luck.
+
+“No, sir-ree!” yelled Jacob Little, mad as blazes. “ You’ve got to take the money!” And he made them accept the full amount with interest.
+
+The Great Man’s Fall
+
+He was a tall slight man, with a stoop, quick in his movements. When I first went down to Wall Street one of the old brokers told me that Little had the pensive eyes of a philosopher, the drooping nose of a money-maker and the elastic lips of an actor. His mobility of expression was so extreme that the very shape of his features actually changed with his emotions. My old friend said that as a young man he used to watch Jacob Little go into the crowded board room. His lips had a habit of protruding, as though he would literally test the market by the sense of taste. Or it might be he puckered up his lips as though he were about to approach his sweetheart. The brokers used to say Jacob was kissing his profits. He would stand on the edge of a crowd, balancing on tiptoe, swaying back and forth. He would nod a dozen times, slow comprehensive nods, and turn his head from one side to the other as though protecting his flanks from attack. Then, suddenly, he would dart into the seething crowd and offer thousands of shares for sale—a bird of prey swooping down on a victim.
+
+Well, it was Anthony W. Morse, the young bull, who broke Jacob Little, the old bear. In reality the bear broke himself by always being a bear instead of always being a trader. Just as Morse later broke himself by being a hot-headed bull instead of a cold-blooded speculator.
+
+Little’s ninth and last failure was for well over one million dollars. For a generation or longer he was the most prominent figure in the speculative arena, the biggest moneymaker of those whose fortune-winning has been done entirely in the Stock Exchange. His name, his face and his exploits were known to every daydreaming dabbler in New York who aimed to get something for nothing. He was master of every trick used in beating the game of stock speculating, an inventor of speculative devices that won millions for him and for his followers and imitators.
+
+Cause of death: Acute bearishness in a bull market. Not an obscure disease. How did he come to contract it, with all his experience and skill? Because he was a human being. That is why the game beats them all.
+
+My old broker friend told me that he distinctly remembered having seen a shabby, weird-looking old cuss—who once had been the great Jacob Little—haunting the board room. He heard, more than once, the greatest plunger of them all offering to buy or sell five shares of some stock or other—some stock over whose market destinies he had once exercised absolute control! Five shares! And when this man, who as far back as 1837 was one of the great millionaires of his great country—all made in the stock market—came to die, he said “I die poor!”
+
+Of the many millions he had made playing the game that he beat so often, but that inevitably beat him in the end, nothing remained. His last words were true. When one of his intimate friends, who had started as a clerk in Little’s office, found no securities whatever in the strong box, he looked among those papers in which Little attached no importance. There he found literally hundreds of I O U’s for varying sums. Little never dunned a debtor in all his years in Wall Street. The men to whom he had lent money or whose debts he had canceled, owed him several millions. His devoted friend, David Groosbeck, succeeded in collecting one hundred and fifty thousand dollars from the men whose I O U’s were not outlawed, which he turned over to Little’s family.
+
+And this same Jacob Little, who in his day was the star performer on the speculator stage, whose deeds and opinions were reported by the newspapers daily for years, is not remembered in the market place.
+
+“No man knoweth of his sepulcher.” The other day I asked nine members—and not young members, either—of the New York Stock Exchange whether they had ever heard of Jacob Little. Six answered no; three said yes. But of these three not one knew what he had done. They merely said they had heard the name somewhere. After all, what happened to Jacob Little was no more than what happens to thousands every year. The difference in degree does not make it more memorable.
+
+It was Anthony W. Morse whose operations broke Jacob Little. The late Henry Clews once told me that Morse was the most dashing of all the operators he had ever known; more so than even James R. Keene at his picturesquest. He was as bold as they come, and debonair and popular because generous and easygoing.
+
+Morse’s Rock Island Pool
+
+He, as much as any stock operator that ever lived, was born for the game. From his youth he was distinguished for his arithmetical aptitude. Later he was known as “the lightning calculator.” Numbers to him were like letters to the average man. He could add four columns as easily as most men can foot up one. At college—he was a Dartmouth man—he successfully exercised the qualities which stock brokers and stock traders find so useful. He regularly cleaned out his classmates at poker.
+
+After he left college he became a clerk in a mercantile house in New York City. His employers often sent him down to Wall Street to negotiate their paper and look after their money matters generally. One day the senior partner of a large brokerage house who had been greatly impressed by Morse’s mathematical ability as well as by the quickness and accuracy of his mental processes, advised him to go into business for himself as a stock broker. He predicted a speedy success for the arithmetical prodigy.
+
+Morse had saved up $700. Another version is that he borrowed the money from his wife. At all events, he gave up his clerkship, came down to Wall Street and founded the firm of Morse & Co.
+
+He took to stock speculating as a duck takes to water. He was so successful that within a relatively short time he had made $250,000 by a few operations on the bull side.
+
+Up to that time he had gone with the tide, taking every possible advantage of the operations of the big traders, a process that today would be called reading the tape. But once he had his $250,000 stake there was no wisdom in piking along behind some petty leader. He decided to do what he had wanted from the first, to strike for himself to lead instead of following. He selected Cleveland & Pittsburgh as a good stock to bull. It was selling at 65 and the earnings justified the hope of dividends in the near future. As Morse read the market, the next big movement would be upward. So he began to buy Pittsburgh. The price rose reluctantly, for the general market was still a two-sided affair. Then money tightened and all stocks sold off. The recession in price nearly wiped out Morse, whose margin was slim. His fellow brokers were so sure he must go under that they sold Pittsburgh short. Morse nonchalantly took all they had to sell, and bid for a large block. This did not frighten the bears, who let him have more stock to show him how confident they were that he was headed for disaster.
+
+The Treasury Department announced a new issue of greenbacks, money became easier, and stocks began to rise. The big move would be determined by Fighting Joe Hooker. If his campaign succeeded, the end of the war would come quickly, and with it the end of inflation. Prices would break. But Hooker did nothing of the kind, and the bears were richer. When the news came from Chancellorsville, Morse saw his opportunity. He began to boost the price of Pittsburgh. It was remembered for many years that one day he jumped into the thick of the Pittsburgh crowd, and at the top of his voice bid 105 for the entire capital stock or any part of it. He was so evidently willing and able to pay for it that his bid found no takers.
+
+“I’ll give 100, seller one year, for the capital stock or any part of it!” And nobody took him up. He looked disappointed, because instead of selling him the stock he wanted, the traders began to buy it. But his brokers at that very moment were selling for him all the Pittsburgh they could without smashing the price. When everybody wanted to buy stocks was a good time to convert his paper profit into cash, and he did so, to the tune of over a million.
+
+That coup made Morse in Wall Street. It gave him a man’s-size stake as well as the confidence of success. From then on the hero of the Chancellorsville rise believed in his star—a common falling with all the known species of Napoleons, military, political and financial. It breeds confidence and therefore valor. But it also encourages overconfidence and therefore a tendency to underestimate dangers. These men get in the habit of letting destiny do the hard work.
+
+Morse’s next exploit was in Rock Island. He formed a pool to bull it, and quietly accumulated a large block of it. He then bought it not only openly but with every appearance of arrogant recklessness. Naturally the traders sold it to him cheerfully. They clearly perceived that Morse’s success in Pittsburgh had given him a swelled head, and it was reasonable to assume that the latest Wall Street victim of delusions of grandeur would meet the usual fate. The price fell back to 105 on the traders’ strictly logical selling. But Morse bought it more recklessly than ever, so that the price rose to 114. He used to bid for fifty thousand or one hundred thousand shares. In one week the entire capital stock was traded in several times over, and throughout Morse kept on buying Rock Island stock in every way he could—cash, regular, buyer 80, seller 80—and still there was no sign of disaster. The pool soon was carrying three-quarters of all the outstanding stock, but did not seem a bit worried. Its resources were ample; it could have carried the entire capital stock.
+
+Operations in Erie
+
+Morse, for a reckless plunger suffering from an aggravated case of swelled head, did very well. He kept the shares from indulging in fireworks. He merely jiggled the price up and down a few points, taking care to keep an open market in the stock. Naturally some of the members of his pool found fault with the manipulation. They wished to know why he didn’t put up the price to a high figure and force the shorts to cover. But Morse merely laughed and told them to leave things to him. Whenever one of his associates insisted on knowing just what was going on Morse told him to come back and ask him that same question when Rock Island would be selling at 175.
+
+That pool was derisively known in the Street as the Blind Confidence Pool, because the only member of it who at any time knew where or how it stood in the market was Anthony W. Morse. The others simply signed their names to a paper when Morse told them to, and put up what money Morse declared would be needed. They soon learned not to waste their breath asking for information. Not knowing just what Morse might be doing at any stage of the proceedings they were afraid to buy or sell the stock. They thus could neither hedge nor double-cross him.
+
+The Treasury Department about that time decided to bring out a new issue of legal tenders which had been authorized months before. It would mean more inflation, higher stock prices. A prominent bear operator who was heavily short of Rock Island had inside connections in Washington, and somebody there, before the news was known to the public, telegraphed him what Secretary Chase had decided to do. This message, by one of those accidents that actually happen in Wall Street almost as often as in fiction, was dropped by the messenger boy and picked up by one of Morse’s confidential brokers.
+
+In less than a minute after he received it Morse sent instructions to his chief broker in the public board and to his principal outside agent: They were not to let Rock Island sell below 124. He himself hastened to the regular board, and began to put up the price, slowly but steadily ruthlessly. It touched 140, and everybody was sure it was going much higher. But at that level Morse began to sell. On his free selling the price went down to 118, for Morse now had in mind a much bigger deal than his Rock Island operation. He was planning a general bull campaign, broad and aggressive, and he intentionally used his plunging sales of Rock Island to depress the rest of the list and pick up stock in bulk. Still there was a nice profit.
+
+He turned to Erie and started to bull it aggressively. This was poaching on Daniel Drew’s preserves. In the past all such attempts had proved very expensive to the poachers and highly satisfactory to the old bear. But Morse seemed to have absolutely no fear of Uncle Daniel’s displeasure, and bought Erie by the ream until the traders were afraid to sell it. He bid for ten thousand shares at an advance. Drew told his brokers to sell it and give up his dreaded name as the seller. They did, but instead of being frightened Morse blithely bid for twenty thousand shares more. Again the old man’s brokers sold it to Morse and “gave up” Daniel Drew. Morse laughed and bid for another big block, while the whole Street wondered at his nerve in buying such blocks of a stock that had ruined so many bulls. But the master milker of Erie for once was unable to punish the reckless bull, and took a loss of more than $250,000.
+
+That victory added enormously to Morse’s prestige, and he followed it with other operations which ware so successful that presently, when the big boom of 1864 was on in earnest, Anthony W. Morse was the acclaimed leader of the stock market.
+
+Never was there a more dashing stock operator than he. The great Jacob Little had been slow and old-fashioned beside the new leader. A slim frail figure of a man, this Morse, stoop-shouldered, hawk-nosed and sharp-eyed, with a perennially sophomoric air about him. He acted more like a college student on a vacation than like a busy stock broker.
+
+At first his fellow members on the board were deceived by his manner. They were sure he would not last long. The game would get him because he did not know how to play it. Moreover, he did not appear to be at all anxious to learn it. He did his buying and his selling so openly that his bankruptcy should be a matter of hours only. He refused to conceal his operations. Nevertheless he kept on going from success to success, while the entire country went stock mad, and by accepting Anthony W. Morse as the leader of the bull forces insisted on helping to make him a winner of millions.
+
+The Monarch Dethroned
+
+His was the busiest office in the United States in 1864. Everybody was anxious to join his pools. More accounts were pressed on him than he could possibly handle, and his tips were like cash in bank. Millionaires and pikers alike implored him to do as he deemed best with their fortunes. And if he could not take them in as partners or associates, he at least might accept them as followers and tell them what he was buying, so they, too, might buy. All day crowds stood patiently on the sidewalk in front of his office, to catch a glimpse of the man with the Midas touch, to overhear some remark about the market that would be like getting a certified check. Old-timers have told me that long before Morse came down to his office the crowd was waiting for him. They followed him into the office, jostling, fighting one another, to get near enough to ask him questions or hear his answers to others’ questions. His adherents numbered thousands and included all classes, from the richest to the poorest. And not one of them listened to warnings. A bear was worse than a kill-joy; he was an ass and a criminal. What was the sense of speaking ill of a man like Morse, who one day bid Fort Wayne up from 118 to 152?
+
+Fortunes were made in minutes.
+
+It was simply wonderful!
+
+Desirous of checking the wild speculation, Secretary Chase issued a warning: He would sell gold. The bull market halted. Morse telegraphed the great Secretary of the Treasury that he would take all the gold the United States Government had to sell! He believed in his star and thought he would win out. But Secretary Chase’s reply was to sell gold for currency the next day, and lock up the currency in the Sub-treasury.
+
+That made money tight, and that made the banks call loans, and that made holders sell stock, and that started prices down.
+
+When Morse saw in the morning papers what Secretary Chase had decided to do he went to his office. His partners were there. He remarked to one of them, “The game is up.” An hour later his suspension was announced. Fort Wayne, which he had bid up thirty points in one session, fell from 153 to 110.
+
+Fortunes were lost in seconds.
+
+It was simply appalling!
+
+The monarch of the market gave his name to the disaster. It was the Morse panic.
+
+He had been king for a day. And now, dethroned, he heard nothing but execrations. On his way home the day of his failure he was followed by a frantic mob of erstwhile followers, who cursed him and spat upon him and struck at him—a frail man, ruined and friendless.
+
+From Splendor to Squalor
+
+I gather that of all the great stock operators Morse was the most popular personally. He was generous, and his honesty was never questioned. Once a trader told him a tale of woe and appealed for help. Morse told him to buy a couple hundred shares of a certain stock and to send it to the office of Morse & Co., who would carry it for him. The man bought seven hundred shares instead. Morse thought it nervy, but merely smiled. He traded three or four times, and sent a check for fifty thousand dollars to the man a fortnight later.
+
+And the end? Worn out by the strain of the game and his losses, Morse contracted tuberculosis. He never was able to get back. His attempts all failed. And yet his very name was not without power. One day the doomed man was seen in Wall Street—and Fort Wayne went up five points. He was living in a squalid lodging house and he did not have enough blankets to keep him warm. He couldn’t afford to buy more. He caught cold. It developed into pneumonia. It proved fatal. But that wasn’t enough. The landlady held his body for debt. The great Anthony W. Morse could not be buried decently until a friend paid the few dollars the one-time king of the stock market owed.
+
+I asked eleven elderly or middle-aged members of the New York Stock Exchange if they had ever heard of Anthony W. Morse. Two of them thought I meant Charles W. Not one of the eleven knew anything about the operator who had a more numerous following in his day than any other operator in our history, possibly excepting Governor R. P. Flower thirty-five years later.
+
+And then I thought of other kings for a day, men who were the leaders of the market and after beating the game for millions were inevitably beaten by the game in the end. They filled their day with their deeds, and on the morrow their very names were forgotten. Who remembers the extremely able and extremely successful operators of the generation preceding ours—men like W. S. Woodward, Addison G. Jerome, who bid for sixty thousand of old Southern and got it and busted, Henry N. Smith and John M. Tobin, all of them in their day as prominent as James R. Keene in 1901 or as Larry Livingston today? They all made millions, many millions, by the exercise of abilities of a high order and great boldness. And they lost every cent because they insisted on continuing to beat an unbeatable game. And even in the case of the great Keene—what a difference between the great manipulator of United States Steel in 1901 and the manipulator of the Hocking pool a few years later!
+
+There was once a man named Alden B. Stockwell who married an heiress and aspired to the Wall Street throne. He had no experience, but lots of money. He acquired the control of Pacific Mail, and with it a nautical title. Later, he had lots of experience but no money. His autobiography has always seemed to me the most adequate version of a Wall Street career I have ever heard.
+
+“When I first came down here,” he said. “I was A. B. Stockwell. Then I bought up the Pacific Mail and I was known as Commodore Stockwell. Then the market took my money from me, and I was just that red-headed blankety-blank from Cleveland.”
+
+There have been so many Stockwells!
+
+<!-- rl-section id="section-31" class="epub-section" kicker="Section 31" title="Section 31" -->
+
+## Section 31
+
+Publisher’s Postscript
+
+Everybody loves a good story. Reminiscences of a Stock Operator is an amazing story that has remained vital and compelling decades after it was first published—and the tale of how this new illustrated edition of the book came to be is a wonderful story in its own unique way.
+
+The story really has two parts. In the early 1990s a small company by the name of Trader’s Library began selling investment books to professional traders and self-directed investors. In short order, Reminiscences of a Stock Operator became the single most requested title. Professionals embraced Lefèvre’s classic—reading and rereading it, giving it to colleagues and new hires, recommending it to clients and swearing by its maxims, proclaiming them every bit as valid today as when the book was first written. To this day it remains one of Trader’s Library’s most requested titles. However, for many years, finding a copy was not that simple. A number of small presses had started reproducing Lefèvre’s classic, assuming it was so old that it qualified as a “public domain” property. However, it remained a hard-to-find entity in most bookstores.
+
+Resolved to legitimately publish Reminiscences, Trader’s Library set out to obtain the rights from the Lefèvre estate and family members. Tracking them down was not hard. Though Edwin Lefèvre had since passed away, his 92-year-old son lived in the same small Vermont town where Mr. Lefèvre senior had resided. The younger Mr. Lefèvre was shocked to discover that people were still reading his father’s masterpiece! He remained skeptical of the book’s popularity, but eventually agreed to allow the book to be republished so a new, classic version of the book could be issued. A deciding factor was that by doing so, his own children and grandchildren—the grandchildren and great-grandchildren of Edwin himself—would be able to benefit from the royalty revenue earned by his father’s bestseller. In the end, it was poetic justice that they could be connected to their grandfather in such a fitting way: In 1994 John Wiley & Sons and Trader’s Library released Reminiscences of a Stock Operator as a “Marketplace Book” in Wiley’s newly established Investment Classic series.
+
+The next decade saw the greatest bull market in history and hordes of new investors entered the market at a record pace. For all the new technology that made market participation possible by anyone with the motivation and a little capital, Reminiscences of a Stock Operator, a 70-year-old book, was there to educate these new market players to the more timeless aspects of investing—human psychology, the glory of big wins, and the agony of losses. As different as the world was in 1993 from 1923, so much remained the same. Sales of the book soared and it continued to reign as one of the bestselling investment books of all time, and the Lefèvre family enjoyed an unexpected windfall from the royalties.
+
+And that is where everyone thought it would end—a classic rediscovered and brought back to market and the author’s heirs rightfully compensated. Then, in 2003, Mr. Bill Myers surprised his son, Chris Myers, the founder of Trader’s Library, with a set of original Saturday Evening Post editions where Reminiscences of a Stock Operator had not only been partially serialized but also illustrated beginning in 1922. The original source material, along with the Post’s famous illustrations, made the Jesse Livermore story come to life in a whole new way. The drawings were rich and lively; they put the story into a context that made the work even more meaningful. It didn’t take long to see that an illustrated version of Reminiscences would make this powerful story even more significant. To enrich the reading experience further, Wiley secured historic commentaries from author and financial historian Charles Geisst at the beginning of each chapter. The commentaries provide new insight into Livermore and the colorful era in which he lived. The final result is a beautiful new book that befits the enduring popularity of this quintessential American classic.
+
+And so a great story lives on. The precepts are timeless and telling. The financial press continues to hail it as one of the most important investment books ever written and investment giants continue to sing its praises. Regardless of the time period or market circumstances, the lessons of Lefèvre and Livermore endure.

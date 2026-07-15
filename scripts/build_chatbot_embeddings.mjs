@@ -19,22 +19,28 @@
  *
  * Output: assets/chatbot_embeddings.bin
  *
- * Binary format (all little-endian) — identical to the tutorial's so the
- * browser-side chatbot.js prebuilt-bin loader works unchanged:
+ * Binary format (all little-endian), version 2:
  *
- *   Header (52 bytes):
- *     magic        [4]    = "CMEB"
- *     version      u32    = 1
- *     count        u32    (total vectors)
- *     dim          u32    = 768
- *     dtype        u32    = 1 (float32)
- *     chunksHash   [32]   SHA-256 of all chunk texts concatenated in id order
+ *   Header:
+ *     magic        [4]     = "CMEB"
+ *     version      u32     = 2
+ *     count        u32     (total vectors)
+ *     dim          u32     = 768
+ *     dtype        u32     = 1 (float32)
+ *     chunksHash   [32]    SHA-256 of all chunk texts concatenated in id order
+ *     modelIdLen   u32     byte length of the UTF-8 model id below
+ *     modelId      [N]     UTF-8 embedding model id (e.g. the EMBED_MODEL_ID)
+ *
+ *   The model id lets every loader (browser, CLI, build re-run) refuse a bin
+ *   whose vectors came from a *different* model than the one the loader will
+ *   use to embed queries — a check the chunks-text hash can't catch. v1 bins
+ *   (no model id) are rejected by the version gate and must be rebuilt.
  *
  *   Lang table (LANGS.length × 8 bytes; here 1 lang = 8 bytes):
- *     offset       u32    (start index within the vector block, in vectors)
- *     count        u32    (number of vectors for this lang)
+ *     offset       u32     (start index within the vector block, in vectors)
+ *     count        u32     (number of vectors for this lang)
  *
- *   ids:           count × u32     (chunk id for each row, grouped by lang)
+ *   ids:           count × u32      (chunk id for each row, grouped by lang)
  *   vectors:       count × dim × f32  (mean-pooled + L2-normalized, grouped)
  *
  * Run AFTER scripts/build_chatbot_index.py whenever book content changes.
@@ -69,11 +75,31 @@ const LANGS = ["en"];
 const BATCH_SIZE = 16; // matches chatbot.js embedTexts()
 
 const MAGIC = Buffer.from("CMEB", "ascii"); // 0x43 4D 45 42
-const VERSION = 1;
+const VERSION = 2;
 const DTYPE_F32 = 1;
-const HEADER_SIZE = 4 + 4 * 4 + 32; // magic + 4 u32 fields + 32-byte hash = 52
+// Model id is written into the header (v2) so loaders can refuse a bin whose
+// vectors came from a different model than the one used to embed queries.
+const MODEL_ID_BYTES = Buffer.from(EMBED_MODEL_ID, "utf8");
+// Pad the model-id bytes to a 4-byte boundary so the ids/vectors regions that
+// follow stay 4-byte aligned (Float32Array views require it). modelIdLen
+// stores the true (unpadded) length; readers round up to a multiple of 4.
+const MODEL_ID_PADDED = Math.ceil(MODEL_ID_BYTES.length / 4) * 4;
+const MODEL_ID_PADDING = MODEL_ID_PADDED - MODEL_ID_BYTES.length;
+// Header: magic(4) + version(4) + count(4) + dim(4) + dtype(4) + hash(32)
+//       + modelIdLen(4) + modelId(padded to 4)  =  52 + 4 + MODEL_ID_PADDED
+const HEADER_SIZE = 52 + 4 + MODEL_ID_PADDED;
 const LANG_TABLE_SIZE = LANGS.length * 8; // langs × (u32 offset + u32 count)
 const DIM = 768; // embeddinggemma-300m
+
+// Per-(lang, model) checkpoint path. The model id in the filename means a
+// model swap automatically invalidates the cache — a stale checkpoint from a
+// different model can never silently leak into a fresh bin (the bug that
+// previously poisoned chatbot_embeddings.bin with wrong-model vectors).
+// Slash/repo-unsafe chars are stripped so e.g. "org/model-ONNX" -> "orgmodel-ONNX".
+function ckptName(lang) {
+  const slug = EMBED_MODEL_ID.replace(/[^A-Za-z0-9._-]/g, "");
+  return `${lang}__${slug}.bin`;
+}
 // Write a partial checkpoint every N batches so a run killed by a timeout
 // resumes from the last checkpoint instead of restarting from zero. The
 // reading library has a single (large) "en" language, so without incremental
@@ -170,7 +196,7 @@ async function main() {
   // re-run never touches the network.
   const langData = new Map(); // lang → { ids, vectors }
   for (const lang of LANGS) {
-    const ckpt = join(CACHE_DIR, `${lang}.bin`);
+    const ckpt = join(CACHE_DIR, ckptName(lang));
     if (existsSync(ckpt)) {
       const data = decodeCheckpoint(await readFile(ckpt));
       langData.set(lang, data);
@@ -211,7 +237,7 @@ async function main() {
       vectors.set(existing.vectors, 0);
       resumeIndex = Math.floor(existing.count / BATCH_SIZE) * BATCH_SIZE;
     }
-    const ckptPath = join(CACHE_DIR, `${lang}.bin`);
+    const ckptPath = join(CACHE_DIR, ckptName(lang));
     let batchCount = 0;
     for (let i = resumeIndex; i < subset.length; i += BATCH_SIZE) {
       const batch = subset.slice(i, i + BATCH_SIZE).map((c) => c.text);
@@ -268,6 +294,12 @@ async function main() {
   buf.writeUInt32LE(DIM, off); off += 4;
   buf.writeUInt32LE(DTYPE_F32, off); off += 4;
   chunksHash.copy(buf, off); off += 32;
+  // v2 header field: model id that produced these vectors, so loaders can
+  // refuse a bin whose model differs from their query embedder. The bytes are
+  // zero-padded to a 4-byte boundary to keep the following regions aligned.
+  buf.writeUInt32LE(MODEL_ID_BYTES.length, off); off += 4;
+  MODEL_ID_BYTES.copy(buf, off); off += MODEL_ID_BYTES.length;
+  for (let i = 0; i < MODEL_ID_PADDING; i++) buf[off++] = 0;
   for (const { offset, count } of langTable) {
     buf.writeUInt32LE(offset, off); off += 4;
     buf.writeUInt32LE(count, off); off += 4;

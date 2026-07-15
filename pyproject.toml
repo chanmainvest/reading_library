@@ -5,4 +5,10 @@ requires-python = ">=3.10"
 dependencies = [
     "beautifulsoup4>=4.12",
     "lxml>=5.0",
+    "markdownify>=1.2.3",
+]
+
+[project.optional-dependencies]
+cli = [
+    "numpy>=1.26",
 ]

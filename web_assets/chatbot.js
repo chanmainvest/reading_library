@@ -27,15 +27,21 @@ const MODEL_OPTIONS = {
     "gemma-4-e2b": {
         id: "onnx-community/gemma-4-E2B-it-ONNX",
         size_mb: 3100,
-        label: "Gemma 4 E2B (≈ 3.1 GB)",
+        label: "Gemma 4 E2B (≈ 3.1 GB text-only)",
     },
 };
 
 const ACTIVE_MODEL = "gemma-4-e2b";
 const MAX_CONTEXT_CHARS = 6000;       // current-page slice in the system prompt
-const MAX_CHAPTER_CHARS = 20000;      // higher cap in "this chapter" scope
+const MAX_CHAPTER_CHARS = 8000;       // higher cap in "this chapter" scope
 const MAX_HISTORY_TURNS = 6;
 const MAX_NEW_TOKENS = 512;
+// Hard cap on the assembled system-prompt length (~chars ≈ tokens×4). WebGPU
+// can run out of memory / lose the device during generation when the input +
+// KV cache grow too large, even though Gemma 4's 131K context window would
+// allow far more. Keeping the prompt under this budget avoids the "[Device]
+// is lost" crash that larger RAG-augmented prompts trigger.
+const MAX_PROMPT_CHARS = 12000;
 
 const CDN_URL = "https://cdn.jsdelivr.net/npm/@huggingface/transformers@4/+esm";
 
@@ -51,7 +57,11 @@ const EMBED_MODEL_ID = "onnx-community/embeddinggemma-300m-ONNX";
 const TOP_K = 5;
 const RAG_DB_NAME = "chanma-rl-chatbot-rag";
 const RAG_STORE = "embeddings";
-const RAG_DB_VERSION = 2;
+// Bumped to 3 to purge IndexedDB caches written by earlier builds, which
+// stored wrong-model vectors (stamped with the then-current model id) and
+// passed the chunksHash check, so the fresh v2 bin was never re-fetched.
+// Each bump clears the store in openRagDb's onupgradeneeded.
+const RAG_DB_VERSION = 3;
 
 // Prebuilt embedding cache (shipped as a static binary so users get instant
 // cross-book search instead of a minutes-long in-browser indexing step).
@@ -60,9 +70,13 @@ const RAG_DB_VERSION = 2;
 // can't be precomputed), but skips the slow per-chunk indexing because the
 // vectors are already in the bin.
 const EMBED_BIN_MAGIC = 0x42454d43;   // "CMEB" read as little-endian u32
-const EMBED_BIN_VERSION = 1;
+const EMBED_BIN_VERSION = 2;          // v2 adds the model id to the header
 const EMBED_BIN_DTYPE_F32 = 1;
 const EMBED_BIN_LANGS = ["en"];       // reading library is English-only
+// When the prebuilt bin's embedded model id differs from EMBED_MODEL_ID, the
+// stored vectors are from a different model than the one used to embed queries
+// — cosine scores would be garbage. Surfaced to the user as a rebuild prompt.
+let ragModelError = null;             // "model_mismatch" | "stale" | null
 
 // Resolve the asset URL relative to the current page. The portal lives at
 // the repo root (assets/...) and book pages live at books/<slug>/
@@ -96,9 +110,14 @@ const I18N = {
     placeholder: "Ask about this book…",
     load_failed: "Could not load the model: ",
     gen_failed: "Generation failed: ",
-    no_book: "(no book text found on this page)",
-    retrieved_header: "RELEVANT EXCERPTS FROM OTHER BOOKS",
+    gen_device_lost: "The browser’s GPU ran out of memory while generating. Try the “All books” scope, a shorter question, or reload the page. If it keeps happening, your device may not have enough GPU memory for the on-device model.",
+    no_book: "(no book open — answer from library excerpts below)",
+    retrieved_header: "RELEVANT EXCERPTS FROM THE LIBRARY",
     current_page_header: "CURRENT BOOK (priority — answer using this first)",
+    indexing_search: "Loading search index…",
+    no_index: "Cross-book search is not ready yet. Wait for indexing to finish or click “Build cross-book index”.",
+    model_mismatch: "The search index was built with a different embedding model than this build expects, so cross-book search is disabled. Rebuild assets/chatbot_embeddings.bin with scripts/build_chatbot_embeddings.mjs.",
+    chip_model_mismatch: "Index needs rebuild",
     index_section_label: "Cross-book search index",
     index_section_help: "Without the index, the assistant answers from the current book only. The index is prebuilt — it downloads once and is cached for future visits.",
     chip_ready: "Cross-book search on",
@@ -148,7 +167,7 @@ function getActivePageText() {
 }
 
 async function buildSystemPrompt(userQuestion) {
-    const pageText = getActivePageText() || t("no_book");
+    const pageText = getActivePageText();
     const hasBook = !!(window.RL && window.RL.getState && window.RL.getState().bookUrl);
     let retrieved = [];
     if (userQuestion) {
@@ -170,36 +189,68 @@ async function buildSystemPrompt(userQuestion) {
         "library material provided below.",
         `Prefer ${scopeDesc}.`,
         "",
-        "The material the user is currently reading is provided under CURRENT",
-        "CHAPTER / CURRENT BOOK below. When the user gives a short instruction",
-        'with no object — such as "summarize", "key points", "explain", or',
-        '"what is this about" — apply it to THAT material, not the whole',
-        "library. Do not ask the user to provide text; the text is already",
-        "in this prompt.",
     ];
+    if (hasBook) {
+        blocks.push(
+            "The material the user is currently reading is provided under CURRENT",
+            "CHAPTER / CURRENT BOOK below. When the user gives a short instruction",
+            'with no object — such as "summarize", "key points", "explain", or',
+            '"what is this about" — apply it to THAT material, not the whole',
+            "library. Do not ask the user to provide text; the text is already",
+            "in this prompt.",
+        );
+    } else {
+        blocks.push(
+            "The user is browsing the library catalog (no book is open). Answer",
+            "from the RELEVANT EXCERPTS below and cite the source so the reader",
+            'can jump to it: "[Book: Antifragile]" for a whole book, or',
+            '"[Book: Antifragile · Prologue]" (book title, a space, a middle',
+            'dot ·, a space, then the chapter title) when you draw on a specific',
+            "chapter. Each citation becomes a clickable link.",
+        );
+    }
     if (retrievalScope === "all" || !hasBook) {
         blocks.push(
-            "Use the RELEVANT EXCERPTS only when the current material does not",
-            "cover the question, and cite the book title in brackets when you",
-            'draw on an excerpt (e.g. "[Book: The Big Short] …").',
+            "Use the RELEVANT EXCERPTS when the current material does not cover",
+            "the question. Cite the source so the reader can jump to it:",
+            '"[Book: The Big Short]" for a whole book, or "[Book: The Big Short',
+            '· Chapter 3]" (book · chapter-title) for a specific chapter.',
         );
     }
     blocks.push(
-        "If neither section covers the question, say so honestly rather than guessing.",
+        "If the excerpts below contain relevant material, use it — do not claim",
+        "the library lacks an answer when excerpts are provided.",
+        "Only say the library does not cover a topic when no excerpt is relevant.",
         "Reply in the same language the user uses. Keep answers concise (~200 words)",
         "unless the user explicitly asks for more detail.",
-        "",
-        t("current_page_header") + ":",
-        pageText,
     );
+    if (hasBook) {
+        blocks.push("", t("current_page_header") + ":", pageText || t("no_book"));
+    }
     if (retrieved.length) {
         blocks.push("");
-        const header = (retrievalScope === "chapter" || retrievalScope === "book")
+        const header = hasBook && (retrievalScope === "chapter" || retrievalScope === "book")
             ? "RELEVANT EXCERPTS (FROM THIS " + retrievalScope.toUpperCase() + "):"
             : t("retrieved_header") + ":";
         blocks.push(header);
+        // Respect the overall prompt budget: the current-page text above is
+        // priority, so supporting excerpts fill only the remaining space.
+        // This keeps the assembled prompt under MAX_PROMPT_CHARS and avoids the
+        // WebGPU "[Device] is lost" out-of-memory crash on large inputs.
+        let remaining = MAX_PROMPT_CHARS - blocks.join("\n").length - header.length - 1;
         for (const { chunk } of retrieved) {
-            blocks.push(`[${chunk.title}] ${chunk.text}`);
+            if (remaining <= 0) break;
+            const line = `[${chunk.title}] ${chunk.text}`;
+            if (line.length <= remaining) {
+                blocks.push(line);
+                remaining -= line.length + 1;
+            } else {
+                // Truncate the last fitting excerpt at a sentence boundary.
+                const slice = chunk.text.slice(0, Math.max(0, remaining - chunk.title.length - 20));
+                const cut = slice.lastIndexOf(". ") + 1 || slice.length;
+                blocks.push(`[${chunk.title}] ${chunk.text.slice(0, cut).trim()}…`);
+                remaining = 0;
+            }
         }
     }
     return blocks.join("\n");
@@ -243,27 +294,53 @@ function applyInlineMarkdown(text, citeIdx) {
     html = html.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (match, label, url) => (
         `<a href="${escapeAttr(url)}" target="_blank" rel="noreferrer noopener">${label}</a>`
     ));
-    // Linkify bare-bracket book citations the assistant emits, e.g.
-    // "[Book: The Big Short]". Only brackets that start with "Book:" and
-    // are NOT followed by "(" (those were already handled as markdown links
-    // above). Non-matching brackets are left untouched.
+    // Linkify book/chapter citations the assistant emits. Recognised forms
+    // (the model doesn't always use the "Book:" prefix):
+    //   [Book: Title]            [Title]
+    //   [Book: Title · Chapter]  [Title · Chapter]
+    // A bracket is only linkified if it actually resolves to a known library
+    // book (and chapter, for the · form) — so non-citation brackets like
+    // "[note]" are left untouched. Brackets already handled as markdown links
+    // above ([label](url)) are skipped via the (?!\() guard.
     if (citeIdx) {
+        const decodeEntities = (s) => (s)
+            .replace(/&#39;/g, "'").replace(/&quot;/g, '"')
+            .replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">");
+        const stripBookPrefix = (s) => s.replace(/^book:\s*/i, "").trim();
+        // Chapter citations FIRST (the · distinguishes them): "[Title · Chapter]".
         html = html.replace(
-            /\[Book:\s*([^\]]+)\](?!\()/gi,
-            (match, inner) => {
-                // inner is already HTML-escaped (it came from the escaped
-                // `html` string above). Decode entities to get the raw title
-                // for lookup, but use `inner` as-is for display so we don't
-                // double-escape.
-                const label = ("Book: " + inner)
-                    .replace(/&#39;/g, "'").replace(/&quot;/g, '"')
-                    .replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">");
+            /\[(?:Book:\s*)?([^\]]+?)\s*[·]\s*([^\]]+)\](?!\()/gi,
+            (match, bookInner, chInner) => {
+                const resolved = linkifyChapterCitation(
+                    decodeEntities(bookInner), decodeEntities(chInner), citeIdx
+                );
+                if (!resolved) return match;
+                const frag = resolved.sectionId ? `#${resolved.sectionId}` : "";
+                const bookDisp = stripBookPrefix(bookInner);
+                const display = resolved.sectionId
+                    ? `${bookDisp} · ${chInner}`
+                    : bookDisp;
+                return `<a href="${escapeAttr(resolved.url + frag)}" class="chat-citation">${display}</a>`;
+            }
+        );
+        // Plain book citations: "[Book: Title]" or bare "[Title]".
+        // The Book: prefix is always trusted; a bare bracket must be at least
+        // MIN_BARE_TITLE chars (after normalising) so short words like "[The]"
+        // or "[note]" don't accidentally prefix-match a real book title.
+        const MIN_BARE_TITLE = 6;
+        html = html.replace(
+            /\[(Book:\s*)?([^\]]+)\](?!\()/gi,
+            (match, prefix, inner) => {
+                const isBare = !prefix;
+                const cleanInner = inner.trim();
+                if (isBare && cleanInner.length < MIN_BARE_TITLE) return match;
+                const label = decodeEntities("Book: " + cleanInner);
                 const url = linkifyCitation(label, citeIdx);
                 if (!url) return match;
-                // Repo-relative href (books/<slug>/index.html) — the SPA's
+                // Repo-relative href (books/<slug>/index.md) — the SPA's
                 // click interceptor routes these through the hash router
                 // instead of navigating away, so the chatbot stays open.
-                return `<a href="${escapeAttr(url)}" class="chat-citation">Book: ${inner}</a>`;
+                return `<a href="${escapeAttr(url)}" class="chat-citation">${cleanInner}</a>`;
             }
         );
     }
@@ -689,7 +766,7 @@ async function loadGenerator(intro) {
     if (!pipelinePromise) {
         pipelinePromise = (async () => {
             const tx = await import(/* @vite-ignore */ CDN_URL);
-            const { AutoProcessor, Gemma4ForConditionalGeneration, TextStreamer } = tx;
+            const { AutoProcessor, Gemma4ForCausalLM, TextStreamer } = tx;
             const modelInfo = MODEL_OPTIONS[ACTIVE_MODEL];
             const progressEl = ensureProgressUI(intro);
             resetProgressState();
@@ -697,7 +774,7 @@ async function loadGenerator(intro) {
             const processor = await AutoProcessor.from_pretrained(modelInfo.id, {
                 progress_callback: onProgress,
             });
-            const model = await Gemma4ForConditionalGeneration.from_pretrained(modelInfo.id, {
+            const model = await Gemma4ForCausalLM.from_pretrained(modelInfo.id, {
                 dtype: "q4f16",
                 device: "webgpu",
                 progress_callback: onProgress,
@@ -742,6 +819,42 @@ async function loadChunks() {
     return chunksPromise;
 }
 
+// SHA-256 over chunk texts in ascending id order — must match the header
+// in chatbot_embeddings.bin and scripts/build_chatbot_embeddings.mjs.
+async function computeChunksHashBytes() {
+    const chunks = await loadChunks();
+    const ordered = [...chunks].sort((a, b) => a.id - b.id);
+    const textBytes = new TextEncoder().encode(ordered.map((c) => c.text).join(""));
+    const digest = await crypto.subtle.digest("SHA-256", textBytes);
+    return new Uint8Array(digest);
+}
+
+function hashesEqual(a, b) {
+    if (!a || !b || a.length !== b.length) return false;
+    for (let i = 0; i < a.length; i++) {
+        if (a[i] !== b[i]) return false;
+    }
+    return true;
+}
+
+async function isEmbeddingCacheValid(cached, lang) {
+    if (!cached || !Array.isArray(cached.ids) || !(cached.vectors instanceof ArrayBuffer)) {
+        return false;
+    }
+    if (cached.model && cached.model !== EMBED_MODEL_ID) return false;
+    const chunks = await loadChunks();
+    const subset = chunks.filter((c) => c.lang === lang);
+    if (cached.ids.length !== subset.length) return false;
+    if (cached.chunksHash) {
+        const expected = await computeChunksHashBytes();
+        const stored = new Uint8Array(cached.chunksHash);
+        return hashesEqual(expected, stored);
+    }
+    // Legacy IDB entries without a stored hash: require a full id match.
+    const idSet = new Set(subset.map((c) => c.id));
+    return cached.ids.every((id) => idSet.has(id));
+}
+
 // ----- Book citation → URL index ------------------------------------------
 // Maps the bracketed book citations the assistant emits (e.g. "[Book: The
 // Big Short]") to the corresponding book page URL, so renderMarkdown can
@@ -757,15 +870,24 @@ async function getBookUrlIndex() {
     const chunks = await loadChunks();
     const exact = new Map();                 // normalised full title → url
     const prefixes = [];                     // { key, url }, longest first
+    // Per-book section lookup: url → Map(normalised sectionTitle → sectionId).
+    // Lets chapter citations ("[Book: Title · Chapter]") resolve to a deep link.
+    const sections = new Map();
     for (const c of chunks) {
         if (!c || !c.title || !c.url) continue;
         const key = normaliseTitleKey(c.title);
         if (key && !exact.has(key)) exact.set(key, c.url);
         if (key) prefixes.push({ key, url: c.url });
+        if (c.sectionId && c.sectionTitle) {
+            let bookSecs = sections.get(c.url);
+            if (!bookSecs) { bookSecs = new Map(); sections.set(c.url, bookSecs); }
+            const sKey = normaliseTitleKey(c.sectionTitle);
+            if (sKey && !bookSecs.has(sKey)) bookSecs.set(sKey, c.sectionId);
+        }
     }
     // Longest key first so a short title can't match a longer unrelated one.
     prefixes.sort((a, b) => b.key.length - a.key.length);
-    bookUrlIndex = { exact, prefixes };
+    bookUrlIndex = { exact, prefixes, sections };
     return bookUrlIndex;
 }
 
@@ -786,9 +908,33 @@ function linkifyCitation(label, idx) {
     return null;
 }
 
+// Resolve a chapter citation to { url, sectionId } for a deep link, or null.
+// `bookTitle` and `chapterTitle` are the raw (unescaped) strings from the
+// citation. Falls back to a book-only link if the chapter isn't found.
+function linkifyChapterCitation(bookTitle, chapterTitle, idx) {
+    const url = linkifyCitation("Book: " + bookTitle, idx);
+    if (!url) return null;
+    const bookSecs = idx.sections.get(url);
+    if (!bookSecs) return { url, sectionId: null };
+    const cKey = normaliseTitleKey(chapterTitle);
+    if (!cKey) return { url, sectionId: null };
+    // Exact section-title match, then prefix match (LLM may abbreviate).
+    if (bookSecs.has(cKey)) return { url, sectionId: bookSecs.get(cKey) };
+    for (const [sKey, sectionId] of bookSecs) {
+        if (sKey.startsWith(cKey) || cKey.startsWith(sKey)) {
+            return { url, sectionId };
+        }
+    }
+    return { url, sectionId: null };
+}
+
 // ----- Prebuilt embedding cache (shipped static binary) --------------------
 let prebuiltBinPromise = null;   // Promise<boolean> — tried at most once
 
+// Load the shipped prebuilt embedding cache. Returns a status string so
+// callers can distinguish a model mismatch (needs a rebuild) from a missing/
+// stale bin (falls back to in-browser indexing):
+//   "ok" | "model_mismatch" | "stale" | "bad_format" | "fetch_failed"
 async function loadPrebuiltEmbeddings() {
     if (prebuiltBinPromise) return prebuiltBinPromise;
     prebuiltBinPromise = (async () => {
@@ -797,56 +943,73 @@ async function loadPrebuiltEmbeddings() {
             res = await fetch(EMBEDDINGS_BIN_URL);
         } catch (err) {
             console.warn("prebuilt embeddings fetch failed", err);
-            return false;
+            return "fetch_failed";
         }
         if (!res.ok) {
             console.warn(`prebuilt embeddings not available (${res.status})`);
-            return false;
+            return "fetch_failed";
         }
         const buf = await res.arrayBuffer();
         const dv = new DataView(buf);
         let off = 0;
         const readU32 = () => { const v = dv.getUint32(off, true); off += 4; return v; };
 
-        // Header (52 bytes): magic, version, count, dim, dtype, 32-byte hash.
+        // Header: magic, version, count, dim, dtype, 32-byte hash (52 bytes),
+        // then (v2) a u32 model-id length + that many UTF-8 bytes.
         const magic = readU32();
         if (magic !== EMBED_BIN_MAGIC) {
             console.warn("prebuilt embeddings: bad magic", magic.toString(16));
-            return false;
+            return "bad_format";
         }
         const version = readU32();
         if (version !== EMBED_BIN_VERSION) {
             console.warn(`prebuilt embeddings: version ${version} != ${EMBED_BIN_VERSION}`);
-            return false;
+            // v1 bins carry no model id and cannot be validated — treat as a
+            // bad format so it's never silently trusted.
+            return "bad_format";
         }
         const count = readU32();
         const dim = readU32();
         if (dim !== 768) {
             console.warn(`prebuilt embeddings: unexpected dim ${dim}`);
-            return false;
+            return "bad_format";
         }
         const dtype = readU32();
         if (dtype !== EMBED_BIN_DTYPE_F32) {
-            console.warn(`prebuilt embeddings: unsupported dtype ${dtype}`);
-            return false;
+            console.warn("prebuilt embeddings: unsupported dtype", dtype);
+            return "bad_format";
         }
         const binHashBytes = new Uint8Array(buf, off, 32);
         off += 32;
 
+        // v2 model-id check: the vectors are only valid if the bin was built
+        // with the SAME model used to embed user queries. A mismatch means
+        // cosine scores would be garbage — refuse the bin and surface a clear
+        // error instead of silently degrading search. The model-id bytes are
+        // zero-padded to a 4-byte boundary on write; round up when advancing.
+        const modelIdLen = readU32();
+        const binModelId = new TextDecoder().decode(new Uint8Array(buf, off, modelIdLen));
+        off += Math.ceil(modelIdLen / 4) * 4;
+        if (binModelId !== EMBED_MODEL_ID) {
+            console.warn(
+                `prebuilt embeddings: model mismatch (bin='${binModelId}' != expected='${EMBED_MODEL_ID}') — refusing`
+            );
+            ragModelError = "model_mismatch";
+            return "model_mismatch";
+        }
+
         // Staleness check: SHA-256 of every chunk text in ascending id order,
         // exactly as computed by build_chatbot_embeddings.mjs. If book content
         // changed, the bin is stale and we must not use it.
-        const chunks = await loadChunks();
-        const ordered = [...chunks].sort((a, b) => a.id - b.id);
-        const textBytes = new TextEncoder().encode(ordered.map((c) => c.text).join(""));
-        const digest = await crypto.subtle.digest("SHA-256", textBytes);
-        const computed = new Uint8Array(digest);
+        const computed = await computeChunksHashBytes();
         for (let i = 0; i < 32; i++) {
             if (computed[i] !== binHashBytes[i]) {
                 console.warn("prebuilt embeddings: stale (chunk text changed) — falling back");
-                return false;
+                ragModelError = "stale";
+                return "stale";
             }
         }
+        ragModelError = null;
 
         // Lang table: LANGS.length × (u32 offset, u32 count), canonical order.
         const langTable = [];
@@ -882,10 +1045,10 @@ async function loadPrebuiltEmbeddings() {
                 model: EMBED_MODEL_ID,
             }).catch((err) => console.warn("prebuilt IDB write failed", lang, err));
         }
-        return true;
+        return "ok";
     })().catch((err) => {
         console.warn("prebuilt embeddings failed", err);
-        return false;
+        return "bad_format";
     });
     return prebuiltBinPromise;
 }
@@ -895,8 +1058,18 @@ function openRagDb() {
     if (ragDb) return Promise.resolve(ragDb);
     return new Promise((resolve, reject) => {
         const req = indexedDB.open(RAG_DB_NAME, RAG_DB_VERSION);
-        req.onupgradeneeded = () => {
+        req.onupgradeneeded = (event) => {
             const db = req.result;
+            // On a version bump (oldVersion < RAG_DB_VERSION), clear any cached
+            // embeddings so a stale cache from a prior build can't be served in
+            // place of the fresh prebuilt bin. This is how we purge the wrong-
+            // model vectors that earlier builds persisted with a matching model
+            // id and chunksHash, which silently blocked the rebuilt v2 bin.
+            if (event.oldVersion > 0 && event.oldVersion < RAG_DB_VERSION) {
+                if (db.objectStoreNames.contains(RAG_STORE)) {
+                    db.deleteObjectStore(RAG_STORE);
+                }
+            }
             if (!db.objectStoreNames.contains(RAG_STORE)) {
                 db.createObjectStore(RAG_STORE);
             }
@@ -927,7 +1100,12 @@ async function loadCachedEmbeddings(lang) {
 }
 
 async function saveCachedEmbeddings(lang, payload) {
-    if (payload) payload.model = payload.model || EMBED_MODEL_ID;
+    if (payload) {
+        payload.model = payload.model || EMBED_MODEL_ID;
+        if (!payload.chunksHash) {
+            payload.chunksHash = Array.from(await computeChunksHashBytes());
+        }
+    }
     try {
         const db = await openRagDb();
         await new Promise((resolve, reject) => {
@@ -975,9 +1153,12 @@ function getIndexState() {
 }
 
 async function probeCachedIndex(lang) {
-    if (langEmbeddings.has(lang)) return true;
+    if (langEmbeddings.has(lang)) {
+        await loadChunks();
+        return true;
+    }
     const cached = await loadCachedEmbeddings(lang);
-    if (cached && cached.vectors instanceof ArrayBuffer && Array.isArray(cached.ids)) {
+    if (cached && await isEmbeddingCacheValid(cached, lang)) {
         const entry = {
             ids: cached.ids,
             vectors: new Float32Array(cached.vectors),
@@ -985,13 +1166,32 @@ async function probeCachedIndex(lang) {
         };
         langEmbeddings.set(lang, entry);
         setLangIndexState(lang, "ready");
+        await loadChunks();
         return true;
     }
+    if (cached) {
+        console.warn(`RAG cache for ${lang} is stale or incomplete — refreshing`);
+    }
     // IDB miss — one-shot prebuilt bin fetch (populates all langs at once).
-    if (await loadPrebuiltEmbeddings()) {
+    const status = await loadPrebuiltEmbeddings();
+    if (status === "ok") {
+        await loadChunks();
         return langEmbeddings.has(lang);
     }
     return false;
+}
+
+async function ensureRagIndexReady(lang = "en") {
+    await loadChunks();
+    if (langIndexPromises.has(lang)) {
+        await langIndexPromises.get(lang);
+    }
+    if (getLangIndexState(lang) !== "ready") {
+        await probeCachedIndex(lang);
+    }
+    if (getLangIndexState(lang) !== "ready") {
+        await buildIndexFor(lang);
+    }
 }
 
 async function probeAllCachedIndexes() {
@@ -1009,11 +1209,22 @@ async function buildIndexFor(lang) {
     if (langIndexPromises.has(lang)) return langIndexPromises.get(lang);
 
     const promise = (async () => {
+        await loadChunks();
         // Fast path: the shipped prebuilt binary populates every language in
         // one download. Only fall through to per-chunk embedding if the bin
-        // is missing, stale, or doesn't cover this lang.
-        if (await loadPrebuiltEmbeddings() && langEmbeddings.has(lang)) {
+        // is missing/stale or doesn't cover this lang.
+        const status = await loadPrebuiltEmbeddings();
+        if (status === "ok" && langEmbeddings.has(lang)) {
             return; // setLangIndexState("ready") already called inside
+        }
+        // A model mismatch means the shipped bin is unusable and a fix must
+        // come from a developer rebuild (scripts/build_chatbot_embeddings.mjs).
+        // Surface a clear error rather than surprising the user with a
+        // multi-minute in-browser re-embedding of the whole library.
+        if (status === "model_mismatch") {
+            setLangIndexState(lang, "error");
+            refreshIndexChip();
+            return;
         }
         setLangIndexState(lang, "indexing", { done: 0, total: 0 });
         try {
@@ -1066,7 +1277,7 @@ async function buildIndexFor(lang) {
 // supporting excerpts from beyond the visible section.
 const SCOPE_MODES = ["chapter", "book", "all"];
 const SCOPE_LABELS = { chapter: "This chapter", book: "This book", all: "All books" };
-let retrievalScope = readPersistentScope() || "book";
+let retrievalScope = readPersistentScope() || "all";
 
 function readPersistentScope() {
     try { return localStorage.getItem("chanma-rl-chat-scope") || null; }
@@ -1095,6 +1306,61 @@ function currentSectionId() {
     return null;
 }
 
+function buildRetrievalFilter() {
+    const bookUrl = currentPageBookUrl();
+    const sectionId = currentSectionId();
+    if (retrievalScope !== "all" && bookUrl) {
+        const filter = { bookUrl };
+        if (retrievalScope === "chapter" && sectionId) {
+            filter.sectionId = sectionId;
+        }
+        return filter;
+    }
+    return null;
+}
+
+function chunkPassesFilter(chunk, filter) {
+    if (!filter) return true;
+    if (filter.bookUrl && chunk.url !== filter.bookUrl) return false;
+    if (filter.sectionId != null && chunk.sectionId !== filter.sectionId) return false;
+    return true;
+}
+
+function mergeRetrievalResults(primary, secondary, k) {
+    const seen = new Set();
+    const merged = [];
+    for (const item of [...primary, ...secondary]) {
+        const id = item.chunk.id;
+        if (seen.has(id)) continue;
+        seen.add(id);
+        merged.push(item);
+        if (merged.length >= k) break;
+    }
+    return merged;
+}
+
+function literalPhraseForQuery(question) {
+    let phrase = String(question || "").trim().toLowerCase();
+    phrase = phrase.replace(/[?!.]+$/g, "");
+    phrase = phrase.replace(/^(what is|what are|what's|define|explain|tell me about)\s+/i, "");
+    phrase = phrase.replace(/^the\s+/i, "");
+    return phrase.trim();
+}
+
+function literalPhraseSearch(question, entry, filter, k) {
+    const phrase = literalPhraseForQuery(question);
+    if (phrase.length < 4) return [];
+    const hits = [];
+    for (const id of entry.ids) {
+        const chunk = allChunks[id];
+        if (!chunk || !chunkPassesFilter(chunk, filter)) continue;
+        if (!chunk.text.toLowerCase().includes(phrase)) continue;
+        hits.push({ chunk, score: 1.0 });
+        if (hits.length >= k) break;
+    }
+    return hits;
+}
+
 function cosineTopK(query, entry, k, filter) {
     const { ids, vectors, dim } = entry;
     if (!ids.length) return [];
@@ -1113,11 +1379,7 @@ function cosineTopK(query, entry, k, filter) {
         const id = ids[i];
         const chunk = allChunks[id];
         if (!chunk) continue;
-        // Apply scope filter.
-        if (filter) {
-            if (filter.bookUrl && chunk.url !== filter.bookUrl) continue;
-            if (filter.sectionId != null && chunk.sectionId !== filter.sectionId) continue;
-        }
+        if (!chunkPassesFilter(chunk, filter)) continue;
         // Diversify: at most 2 chunks per source URL so a single book
         // doesn't crowd out everything else. (In chapter/book scope there is
         // only one URL anyway, so this is a no-op there.)
@@ -1133,27 +1395,32 @@ function cosineTopK(query, entry, k, filter) {
 async function retrieveContext(question) {
     try {
         const lang = "en";
+        await ensureRagIndexReady(lang);
         if (getLangIndexState(lang) !== "ready") return [];
+        const chunks = await loadChunks();
+        if (!chunks || !chunks.length) return [];
         const entry = langEmbeddings.get(lang);
         if (!entry || !entry.ids.length) return [];
         const e = await loadEmbedder();
         const result = await e([question], { pooling: "mean", normalize: true });
         const queryVec = new Float32Array(result.data);
-        // Build the scope filter from the active SPA state + the toggle.
-        // "all" → no filter (search the whole corpus).
-        // "book"/"chapter" → restrict to the current book; chapter further
-        //   restricts to the active sectionId. On the home view (no book)
-        //   there is nothing to scope to, so fall back to "all".
-        let filter = null;
-        const bookUrl = currentPageBookUrl();
-        const sectionId = currentSectionId();
-        if (retrievalScope !== "all" && bookUrl) {
-            filter = { bookUrl };
-            if (retrievalScope === "chapter" && sectionId) {
-                filter.sectionId = sectionId;
-            }
+        const filter = buildRetrievalFilter();
+        let results = cosineTopK(queryVec, entry, TOP_K, filter);
+        results = mergeRetrievalResults(
+            results,
+            literalPhraseSearch(question, entry, filter, TOP_K),
+            TOP_K,
+        );
+        // If the user scoped to this book/chapter but nothing matched, widen to
+        // the full library so cross-book concepts (e.g. "Black Swan") still
+        // retrieve supporting excerpts.
+        if (filter && results.length < TOP_K) {
+            const global = cosineTopK(queryVec, entry, TOP_K, null);
+            const globalLiteral = literalPhraseSearch(question, entry, null, TOP_K);
+            results = mergeRetrievalResults(results, global, TOP_K);
+            results = mergeRetrievalResults(results, globalLiteral, TOP_K);
         }
-        return cosineTopK(queryVec, entry, TOP_K, filter);
+        return results;
     } catch (err) {
         console.warn("retrieveContext failed", err);
         return [];
@@ -1248,10 +1515,14 @@ async function startLoad(panel, body, loadBtn, intro) {
         })();
 
         await loadGenerator(intro);
+        try {
+            await indexingPromise;
+        } catch (err) {
+            console.warn("indexing failed", err);
+        }
         markLoadedState();
         showChatUI(panel, body);
         refreshIndexChip();
-        indexingPromise.catch((err) => console.warn("indexing failed", err));
     } catch (err) {
         const errBox = el("p", { class: "chat-msg error" }, t("load_failed") + (err && err.message || String(err)));
         intro.appendChild(errBox);
@@ -1329,7 +1600,8 @@ function refreshScopeBar() {
     const bar = document.querySelector(".chat-scope-bar");
     if (!bar) return;
     const indexReady = getIndexState() === "ready";
-    const hasBook = !!(window.RL && window.RL.getState && window.RL.getState().bookUrl);
+    const rlState = window.RL && window.RL.getState ? window.RL.getState() : null;
+    const hasBook = !!(rlState && rlState.view === "reader" && rlState.slug);
     bar.classList.toggle("unavailable", !indexReady);
     bar.querySelectorAll(".chat-scope-btn").forEach((b) => {
         const mode = b.getAttribute("data-scope");
@@ -1400,6 +1672,21 @@ async function handleSend(panel, textarea) {
     }
     saveHistoryState();
 
+    botNode.textContent = t("indexing_search");
+    await ensureRagIndexReady("en");
+    if (getIndexState() !== "ready") {
+        botNode.classList.add("error");
+        // A model mismatch is a developer-facing problem (wrong bin shipped);
+        // surface its specific fix rather than the generic "not ready" text.
+        botNode.textContent = ragModelError === "model_mismatch"
+            ? t("model_mismatch")
+            : t("no_index");
+        chatHistory.pop();
+        saveHistoryState();
+        return;
+    }
+    botNode.textContent = t("thinking");
+
     const systemPrompt = await buildSystemPrompt(userText);
     const messages = [
         { role: "system", content: systemPrompt },
@@ -1450,7 +1737,20 @@ async function handleSend(panel, textarea) {
         saveHistoryState();
     } catch (err) {
         botNode.classList.add("error");
-        botNode.textContent = t("gen_failed") + (err && err.message || String(err));
+        // A WebGPU device-loss crash (GPU out of memory / TDR) surfaces as an
+        // OrtRun error mentioning "[Device] is lost" / "mapAsync" / "BufferManager".
+        // Show an actionable message instead of the raw, intimidating stack trace,
+        // and drop the cached model so the next attempt reloads it fresh (a lost
+        // device can't be reused).
+        const msg = String((err && err.message) || err || "");
+        const deviceLost = /is lost|mapAsync|BufferManager|GPUBuffer|device\s*lost/i.test(msg);
+        if (deviceLost) {
+            botNode.textContent = t("gen_device_lost");
+            generator = null;
+            pipelinePromise = null;
+        } else {
+            botNode.textContent = t("gen_failed") + msg;
+        }
     }
 }
 
@@ -1509,10 +1809,14 @@ async function restoreLoadedSession(panel, body) {
         })();
 
         await loadGenerator(progressHost);
+        try {
+            await indexingPromise;
+        } catch (err) {
+            console.warn("indexing failed", err);
+        }
         progressHost.remove();
         setComposerEnabled(panel, true);
         refreshIndexChip();
-        indexingPromise.catch((err) => console.warn("indexing failed", err));
     } catch (err) {
         progressHost.appendChild(el("p", { class: "chat-msg error" },
             t("load_failed") + (err && err.message || String(err))));
@@ -1539,7 +1843,11 @@ function refreshIndexChip() {
         if (unavail) unavail.textContent = `Indexing… ${pct}%`;
     } else if (state === "error") {
         bar.classList.add("unavailable");
-        if (unavail) unavail.textContent = "Index failed — click to retry";
+        // A model mismatch needs a developer rebuild (clicking won't fix it);
+        // surface that distinctly from a transient index failure.
+        if (unavail) unavail.textContent = ragModelError === "model_mismatch"
+            ? t("chip_model_mismatch")
+            : "Index failed — click to retry";
     } else {
         bar.classList.add("unavailable");
         if (unavail) unavail.textContent = "Search not available";
@@ -1576,6 +1884,7 @@ function togglePanel(force) {
     panel.classList.toggle("open", open);
     document.body.classList.toggle("chat-open", open);
     saveOpenState(open);
+    if (open) refreshScopeBar();
 }
 
 function buildFab() {
@@ -1599,10 +1908,18 @@ async function autoRestorePanel() {
 document.addEventListener("DOMContentLoaded", () => {
     buildFab();
     autoRestorePanel().catch((err) => console.warn("autoRestorePanel failed", err));
+    const onReadingContextChange = () => {
+        refreshScopeBar();
+        refreshIndexChip();
+    };
     // The SPA dispatches rl:sectionchange on book load, scroll, and home
     // return. Refresh the scope bar so chapter/book are only enabled when a
     // book is actually open, and the unavailable state tracks the index.
-    document.addEventListener("rl:sectionchange", () => { refreshIndexChip(); });
+    document.addEventListener("rl:sectionchange", onReadingContextChange);
+    window.addEventListener("hashchange", onReadingContextChange);
+    if (window.RL && typeof window.RL.onSectionChange === "function") {
+        window.RL.onSectionChange(() => refreshScopeBar());
+    }
     // Clicking the "Search not available" / error message triggers a build.
     document.addEventListener("click", (e) => {
         if (e.target.closest && e.target.closest(".chat-scope-unavailable")) {

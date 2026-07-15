@@ -654,14 +654,18 @@
       box-shadow: inset -1px 0 2px rgba(255, 255, 255, 0.15);
     }
 
-    .book-emblem {
-      margin-top: 0.5rem;
-      opacity: 0.85;
-      transition: transform 0.4s;
+    .book-cover-face.has-photo {
+      padding: 0;
+      overflow: hidden;
     }
-    .card:hover .book-emblem {
-      transform: scale(1.08);
-      opacity: 1;
+
+    .book-cover-photo {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center top;
+      display: block;
+      border-radius: inherit;
     }
 
     .book-title-on-cover {
@@ -1152,7 +1156,7 @@
       </div>
 
       <!-- EPUB conversion instructions note -->
-      <p class="rights-note">EPUB conversions are generated with <code>py scripts/convert_epub.py "path\\to\\book.epub" --slug book-slug</code> and publish to <code>books/&lt;slug&gt;/index.html</code>.</p>
+      <p class="rights-note">EPUB conversions are generated with <code>py scripts/convert_epub.py "path\\to\\book.epub" --slug book-slug</code> and publish to <code>books/&lt;slug&gt;/index.md</code>.</p>
 
       <!-- Documentation Portal Navigation -->
       <nav class="docs-nav">
@@ -1202,74 +1206,105 @@
       {
         "title": "Oil 101: Antigravity",
         "slug": "oil101",
-        "href": "./books/oil101/index.html",
+        "href": "./books/oil101/index.md",
         "status": "public_mirror",
         "author": "Morgan Downey",
         "description": "The updated 2026 edition. Fully expanded with new chapters on the Hormuz Crisis, US LNG exports, and the energy transition. Features programmatically compiled premium SVG charts for offline analysis.",
-        "tags": ["Energy", "Commodities", "Investing"],
+        "tags": [
+          "Energy",
+          "Commodities",
+          "Investing"
+        ],
         "coverBg": "linear-gradient(135deg, #101626 0%, #1e1b4b 100%)",
         "year": 2026,
-        "available": true
+        "available": true,
+        "badge": "New: 2.0",
+        "coverImage": "assets/cover-oil101.jpg"
       },
       {
         "title": "NatGas 101",
         "slug": "natgas101",
-        "href": "./books/natgas101/index.html",
+        "href": "./books/natgas101/index.md",
         "status": "public_mirror",
         "author": "Morgan Downey",
         "description": "The comprehensive guide to North American natural gas markets. Covers physical infrastructure, pipelines, storage mechanics, LNG export terminals, pricing hubs, and power generation dynamics.",
-        "tags": ["Energy", "Commodities", "Investing"],
+        "tags": [
+          "Energy",
+          "Commodities",
+          "Investing"
+        ],
         "coverBg": "linear-gradient(135deg, #081a24 0%, #062f3f 100%)",
         "year": 2026,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover-natgas101.png"
       },
       {
         "title": "The Price of Time",
         "slug": "the-price-of-time",
-        "href": "./books/the-price-of-time/index.html",
+        "href": "./books/the-price-of-time/index.md",
         "status": "epub_conversion",
         "author": "Edward Chancellor",
         "description": "A comprehensive history of interest rates, explaining how central bank intervention and cheap credit distort asset prices, fuel debt bubbles, and cause financial instability.",
-        "tags": ["Economics", "History", "Investing"],
+        "tags": [
+          "Economics",
+          "History",
+          "Investing"
+        ],
         "coverBg": "linear-gradient(135deg, #4c1d95, #7c3aed)",
         "year": 2022,
-        "available": true
+        "available": true,
+        "coverImage": "assets/00002-ffe440df.jpeg"
       },
       {
         "title": "Antifragile",
         "slug": "antifragile",
-        "href": "./books/antifragile/index.html",
+        "href": "./books/antifragile/index.md",
         "status": "epub_conversion",
         "author": "Nassim Nicholas Taleb",
         "description": "Explores how some systems, businesses, and portfolios benefit from randomness, volatility, and disorder, and offers a blueprint for building antifragile structures.",
-        "tags": ["Risk", "Philosophy", "Investing"],
+        "tags": [
+          "Risk",
+          "Philosophy",
+          "Investing"
+        ],
         "coverBg": "linear-gradient(135deg, #064e3b, #059669)",
         "year": 2012,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover-4aabe125.jpeg"
       },
       {
         "title": "The Ascent of Money",
         "slug": "the-ascent-of-money",
-        "href": "./books/the-ascent-of-money/index.html",
+        "href": "./books/the-ascent-of-money/index.md",
         "status": "epub_conversion",
         "author": "Niall Ferguson",
         "description": "A financial history of the world, tracing the evolution of money, banking, bond markets, insurance, stock markets, and real estate, showing how finance underpins human progress.",
-        "tags": ["Economics", "History", "Banking"],
+        "tags": [
+          "Economics",
+          "History",
+          "Banking"
+        ],
         "coverBg": "linear-gradient(135deg, #78350f, #d97706)",
         "year": 2008,
-        "available": true
+        "available": true,
+        "coverImage": "assets/ferg_9781440654022_msr_cvi_r1-e67a2053.jpg"
       },
       {
         "title": "Beating the Street",
         "slug": "beating-the-street",
-        "href": "./books/beating-the-street/index.html",
+        "href": "./books/beating-the-street/index.md",
         "status": "epub_conversion",
         "author": "Peter Lynch",
         "description": "The legendary manager of the Fidelity Magellan Fund shares his stock-picking advice, investment strategies, and stories of market success.",
-        "tags": ["Investing", "Equities", "Strategy"],
+        "tags": [
+          "Investing",
+          "Equities",
+          "Strategy"
+        ],
         "coverBg": "linear-gradient(135deg, #1e3a8a, #3b82f6)",
         "year": 1993,
-        "available": true
+        "available": true,
+        "coverImage": "assets/9781451687064_cover-11e8acdd.jpg"
       },
       {
         "title": "Market Wizards",
@@ -1278,442 +1313,627 @@
         "status": "cataloged",
         "author": "Jack D. Schwager",
         "description": "Timeless interviews with top traders, revealing the trading rules, risk control strategies, and mental discipline that enabled them to consistently beat the markets.",
-        "tags": ["Trading", "Interviews", "Risk"],
+        "tags": [
+          "Trading",
+          "Interviews",
+          "Risk"
+        ],
         "coverBg": "linear-gradient(135deg, #374151, #4b5563)",
         "year": 1989,
-        "available": false
+        "available": false,
+        "coverImage": "assets/cover-market-wizards.jpg"
       },
       {
         "title": "The Intelligent Investor",
         "slug": "the-intelligent-investor",
-        "href": "./books/the-intelligent-investor/index.html",
+        "href": "./books/the-intelligent-investor/index.md",
         "status": "epub_conversion",
         "author": "Benjamin Graham",
         "description": "The classic text on value investing, teaching the key concepts of 'margin of safety', 'Mr. Market', and defensive vs. enterprising investment portfolios.",
-        "tags": ["Investing", "Value Investing", "Classics"],
+        "tags": [
+          "Investing",
+          "Value Investing",
+          "Classics"
+        ],
         "coverBg": "linear-gradient(135deg, #0f172a, #334155)",
         "year": 1949,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover_image-b74d0302.jpg"
       },
       {
         "title": "The Psychology of Money",
         "slug": "the-psychology-of-money",
-        "href": "./books/the-psychology-of-money/index.html",
+        "href": "./books/the-psychology-of-money/index.md",
         "status": "epub_conversion",
         "author": "Morgan Housel",
         "description": "Nineteen short stories exploring the strange ways people think about money, demonstrating that doing well with money is more about behavior than intelligence.",
-        "tags": ["Psychology", "Personal Finance", "Investing"],
+        "tags": [
+          "Psychology",
+          "Personal Finance",
+          "Investing"
+        ],
         "coverBg": "linear-gradient(135deg, #831843, #db2777)",
         "year": 2020,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover-844b51ef.jpeg"
       },
       {
         "title": "The Big Short",
         "slug": "the-big-short",
-        "href": "./books/the-big-short/index.html",
+        "href": "./books/the-big-short/index.md",
         "status": "epub_conversion",
         "author": "Michael Lewis",
         "description": "A narrative of the eccentric investors who predicted the collapse of the US housing bubble, shorted subprime mortgage-backed securities, and won big.",
-        "tags": ["History", "Investing", "Crises"],
+        "tags": [
+          "History",
+          "Investing",
+          "Crises"
+        ],
         "coverBg": "linear-gradient(135deg, #7f1d1d, #dc2626)",
         "year": 2010,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover-e8412742.jpg"
       },
       {
         "title": "The Bond King",
         "slug": "the-bond-king",
-        "href": "./books/the-bond-king/index.html",
+        "href": "./books/the-bond-king/index.md",
         "status": "epub_conversion",
         "author": "Mary Childs",
         "description": "A biography of Bill Gross, the co-founder of PIMCO, tracing his rise to dominance in the fixed-income market and his eventual dramatic fall.",
-        "tags": ["Investing", "Fixed Income", "Biography"],
+        "tags": [
+          "Investing",
+          "Fixed Income",
+          "Biography"
+        ],
         "coverBg": "linear-gradient(135deg, #1e1b4b, #4338ca)",
         "year": 2022,
-        "available": true
+        "available": true,
+        "coverImage": "assets/9781250120854-cefb779d.jpg"
       },
       {
         "title": "The Case for Gold",
         "slug": "the-case-for-gold",
-        "href": "./books/the-case-for-gold/index.html",
+        "href": "./books/the-case-for-gold/index.md",
         "status": "epub_conversion",
         "author": "Ron Paul",
         "description": "A critical analysis of monetary history, fiat money inflation, the Federal Reserve system, and the policy arguments for returning to a gold standard.",
-        "tags": ["Economics", "Monetary Policy", "History"],
+        "tags": [
+          "Economics",
+          "Monetary Policy",
+          "History"
+        ],
         "coverBg": "linear-gradient(135deg, #514210, #a18218)",
         "year": 1982,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover-56f62c0c.jpg"
       },
       {
         "title": "Central Banking 101",
         "slug": "central-banking-101",
-        "href": "./books/central-banking-101/index.html",
+        "href": "./books/central-banking-101/index.md",
         "status": "epub_conversion",
         "author": "Joseph Wang",
         "description": "A practical, easy-to-understand breakdown of the Federal Reserve, monetary mechanics, repo markets, quantitative easing, and shadow banking.",
-        "tags": ["Banking", "Economics", "Monetary Policy"],
+        "tags": [
+          "Banking",
+          "Economics",
+          "Monetary Policy"
+        ],
         "coverBg": "linear-gradient(135deg, #062f3f, #0891b2)",
         "year": 2020,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover-970898a8.jpeg"
       },
       {
         "title": "Common Stocks and Uncommon Profits",
         "slug": "common-stocks-and-uncommon-profits",
-        "href": "./books/common-stocks-and-uncommon-profits/index.html",
+        "href": "./books/common-stocks-and-uncommon-profits/index.md",
         "status": "epub_conversion",
         "author": "Philip A. Fisher",
         "description": "Classic investment guide highlighting qualitative business research, the 'scuttlebutt' method, and the 15 points to look for in a growth stock.",
-        "tags": ["Investing", "Equities", "Classics"],
+        "tags": [
+          "Investing",
+          "Equities",
+          "Classics"
+        ],
         "coverBg": "linear-gradient(135deg, #1f2937, #111827)",
         "year": 1958,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover-21a591c7.jpg"
       },
       {
         "title": "Debt",
         "slug": "debt",
-        "href": "./books/debt/index.html",
+        "href": "./books/debt/index.md",
         "status": "epub_conversion",
         "author": "David Graeber",
         "description": "A historical exploration of debt as a social and moral obligation rather than a simple economic transaction, covering 5,000 years of civilization.",
-        "tags": ["Economics", "History", "Philosophy"],
+        "tags": [
+          "Economics",
+          "History",
+          "Philosophy"
+        ],
         "coverBg": "linear-gradient(135deg, #581c87, #9333ea)",
         "year": 2011,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover-e50fd89a.jpeg"
       },
       {
         "title": "The Deficit Myth",
         "slug": "the-deficit-myth",
-        "href": "./books/the-deficit-myth/index.html",
+        "href": "./books/the-deficit-myth/index.md",
         "status": "epub_conversion",
         "author": "Stephanie Kelton",
         "description": "An introduction to Modern Monetary Theory (MMT), redefining the concepts of government budget deficits, sovereign currency, and public spending.",
-        "tags": ["Economics", "Monetary Policy", "Policy"],
+        "tags": [
+          "Economics",
+          "Monetary Policy",
+          "Policy"
+        ],
         "coverBg": "linear-gradient(135deg, #134e5e, #71b280)",
         "year": 2020,
-        "available": true
+        "available": true,
+        "coverImage": "assets/9781541736207-1f660e93.jpg"
       },
       {
         "title": "The End of Indexing",
         "slug": "the-end-of-indexing",
-        "href": "./books/the-end-of-indexing/index.html",
+        "href": "./books/the-end-of-indexing/index.md",
         "status": "epub_conversion",
         "author": "Niels Joachim Gormsen",
         "description": "Examines the long-term trends of passive index investing, active management, and how market structures change when index funds dominate asset flows.",
-        "tags": ["Investing", "Equities", "Strategy"],
+        "tags": [
+          "Investing",
+          "Equities",
+          "Strategy"
+        ],
         "coverBg": "linear-gradient(135deg, #0f1c2c, #2a5298)",
         "year": 2018,
-        "available": true
+        "available": true,
+        "coverImage": "assets/EndofIndexing-ebook-3672581a.jpg"
       },
       {
         "title": "The Euro",
         "slug": "the-euro",
-        "href": "./books/the-euro/index.html",
+        "href": "./books/the-euro/index.md",
         "status": "epub_conversion",
         "author": "Stiglitz, Joseph E.",
         "description": "A Nobel laureate's critique of the structural flaws of the European single currency and how it exacerbated economic crises in southern Europe.",
-        "tags": ["Economics", "Policy", "Europe"],
+        "tags": [
+          "Economics",
+          "Policy",
+          "Europe"
+        ],
         "coverBg": "linear-gradient(135deg, #1c3d5a, #3273dc)",
         "year": 2016,
-        "available": true
+        "available": true,
+        "coverImage": "assets/00009-44f0a76d.jpeg"
       },
       {
         "title": "Flash Boys",
         "slug": "flash-boys",
-        "href": "./books/flash-boys/index.html",
+        "href": "./books/flash-boys/index.md",
         "status": "epub_conversion",
         "author": "Lewis, Michael",
         "description": "Investigates the rise of high-frequency trading (HFT) in financial markets, detailing how speed advantages allowed traders to front-run retail investors.",
-        "tags": ["Trading", "Technology", "History"],
+        "tags": [
+          "Trading",
+          "Technology",
+          "History"
+        ],
         "coverBg": "linear-gradient(135deg, #2c3e50, #bdc3c7)",
         "year": 2014,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover-972bcc1a.jpeg"
       },
       {
         "title": "Going Infinite",
         "slug": "going-infinite",
-        "href": "./books/going-infinite/index.html",
+        "href": "./books/going-infinite/index.md",
         "status": "epub_conversion",
         "author": "Michael Lewis",
         "description": "A close-up portrait of Sam Bankman-Fried, tracking the dizzying growth of FTX and Alameda Research and their sudden, spectacular bankruptcy.",
-        "tags": ["History", "Crypto", "Crises"],
+        "tags": [
+          "History",
+          "Crypto",
+          "Crises"
+        ],
         "coverBg": "linear-gradient(135deg, #093028, #237a57)",
         "year": 2023,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover-3a817cac.jpg"
       },
       {
         "title": "The Gray Rhino",
         "slug": "the-gray-rhino",
-        "href": "./books/the-gray-rhino/index.html",
+        "href": "./books/the-gray-rhino/index.md",
         "status": "epub_conversion",
         "author": "Michele Wucker",
         "description": "Introduces a framework for identifying, anticipating, and responding to high-probability, high-impact crises that we choose to ignore until it is too late.",
-        "tags": ["Risk", "Strategy", "Management"],
+        "tags": [
+          "Risk",
+          "Strategy",
+          "Management"
+        ],
         "coverBg": "linear-gradient(135deg, #4a4e69, #9a8c98)",
         "year": 2016,
-        "available": true
+        "available": true,
+        "coverImage": "assets/00006-00d10a6a.jpeg"
       },
       {
         "title": "Hoodwinked",
         "slug": "hoodwinked",
-        "href": "./books/hoodwinked/index.html",
+        "href": "./books/hoodwinked/index.md",
         "status": "epub_conversion",
         "author": "John Perkins",
-        "description": "An exposé on how corporate greed, debt manipulation, and corrupt economic arrangements systematically exploit developing nations and hollow out the US economy.",
-        "tags": ["Economics", "History", "Policy"],
+        "description": "An expos\u00e9 on how corporate greed, debt manipulation, and corrupt economic arrangements systematically exploit developing nations and hollow out the US economy.",
+        "tags": [
+          "Economics",
+          "History",
+          "Policy"
+        ],
         "coverBg": "linear-gradient(135deg, #300e17, #751424)",
         "year": 2009,
-        "available": true
+        "available": true,
+        "coverImage": "assets/Perk_9780307589934_epub_cvi_r1-5daa6f91.jpg"
       },
       {
         "title": "How to Listen When Markets Speak",
         "slug": "how-to-listen-when-markets-speak",
-        "href": "./books/how-to-listen-when-markets-speak/index.html",
+        "href": "./books/how-to-listen-when-markets-speak/index.md",
         "status": "epub_conversion",
         "author": "Lawrence G. McDonald",
         "description": "A guide to understanding macroeconomic indicators, debt cycles, credit defaults, and systemic vulnerabilities to successfully manage market risk.",
-        "tags": ["Investing", "Macro", "Risk"],
+        "tags": [
+          "Investing",
+          "Macro",
+          "Risk"
+        ],
         "coverBg": "linear-gradient(135deg, #000428, #004e92)",
         "year": 2024,
-        "available": true
+        "available": true,
+        "coverImage": "assets/9780593727508_cover-b82d69e4.jpg"
       },
       {
         "title": "How to Make Money in Stocks",
         "slug": "how-to-make-money-in-stocks",
-        "href": "./books/how-to-make-money-in-stocks/index.html",
+        "href": "./books/how-to-make-money-in-stocks/index.md",
         "status": "epub_conversion",
         "author": "William J. O'Neil",
         "description": "Presents the CAN SLIM methodology for growth stock investing, combining fundamentals like earnings growth with technical analysis and chart patterns.",
-        "tags": ["Investing", "Equities", "Trading"],
+        "tags": [
+          "Investing",
+          "Equities",
+          "Trading"
+        ],
         "coverBg": "linear-gradient(135deg, #1e3c72, #2a5298)",
         "year": 1988,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover-official.jpg"
       },
       {
         "title": "The Intelligent Option Investor",
         "slug": "the-intelligent-option-investor",
-        "href": "./books/the-intelligent-option-investor/index.html",
+        "href": "./books/the-intelligent-option-investor/index.md",
         "status": "epub_conversion",
         "author": "Erik Kobayashi-Solomon",
         "description": "Applies the concepts of Benjamin Graham's value investing to options trading, showing how to purchase call options as long-term business investments.",
-        "tags": ["Trading", "Options", "Value Investing"],
+        "tags": [
+          "Trading",
+          "Options",
+          "Value Investing"
+        ],
         "coverBg": "linear-gradient(135deg, #0b3c5d, #328cc1)",
         "year": 2014,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover-official.jpg"
       },
       {
         "title": "The Intelligent REIT Investor Guide",
         "slug": "the-intelligent-reit-investor-guide",
-        "href": "./books/the-intelligent-reit-investor-guide/index.html",
+        "href": "./books/the-intelligent-reit-investor-guide/index.md",
         "status": "epub_conversion",
         "author": "Thomas, Brad",
         "description": "A comprehensive guide to analyzing, valuing, and investing in Real Estate Investment Trusts (REITs) to build long-term dividend portfolios.",
-        "tags": ["Investing", "Real Estate", "REITs"],
+        "tags": [
+          "Investing",
+          "Real Estate",
+          "REITs"
+        ],
         "coverBg": "linear-gradient(135deg, #2b5876, #4e4376)",
         "year": 2021,
-        "available": true
+        "available": true,
+        "coverImage": "assets/9781119750307-2038827f.jpg"
       },
       {
         "title": "Liar's Poker",
         "slug": "liars-poker",
-        "href": "./books/liars-poker/index.html",
+        "href": "./books/liars-poker/index.md",
         "status": "epub_conversion",
         "author": "Michael Lewis",
         "description": "The classic semi-autobiographical account of Wall Street during the bond market boom of the 1980s, detailing the cutthroat culture at Salomon Brothers.",
-        "tags": ["History", "Trading", "Biography"],
+        "tags": [
+          "History",
+          "Trading",
+          "Biography"
+        ],
         "coverBg": "linear-gradient(135deg, #16222f, #363795)",
         "year": 1989,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover-05c7bfee.jpeg"
       },
       {
         "title": "The Little Book That Beats the Market",
         "slug": "the-little-book-that-beats-the-market",
-        "href": "./books/the-little-book-that-beats-the-market/index.html",
+        "href": "./books/the-little-book-that-beats-the-market/index.md",
         "status": "epub_conversion",
         "author": "Joel Greenblatt",
         "description": "Introduces the Magic Formula: buying good companies (high return on capital) at cheap prices (high earnings yield) to consistently outperform indexes.",
-        "tags": ["Investing", "Value Investing", "Equities"],
+        "tags": [
+          "Investing",
+          "Value Investing",
+          "Equities"
+        ],
         "coverBg": "linear-gradient(135deg, #0f2027, #2c5364)",
         "year": 2005,
-        "available": true
+        "available": true,
+        "coverImage": "assets/gree_9780470893661_msr_cvi_r1-f3cb83a8.jpg"
       },
       {
         "title": "The Little Book of Common Sense Investing",
         "slug": "the-little-book-of-common-sense-investing",
-        "href": "./books/the-little-book-of-common-sense-investing/index.html",
+        "href": "./books/the-little-book-of-common-sense-investing/index.md",
         "status": "epub_conversion",
         "author": "John C. Bogle",
         "description": "The creator of index funds shares his philosophy of low-cost passive index investing as the only reliable way to capture broad stock market returns.",
-        "tags": ["Investing", "Index Funds", "Classics"],
+        "tags": [
+          "Investing",
+          "Index Funds",
+          "Classics"
+        ],
         "coverBg": "linear-gradient(135deg, #0d324d, #7f5a83)",
         "year": 2007,
-        "available": true
+        "available": true,
+        "coverImage": "assets/bogl_9780470893333_msr_cvi_r1-a7cd60c1.jpg"
       },
       {
         "title": "Lords of Finance",
         "slug": "lords-of-finance",
-        "href": "./books/lords-of-finance/index.html",
+        "href": "./books/lords-of-finance/index.md",
         "status": "epub_conversion",
         "author": "Liaquat Ahamed",
         "description": "A Pulitzer Prize-winning history of how the central bankers of the US, Great Britain, France, and Germany shaped the global financial collapse of the Great Depression.",
-        "tags": ["History", "Economics", "Banking"],
+        "tags": [
+          "History",
+          "Economics",
+          "Banking"
+        ],
         "coverBg": "linear-gradient(135deg, #1a2a6c, #f25278)",
         "year": 2009,
-        "available": true
+        "available": true,
+        "coverImage": "assets/aham_9781440697968_msr_cvi_r1-157459eb.jpg"
       },
       {
         "title": "Lying for Money",
         "slug": "lying-for-money",
-        "href": "./books/lying-for-money/index.html",
+        "href": "./books/lying-for-money/index.md",
         "status": "epub_conversion",
         "author": "Dan Davies",
         "description": "A deep dive into financial crime, demonstrating how fraud exploits trust, how different types of scams function, and what they reveal about the economy.",
-        "tags": ["History", "Crime", "Economics"],
+        "tags": [
+          "History",
+          "Crime",
+          "Economics"
+        ],
         "coverBg": "linear-gradient(135deg, #300c1e, #b83b5e)",
         "year": 2018,
-        "available": true
+        "available": true,
+        "coverImage": "assets/9781781259672-cef3619c.jpg"
       },
       {
         "title": "Material World",
         "slug": "material-world",
-        "href": "./books/material-world/index.html",
+        "href": "./books/material-world/index.md",
         "status": "epub_conversion",
         "author": "Ed Conway",
-        "description": "A journey through the raw materials that build civilization—sand, salt, iron, copper, oil, and lithium—exploring the supply chains and geology that run our world.",
-        "tags": ["Resources", "Commodities", "Economics"],
+        "description": "A journey through the raw materials that build civilization\u2014sand, salt, iron, copper, oil, and lithium\u2014exploring the supply chains and geology that run our world.",
+        "tags": [
+          "Resources",
+          "Commodities",
+          "Economics"
+        ],
         "coverBg": "linear-gradient(135deg, #5c258d, #4389a2)",
         "year": 2023,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover-official.jpg"
       },
       {
         "title": "The Money Culture",
         "slug": "the-money-culture",
-        "href": "./books/the-money-culture/index.html",
+        "href": "./books/the-money-culture/index.md",
         "status": "epub_conversion",
         "author": "Michael Lewis",
         "description": "A collection of essays documenting the greed, absurdities, and eccentric personalities of Wall Street and global financial centers in the late 1980s.",
-        "tags": ["History", "Investing", "Culture"],
+        "tags": [
+          "History",
+          "Investing",
+          "Culture"
+        ],
         "coverBg": "linear-gradient(135deg, #02aab0, #00cdac)",
         "year": 1991,
-        "available": true
+        "available": true,
+        "coverImage": "assets/Cover-85d62b80.jpg"
       },
       {
         "title": "The Next Millionaire Next Door",
         "slug": "the-next-millionaire-next-door",
-        "href": "./books/the-next-millionaire-next-door/index.html",
+        "href": "./books/the-next-millionaire-next-door/index.md",
         "status": "epub_conversion",
         "author": "Ph. J. D. Stanley",
         "description": "Updates the classic study of wealth in America, outlining the thrift, lifestyle choices, and wealth-building behaviors of self-made millionaires.",
-        "tags": ["Personal Finance", "Psychology", "Investing"],
+        "tags": [
+          "Personal Finance",
+          "Psychology",
+          "Investing"
+        ],
         "coverBg": "linear-gradient(135deg, #13547a, #80d0c7)",
         "year": 2018,
-        "available": true
+        "available": true,
+        "coverImage": "assets/frn_fig_001-1b014d48.jpg"
       },
       {
         "title": "The Next Perfect Trade",
         "slug": "the-next-perfect-trade",
-        "href": "./books/the-next-perfect-trade/index.html",
+        "href": "./books/the-next-perfect-trade/index.md",
         "status": "epub_conversion",
         "author": "Alex Gurevich",
         "description": "A former macro hedge fund manager outlines his framework for identifying high-probability macro trades, focusing on risk-reward asymmetry.",
-        "tags": ["Trading", "Macro", "Risk"],
+        "tags": [
+          "Trading",
+          "Macro",
+          "Risk"
+        ],
         "coverBg": "linear-gradient(135deg, #283c86, #45a247)",
         "year": 2015,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover-image-fd48cb93.jpg"
       },
       {
         "title": "One Up on Wall Street",
         "slug": "one-up-on-wall-street",
-        "href": "./books/one-up-on-wall-street/index.html",
+        "href": "./books/one-up-on-wall-street/index.md",
         "status": "epub_conversion",
         "author": "Peter Lynch",
         "description": "Explains how individual investors can discover multi-bagger stocks before Wall Street professionals do by simply observing everyday consumer trends.",
-        "tags": ["Investing", "Equities", "Classics"],
+        "tags": [
+          "Investing",
+          "Equities",
+          "Classics"
+        ],
         "coverBg": "linear-gradient(135deg, #3a7bd5, #3a6073)",
         "year": 1989,
-        "available": true
+        "available": true,
+        "coverImage": "assets/9781439126158_cover-56bf466e.jpg"
       },
       {
         "title": "Poor Charlie's Almanack",
         "slug": "poor-charlies-almanack",
-        "href": "./books/poor-charlies-almanack/index.html",
+        "href": "./books/poor-charlies-almanack/index.md",
         "status": "epub_conversion",
         "author": "Charles T. Munger",
         "description": "The collected wit, wisdom, speeches, and lectures of Charlie Munger, highlighting his 'latticework of mental models' approach to investing.",
-        "tags": ["Philosophy", "Investing", "Biography"],
+        "tags": [
+          "Philosophy",
+          "Investing",
+          "Biography"
+        ],
         "coverBg": "linear-gradient(135deg, #70281f, #f05a28)",
         "year": 2005,
-        "available": true
+        "available": true,
+        "coverImage": "assets/Cover-4abc607e.jpg"
       },
       {
         "title": "Quantitative Momentum",
         "slug": "quantitative-momentum",
-        "href": "./books/quantitative-momentum/index.html",
+        "href": "./books/quantitative-momentum/index.md",
         "status": "epub_conversion",
         "author": "Gray, Wesley R.,Vogel, Jack R.",
         "description": "A quantitative guide to momentum investing, explaining why buying high-performing assets works and how to build systematic momentum models.",
-        "tags": ["Investing", "Equities", "Quantitative"],
+        "tags": [
+          "Investing",
+          "Equities",
+          "Quantitative"
+        ],
         "coverBg": "linear-gradient(135deg, #2b3a42, #3f5866)",
         "year": 2016,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover_fmt-ea7aff66.jpg"
       },
       {
         "title": "Reminiscences of a Stock Operator",
         "slug": "reminiscences-of-a-stock-operator",
-        "href": "./books/reminiscences-of-a-stock-operator/index.html",
+        "href": "./books/reminiscences-of-a-stock-operator/index.md",
         "status": "epub_conversion",
-        "author": "Edwin Lefèvre",
+        "author": "Edwin Lef\u00e8vre",
         "description": "The thinly veiled biography of Jesse Livermore, one of the greatest stock and commodity traders of all time, packed with timeless trading wisdom.",
-        "tags": ["Trading", "History", "Classics"],
+        "tags": [
+          "Trading",
+          "History",
+          "Classics"
+        ],
         "coverBg": "linear-gradient(135deg, #23074d, #cc5333)",
         "year": 1923,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover-cc8a3016.jpeg"
       },
       {
         "title": "A Random Walk Down Wall Street",
         "slug": "a-random-walk-down-wall-street",
-        "href": "./books/a-random-walk-down-wall-street/index.html",
+        "href": "./books/a-random-walk-down-wall-street/index.md",
         "status": "epub_conversion",
         "author": "Burton G. Malkiel",
         "description": "The seminal book advocating for passive investing and explaining the Efficient Market Hypothesis, arguing that cheap index funds outperform active managers.",
-        "tags": ["Investing", "Economics", "Classics"],
+        "tags": [
+          "Investing",
+          "Economics",
+          "Classics"
+        ],
         "coverBg": "linear-gradient(135deg, #3e5151, #decba4)",
         "year": 1973,
-        "available": true
+        "available": true,
+        "coverImage": "assets/Cover-dcd843c7.jpg"
       },
       {
         "title": "Stock Market Wizards",
         "slug": "stock-market-wizards",
-        "href": "./books/stock-market-wizards/index.html",
+        "href": "./books/stock-market-wizards/index.md",
         "status": "epub_conversion",
         "author": "Jack D. Schwager",
         "description": "Interviews with top stock traders who achieved astronomical returns during the internet boom, analyzing their methodologies and mindsets.",
-        "tags": ["Trading", "Interviews", "Equities"],
+        "tags": [
+          "Trading",
+          "Interviews",
+          "Equities"
+        ],
         "coverBg": "linear-gradient(135deg, #141517, #3b4249)",
         "year": 2001,
-        "available": true
+        "available": true,
+        "coverImage": "assets/MSRCover-c82bba7c.png"
       },
       {
         "title": "Trading Like a Stock Market Wizard",
         "slug": "trading-like-a-stock-market-wizard",
-        "href": "./books/trading-like-a-stock-market-wizard/index.html",
+        "href": "./books/trading-like-a-stock-market-wizard/index.md",
         "status": "epub_conversion",
         "author": "Minervini, Mark",
         "description": "A detailed handbook outlining the SEPA (Specific Entry Point Analysis) method for buying explosive growth stocks while keeping risk strictly controlled.",
-        "tags": ["Trading", "Equities", "Strategy"],
+        "tags": [
+          "Trading",
+          "Equities",
+          "Strategy"
+        ],
         "coverBg": "linear-gradient(135deg, #1f4037, #99f2c8)",
         "year": 2013,
-        "available": true
+        "available": true,
+        "coverImage": "assets/calibre_cover-0a189624.jpg"
       },
       {
         "title": "The World for Sale",
         "slug": "the-world-for-sale",
-        "href": "./books/the-world-for-sale/index.html",
+        "href": "./books/the-world-for-sale/index.md",
         "status": "epub_conversion",
         "author": "Javier Blas and Jack Farchy",
         "description": "A gripping history of the commodity traders and firms that buy, sell, and transport the Earth's natural resources, influencing global geopolitics.",
-        "tags": ["Commodities", "History", "Economics"],
+        "tags": [
+          "Commodities",
+          "History",
+          "Economics"
+        ],
         "coverBg": "linear-gradient(135deg, #8a2387, #e94057)",
         "year": 2021,
-        "available": true
+        "available": true,
+        "coverImage": "assets/cover-2068746a.jpg"
       }
     ];
 
@@ -1723,92 +1943,29 @@
     let currentSortOrder = 'title-asc';
     let availableOnlyFilter = false;
 
-    // Vector emblem mappings based on tags
-    function getBookEmblem(slug, tags = []) {
-      // 1. Check for specific oil/gas covers
-      if (slug === 'oil101') {
-        return `
-          <svg class="book-emblem" width="50" height="50" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <rect x="15" y="40" width="70" height="50" rx="6" stroke="#818cf8" stroke-width="2.5" stroke-dasharray="3 3"/>
-            <path d="M50 15 L50 85 M20 55 L80 55 M25 70 L75 70" stroke="#818cf8" stroke-width="2"/>
-            <path d="M50 12 L43 25 H57 Z" fill="#818cf8"/>
-            <path d="M50 35 C58 35 64 45 64 55 C64 65 58 71 50 71 C42 71 36 65 36 55 C36 45 42 35 50 35 Z" fill="#1e1b4b" stroke="#3b82f6" stroke-width="3"/>
-            <circle cx="50" cy="55" r="8" fill="#3b82f6" fill-opacity="0.3"/>
-          </svg>
-        `;
+    function getCoverSrc(book) {
+      if (!book.coverImage) return null;
+      try {
+        return new URL(book.coverImage, new URL(`./books/${book.slug}/`, window.location.href)).href;
+      } catch {
+        return null;
       }
-      if (slug === 'natgas101') {
-        return `
-          <svg class="book-emblem" width="50" height="50" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <circle cx="50" cy="50" r="32" stroke="#0891b2" stroke-width="2.5" stroke-dasharray="4 4"/>
-            <circle cx="50" cy="50" r="22" stroke="#22d3ee" stroke-width="1.5" stroke-opacity="0.5"/>
-            <path d="M50 20 C42 32 40 45 40 54 C40 64 44 68 50 68 C56 68 60 64 60 54 C60 45 58 32 50 20 Z" fill="#083344" stroke="#06b6d4" stroke-width="3"/>
-            <path d="M50 35 C46 42 45 50 45 55 C45 61 47 63 50 63 C53 63 55 61 55 55 C55 50 54 42 50 35 Z" fill="#22d3ee" fill-opacity="0.3"/>
-            <line x1="20" y1="50" x2="80" y2="50" stroke="#06b6d4" stroke-width="2" stroke-linecap="round"/>
-          </svg>
-        `;
-      }
+    }
 
-      // Helper function to check tag existence
-      const hasTag = (t) => tags.some(tag => tag.toLowerCase() === t.toLowerCase());
-
-      // 2. Economics, Central Banking, Monetary Policy -> Bank Column Emblem
-      if (hasTag('economics') || hasTag('monetary policy') || hasTag('banking')) {
+    function renderCoverFace(book) {
+      const bg = book.coverBg || 'linear-gradient(135deg, #1e293b, #0f172a)';
+      const coverSrc = getCoverSrc(book);
+      if (coverSrc) {
         return `
-          <svg class="book-emblem" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-            <line x1="12" y1="1" x2="12" y2="23"></line>
-            <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path>
-          </svg>
-        `;
+                <div class="book-cover-face has-photo" style="background: ${bg}">
+                  <img class="book-cover-photo" src="${coverSrc}" alt="${book.title} cover" loading="lazy" decoding="async">
+                </div>`;
       }
-      
-      // 3. Investing, Equities, Fixed Income, REITs -> Stock Chart Emblem
-      if (hasTag('investing') || hasTag('equities') || hasTag('quantitative')) {
-        return `
-          <svg class="book-emblem" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-            <polyline points="22 7 13.5 15.5 8.5 10.5 2 17"></polyline>
-            <polyline points="16 7 22 7 22 13"></polyline>
-          </svg>
-        `;
-      }
-
-      // 4. Trading, Options -> Technical candlesticks / line chart
-      if (hasTag('trading') || hasTag('options')) {
-        return `
-          <svg class="book-emblem" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M3 3v18h18"></path>
-            <path d="M18.7 8l-5.1 5.2-2.8-2.7L7 14.3"></path>
-          </svg>
-        `;
-      }
-
-      // 5. Commodities, Resources -> Diamond/Grid emblem
-      if (hasTag('commodities') || hasTag('resources')) {
-        return `
-          <svg class="book-emblem" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-            <polygon points="12 2 22 8.5 22 15.5 12 22 2 15.5 2 8.5"></polygon>
-            <line x1="12" y1="2" x2="12" y2="22"></line>
-            <line x1="2" y1="8.5" x2="22" y2="8.5"></line>
-            <line x1="2" y1="15.5" x2="22" y2="15.5"></line>
-          </svg>
-        `;
-      }
-
-      // 6. Risk, Philosophy, Psychology -> Shield / Lock Emblem
-      if (hasTag('risk') || hasTag('philosophy') || hasTag('psychology')) {
-        return `
-          <svg class="book-emblem" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
-          </svg>
-        `;
-      }
-
-      // Default fallback -> Classic Star Emblem
       return `
-        <svg class="book-emblem" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-          <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
-        </svg>
-      `;
+                <div class="book-cover-face" style="background: ${bg}">
+                  <div class="book-title-on-cover">${book.title}</div>
+                  <div class="book-author-on-cover">${book.author}</div>
+                </div>`;
     }
 
     // Determine custom glow class based on book content
@@ -1896,7 +2053,6 @@
       // Generate book cards HTML
       filteredBooks.forEach(book => {
         const glowClass = getCardGlowClass(book);
-        const coverGraphic = getBookEmblem(book.slug, book.tags);
         const cardClass = `card ${glowClass} ${book.available ? '' : 'unavailable'}`;
         
         const cardHtml = `
@@ -1905,11 +2061,7 @@
               <!-- 3D Book Cover -->
               <div class="virtual-book">
                 <div class="book-spine"></div>
-                <div class="book-cover-face" style="background: ${book.coverBg || 'linear-gradient(135deg, #1e293b, #0f172a)'}">
-                  ${coverGraphic}
-                  <div class="book-title-on-cover">${book.title}</div>
-                  <div class="book-author-on-cover">${book.author}</div>
-                </div>
+                ${renderCoverFace(book)}
               </div>
               
               <!-- Hover Action Overlay / Badges -->
@@ -1925,7 +2077,7 @@
                 <div class="card-status-badge">Cataloged</div>
               `}
 
-              ${book.slug === 'oil101' ? `<div class="card-new-badge">New: 2.0</div>` : ''}
+              ${book.badge ? `<div class="card-new-badge">${book.badge}</div>` : ''}
             </div>
             
             <!-- Card Body Content -->

@@ -1,10 +1,10 @@
-"""Convert a local AZW3 (Kindle KF8) file into one published, single-page HTML file.
+"""Convert a local AZW3 (Kindle KF8) file into one published markdown book file.
 
 AZW3 is Amazon's proprietary container. It cannot be parsed directly with the
 same zipfile/E-PUB toolchain used by ``convert_epub.py``, so this script front-ends
 the conversion with Calibre's ``ebook-convert`` CLI to transcode AZW3 -> EPUB into
 a temporary directory, then reuses :func:`convert_epub.convert_epub` to compile the
-final standalone ``index.html`` exactly like any other EPUB.
+final standalone ``index.md`` exactly like any other EPUB.
 
 This converter is for files that the repository owner has rights to convert and
 publish in this personal reading-library repository. It does not bypass DRM; if
@@ -81,7 +81,7 @@ def convert_azw3(
     creator: str | None = None,
     keep_epub: Path | None = None,
 ) -> Path:
-    """Convert an AZW3 (or MOBI/AZW) source into a published single-page HTML book.
+    """Convert an AZW3 (or MOBI/AZW) source into a published markdown book.
 
     Parameters mirror :func:`convert_epub.convert_epub`. The intermediate EPUB is
     written to a temp dir and discarded unless ``keep_epub`` is given.
@@ -101,18 +101,18 @@ def convert_azw3(
             shutil.copy2(intermediate_epub, keep_epub)
             print(f"      Intermediate EPUB kept at: {keep_epub}", file=sys.stderr)
 
-        print("[2/2] Compiling EPUB -> single-page HTML...", file=sys.stderr)
-        html_path = convert_epub(
+        print("[2/2] Compiling EPUB -> markdown...", file=sys.stderr)
+        md_path = convert_epub(
             intermediate_epub, output_root, slug, title_override=title, creator_override=creator
         )
-        return html_path
+        return md_path
     finally:
         shutil.rmtree(tmp_dir, ignore_errors=True)
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Convert a local AZW3/MOBI/AZW ebook to published single-page HTML.",
+        description="Convert a local AZW3/MOBI/AZW ebook to published markdown.",
         epilog="Requires Calibre (ebook-convert) to be installed.",
     )
     parser.add_argument(
@@ -137,7 +137,7 @@ def main() -> int:
     )
     args = parser.parse_args()
 
-    html_path = convert_azw3(
+    md_path = convert_azw3(
         args.source,
         args.output_root,
         args.slug,
@@ -145,7 +145,7 @@ def main() -> int:
         args.creator,
         args.keep_epub,
     )
-    print(html_path)
+    print(md_path)
     return 0
 
 
